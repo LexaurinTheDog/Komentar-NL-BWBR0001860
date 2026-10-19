@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-19",
+  "scope": "Selectief bronnenonderzoek voor het tot artikel 212 geschreven manuscriptgedeelte; geen uitputtende jurisprudentierecherche.",
+  "operations": [
+    {"source": "lokale nationale corpus /Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr", "method": "rg -l", "queries": ["faillissement|Faillissementswet", "steunvordering|pluraliteitsvereiste|Koot Beheer|Credit Suisse|ING/Bera|Van Dooren|ABN AMRO.*Berzona"], "disposition": "Twee inhoudelijk relevante arresten geselecteerd en volledig gelezen; overige zoektreffers niet als autoriteit gebruikt."},
+    {"source": "data.rechtspraak.nl", "method": "rechtstreekse volledige content-API", "queries": ["ECLI:NL:HR:2018:774", "ECLI:NL:HR:2013:BY6108"], "disposition": "Beide XML-responses HTTP 200, root open-rechtspraak; metadata en eigen uitspraaktekst gecontroleerd, ruwe snapshots bewaard."},
+    {"source": "officiële websites via web search", "queries": ["site.officielebekendmakingen.nl Faillissementswet 2026 oktober", "site.wetten.overheid.nl BWBR0001860 2026-09-01"], "disposition": "Oriënterend; zoekresultaten niet gebruikt als bewijs van wetsinhoud. Geldigheid bevestigd door officiële informatiepagina en WTI."},
+    {"source": "wetten.overheid.nl en officiële BWB-repository", "method": "curl en Firecrawl", "queries": ["BWBR0001860/2026-10-19", "BWBR0001860/2026-09-01/informatie", "BWBR0001860.WTI"], "disposition": "Geldigheid vanaf 01-09-2026 tot heden expliciet bevestigd op informatiepagina geraadpleegd op 19-10-2026. Toekomstige en ongedateerde wijzigingen niet als geldend geconsolideerd."}
+  ],
+  "negative_and_limits": "Geen afzonderlijke uitspraak voor iedere technische of vervallen artikelplaats gezocht of geclaimd. Voor de overige geschreven eenheden berust de toelichting primair op de gecontroleerde wettekst en interne samenhang. Ontbrekende rechtspraakdekking is niet gelijk aan het niet-bestaan van rechtspraak. Niet geschreven bijzondere financiële regimes, surseance, WSNP en WHOA hebben in deze checkpoint geen afgerond rechtspraakonderzoek."
+}

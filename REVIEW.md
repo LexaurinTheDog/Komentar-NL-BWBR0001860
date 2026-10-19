@@ -1,0 +1,13 @@
+# Eigen controle en open reviewpoort
+
+Dit is een verslag van eigen redactionele en technische controle, **geen onafhankelijke tweede lezing** en geen verklaring van externe professionele goedkeuring.
+
+De volledige bronstructuur is gecontroleerd via `_coverage.py`: 639 officiële artikelplaatsen, geen ontbrekende of dubbele identificaties, geen verschil in de wettelijke tekenreeks buiten witruimte, 57 vervallen plaatsen en geen bijlagen. De artikelteksten van intake en opgehaalde toestand komen overeen. De 2002-respons en foutresponses zijn als huidige bron afgewezen. De geldigheid op 19 oktober 2026 is expliciet aan de officiële informatiepagina getoetst; toekomstige wijzigingen zijn uitgesloten.
+
+De geschreven toelichting loopt van artikel 1 tot en met 212. Er zijn 266 eenheden geschreven. De 373 overige eenheden vanaf artikel 212a zijn niet toegelicht. Zij blijven volledig in `units.jsonl` en het dekkingsbewijs aanwezig. Deze checkpoint bouwt alleen de complete twintig leeshoofdstukken en bevat geen lege vervangteksten voor de overige hoofdstukken. De volledige gedeelde builder en validator slagen daarom niet. Deze beperking is inhoudelijk wezenlijk en kan niet door een andere minimumlengte of een smallere eenhedenlijst worden opgelost.
+
+Eigen aandachtspunten bij het schrijven waren de verschillende rechtsmiddelen voor schuldenaar en andere crediteuren, samenloop met sanering en herstructurering, boedelschuld versus oude contractschuld, verlies van voorrang bij stemmen, informatieplicht versus nieuwe gegevensverwerkingsgrondslag en de onderscheiden termijnen bij arbeidsopzegging. De dubbele kennisgevingstekst van artikel 183 is niet weggepoetst. Artikel 192 is in samenhang met artikel 187 en reservering uitgelegd; de verhouding verdient bij de onafhankelijke lezing expliciete aandacht.
+
+Twee volledige Hoge Raad-arresten zijn gebruikt, met snapshots en kaarten. De lokale versie van het arrest uit 2018 mist de partijcaption; de rechtstreeks opgehaalde XML is volledig en de gebruikte eigen rechterlijke motivering stemt overeen. De 2013-uitspraak stemt na witruimtenormalisatie geheel met het corpus overeen. Niet zelfstandig gelezen verwijzingen in die arresten zijn niet als eigen geverifieerde autoriteiten overgenomen.
+
+De automatische kwaliteitscontrole zoekt ontbrekende commentaren, exacte herhaalde alinea's en defecte lokale links. Deze controles bewijzen geen juridische juistheid. Voor voltooiing zijn nog inhoudelijke redactie van de ontbrekende 373 eenheden, passend verder rechtspraakonderzoek, een volledige succesvolle build en strikte validatie en daarna een verse onafhankelijke inhoudelijke controle nodig. Geen eenheid wordt als onafhankelijk beoordeeld geregistreerd.

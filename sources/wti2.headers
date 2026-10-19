@@ -1,0 +1,10 @@
+HTTP/2 200 
+server: nginx
+date: Mon, 19 Oct 2026 18:12:49 GMT
+content-type: application/xml
+content-length: 5581608
+last-modified: Wed, 07 Oct 2026 02:46:25 GMT
+etag: "6ac5b281-552b28"
+access-control-allow-origin: *
+accept-ranges: bytes
+

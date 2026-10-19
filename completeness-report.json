@@ -1,0 +1,546 @@
+{
+  "source_sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+  "expected_count": 639,
+  "parsed_count": 639,
+  "missing": [],
+  "extra": [],
+  "duplicates": [],
+  "order_equal": true,
+  "raw_xml_token_mismatch": [],
+  "repealed_slots": [
+    {
+      "id": "art-33a",
+      "effective_from": "1978-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-62",
+      "effective_from": "2003-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-89",
+      "effective_from": "2002-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-118",
+      "effective_from": "1977-05-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-135",
+      "effective_from": "1992-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-186",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-191",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-198",
+      "effective_from": "2003-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-199",
+      "effective_from": "2003-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-200",
+      "effective_from": "2003-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-201",
+      "effective_from": "2003-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-202",
+      "effective_from": "2003-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212f",
+      "effective_from": "2008-05-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212hc",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212hj",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212hk",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212hl",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212hm",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212hn",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212ho",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212hp",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212hq",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212hr",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212m",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212ma",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-212nna",
+      "effective_from": "2026-03-25",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213ac",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213ad",
+      "effective_from": "2024-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213ai",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213aj",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213ak",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213al",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213am",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213an",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213ao",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213ap",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213aq",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213e",
+      "effective_from": "2024-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213f",
+      "effective_from": "2019-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-213h",
+      "effective_from": "2024-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-250a",
+      "effective_from": "2007-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-270",
+      "effective_from": "2023-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-295a",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-298",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-309",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-326",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-331",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-333",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-334",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-336",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-341",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-342",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-343",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-344",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-345",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-346",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    },
+    {
+      "id": "art-357",
+      "effective_from": "2008-01-01",
+      "text": "Vervallen"
+    }
+  ],
+  "structural_headings": [
+    {
+      "tag": "titeldeel",
+      "path": "/TiteldeelI"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/AfdelingEerste"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/AfdelingTweede"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/AfdelingDerde"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/TiteldeelI/AfdelingDerde/Paragraaf1"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/TiteldeelI/AfdelingDerde/Paragraaf2"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/TiteldeelI/AfdelingDerde/Paragraaf3"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/TiteldeelI/AfdelingDerde/Paragraaf4"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/TiteldeelI/AfdelingDerde/Paragraaf5"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/AfdelingVierde"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/AfdelingVijfde"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/AfdelingA"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/TiteldeelI/AfdelingA/Paragraaf"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/AfdelingZesde"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/AfdelingZevende"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/AfdelingAchtste"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/AfdelingNegende"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/AfdelingTiende"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/AfdelingElfde"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/Afdeling11A"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/Afdeling11AA"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/TiteldeelI/Afdeling11AA/Paragraaf1"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/TiteldeelI/Afdeling11AA/Paragraaf2"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/Afdeling11AB"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/Afdeling11B"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/TiteldeelI/Afdeling11B/Paragraaf1"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/TiteldeelI/Afdeling11B/Paragraaf2"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/TiteldeelI/Afdeling11B/Paragraaf3"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/TiteldeelI/Afdeling11B/Paragraaf4"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelI/Afdeling11C"
+    },
+    {
+      "tag": "titeldeel",
+      "path": "/TiteldeelII"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelII/AfdelingEerste"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelII/AfdelingTweede"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelII/AfdelingA"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelII/AfdelingB"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelII/AfdelingDerde"
+    },
+    {
+      "tag": "titeldeel",
+      "path": "/TiteldeelIII"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelIII/AfdelingEerste"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelIII/AfdelingTweede"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelIII/AfdelingDerde"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelIII/AfdelingVierde"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelIII/AfdelingVijfde"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelIII/AfdelingZesde"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelIII/AfdelingZevende"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelIII/AfdelingAchtste"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelIII/AfdelingNegende"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelIII/AfdelingTiende"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/TiteldeelIII/Afdeling"
+    },
+    {
+      "tag": "afdeling",
+      "path": "/AfdelingTweede"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/AfdelingTweede/Paragraaf1"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/AfdelingTweede/Paragraaf2"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/AfdelingTweede/Paragraaf3"
+    },
+    {
+      "tag": "paragraaf",
+      "path": "/AfdelingTweede/Paragraaf4"
+    }
+  ],
+  "non_article_text": {
+    "aanhef": "preserved in sources/canonical.md, constitutional promulgation and consideration, discussed in introduction",
+    "wetsluiting": "preserved in sources/canonical.md, promulgation/signature, no separate operative numbered rule"
+  },
+  "editorial_notes": 460,
+  "footnote_elements": 0,
+  "annexes": [
+    {
+      "status": "verified_absence",
+      "method": "Full XML element enumeration: no bijlage or annex elements; all direct wettekst children inventoried.",
+      "direct_wettekst_children": [
+        {
+          "tag": "titeldeel",
+          "official_path": "/TiteldeelI",
+          "articles": 419
+        },
+        {
+          "tag": "titeldeel",
+          "official_path": "/TiteldeelII",
+          "articles": 103
+        },
+        {
+          "tag": "titeldeel",
+          "official_path": "/TiteldeelIII",
+          "articles": 98
+        },
+        {
+          "tag": "afdeling",
+          "official_path": "/AfdelingTweede",
+          "articles": 19
+        }
+      ]
+    }
+  ],
+  "ok": true
+}

@@ -1,0 +1,10 @@
+{
+  "intake_sha256": "92cc30ab97551cd6f82f34c040aead6eb5f4f90b7377518f862196d5e7dd13a7",
+  "official_xml_sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+  "intake_article_count": 639,
+  "verified_article_count": 639,
+  "missing_intake_ids": [],
+  "absent_from_verified": [],
+  "same_after_whitespace_normalization": 639,
+  "representation_differences": []
+}

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2013:BY6108</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-19T10:11:41</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-06-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">BY6108</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2013-04-19</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">12/00081</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2012:BY6108" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#contrair">Conclusie: ECLI:NL:PHR:2012:BY6108, Contrair</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2013/957</rdf:li>
+          <rdf:li>RvdW 2013/591</rdf:li>
+          <rdf:li>NJ 2013/291 met annotatie van F.M.J. Verstijlen</rdf:li>
+          <rdf:li>RI 2013/67</rdf:li>
+          <rdf:li>WR 2013/66 met annotatie van mr. J.K. Six-Hummel</rdf:li>
+          <rdf:li>RVR 2013/69</rdf:li>
+          <rdf:li>Ondernemingsrecht 2014/29 met annotatie van R.J. van Galen</rdf:li>
+          <rdf:li>JWB 2013/223</rdf:li>
+          <rdf:li>JOR 2013/224 met annotatie van mr. G.A.J. Boekraad</rdf:li>
+          <rdf:li>JHV 2013/97 met annotatie van mr. Ferment</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2013:BY6108">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2013:BY6108</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-06-27T11:53:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2013:BY6108 Hoge Raad , 19-04-2013 / 12/00081</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2013:BY6108:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <para>Schadevordering verhuurder na opzegging bedrijfsruimtehuur door curator van failliete huurder, opleveringsverplichting, art. 7:224 BW. Niet-nakoming wederkerige overeenkomst na faillissement,  bevoegdheid curator, art. 37 Fw, concurrente vordering, art. 37a Fw, paritas-beginsel. Uitzonderingen, huurpenningen na faillissement, onbevoegde opzegging of handelen in strijd met door curator na te leven verbintenis, Hoge  Raad komt terug van ‘toedoencriterium’ (HR 28 september 1990, LJN AD1243, NJ 1991/305). Ontruimingsverplichting als boedelschuld (HR 9 juni 2006, LJN AV9234, NJ 2007/21) , art. 39 Fw.</para>
+        </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2013:BY6108:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <parablock>
+            <para>19 april 2013</para>
+            <para>Eerste Kamer</para>
+            <para>12/00081</para>
+            <para>DV/EE</para>
+          </parablock>
+          <para />
+          <para>Hoge Raad der Nederlanden</para>
+          <para />
+          <para>Arrest</para>
+          <para />
+          <para>in de zaak van:</para>
+          <para />
+          <parablock>
+            <para>[Eiseres],</para>
+            <para>gevestigd te [vestigingsplaats],</para>
+            <para>EISERES tot cassatie,</para>
+            <para>advocaat: mr. F.M.L. Dekkers,</para>
+          </parablock>
+          <para />
+          <para>t e g e n</para>
+          <para />
+          <parablock>
+            <para>Bruno Joannes TIDEMAN, </para>
+            <para>kantoorhoudende te 's-Gravenhage,</para>
+            <para>handelend in zijn hoedanigheid van curator van [A] B.V., </para>
+            <para>voorheen gevestigd te [vestigingsplaats],</para>
+            <para>VERWEERDER in cassatie,</para>
+            <para>advocaat: mr. P.P. Hart.</para>
+          </parablock>
+          <para />
+          <para>Partijen zullen hierna ook worden aangeduid als [eiseres] en de curator.</para>
+          <para />
+          <para>1. Het geding in feitelijke instantie</para>
+          <para />
+          <parablock>
+            <para>Voor het verloop van het geding in feitelijke instantie verwijst de Hoge Raad naar het vonnis in de zaak 1081633/11-5167 van de kantonrechter te Leiden van 23 november 2011.</para>
+            <para>Het vonnis van de kantonrechter is aan dit arrest gehecht.</para>
+          </parablock>
+          <para />
+          <para>2. Het geding in cassatie</para>
+          <para />
+          <parablock>
+            <para>Tegen het vonnis van de kantonrechter heeft [eiseres] sprongcassatie ingesteld. De cassatiedagvaarding is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+            <para>De curator heeft geconcludeerd tot verwerping van het beroep.</para>
+            <para>De zaak is voor de curator toegelicht door zijn advocaat.</para>
+            <para>De conclusie van de Advocaat-Generaal M.H. Wissink strekt tot vernietiging.</para>
+            <para>De advocaat van de curator heeft bij brief van 19 december 2012 op die conclusie gereageerd.</para>
+          </parablock>
+          <para />
+          <para>3. Beoordeling van de middelen</para>
+          <para />
+          <parablock>
+            <para>3.1 In cassatie kan van het volgende worden uitgegaan.</para>
+            <para>(i) [Eiseres] heeft met ingang van 1 maart 2009 een bedrijfsruimte in [plaats] verhuurd aan (de rechtsvoorganger van) [A] B.V. (hierna: de B.V.).</para>
+            <para>(ii) Bij vonnis van 26 oktober 2010 is de B.V. door de rechtbank Den Haag failliet verklaard. De curator heeft de huurovereenkomst opgezegd, waardoor deze is geëindigd per 31 januari 2011. Het gehuurde is per die datum ontruimd en leeg opgeleverd.</para>
+            <para>(iii) Bij de oplevering is gebleken dat er schade is aan de buitengevel en deuren van het pand van de bedrijfsruimte tot een bedrag van € 24.000,--.</para>
+          </parablock>
+          <para />
+          <parablock>
+            <para>3.2 [Eiseres] vordert in deze procedure betaling van de curator van dit bedrag van € 24.000,-- als boedelschuld. Volgens [eiseres] heeft de B.V. de schade veroorzaakt en gaat het om opleveringsschade, die dient te worden vergoed op grond van art. 7:224 BW en de algemene bepalingen van de huurovereenkomst met betrekking tot de oplevering. De in die bepalingen geregelde verplichting tot correcte oplevering van het gehuurde is in dit geval een boedelschuld, omdat deze verplichting is ontstaan door toedoen van de curator, namelijk door de opzegging van de huurovereenkomst.</para>
+            <para>De curator heeft aangevoerd dat de verplichting om de schade te herstellen niet voortvloeit uit de opleveringsverplichting, maar uit de algemene bepalingen van de huurovereenkomst, die verplichten tot herstel van die schade tijdens de looptijd van de huur, en uit de wettelijke bepalingen omtrent huur. [eiseres] moet de vordering dus indienen als concurrente vordering.</para>
+          </parablock>
+          <para />
+          <para>3.3 De kantonrechter heeft de vordering afgewezen op de grond dat ingevolge de algemene bepalingen van de huurovereenkomst de schade al tijdens de looptijd van de huur voor rekening kwam van de B.V., en dat het daarom geen schade betreft die naar haar aard pas na het beëindigen van de huurovereenkomst moet worden vergoed. De verplichting tot herstel van de schade bestond al voor de opzegging, aldus de kantonrechter.</para>
+          <para />
+          <para>3.4 De middelen bestrijden het oordeel van de kantonrechter in de eerste plaats met een betoog dat erop neerkomt dat de vordering van [eiseres] voortvloeit uit de opleveringsverplichting en daarom een boedelschuld is, omdat de opleveringsverplichting is ontstaan door toedoen van de curator, namelijk door diens opzegging van de huurovereenkomst. Hieraan doet volgens de middelen niet af dat ook ingevolge de algemene bepalingen van de huurovereenkomst een verplichting tot herstel van de schade bestaat.</para>
+          <para />
+          <para>3.5 Dit betoog is ongegrond. Dat de schadevergoedingsvordering van de verhuurder in een geval zoals hier aan de orde een boedelschuld oplevert, is (a) niet te verenigen met de regels die de Faillissementswet in art. 37 e.v. kent met betrekking tot wederkerige overeenkomsten, en komt (b) in strijd met hetgeen uit die wet volgt omtrent het ontstaan van boedelschulden. Dit wordt hierna uitgewerkt in 3.6 respectievelijk 3.7.</para>
+          <para />
+          <parablock>
+            <para>3.6.1 Voor wederkerige overeenkomsten die ten tijde van de faillietverklaring nog niet of niet geheel zijn nagekomen - waaronder begrepen de op dat tijdstip lopende duurovereenkomsten -, gaat de Faillissementswet uit van het volgende stelsel. Op zichzelf brengt het faillissement geen wijziging in de verbintenissen die voortvloeien uit een overeenkomst (Van der Feltz I, p. 409). De curator heeft echter, zoals blijkt uit art. 37 lid 1 Fw, de mogelijkheid om overeenkomsten niet gestand te doen en dus de daaruit voortvloeiende verbintenissen niet na te komen (vgl. HR 3 november 2006, LJN AX8838, NJ 2007/155). Die verbintenissen leveren in het faillissement een concurrente vordering op die, indien het geen geldvordering betreft, overeenkomstig art. 133 Fw voor de geschatte waarde kan worden ingediend (Van der Feltz I, p. 388-389). Indien de curator de overeenkomst niet gestand doet, kan de wederpartij deze ook ontbinden, na de weg van art. 37 lid 1 Fw te hebben gevolgd, en heeft zij daarnaast wegens het tekortschieten in de nakoming van de overeenkomst een concurrente vordering op grond van art. 37a Fw.</para>
+            <para>Ingeval de curator in verband met het belang van de boedel besluit de overeenkomst niet gestand te doen, resteert voor de wederpartij dus steeds - behoudens door de wet erkende redenen van voorrang - een concurrente vordering. Dit is in overeenstemming met het beginsel van de gelijkheid van schuldeisers dat aan de Faillissementswet ten grondslag ligt.</para>
+          </parablock>
+          <para />
+          <parablock>
+            <para>3.6.2 Indien de gefailleerde ten tijde van de faillietverklaring huurder of werkgever is, zijn de huur, het loon en de premieschulden op grond van art. 39 en 40 Fw vanaf de dag van de faillietverklaring boedelschuld, zulks in afwijking van de hiervoor in 3.6.1 vermelde hoofdregel. Het gaat hier om een uitzondering om redenen van billijkheid (Van der Feltz I , p. 419, 420 en 428). Deze uitzondering brengt mee dat de curator die in het belang van de boedel geen verdere uitvoering aan de lopende huur- of arbeidsovereenkomst wenst te geven, deze overeenkomst dient op te zeggen teneinde te voorkomen dat de boedelschuld ter zake van de daaruit voortvloeiende huur, loon of premieschulden oploopt. Art. 39 en 40 Fw verklaren hem tot deze opzegging bevoegd, mits hij daarbij de in die artikelen genoemde termijnen in acht neemt. Door die opzegging ontstaat (dus) geen schadeplichtigheid (Van der Feltz I, p. 423, en HR 14 januari 2011, LJN BO3534, NJ 2011/114).</para>
+            <para>Indien de curator besluit de huur- of arbeidsovereenkomst te beëindigen, is derhalve slechts sprake van een boedelvordering met betrekking tot de huur, het loon of de premieschulden die verschuldigd zijn gedurende een beperkte periode na de faillietverklaring.</para>
+          </parablock>
+          <para />
+          <para>3.6.3 In het hiervoor in 3.6.1 en 3.6.2 weergegeven stelsel van de Faillissementswet past niet dat, indien de curator in het belang van de boedel de huur beëindigt, de schadevergoedingsverplichting die in verband met de huurbeëindiging ontstaat, een boedelschuld is op de enkele grond dat zij is ontstaan als gevolg van een rechtshandeling - en dus door toedoen - van de curator. Daarmee zou immers een uitzondering worden gemaakt op de hoofdregel dat indien de curator in het belang van de boedel geen uitvoering geeft aan een door de gefailleerde voor de faillietverklaring aangegane overeenkomst, slechts een concurrente vordering voor de wederpartij resteert, en op het aan die regel ten grondslag liggende beginsel van de gelijkheid van schuldeisers. Voor die uitzondering valt in de Faillissementswet geen rechtvaardiging of grond te vinden. Van een boedelschuld is daarom geen sprake.</para>
+          <para />
+          <para>3.7.1 Deze uitkomst strookt ook met hetgeen volgt uit de Faillissementswet met betrekking tot boedelschulden. Op grond van die wet zijn boedelschulden slechts die schulden die een onmiddellijke aanspraak geven jegens de faillissementsboedel hetzij ingevolge de wet, hetzij omdat zij door de curator in zijn hoedanigheid zijn aangegaan, hetzij omdat zij een gevolg zijn van een handelen van de curator in strijd met een door hem in zijn hoedanigheid na te leven verbintenis of verplichting. Onder het aangaan van een schuld door de curator in deze zin is te verstaan dat de curator deze schuld op zich neemt bij een rechtshandeling, doordat zijn wil daarop is gericht (art. 3:33 en 35 BW). </para>
+          <para />
+          <para>3.7.2 Vorderingen die een boedelschuld opleveren, moeten worden onderscheiden van vorderingen op de schuldenaar, met het oog op de voldoening waarvan de vereffening van de boedel plaatsvindt. Vorderingen die voortvloeien uit een reeds ten tijde van de faillietverklaring bestaande rechtsverhouding met de schuldenaar en die geen boedelschuld opleveren op een van de hiervoor in 3.7.1 vermelde gronden, behoren tot bedoelde vorderingen op de schuldenaar, ook als ze pas tijdens het faillissement ontstaan, zoals onder meer blijkt uit art. 37 en 37a Fw en de op art. 37 Fw gegeven toelichting (Van der Feltz I, p. 409). </para>
+          <para />
+          <para>3.7.3 Opmerking verdient dat uit het hiervoor in 3.6.1 vermelde uitgangspunt van de Faillissementswet dat het faillissement geen invloed heeft op wederkerige overeenkomsten, volgt dat de curator niet bevoegd is om overeenkomsten op te zeggen, tenzij de wet of de overeenkomst hem (of de schuldenaar) daartoe bevoegd maakt. Zegt de curator onbevoegd een overeenkomst op, dan is de verplichting tot vergoeding van de daaruit voortvloeiende schade een boedelschuld, omdat hij dan in strijd handelt met een door hem na te leven verbintenis. Daarmee valt op een lijn te stellen het geval dat de curator wel bevoegd is tot opzegging van een overeenkomst, maar alleen tegen betaling van een schadevergoeding of schadeloosstelling in verband met die beëindiging.</para>
+          <para />
+          <para>3.7.4 De in deze zaak aan de orde zijnde verplichting om op grond van de bepalingen van de huurovereenkomst dan wel art. 7:224 BW de schade aan het gehuurde bij het einde van de huur te herstellen dan wel te vergoeden, is een uit de huurovereenkomst voortvloeiende verbintenis van de schuldenaar, die bij het einde van de huur ontstaat of opeisbaar wordt. Die verbintenis is geen boedelschuld, maar een vordering op de schuldenaar (in de hiervoor in 3.7.2 genoemde zin), nu daarbij niet wordt voldaan aan de hiervoor in 3.7.1 genoemde voorwaarden voor het ontstaan van een boedelschuld. Dat is slechts anders indien de schade is ontstaan door een handelen van de curator, welk geval zich hier blijkens de stellingen van partijen niet voordoet.</para>
+          <para />
+          <parablock>
+            <para>3.8 Zoals uit het vorenstaande volgt, komt de Hoge Raad terug van het 'toedoencriterium' dat is geformuleerd in HR 28 september 1990, LJN AD1243, NJ 1991/305 (De Ranitz q.q./Ontvanger), HR 12 november 1993, LJN ZC1136, NJ 1994/229 (Frima q.q./Blankers-Van Gennip) en HR 18 juni 2004, LJN AN8170, NJ 2004/617 (Circle Plastics), zulks mede naar aanleiding van de in de conclusie van de Advocaat-Generaal genoemde kritiek die in de literatuur op dat criterium is geuit. </para>
+            <para>Opmerking verdient dat dit niet betekent dat in een geval als aan de orde was in laatstgenoemd arrest, de  ontruimingsverplichting na de beëindiging van de huur geen boedelschuld kan zijn. Zoals volgt uit HR 9 juni 2006, LJN AV9234, NJ 2007/21 (rov. 3.5.2), kan de gewezen verhuurder uit hoofde van zijn recht op het gehuurde verlangen dat de curator de tot de boedel behorende zaken uit het gehuurde verwijdert. Deze verplichting rust op de curator in zijn hoedanigheid en is derhalve een boedelschuld.</para>
+          </parablock>
+          <para />
+          <para>3.9 Gelet op het hiervoor overwogene heeft [eiseres] bij de overige klachten van de middelen geen belang, nu de gegrondbevinding daarvan niet tot een andere beslissing kan leiden.</para>
+          <para />
+          <para>4. Beslissing</para>
+          <para />
+          <parablock>
+            <para>De Hoge Raad:</para>
+            <para>verwerpt het beroep;</para>
+            <para>veroordeelt [eiseres] in de kosten van het geding in cassatie, tot op deze uitspraak aan de zijde van de curator begroot op € 781,34 aan verschotten en € 2.200,-- voor salaris.</para>
+          </parablock>
+          <para />
+          <para>Dit arrest is gewezen door de vice-president F.B. Bakels als de voorzitter en de raadsheren A.M.J. van Buchem-Spapens, C.A. Streefkerk, G. Snijders en M.V. Polak en in het openbaar uitgesproken door de raadsheer M.A. Loth op 19 april 2013.</para>
+        </uitspraak>
+</open-rechtspraak>
