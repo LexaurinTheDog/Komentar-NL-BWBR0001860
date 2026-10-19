@@ -1,6 +1,6 @@
 {
-  "created_at_utc": "2026-10-19T18:41:47.778226+00:00",
-  "scope": "All preserved source-response bodies, headers, canonical text and source audit evidence; rights remain according to origin.",
+  "created_at_utc": "2026-10-19T18:45:57.492770+00:00",
+  "scope": "All preserved source evidence; no new rights claim over official material.",
   "files": [
     {
       "path": "sources/author-date-xml.headers",
@@ -110,7 +110,7 @@
     {
       "path": "sources/verification.json",
       "bytes": 6956,
-      "sha256": "58df952f7767fd32adda03e9b61d525143f71527bdc3536e6f5bac674aed0922"
+      "sha256": "669a93d995848ed44788e0cb60a7c631584393326d63876e3783cd33dff401c5"
     },
     {
       "path": "sources/version-index.headers",

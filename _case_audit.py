@@ -17,5 +17,9 @@ for key in ['2018-774','2013-BY6108']:
  # The corpus is read as the full decision. Compare to official paragraph text.
  a=normal(old);b=normal(body)
  audit.append({'ecli':ecli,'url':'https://data.rechtspraak.nl/uitspraken/content?id='+ecli,'raw_path':str(p.relative_to(W)),'http_status':200,'headers_path':f'sources/case-{key}.headers','access_timestamp_utc':datetime.datetime.fromtimestamp(p.stat().st_mtime,datetime.timezone.utc).isoformat(),'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'xml_root':r.tag,'full_uitspraak_chars':len(body),'local_corpus_path':str(local),'local_snapshot_path':f'sources/case-{key}-local.md','local_sha256':hashlib.sha256(local.read_bytes()).hexdigest(),'full_decision_text_equal_after_whitespace_normalization':a==b,'accepted':True,'comparison_limit':'The local 2018 decision omits the party caption; official XML is retained in full and controls. Local 2013 text matches after whitespace normalization.'})
+for item in audit:
+ if item['ecli']=='ECLI:NL:HR:2018:774':
+  l=re.sub(r'\s+','',(W/item['local_snapshot_path']).read_text().split('## Uitspraak\n',1)[1]);o=re.sub(r'\s+','',(S/'case-2018-774.txt').read_text())
+  item['cited_court_reasoning_3_3_1_to_decision_equal']=l[l.index('3.3.1'):l.index('4Beslissing')]==o[o.index('3.3.1'):o.index('4Beslissing')]
 (S/'case-verification.json').write_text(json.dumps(audit,ensure_ascii=False,indent=2)+'\n')
 print([(x['ecli'],x['full_uitspraak_chars'],x['full_decision_text_equal_after_whitespace_normalization']) for x in audit])

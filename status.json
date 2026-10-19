@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-19T18:42:39.330352+00:00",
+  "updated_at_utc": "2026-10-19T18:45:57.492408+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -22,44 +22,13 @@
     "completeness_ok": true
   },
   "total_units": 639,
-  "completed_units": 266,
-  "commentary_characters": 282260,
-  "complete_chapters": 20,
+  "completed_units": 297,
+  "commentary_characters": 311121,
+  "complete_chapters": 22,
   "planned_chapters": 49,
-  "completed_scope": "All official article slots from article 1 through article 212, including repealed slots within that range.",
-  "remaining_units": 373,
+  "completed_scope": "Every official article slot from article 1 through article 212i in selected XML order, including repealed slots and both article 212hgd* and article 212hgd.",
+  "remaining_units": 342,
   "remaining_ids": [
-    "art-212a",
-    "art-212b",
-    "art-212c",
-    "art-212d",
-    "art-212e",
-    "art-212f",
-    "art-212g",
-    "art-212h",
-    "art-212ha",
-    "art-212hb",
-    "art-212hc",
-    "art-212hd",
-    "art-212he",
-    "art-212hf",
-    "art-212hg",
-    "art-212hga",
-    "art-212hgb",
-    "art-212hgc",
-    "art-212hgd*",
-    "art-212hgd",
-    "art-212hi",
-    "art-212hj",
-    "art-212hk",
-    "art-212hl",
-    "art-212hm",
-    "art-212hn",
-    "art-212ho",
-    "art-212hp",
-    "art-212hq",
-    "art-212hr",
-    "art-212i",
     "art-212j",
     "art-212k",
     "art-212l",
@@ -404,7 +373,7 @@
     "art-387"
   ],
   "remaining_scope": [
-    "Special financial regimes from article 212a, including bank, insurer and related provisions",
+    "Remaining special financial regimes from article 212j",
     "Surseance van betaling",
     "Schuldsaneringsregeling natuurlijke personen",
     "Homologatie van een onderhands akkoord (WHOA)"
@@ -418,9 +387,9 @@
     "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
     "exit_code": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 373 jednotkám, např.: ['art-212a', 'art-212b', 'art-212c', 'art-212d', 'art-212e', 'art-212f', 'art-212g', 'art-212h', 'art-212ha', 'art-212hb']\n",
+    "stderr": "CHYBÍ komentář k 342 jednotkám, např.: ['art-212j', 'art-212k', 'art-212l', 'art-212m', 'art-212ma', 'art-212n', 'art-212o', 'art-212p', 'art-212q', 'art-212r']\n",
     "ok": false,
-    "reason": "373 statutory units have no commentary; full source scope deliberately retained."
+    "reason": "342 statutory units have no commentary; full source scope retained."
   },
   "validation": {
     "repo": "Komentar-NL-BWBR0001860",
@@ -440,12 +409,13 @@
     "units_reviewed_independently": 0
   },
   "remaining_limitations": [
-    "373 commentaries are unwritten; manuscript is not complete.",
-    "Full shared build and strict validation cannot pass until all official units have genuine commentary.",
-    "Case-law research is selective and must be extended where relevant for the remaining parts.",
+    "342 commentaries are unwritten; manuscript is not complete.",
+    "Full shared build and strict validation cannot pass until every official unit has real commentary.",
+    "Case-law research remains selective and must be extended where relevant.",
+    "Referenced external European instruments have not been independently researched in full for the financial chapters; no unsupported reconstruction of their conditions has been supplied.",
     "No fresh independent substantive review has occurred."
   ],
-  "output_mode": "Honest incomplete checkpoint with only twenty fully authored chapters; no fabricated fallback prose.",
+  "output_mode": "Honest incomplete checkpoint with twenty-two fully authored chapters; no fabricated fallback prose.",
   "publication_performed": false,
   "push_performed": false
 }

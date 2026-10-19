@@ -2,7 +2,7 @@
 
 [Inleiding](00-inleiding.md) · [Bronnen](SOURCES.md) · [Controle en open werk](REVIEW.md)
 
-De twintig hieronder vermelde hoofdstukken bevatten 266 toegelichte plaatsen van artikel 1 tot en met 212. De volledige wet telt 639 plaatsen. De 373 overige commentaren zijn nog niet geschreven; daarvoor zijn geen lege hoofdstukken of vervangteksten opgenomen.
+De 22 hieronder vermelde hoofdstukken bevatten 297 toegelichte plaatsen, van artikel 1 tot en met artikel 212i. De volledige wet telt 639 plaatsen. De 342 overige commentaren zijn nog niet geschreven; daarvoor zijn geen lege hoofdstukken of vervangteksten opgenomen.
 
 - [01-wet-01.md](01-wet-01.md) — Titel I Van faillissement / Eerste afdeling Van de faillietverklaring; Artikel 1 t/m Artikel 15d
 
@@ -43,3 +43,7 @@ De twintig hieronder vermelde hoofdstukken bevatten 266 toegelichte plaatsen van
 - [19-wet-19.md](19-wet-19.md) — Titel I Van faillissement / Tiende afdeling Bepalingen van internationaal recht; Artikel 203 t/m Artikel 205
 
 - [20-wet-20.md](20-wet-20.md) — Titel I Van faillissement / Elfde afdeling Van rehabilitatie; Artikel 206 t/m Artikel 212
+
+- [21-wet-21.md](21-wet-21.md) — Titel I Van faillissement / Afdeling 11A Van het definitieve karakter van de afwikkeling van betalingen en effectentransacties in betalings- en afwikkelingssystemen; Artikel 212a t/m Artikel 212f
+
+- [22-wet-22.md](22-wet-22.md) — Titel I Van faillissement / Afdeling 11AA Van het faillissement van een bank; Artikel 212g t/m Artikel 212i

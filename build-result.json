@@ -2,7 +2,7 @@
   "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
   "exit_code": 1,
   "stdout": "",
-  "stderr": "CHYBÍ komentář k 373 jednotkám, např.: ['art-212a', 'art-212b', 'art-212c', 'art-212d', 'art-212e', 'art-212f', 'art-212g', 'art-212h', 'art-212ha', 'art-212hb']\n",
+  "stderr": "CHYBÍ komentář k 342 jednotkám, např.: ['art-212j', 'art-212k', 'art-212l', 'art-212m', 'art-212ma', 'art-212n', 'art-212o', 'art-212p', 'art-212q', 'art-212r']\n",
   "ok": false,
-  "reason": "373 statutory units have no commentary; full source scope deliberately retained."
+  "reason": "342 statutory units have no commentary; full source scope retained."
 }
