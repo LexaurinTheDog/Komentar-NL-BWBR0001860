@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-19T18:45:57.492408+00:00",
+  "updated_at_utc": "2026-10-19T18:46:25.277507+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -395,9 +395,9 @@
     "repo": "Komentar-NL-BWBR0001860",
     "units": 639,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 282260,
+    "commentary_chars": 311121,
     "errors": [
-      "krátký/chybějící komentář u 373 jednotek: ['art-212a(0<400)', 'art-212b(0<400)', 'art-212c(0<400)', 'art-212d(0<400)', 'art-212e(0<400)', 'art-212f(0<120)', 'art-212g(0<400)', 'art-212h(0<400)']"
+      "krátký/chybějící komentář u 342 jednotek: ['art-212j(0<400)', 'art-212k(0<400)', 'art-212l(0<400)', 'art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -417,5 +417,8 @@
   ],
   "output_mode": "Honest incomplete checkpoint with twenty-two fully authored chapters; no fabricated fallback prose.",
   "publication_performed": false,
-  "push_performed": false
+  "push_performed": false,
+  "next_unwritten_unit": "art-212j",
+  "local_output_git_branch": "main",
+  "local_only": true
 }
