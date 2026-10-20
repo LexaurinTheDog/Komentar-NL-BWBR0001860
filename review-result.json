@@ -496,7 +496,24 @@
     "broken_local_links": 0,
     "repeated_paragraphs": 0,
     "full_builder_exit_code": 1,
-    "strict_validator": "Pending final post-commit check.",
-    "whole_book_complete": false
+    "whole_book_complete": false,
+    "strict_validator_command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001860",
+    "strict_validator_exit_code": 1,
+    "strict_validator_result": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 639,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 330628,
+      "errors": [
+        "krátký/chybějící komentář u 342 jednotek: ['art-212j(0<400)', 'art-212k(0<400)', 'art-212l(0<400)', 'art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_failure_disposition": "Expected whole-book failure solely for 342 unwritten, unassigned commentaries. The exact 20-unit review has no unresolved blocker.",
+    "local_content_checkpoints": {
+      "work": "3e4777b",
+      "output": "9e6dbdc"
+    }
   }
 }
