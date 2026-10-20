@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2024:210",
+    "access_timestamp_utc": "2026-10-20T22:07:53.787133+00:00",
+    "raw_path": "sources/review-art-153-171-case-hr-2024-210.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2024:210",
+    "bytes": 18068,
+    "sha256": "7b6e7fe822d4d92f7f17ccdc0c1562a97374ceffb151d6165786abc10877b795",
+    "headers_path": "sources/review-art-153-171-case-hr-2024-210.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 10212
+  }
+]

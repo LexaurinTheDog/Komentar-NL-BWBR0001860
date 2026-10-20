@@ -1,0 +1,12 @@
+{
+  "queries": [
+    "site.rechtspraak.nl 157 2024:210",
+    "site.rechtspraak.nl 165 akkoord Hoge Raad ontbinding"
+  ],
+  "full_decisions_read": [
+    "ECLI:NL:HR:2024:210"
+  ],
+  "local_corpus_read": "sources/review-art-153-171-hr-2024-210-local.md",
+  "not_used": "PHR advisory opinions and unrelated search hits excluded; no verified additional authority for technical units.",
+  "limitations": "Selective search; no exhaustive coverage or subsequent-treatment review."
+}
