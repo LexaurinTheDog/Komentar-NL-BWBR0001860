@@ -1373,5 +1373,34 @@
     "strict_validation_exit_code": 1,
     "batch_complete": true,
     "all_output_local_links_checked": 574
+  },
+  "bounded_review_art_213me_213z": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "art-213me",
+      "art-213mf",
+      "art-213mg",
+      "art-213mh",
+      "art-213mi",
+      "art-213mj",
+      "art-213mk",
+      "art-213n",
+      "art-213o",
+      "art-213p",
+      "art-213q",
+      "art-213r",
+      "art-213s",
+      "art-213t",
+      "art-213u",
+      "art-213v",
+      "art-213w",
+      "art-213x",
+      "art-213ij",
+      "art-213z"
+    ],
+    "corrected": 3,
+    "whole_book_complete": false,
+    "evidence": "sources/review-art-213me-213z-result.json"
   }
 }

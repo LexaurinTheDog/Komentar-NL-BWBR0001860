@@ -3,292 +3,310 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "art-213aq",
-    "art-213ar",
-    "art-213b",
-    "art-213c",
-    "art-213d",
-    "art-213e",
-    "art-213f",
-    "art-213g",
-    "art-213h",
-    "art-213i",
-    "art-213j",
-    "art-213k",
-    "art-213ka",
-    "art-213kaa",
-    "art-213l",
-    "art-213m",
-    "art-213ma",
-    "art-213mb",
-    "art-213mc",
-    "art-213md"
+    "art-213me",
+    "art-213mf",
+    "art-213mg",
+    "art-213mh",
+    "art-213mi",
+    "art-213mj",
+    "art-213mk",
+    "art-213n",
+    "art-213o",
+    "art-213p",
+    "art-213q",
+    "art-213r",
+    "art-213s",
+    "art-213t",
+    "art-213u",
+    "art-213v",
+    "art-213w",
+    "art-213x",
+    "art-213ij",
+    "art-213z"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "art-213aq",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213aq",
+      "id": "art-213me",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213me",
+      "effective_from": "2025-01-01",
+      "source_notes_checked": [
+        "Abusievelijk is voor het eerste lid, onderdeel b, een\nwijzigingsopdracht geformuleerd die niet geheel juist is."
+      ],
+      "finding": "Beide leden en bronnoot gelezen: natuurlijke personen, ondernemingsgrootte bij opeisbaarheid, defecte richtlijnverwijzing behouden en uitzondering op verzoek met onaanvaardbaarheidstoets.",
+      "result": "accepted_without_change",
+      "before_sha256": "d78303996646bc5d7203f5f8d715e709eb331c7942e723ab03800f02dacdfd05",
+      "after_sha256": "d78303996646bc5d7203f5f8d715e709eb331c7942e723ab03800f02dacdfd05",
+      "statutory_sha256": "632e4883a20d11b4afbe3bad9b8648b7e61bf06f369055dbda4195dd71252cb3"
+    },
+    {
+      "id": "art-213mf",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mf",
       "effective_from": "2019-01-01",
       "source_notes_checked": [
         "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
       ],
-      "finding": "Vervallen slot, bronnoot en overgangsrecht XIV(4) gelezen; geen actuele bevoegdheid of gereconstrueerde vroegere inhoud.",
-      "result": "accepted_without_change",
-      "before_sha256": "3d7b13ec8c1f13e39b63883fc7ce9b58ac9d3738a369157e55b71c91d8b5df1a",
-      "after_sha256": "3d7b13ec8c1f13e39b63883fc7ce9b58ac9d3738a369157e55b71c91d8b5df1a",
-      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
-    },
-    {
-      "id": "art-213ar",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ar",
-      "effective_from": "2024-01-01",
-      "source_notes_checked": [],
-      "finding": "Alle vijf leden gelezen; cumulatieve financiële en afwikkelingsvoorwaarden, DNB-exclusiviteit, Amsterdam en hoorplicht onderscheiden. Rechtsmiddelen vervangen door bekendmaking bij verwijzing naar213ag; Wft3a:77 groepsdefinitie gecontroleerd.",
+      "finding": "Alle drie leden: aanvraagverzuim versus bevel tot betaling, curator horen, drie dagen, hoogte/frequentie. Overgangsrecht XIV(4) expliciet toegevoegd en tegen publicatie gecontroleerd.",
       "result": "corrected",
-      "before_sha256": "b8709259a9b4e57c209a38a094dfbd9060e7c95ff241eeb3f23d4a40464c7087",
-      "after_sha256": "e0383b4686cc9e0a0822dcd7ec3cf86df9f88eabbd32baaef982030db675c85a",
-      "statutory_sha256": "8184efc3f6738d1274e0e8dc10dd8d5ade3a6a49e1815d1e2eaefe9e2fb10501"
+      "before_sha256": "9d286409915e4779b45471c6e6245a6b4f42e1fbcf8557e9c4d14c087a79daa3",
+      "after_sha256": "4396e1136c7f6ace41e510e5b74f7e0b4662ff84be9ae9747c69e591e6e81040",
+      "statutory_sha256": "a9313b0a9dad52f21d237abba29c0bcd979589f497f09a64b94a619dac010c65"
     },
     {
-      "id": "art-213b",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213b",
-      "effective_from": "2012-01-01",
-      "source_notes_checked": [],
-      "finding": "Procesvrijstelling alleen DNB voor verzekeraar; moedermaatschappij en ontbrekende verwijzing in213ar(5) correct begrensd.",
-      "result": "accepted_without_change",
-      "before_sha256": "4d32db3c02f36723e041b923cc1f863535e8c567ee3f4d2fcec26092282000d6",
-      "after_sha256": "4d32db3c02f36723e041b923cc1f863535e8c567ee3f4d2fcec26092282000d6",
-      "statutory_sha256": "731591631c0c8489a93b2739c12c8e9db1d4c2c762e7a02dd2009f04528135a8"
-    },
-    {
-      "id": "art-213c",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213c",
-      "effective_from": "2007-01-01",
-      "source_notes_checked": [],
-      "finding": "Afschrift voor verzekeraar onderscheiden van kennisgeving autoriteiten; onderdelen a/b, grensoverschrijdende diensten en solvabiliteitstoezichthouder gecontroleerd.",
-      "result": "accepted_without_change",
-      "before_sha256": "831a4400f9ce1a48fd56be490171ad9efed152562db231df8150eddf1eb0659f",
-      "after_sha256": "831a4400f9ce1a48fd56be490171ad9efed152562db231df8150eddf1eb0659f",
-      "statutory_sha256": "9c43cae01cf1cda175f492e5ae75f740dc1bc303a0c441cb7400c8966c1e2d26"
-    },
-    {
-      "id": "art-213d",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213d",
-      "effective_from": "2024-01-01",
-      "source_notes_checked": [],
-      "finding": "Intrekkingsplicht bij nog bestaande vergunning; geen verval van rechtswege of automatisch polis-einde. Gewijzigde2024-tekst gecontroleerd.",
-      "result": "accepted_without_change",
-      "before_sha256": "06530a1a6af3a710a5c3dd03d34fdeb9b0a852c7348d82a6a194a63a9db5e496",
-      "after_sha256": "06530a1a6af3a710a5c3dd03d34fdeb9b0a852c7348d82a6a194a63a9db5e496",
-      "statutory_sha256": "23a9a280c04b9c7ad32ed6c89da3bea079e092742732299d780b74ec576f24c3"
-    },
-    {
-      "id": "art-213e",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213e",
-      "effective_from": "2024-01-01",
-      "source_notes_checked": [],
-      "finding": "Vervallen per2024; geen actuele informatieplicht uit historisch draaiboek afgeleid. Wijzigingswet gelezen.",
-      "result": "accepted_without_change",
-      "before_sha256": "e7e4b4f6c6aeaca637eb7a52ac95a8e262034cc673d525e22d2ed82e3330da19",
-      "after_sha256": "e7e4b4f6c6aeaca637eb7a52ac95a8e262034cc673d525e22d2ed82e3330da19",
-      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
-    },
-    {
-      "id": "art-213f",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213f",
+      "id": "art-213mg",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mg",
       "effective_from": "2019-01-01",
       "source_notes_checked": [
         "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
       ],
-      "finding": "Vervallen2019 met expliciete overgangsnoot; historische beoordeling gescheiden van huidig slot.",
+      "finding": "Samenloop vereist twee aanspraken ter zake van dezelfde schade, geen betalingseis toegevoegd; aanspraak zelf blijft onderscheiden van voorschot.",
       "result": "accepted_without_change",
-      "before_sha256": "bbd5ca26a3d584715e23ad8023a03f3f7afa9fc411378b9df4b4dbb40149d370",
-      "after_sha256": "bbd5ca26a3d584715e23ad8023a03f3f7afa9fc411378b9df4b4dbb40149d370",
-      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+      "before_sha256": "6a1349449bb6fc78424522fdae666dcabf6c575360896f22a0f6c9876f2de9af",
+      "after_sha256": "6a1349449bb6fc78424522fdae666dcabf6c575360896f22a0f6c9876f2de9af",
+      "statutory_sha256": "707fd84a73656f312a680b5b18191102d82151c69d02f5a90350586158849f17"
     },
     {
-      "id": "art-213g",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213g",
-      "effective_from": "2024-01-01",
-      "source_notes_checked": [],
-      "finding": "Beide leden: griffier/DNB-keten, onverwijld, alle andere lidstaten en mogelijke gevolgen. Machtiging versus uitgevoerde overgang juist onderscheiden.",
+      "id": "art-213mh",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mh",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Beide leden: periodiek overschot, overdracht vóór verificatie, onverrekenbaar bedrag, afwijkende overeenkomst en daadwerkelijke betaling door overnemer gevolgd door termijnkorting.",
       "result": "accepted_without_change",
-      "before_sha256": "2409b8c83968335208fb67c4e1a0b8a4b89fe0b962f61f868bdf660e5d988e21",
-      "after_sha256": "2409b8c83968335208fb67c4e1a0b8a4b89fe0b962f61f868bdf660e5d988e21",
-      "statutory_sha256": "50d09bd2f30b9eabf0628b37aa88b91c4c194f004c5c68a42e3a0abbc89fc89a"
+      "before_sha256": "66dd33d56d085e5930359d1d95f6094d1ad88bfd677395a650a76a9af4285f6a",
+      "after_sha256": "66dd33d56d085e5930359d1d95f6094d1ad88bfd677395a650a76a9af4285f6a",
+      "statutory_sha256": "0b6b0d82e349d0c55a148e2254297427f45abc2dbc60918b31815546db44aefa"
     },
     {
-      "id": "art-213h",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213h",
-      "effective_from": "2024-01-01",
-      "source_notes_checked": [],
-      "finding": "Vervallen2024 en wijzigingswet gecontroleerd; geen oude bekendmakingsplicht als actueel recht.",
+      "id": "art-213mi",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mi",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Nihilstelling beperkt tot overbetaling wegens lagere verificatie, ontbreken goede trouw en causaal verband; verhouding tot213mh correct onderscheiden.",
       "result": "accepted_without_change",
-      "before_sha256": "1e7c1bc247c7b7f2ab26a0930912516cceb8fd223ebf8e2035e3b2b6fd6ef121",
-      "after_sha256": "1e7c1bc247c7b7f2ab26a0930912516cceb8fd223ebf8e2035e3b2b6fd6ef121",
-      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+      "before_sha256": "f1dcbbb5d5429f6090220ddf46ed4ff19d8ea3e24187f8572dcc3727ffd8022f",
+      "after_sha256": "f1dcbbb5d5429f6090220ddf46ed4ff19d8ea3e24187f8572dcc3727ffd8022f",
+      "statutory_sha256": "10dcecafa6e04f84c786779f72737d150ae3efb9c973f1fb98f635f256c7fa81"
     },
     {
-      "id": "art-213i",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213i",
-      "effective_from": "2024-01-01",
-      "source_notes_checked": [],
-      "finding": "Beide leden: onmiddellijk schriftelijk, overgang versus machtiging; artikel109/127, indiening zekerheidscrediteuren en verzekeringseffecten besproken.",
+      "id": "art-213mj",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mj",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "RC-toestemming voor beëindiging, hoogte en frequentie afzonderlijk gecontroleerd; geen eenzijdige stop of definitieve vaststelling voorgespiegeld.",
       "result": "accepted_without_change",
-      "before_sha256": "f5efc43d8e5ba354755921f5acd366914536996cf17fe889feb6351ea552574e",
-      "after_sha256": "f5efc43d8e5ba354755921f5acd366914536996cf17fe889feb6351ea552574e",
-      "statutory_sha256": "ca33c3f859fa16c7d4f7cdc093acc40d99b41bb145ca5a92408b8eb2ca79beed"
+      "before_sha256": "a09b377a759f37ffb9499e82d2fb5f23998e2e4ad2fb755e07a9cc657b60ef52",
+      "after_sha256": "a09b377a759f37ffb9499e82d2fb5f23998e2e4ad2fb755e07a9cc657b60ef52",
+      "statutory_sha256": "17dcc8b8c2e95e55341cce65c17ff9c7c987644519d384c6f656fd743fc3cd68"
     },
     {
-      "id": "art-213j",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213j",
+      "id": "art-213mk",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mk",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Alle onderdelen a–c en67 gelezen: drie beroepsgerechtigden, horen/oproepen, rechtbank hoogste ressort; geen ononderzochte cassatie-uitspraak toegevoegd.",
+      "result": "accepted_without_change",
+      "before_sha256": "8b46488f7834acbda1c888e47e1ed7a97f05cd11174bdb7b03bbbd4b614cc6b2",
+      "after_sha256": "8b46488f7834acbda1c888e47e1ed7a97f05cd11174bdb7b03bbbd4b614cc6b2",
+      "statutory_sha256": "412ddac78e6624d9fbd92e0f0e01860229af76e10e35da47459b3c2634864cac"
+    },
+    {
+      "id": "art-213n",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213n",
+      "effective_from": "2005-12-01",
+      "source_notes_checked": [
+        "Tekstplaatsing met aanpassing van de spelling.",
+        "Bij § 3 Bepalingen van internationaal privaatrecht: Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "finding": "Beide leden: van rechtswege erkenning en werkingstijdstip herkomststaat; geen Nederlandse publicatie als constitutieve eis.",
+      "result": "accepted_without_change",
+      "before_sha256": "ebe7d7478d87e899a2fdfc3eafe199297fea49e1c6e3847d9e37f287c895a3a6",
+      "after_sha256": "ebe7d7478d87e899a2fdfc3eafe199297fea49e1c6e3847d9e37f287c895a3a6",
+      "statutory_sha256": "51a3d418913ac81edb73751a3397376da0bb91a11ae1a978d7459f1e4e6a80dc"
+    },
+    {
+      "id": "art-213o",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213o",
       "effective_from": "2005-12-01",
       "source_notes_checked": [
         "Tekstplaatsing met aanpassing van de spelling."
       ],
-      "finding": "Alle drie leden: verzekering/andere vorderingen, woonplaats en indieningstaal onderscheiden. Verplicht Nederlands bericht en meertalig formulier verduidelijkt; geen facultatieve taalkeuze van curator.",
-      "result": "corrected",
-      "before_sha256": "4e4e57b2af93c17294e3ae9f3cb2baf75df762562f1f2a61c973df3556c6835b",
-      "after_sha256": "23a0e9540b13b496f710b64feaf159557511484085e4c2e0088eb08428f3830e",
-      "statutory_sha256": "4baaf5aea55b8fd5cdd6af24440e13d73c0643602eec523f64f8215134fbef60"
+      "finding": "Hoofdregel herkomstrecht en wettelijke uitzonderingen onderscheiden; erkenning en toepasselijk recht niet verward.",
+      "result": "accepted_without_change",
+      "before_sha256": "6925b2a31cc3f8e4ac5eaf3edd92cf65bde1b2f15dca61eaa70cc949654b432a",
+      "after_sha256": "6925b2a31cc3f8e4ac5eaf3edd92cf65bde1b2f15dca61eaa70cc949654b432a",
+      "statutory_sha256": "ca6f18bb03ecc5ef28c97f66f217d4998cc5a988f6f35189532d7d7b9967fe43"
     },
     {
-      "id": "art-213k",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213k",
+      "id": "art-213p",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213p",
+      "effective_from": "2005-12-01",
+      "source_notes_checked": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "finding": "Alle vier leden en onderdelen gelezen: bestaande rechten, niet-limitatieve categorieën, openbaar derdenwerkend verkrijgingsrecht, registers/ligging/zetel derde-schuldenaar en213s.",
+      "result": "accepted_without_change",
+      "before_sha256": "d7e9e2f2cabca7675a2376d4160d21dbbfe4cbbd53f19cae0e0b9b62a519b47f",
+      "after_sha256": "d7e9e2f2cabca7675a2376d4160d21dbbfe4cbbd53f19cae0e0b9b62a519b47f",
+      "statutory_sha256": "14f5b95e5740130fcd2f238eda2e787f01fcbcde264546f512f07e45605f113f"
+    },
+    {
+      "id": "art-213q",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213q",
       "effective_from": "2007-01-01",
       "source_notes_checked": [],
-      "finding": "Beide leden: regelmatige passende curatorinformatie en verzoekafhankelijke DNB-informatie onderscheiden van213g.",
+      "finding": "Alle drie leden: koper versus verkoper verzekeraar, buitenlandse ligging op werkingstijdstip. Wft3:241(4) in verse officiële HTML gelezen en verwijzing klopt.",
       "result": "accepted_without_change",
-      "before_sha256": "0c201bfec6d9f39b23e5f55b6f1ce210105fd8a62e6ae1a6a35426cad99a031e",
-      "after_sha256": "0c201bfec6d9f39b23e5f55b6f1ce210105fd8a62e6ae1a6a35426cad99a031e",
-      "statutory_sha256": "006595552d57b5caf31b0ae650a824ea9327c574559f158f09cc1f49f5a66492"
+      "before_sha256": "571539b7c3a8273a171ee7277424cde842ffcdbef50f8aff19c0478a277a4090",
+      "after_sha256": "571539b7c3a8273a171ee7277424cde842ffcdbef50f8aff19c0478a277a4090",
+      "statutory_sha256": "b4182569fb41c37fc412197d627cff08295c90fe5c4edaa69383d86e651f1e07"
     },
     {
-      "id": "art-213ka",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ka",
-      "effective_from": "2019-01-01",
+      "id": "art-213r",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213r",
+      "effective_from": "2005-12-01",
       "source_notes_checked": [
-        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+        "Tekstplaatsing met aanpassing van de spelling."
       ],
-      "finding": "Alle vier leden: cumulatieve termijnpremie/risicovoorwaarden, RC-toestemming, uitsluiting37, spaarelement en beperkte boedelschulden per premiecomponent gecontroleerd.",
+      "finding": "Recht toepasselijk op vordering van verzekeraar als aanknoping gecontroleerd; geen nieuwe verrekeningsbevoegdheid of aantastingsimmuniteit.",
       "result": "accepted_without_change",
-      "before_sha256": "1ad1999b777874a28f53b5ec96eca14ab2334005fcf665daa2aa56fbe3bc0867",
-      "after_sha256": "1ad1999b777874a28f53b5ec96eca14ab2334005fcf665daa2aa56fbe3bc0867",
-      "statutory_sha256": "cc64ce6839de1f56d7f2ed9cf3ffedf96bc5aef8940c94609e7a7dc72d6a629b"
+      "before_sha256": "6d1ee1db4fee5e9685d5d07207f370c975d0ec495534a4ac5ad13b22d26c739a",
+      "after_sha256": "6d1ee1db4fee5e9685d5d07207f370c975d0ec495534a4ac5ad13b22d26c739a",
+      "statutory_sha256": "f23d02220c9acc3f55b7580a35a4fef056cdf29d20892bd1711c04f9a2d234c9"
     },
     {
-      "id": "art-213kaa",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213kaa",
-      "effective_from": "2019-01-01",
+      "id": "art-213s",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213s",
+      "effective_from": "2005-12-01",
       "source_notes_checked": [
-        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+        "Tekstplaatsing met aanpassing van de spelling."
       ],
-      "finding": "Beide leden en drie cumulatieve voorwaarden: volledige premie, tijdelijke risicodekking, nog mogelijk voorval, drie maanden en groepstoestemming.",
-      "result": "accepted_without_change",
-      "before_sha256": "28eeb3d914a969c82c468d8e91dbc941654692ffc45fee868a1b32539498fe76",
-      "after_sha256": "28eeb3d914a969c82c468d8e91dbc941654692ffc45fee868a1b32539498fe76",
-      "statutory_sha256": "ba297437b4f5a9c5cacea071a8e5001c4ec43e2e11c48ba7f6c72298d5485296"
-    },
-    {
-      "id": "art-213l",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213l",
-      "effective_from": "2019-01-01",
-      "source_notes_checked": [
-        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
-      ],
-      "finding": "Alle vier leden: bereik lid1 aangescherpt tot na aanvang vervallende vorderingen; verificatiedatum lid2 en risicodatum lid3 onderscheiden. Geen ongelezen discontovoet verzonnen.",
+      "finding": "Nietigheid, vernietiging en niet-tegenwerpelijkheid wegens collectieve benadeling behouden; relatie213z correct. Grammaticale fout hersteld.",
       "result": "corrected",
-      "before_sha256": "c6712b5339387a07c60db31dd278fb0e8e8e5f72f2086a3f201c441fc3f93ef5",
-      "after_sha256": "8d702929268a4492016169c9e3a551ed906ff792b77e39893d063017b8612582",
-      "statutory_sha256": "de6c33bb61e852b3905cbde47402d30c304a79d3a5ca50b00ad166246c27b8b6"
+      "before_sha256": "66044c7cc5a32b4ea9c0ae0b309f2867d6378972ff4fbef29de73bb4f025b00d",
+      "after_sha256": "2e4ef435e1a4d2e86952df09c433019e34db4b815ee4efaa3827f3ca980459a6",
+      "statutory_sha256": "3fa0022d22fe866130a95386e26bb2d90f0019fdef968191fcb0c7d1e59d6682"
     },
     {
-      "id": "art-213m",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213m",
-      "effective_from": "2023-07-01",
-      "source_notes_checked": [],
-      "finding": "Alle vijf leden en onderdelen2a-h/3a-f: boedelkosten, zekerheden, persoonsuitkeringen, pensioen/loonperioden, onverschuldigde premie en aanvullende schade onderscheiden; restgroep en gelijke Europese voorrang gecontroleerd.",
-      "result": "accepted_without_change",
-      "before_sha256": "ff5aa52d7e6a87793e898916bdc5cf96170fe79262f41662d90e9f6484b8dc9c",
-      "after_sha256": "ff5aa52d7e6a87793e898916bdc5cf96170fe79262f41662d90e9f6484b8dc9c",
-      "statutory_sha256": "31f08a711e0f741c0686406dfde46d3a5dfa5362718509b8d02dd9db6a3150d8"
-    },
-    {
-      "id": "art-213ma",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ma",
-      "effective_from": "2019-01-01",
+      "id": "art-213t",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213t",
+      "effective_from": "2005-12-01",
       "source_notes_checked": [
-        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+        "Tekstplaatsing met aanpassing van de spelling."
       ],
-      "finding": "Alle zes leden: opeisbaarheid, categorieën a-d, strikte12500-grens, risicodatum, afkoop voor/na opening, verzoektermijn, indiening en hoogte/frequentie gecontroleerd.",
+      "finding": "Arbeidsovereenkomst en overige arbeidsverhouding, toepasselijk recht versus collectieve indiening/rang gescheiden; geen automatische woonplaatsaanknoping.",
       "result": "accepted_without_change",
-      "before_sha256": "7a1d30ec59b49eb056a786de6b7ffc27dff11a51121364782fc193fa3278bd46",
-      "after_sha256": "7a1d30ec59b49eb056a786de6b7ffc27dff11a51121364782fc193fa3278bd46",
-      "statutory_sha256": "765004d28b70a2489f1f49e0442d2ac15edcef53b12073d16825fe0ea6527145"
+      "before_sha256": "e54cbfeb74c51f06779f6ce30255773a96a1786a6d99c00e1c7d34625afbc7f3",
+      "after_sha256": "e54cbfeb74c51f06779f6ce30255773a96a1786a6d99c00e1c7d34625afbc7f3",
+      "statutory_sha256": "becfd335011557d6bd66aad44806b16f5ae194487720d03d6ba5ad45855d212b"
     },
     {
-      "id": "art-213mb",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mb",
-      "effective_from": "2024-07-10",
-      "source_notes_checked": [],
-      "finding": "Alle zes onderdelen: Zorginstituut/Waarborgfonds, aanvraaggebonden ontstaan en vereiste na-opening wilsuiting onderscheiden; geen ongefundeerde ruimere externe garantieregels.",
-      "result": "accepted_without_change",
-      "before_sha256": "4a3d716b7e8dbaaa583e468b40f876725ccb33d60350ff07cfa4573858859a89",
-      "after_sha256": "4a3d716b7e8dbaaa583e468b40f876725ccb33d60350ff07cfa4573858859a89",
-      "statutory_sha256": "13117a0a6d0da40a8b2facdce10bf20e3b0bd1ba5e8b74b0fb78c1b3a69163fd"
-    },
-    {
-      "id": "art-213mc",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mc",
-      "effective_from": "2019-01-01",
+      "id": "art-213u",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213u",
+      "effective_from": "2005-12-01",
       "source_notes_checked": [
-        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+        "Tekstplaatsing met aanpassing van de spelling."
       ],
-      "finding": "Beide leden: prudente tegenfeitelijke raming, wijziging en toestemming-tenzij getoetst; grammatica gecorrigeerd zonder inhoudelijke wijziging.",
+      "finding": "Genot en verkrijging onroerend goed, exclusieve lex situs voor liquidatiegevolgen en scheiding van213v/x gecontroleerd.",
+      "result": "accepted_without_change",
+      "before_sha256": "2d9e19e3cedf7c26cf1602c0287ca60816d13a4492cd497483c48b8a108be6bb",
+      "after_sha256": "2d9e19e3cedf7c26cf1602c0287ca60816d13a4492cd497483c48b8a108be6bb",
+      "statutory_sha256": "70d3319c0db758a312b137b4cf7582a2765fb28f9fa841832398374340a45bb9"
+    },
+    {
+      "id": "art-213v",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213v",
+      "effective_from": "2005-12-01",
+      "source_notes_checked": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "finding": "Rechten van verzekeraar op registergoed, registergezag versus fysieke gegevenslocatie en verschil met derdenrechten213p gecontroleerd.",
+      "result": "accepted_without_change",
+      "before_sha256": "1b42fe0723bc6b7a8137162d321c4cab7ec3f58aac86b01df1120420afd0319e",
+      "after_sha256": "1b42fe0723bc6b7a8137162d321c4cab7ec3f58aac86b01df1120420afd0319e",
+      "statutory_sha256": "8b7a27d2907673e8a24f896cc82406f0585483e05df91f15b4f6e0c24da2416a"
+    },
+    {
+      "id": "art-213w",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213w",
+      "effective_from": "2017-06-27",
+      "source_notes_checked": [],
+      "finding": "Alle drie leden en onderdelen: marktrecht, voorbehoud213p, benadelingsvordering, derde-landmarkt erkenning/aanwijzing en beide vergelijkbaarheidseisen.",
+      "result": "accepted_without_change",
+      "before_sha256": "b7844081567c1d4bdfb403e016b26d7e057db7f8deefa49432064cb3d3bb7a6c",
+      "after_sha256": "b7844081567c1d4bdfb403e016b26d7e057db7f8deefa49432064cb3d3bb7a6c",
+      "statutory_sha256": "d98c8cf0938f24b4acf71ed2b704097e7ccf699441109321b8ea7a8a73899ec3"
+    },
+    {
+      "id": "art-213x",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213x",
+      "effective_from": "2005-12-01",
+      "source_notes_checked": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "finding": "Bezwarende beschikking na opening, registergoed/effecten/rekening/depot en bijzondere situs onroerend goed; verwijzing beslist niet zelf geldigheid.",
+      "result": "accepted_without_change",
+      "before_sha256": "983cdf2783322debf6e1b3c415d2c40feaef6ebe74a5d80033ebc39ee48a39d0",
+      "after_sha256": "983cdf2783322debf6e1b3c415d2c40feaef6ebe74a5d80033ebc39ee48a39d0",
+      "statutory_sha256": "2e43e466599a34b5fa19e6de036de8c248537db3b31c5bf651f0ff640dac6dd7"
+    },
+    {
+      "id": "art-213ij",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213ij",
+      "effective_from": "2005-12-01",
+      "source_notes_checked": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "finding": "Volledig arrest C-724/20 gelezen: verzekeringsclaim inbegrepen, forumrecht voor gedingseffecten, begrenzing liquidatiebevoegdheden. Uitsluiting individuele executie uit punten45–47 toegevoegd.",
       "result": "corrected",
-      "before_sha256": "4c87ecfeb3adfec5fa8828843837ba2850ee3bfe7e74a97584b98adaa12baf67",
-      "after_sha256": "731e3f25e9acc4fa318c13b98ebcb966cab48687a2c4242c1db751a022f1700d",
-      "statutory_sha256": "7f6bdf10af17e3bb5d7ee67872deb23837a4d002dc72d4a6384acdfe4d1af77f"
+      "before_sha256": "fa1110174f3aa822f12a2e890bd573a7c4db53ba00adb31118549759383b0c73",
+      "after_sha256": "e86a81405530601b2c8866c6230d6ade7f29e6d96515bef239b4edd816229ab9",
+      "statutory_sha256": "98981bff0b696041dd622c7b141b72d1e4863f15e718b92584628e0aef1cd09e"
     },
     {
-      "id": "art-213md",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213md",
-      "effective_from": "2019-01-01",
+      "id": "art-213z",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213z",
+      "effective_from": "2005-12-01",
       "source_notes_checked": [
-        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+        "Tekstplaatsing met aanpassing van de spelling."
       ],
-      "finding": "Beide leden: uitvoering toestemming en continuering bestaande periodieke uitkeringen, zelfde bedrag en tijdig verzoek; geen automatische stop dag90. Checklist als thematische hulp, geen werkelijk afdelingsslot geclaimd.",
+      "finding": "Beide cumulatieve bewijsthema’s: ander lidstaatrecht en concrete afwezigheid aantastingsmogelijkheid. Bewijslast begunstigde en verhouding213s/w gecontroleerd.",
       "result": "accepted_without_change",
-      "before_sha256": "fe6a036957af92461c4005c903021f9b6a737fc025742522f5646caddd2c3e7a",
-      "after_sha256": "fe6a036957af92461c4005c903021f9b6a737fc025742522f5646caddd2c3e7a",
-      "statutory_sha256": "e1c465e0b0de17d3dffb7fd3a2e5b4f724f6ca420f61e8830c24ca427f457900"
+      "before_sha256": "7019fd01cf1d1fa1706678ce1cf198a4d3f0add354a06e2d9c112d14bf81a1fa",
+      "after_sha256": "7019fd01cf1d1fa1706678ce1cf198a4d3f0add354a06e2d9c112d14bf81a1fa",
+      "statutory_sha256": "a5e9521ace79e6620851e458466c71538ce93717cdf5350c8d71e23177e52d85"
     }
   ],
   "changed_units": [
-    "art-213ar",
-    "art-213j",
-    "art-213l",
-    "art-213mc"
+    "art-213mf",
+    "art-213s",
+    "art-213ij"
   ],
-  "checked_at_utc": "2026-10-20T22:59:43.881722+00:00",
+  "checked_at_utc": "2026-10-20T23:09:33.739382+00:00",
   "whole_book_complete": false,
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001860",
     "units": 639,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 534055,
+    "commentary_chars": 569097,
     "errors": [
-      "krátký/chybějící komentář u 259 jednotek: ['art-213me(0<400)', 'art-213mf(0<400)', 'art-213mg(0<400)', 'art-213mh(0<400)', 'art-213mi(0<400)', 'art-213mj(0<120)', 'art-213mk(0<400)', 'art-213n(0<400)']"
+      "krátký/chybějící komentář u 239 jednotek: ['art-213aa(0<400)', 'art-213bb(0<400)', 'art-213cc(0<400)', 'art-213dd(0<400)', 'art-213ee(0<400)', 'art-213ff(0<120)', 'art-213gg(0<400)', 'art-213hh(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
   "limitations": [
     "Only the assigned twenty units reviewed; project-internal review, no external professional approval.",
-    "Selective unsuccessful judicial searches; no new verified judgment or claim of exhaustive case-law coverage.",
-    "Former repealed text not reconstructed; transitional applicability separately acknowledged.",
-    "External guarantee regimes not independently expounded; no unverified implementing valuation rule asserted.",
-    "259 unassigned commentaries absent; whole-book build and strict validation remain unsuccessful."
+    "Selective judicial search; existing C-724/20 full text reviewed, no claim of exhaustive coverage.",
+    "Historical versions excluded; transitional applicability explicitly checked.",
+    "Defective official directive reference in213me preserved; no quantitative enterprise thresholds invented.",
+    "239 unassigned commentaries absent; whole-book build and strict validation remain unsuccessful."
   ]
 }
