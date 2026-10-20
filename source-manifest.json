@@ -1,6 +1,6 @@
 {
-  "created_at_utc": "2026-10-20T19:27:56.011709+00:00",
-  "scope": "Preserved source, preflight, four bounded-review evidence sets and case cards; no new rights claim over official material.",
+  "created_at_utc": "2026-10-20T19:28:41.916251+00:00",
+  "scope": "Preserved original/preflight and four bounded-review source evidence sets, case cards and post-commit validator response. No new rights claim over official material.",
   "files": [
     {
       "path": "sources/author-date-xml.headers",
@@ -724,8 +724,8 @@
     },
     {
       "path": "sources/review-art-41-60-result.json",
-      "bytes": 23507,
-      "sha256": "08019be01545a005ce20b70e364d1c80f8578306418d79eb4461d78aa137125e"
+      "bytes": 24535,
+      "sha256": "73b7d46bbd332682043a48db3072c45811cdbf5055a60bf5eab0416d2fd6885c"
     },
     {
       "path": "sources/review-art-41-60-selected.xml",
@@ -736,6 +736,11 @@
       "path": "sources/review-art-41-60-selected.xml.headers",
       "bytes": 261,
       "sha256": "764772a6e2b0b0b487f9c42d89adbca37ebdbd9b1e562d64c7116dcc6422ef23"
+    },
+    {
+      "path": "sources/review-art-41-60-validator-post-commit.json",
+      "bytes": 582,
+      "sha256": "0009ed1be0089d73f349ce883833f1a623bc89926e9aa0e933668a7a7e0429c9"
     },
     {
       "path": "sources/review-art-41-60-wti.xml",

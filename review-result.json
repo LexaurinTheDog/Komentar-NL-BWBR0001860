@@ -487,5 +487,30 @@
     "art-55",
     "art-57",
     "art-59"
-  ]
+  ],
+  "validation": {
+    "strict_validator": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 639,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 345009,
+      "errors": [
+        "krátký/chybějící komentář u 342 jednotek: ['art-212j(0<400)', 'art-212k(0<400)', 'art-212l(0<400)', 'art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "scope_complete": true,
+    "source_coverage": "639/639, 100% statutory wording agreement",
+    "builder_exit_code": 1,
+    "reason": "Full-book failure only: 342 unwritten unassigned commentaries. No unresolved blocker within the assigned review batch.",
+    "quality_report": "quality-report.json",
+    "duplicate_commentary_ids": 0,
+    "short_authored_commentaries": 0,
+    "broken_local_links": 0,
+    "repeated_paragraphs": 0,
+    "unassigned_commentaries_unchanged": 277,
+    "work_content_checkpoint": "1c407f6",
+    "output_content_checkpoint": "15622f9"
+  }
 }

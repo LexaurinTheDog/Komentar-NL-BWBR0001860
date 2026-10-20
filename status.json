@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-20T19:27:12.319849+00:00",
+  "updated_at_utc": "2026-10-20T19:28:41.916251+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -418,7 +418,7 @@
     "repo": "Komentar-NL-BWBR0001860",
     "units": 639,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 330628,
+    "commentary_chars": 345009,
     "errors": [
       "krátký/chybějící komentář u 342 jednotek: ['art-212j(0<400)', 'art-212k(0<400)', 'art-212l(0<400)', 'art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)']"
     ],
@@ -457,7 +457,9 @@
     "result_path": "review-result.json",
     "scope": "Exactly the assigned 20 places from art-41 through art-60; no other units or whole-book approval.",
     "batch_commentaries_corrected_or_extended": 12,
-    "strict_validation": "Pending new actual post-commit strict run; full-book missing commentary remains."
+    "strict_validation": "Actual post-commit strict run: statutory agreement 100%, only error 342 missing commentaries outside assigned review scope.",
+    "work_content_checkpoint": "1c407f6",
+    "output_content_checkpoint": "15622f9"
   },
   "remaining_limitations": [
     "342 commentaries are unwritten; manuscript is not complete.",
