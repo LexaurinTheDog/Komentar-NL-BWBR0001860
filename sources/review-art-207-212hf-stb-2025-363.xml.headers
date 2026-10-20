@@ -1,0 +1,20 @@
+HTTP status: 200
+Date: Tue, 20 Oct 2026 22:21:31 GMT
+Content-Type: text/xml
+Content-Length: 18643
+Connection: close
+Cache-Control: no-store, no-cache
+Expires: -1
+Pragma: no-cache
+Content-Disposition: inline; filename=stb-2025-363.xml
+X-Rate-Limit-Limit: 30s
+X-Rate-Limit-Remaining: 9
+X-Rate-Limit-Reset: 2026-10-20T22:22:01.5071157Z
+Content-Security-Policy: default-src 'self'; script-src 'self' https://koop.piwik.pro https://officielebekendmakingen.nl https://*.officielebekendmakingen.nl https://*.s15m.nl https://*.kc-wetgeving.nl 'nonce-/gIf+Yz7Me9M5XcTNHyy/g=='; connect-src 'self' https://api.pdok.nl https://koop.piwik.pro https://officielebekendmakingen.nl https://*.officielebekendmakingen.nl https://*.s15m.nl https://*.kc-wetgeving.nl https://*.officiele-overheidspublicaties.nl; img-src 'self' data: https://service.pdok.nl https://officielebekendmakingen.nl https://*.officielebekendmakingen.nl https://*.s15m.nl https://*.kc-wetgeving.nl https://*.officiele-overheidspublicaties.nl; base-uri 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://officielebekendmakingen.nl https://*.officielebekendmakingen.nl https://*.s15m.nl https://*.kc-wetgeving.nl; form-action 'self' https://officielebekendmakingen.nl https://*.officielebekendmakingen.nl https://*.s15m.nl https://*.kc-wetgeving.nl; frame-ancestors 'self';
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Permissions-Policy: geolocation=(), midi=(), notifications=(), push=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), speaker=(), vibrate=(), fullscreen=(self), payment=()
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+

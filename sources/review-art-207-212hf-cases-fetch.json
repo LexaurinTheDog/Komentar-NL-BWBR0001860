@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBROT:2020:1792",
+    "access_timestamp_utc": "2026-10-20T22:20:01.753517+00:00",
+    "raw_path": "sources/review-art-207-212hf-case-rbrot-2020-1792.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBROT:2020:1792",
+    "bytes": 8832,
+    "sha256": "6ba5f9e768363d01fa502b11762acf2f67ccd27901784a39517c3f1cd75abe6b",
+    "headers_path": "sources/review-art-207-212hf-case-rbrot-2020-1792.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 3561
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBALM:1999:AA3942",
+    "access_timestamp_utc": "2026-10-20T22:20:01.753916+00:00",
+    "raw_path": "sources/review-art-207-212hf-case-rbalm-1999-aa3942.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBALM:1999:AA3942",
+    "bytes": 6678,
+    "sha256": "c2dcd5cc4246029db27d5d51cb6aaa1df726a4bac1904a175bcf1d6f291c668b",
+    "headers_path": "sources/review-art-207-212hf-case-rbalm-1999-aa3942.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 2568
+  }
+]

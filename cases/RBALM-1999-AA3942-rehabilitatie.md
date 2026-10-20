@@ -1,0 +1,7 @@
+# Rechtbank Almelo 15 december 1999 — verleende rehabilitatie
+
+ECLI:NL:RBALM:1999:AA3942; rekestnummer 33051 FT RK 99.342 (metadata: 33051 FT RK 99-342). Ondersteunt art-208 en art-210.
+
+[Officiële uitspraak](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBALM:1999:AA3942) · [volledige XML](../sources/review-art-207-212hf-case-rbalm-1999-aa3942.xml) · [leesversie](../sources/review-art-207-212hf-case-rbalm-1999-aa3942.txt) · [HTTP en hashes](../sources/review-art-207-212hf-cases-fetch.json).
+
+De uitspraak heeft geen genummerde rechtsoverwegingen. De alinea na de conclusie van het OM bevat het eigen oordeel dat aan de vereisten is voldaan. De volgende alinea vermeldt volledige voldoening van erkende en geverifieerde vorderingen; de daaropvolgende vermeldt publicaties van 26 augustus 1999, een verstreken verzetstermijn en geen bezwaar. Dictum: rehabilitatie verleend, openbaar uitgesproken. Dit is een positief procedurevoorbeeld, geen oordeel dat uitsluitend volledige betaling mogelijk is. Dagbladpublicatie was onderdeel van de oude artikel208-tekst, bevestigd in de officiële historische toestand2002; de huidige tekst noemt alleen de Staatscourant. De toenmalige Rv-verwijzing en procureursrol zijn niet als actueel overgenomen. Geen bewijs dat het OM-oordeel de rechter bond. Eerste aanleg, historische context, selectieve dekking. Lokale hogere-rechtencorpus bevat geen duplicaat.

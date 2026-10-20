@@ -1,6 +1,6 @@
 {
   "created_at_utc": "2026-10-20T21:47:05.474183+00:00",
-  "scope": "Preserved source and bounded-review evidence, including articles 187–206; no new rights claim over official texts.",
+  "scope": "Preserved source and bounded review evidence through articles207–212hf; no new rights claim over official texts.",
   "files": [
     {
       "path": "sources/author-date-xml.headers",
@@ -1008,6 +1008,166 @@
       "sha256": "7aee0e433eacaf6c109f91e56e257be746947ef05d6b816cfaa3be37407e02c9"
     },
     {
+      "path": "sources/review-art-207-212hf-before-hashes.json",
+      "bytes": 24031,
+      "sha256": "c8071698d0bba0b47f8f3918bb46d98d55b1769a1f96d7ee293cca178f2ed77d"
+    },
+    {
+      "path": "sources/review-art-207-212hf-build.txt",
+      "bytes": 166,
+      "sha256": "3aea440443d4e8203a021bbde25ef1793ef7c890640e3494275356c5ee8c47c4"
+    },
+    {
+      "path": "sources/review-art-207-212hf-case-rbalm-1999-aa3942.txt",
+      "bytes": 2461,
+      "sha256": "3e48fde714425e32ccdf3e71ba2f4354ff4b008b2d99dc5c0de75ec9ce3c56c6"
+    },
+    {
+      "path": "sources/review-art-207-212hf-case-rbalm-1999-aa3942.xml",
+      "bytes": 6678,
+      "sha256": "c2dcd5cc4246029db27d5d51cb6aaa1df726a4bac1904a175bcf1d6f291c668b"
+    },
+    {
+      "path": "sources/review-art-207-212hf-case-rbalm-1999-aa3942.xml.headers",
+      "bytes": 497,
+      "sha256": "6d72ffa2c5c9499293c1fdef103c185767fea61b5f4f671f81dff286f7e1bb58"
+    },
+    {
+      "path": "sources/review-art-207-212hf-case-rbrot-2020-1792.txt",
+      "bytes": 3552,
+      "sha256": "8054fef06aaa49876c48793cb03a43a2bdf7ec7eb4552f1b47ff502e8dd61e4d"
+    },
+    {
+      "path": "sources/review-art-207-212hf-case-rbrot-2020-1792.xml",
+      "bytes": 8832,
+      "sha256": "6ba5f9e768363d01fa502b11762acf2f67ccd27901784a39517c3f1cd75abe6b"
+    },
+    {
+      "path": "sources/review-art-207-212hf-case-rbrot-2020-1792.xml.headers",
+      "bytes": 497,
+      "sha256": "90ca67b4be83282f55dcd5084c7da41005299d1bb528155e207996db20990dd7"
+    },
+    {
+      "path": "sources/review-art-207-212hf-cases-fetch.json",
+      "bytes": 1321,
+      "sha256": "ced5f16e01090a23b60e9ae65eaa7ec8c532ba9ce66d67634d275951197807df"
+    },
+    {
+      "path": "sources/review-art-207-212hf-checks.json",
+      "bytes": 1480,
+      "sha256": "a83172bf51522dac80bded63319df6af557d5ab0c58169766790b0ac93445c42"
+    },
+    {
+      "path": "sources/review-art-207-212hf-current.html",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57"
+    },
+    {
+      "path": "sources/review-art-207-212hf-current.html.headers",
+      "bytes": 532,
+      "sha256": "b3aa5121fae5436bb91c98551dfcaa1b1948fd723ff276103ed5df5839512704"
+    },
+    {
+      "path": "sources/review-art-207-212hf-fetch.json",
+      "bytes": 2527,
+      "sha256": "bf992a589f47182e2bfdc6ffa2693196c161a1a8521ffd75e8f075cf97d9d659"
+    },
+    {
+      "path": "sources/review-art-207-212hf-parser-check.json",
+      "bytes": 1081,
+      "sha256": "977cc457d9f504a82c2ff5ef5e4660b360dded5a4f1b503ca92d886d9f4d633a"
+    },
+    {
+      "path": "sources/review-art-207-212hf-preflight-result.json",
+      "bytes": 3756,
+      "sha256": "8d7fc75814c6eb8817581fbace7f8b997eb76b1d10338c1388eeb9dd0710e730"
+    },
+    {
+      "path": "sources/review-art-207-212hf-result.json",
+      "bytes": 20155,
+      "sha256": "766ea5f134369bc379604446f3777b9555b6593e48f750ff35b34eb20d5a3659"
+    },
+    {
+      "path": "sources/review-art-207-212hf-search-log.json",
+      "bytes": 682,
+      "sha256": "88933368febdc48647ef5211ccc903994e8dc1a7eb3ed41b042ab0fda18b99b7"
+    },
+    {
+      "path": "sources/review-art-207-212hf-selected.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+    },
+    {
+      "path": "sources/review-art-207-212hf-selected.xml.headers",
+      "bytes": 261,
+      "sha256": "ac2e286f53c0355ca1b2e126572ae717c53ecfeca131756100429e89c9c0bd7b"
+    },
+    {
+      "path": "sources/review-art-207-212hf-stb-2016-290.txt",
+      "bytes": 42941,
+      "sha256": "cf6ab984041fe2007ed537cf851d9a7cd7046a6e45ff5606b8b6eb5d846db581"
+    },
+    {
+      "path": "sources/review-art-207-212hf-stb-2016-290.xml",
+      "bytes": 330753,
+      "sha256": "652705c408e06b9e8b2d9025beea73d8bb95b9b9f96d8b6fe044a4737d62a470"
+    },
+    {
+      "path": "sources/review-art-207-212hf-stb-2016-290.xml.headers",
+      "bytes": 1733,
+      "sha256": "e521f19989633692affd4ab294dee81fa3ba2006e2a58c4f4060868c4eb7223e"
+    },
+    {
+      "path": "sources/review-art-207-212hf-stb-2018-489.txt",
+      "bytes": 83701,
+      "sha256": "30032835c8d2a7b6797b3d809ef8b0b768dfd184ef5bc740aa118a2ef1bf35ef"
+    },
+    {
+      "path": "sources/review-art-207-212hf-stb-2018-489.xml",
+      "bytes": 219741,
+      "sha256": "d12659255a3d2407475c31eeb8b3cfa26e9f17a5e381028e661655463d7de03d"
+    },
+    {
+      "path": "sources/review-art-207-212hf-stb-2018-489.xml.headers",
+      "bytes": 1733,
+      "sha256": "3c547ce6f244e9725c7189236bbe1e41f7820c0c71e6787e71e9a35766147637"
+    },
+    {
+      "path": "sources/review-art-207-212hf-stb-2025-363.txt",
+      "bytes": 3736,
+      "sha256": "6f60f08870acb0599daaea08199ad00c792afacd8ff49a935f7d97826f4311d0"
+    },
+    {
+      "path": "sources/review-art-207-212hf-stb-2025-363.xml",
+      "bytes": 18643,
+      "sha256": "0b1e512f6b32fb2ef553a0088186cffe747db0fb9eff5fce48d4d09c3e11ee47"
+    },
+    {
+      "path": "sources/review-art-207-212hf-stb-2025-363.xml.headers",
+      "bytes": 1732,
+      "sha256": "6b195d3427d9f49c9ed9ac3dcd452189366228485b3f46b7865b4b06b3d6b4cd"
+    },
+    {
+      "path": "sources/review-art-207-212hf-transitional-fetch.json",
+      "bytes": 2259,
+      "sha256": "98cd9f417f39ab5f50b9ccb6618f605cb83a8c48bee368160425b27175457760"
+    },
+    {
+      "path": "sources/review-art-207-212hf-validation.json",
+      "bytes": 348,
+      "sha256": "f6ece3c76c5d480413e0ccbe6a1c1641735f07e4542c48228133a9b50da9e0f1"
+    },
+    {
+      "path": "sources/review-art-207-212hf-wti.xml",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67"
+    },
+    {
+      "path": "sources/review-art-207-212hf-wti.xml.headers",
+      "bytes": 261,
+      "sha256": "bfaf0b3fd193c5378a5324b39934d42f58d33f39991878388d1b2c6f4216c132"
+    },
+    {
       "path": "sources/review-art-28-40-before-hashes.json",
       "bytes": 24031,
       "sha256": "20c9a461cd35905580e6e7e626c1f09b3302d148d0c3c122bfbd0e3e86105da4"
@@ -1829,8 +1989,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 60935,
-      "sha256": "6e2308b911fff51dd5648c823c88f527719e47ee9096b69b12a99002b84cbde5"
+      "bytes": 63969,
+      "sha256": "8fa62824ef80bce5859d719740c43c50f15fc257bfc68224f21fac224247c7ef"
     },
     {
       "path": "sources/version-evidence.json",
@@ -2003,6 +2163,11 @@
       "sha256": "949adc9be8f4cc13e298a77df917ba7766449118b7ab8abd896dad2400824d7a"
     },
     {
+      "path": "cases/RBALM-1999-AA3942-rehabilitatie.md",
+      "bytes": 1412,
+      "sha256": "a66a00a991b96507016cde4331f145799c230c7a554f13c272f19f5742f50027"
+    },
+    {
       "path": "cases/RBGEL-2015-5785-akkoordstemming.md",
       "bytes": 1823,
       "sha256": "b0935c57d54c8f72f9a3352253ddaa1dbe0fb6ac168af1dbf95e3f5d8100c7e9"
@@ -2011,6 +2176,11 @@
       "path": "cases/RBOVE-2020-1557.md",
       "bytes": 1973,
       "sha256": "e9d329f6c0d0593b4a71b2d065dd3fef11a665563c057713e7ce062fb3af6e60"
+    },
+    {
+      "path": "cases/RBROT-2020-1792-rehabilitatie.md",
+      "bytes": 1245,
+      "sha256": "c55e7bb379de5c2aa49c24b3429ce96e5938f2364b6702db58d2b8805041c65f"
     }
   ]
 }

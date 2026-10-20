@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2025-363.xml",
+    "access_timestamp_utc": "2026-10-20T22:21:31.141690+00:00",
+    "raw_path": "sources/review-art-207-212hf-stb-2025-363.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2025-363.xml",
+    "bytes": 18643,
+    "sha256": "0b1e512f6b32fb2ef553a0088186cffe747db0fb9eff5fce48d4d09c3e11ee47",
+    "headers_path": "sources/review-art-207-212hf-stb-2025-363.xml.headers",
+    "xml_root": "officiele-publicatie",
+    "xml_attributes": {
+      "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd"
+    }
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2018-489.xml",
+    "access_timestamp_utc": "2026-10-20T22:21:31.142081+00:00",
+    "raw_path": "sources/review-art-207-212hf-stb-2018-489.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2018-489.xml",
+    "bytes": 219741,
+    "sha256": "d12659255a3d2407475c31eeb8b3cfa26e9f17a5e381028e661655463d7de03d",
+    "headers_path": "sources/review-art-207-212hf-stb-2018-489.xml.headers",
+    "xml_root": "officiele-publicatie",
+    "xml_attributes": {
+      "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "http://technische-documentatie.oep.overheid.nl/schema/op-xsd-2012-2"
+    }
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2016-290.xml",
+    "access_timestamp_utc": "2026-10-20T22:21:31.142368+00:00",
+    "raw_path": "sources/review-art-207-212hf-stb-2016-290.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://zoek.officielebekendmakingen.nl/stb-2016-290.xml",
+    "bytes": 330753,
+    "sha256": "652705c408e06b9e8b2d9025beea73d8bb95b9b9f96d8b6fe044a4737d62a470",
+    "headers_path": "sources/review-art-207-212hf-stb-2016-290.xml.headers",
+    "xml_root": "officiele-publicatie",
+    "xml_attributes": {
+      "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "http://technische-documentatie.oep.overheid.nl/schema/op-xsd-2012-2"
+    }
+  }
+]

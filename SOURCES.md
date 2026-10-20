@@ -68,3 +68,5 @@ Tweede lezing artikelen 153–171: [broncontrole](sources/review-art-153-171-pre
 Tweede lezing artikelen 172–186: [broncontrole](sources/review-art-172-186-preflight-result.json), [bevindingen](sources/review-art-172-186-result.json), [onderzoekslog](sources/review-art-172-186-search-log.json), [HR 2017:2808](cases/HR-2017-2808-uitdelingslijst.md).
 
 Tweede lezing artikelen 187–206: [broncontrole](sources/review-art-187-206-preflight-result.json), [bevindingen](sources/review-art-187-206-result.json), [onderzoekslog](sources/review-art-187-206-search-log.json), [HR 2014:1630](cases/HR-2014-1630-buitenlands-verhaal.md), [HR 2016:759](cases/HR-2016-759-verificatietitel.md).
+
+Tweede lezing artikelen 207–212hf: [broncontrole](sources/review-art-207-212hf-preflight-result.json), [bevindingen](sources/review-art-207-212hf-result.json), [overgangsbronnen](sources/review-art-207-212hf-transitional-fetch.json), [onderzoekslog](sources/review-art-207-212hf-search-log.json), [Rotterdam](cases/RBROT-2020-1792-rehabilitatie.md), [Almelo](cases/RBALM-1999-AA3942-rehabilitatie.md).

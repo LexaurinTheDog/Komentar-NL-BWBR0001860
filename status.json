@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-20T22:18:31.836200+00:00",
+  "updated_at_utc": "2026-10-20T22:23:53.124030+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -33,7 +33,7 @@
   },
   "total_units": 639,
   "completed_units": 297,
-  "commentary_characters": 391989,
+  "commentary_characters": 400673,
   "complete_chapters": 22,
   "planned_chapters": 49,
   "completed_scope": "Every official article slot from article 1 through article 212i in selected XML order, including repealed slots and both article 212hgd* and article 212hgd.",
@@ -868,5 +868,40 @@
       "ECLI:NL:HR:2016:759"
     ],
     "source_preflight": "sources/review-art-187-206-preflight-result.json"
+  },
+  "bounded_review_art_207_212hf": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "art-207",
+      "art-208",
+      "art-209",
+      "art-210",
+      "art-211",
+      "art-212",
+      "art-212a",
+      "art-212b",
+      "art-212c",
+      "art-212d",
+      "art-212e",
+      "art-212f",
+      "art-212g",
+      "art-212h",
+      "art-212ha",
+      "art-212hb",
+      "art-212hc",
+      "art-212hd",
+      "art-212he",
+      "art-212hf"
+    ],
+    "changed": 13,
+    "unassigned_commentaries_unchanged": true,
+    "evidence": "sources/review-art-207-212hf-result.json",
+    "whole_book_complete": false,
+    "case_authorities": [
+      "ECLI:NL:RBROT:2020:1792",
+      "ECLI:NL:RBALM:1999:AA3942"
+    ],
+    "source_preflight": "sources/review-art-207-212hf-preflight-result.json"
   }
 }

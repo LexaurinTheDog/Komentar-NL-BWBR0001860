@@ -1,0 +1,24 @@
+{
+  "checks": [
+    {
+      "script": "_parse.py",
+      "exit_code": 0,
+      "stdout": "639 units; 49 chapters\n",
+      "stderr": ""
+    },
+    {
+      "script": "_coverage.py",
+      "exit_code": 0,
+      "stdout": "{\"expected_count\": 639, \"parsed_count\": 639, \"missing\": [], \"extra\": [], \"duplicates\": [], \"html_toc_count\": 639, \"html_toc_order_equal\": true, \"raw_xml_token_mismatch\": [], \"unaccounted_legal_text_nodes\": [], \"editorial_notes\": 481, \"structural_editorial_notes\": 21, \"ok\": true}\n",
+      "stderr": ""
+    }
+  ],
+  "before_sha256": {
+    "units.jsonl": "c29f3bc7c8f802d4b7586d356cc32ab4671723a543a5d754785a34db0cea0b6a",
+    "meta.json": "d550e5ccd90a245c2f42fa3ecd5c909f0f0f2ddd189ed6712bc1e15aa7efc197",
+    "sources/canonical.md": "023fd6a56471dfedbe4256742e690cd4a74af80068e558af50a8b8045e3086a5",
+    "coverage-evidence.json": "a6bb5c0b79e1aa7d1eb3c07f0f0ae171e78aa8023599cf9c711c3b683326b563",
+    "completeness-report.json": "d54fe680dc2ef3d20604365d343c5559fe8fb9ca1fa99fd3ef65a05017fc97f8"
+  },
+  "all_bytes_unchanged": true
+}

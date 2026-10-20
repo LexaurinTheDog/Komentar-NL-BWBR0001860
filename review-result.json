@@ -3,380 +3,385 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "art-187",
-    "art-188",
-    "art-189",
-    "art-190",
-    "art-191",
-    "art-192",
-    "art-193",
-    "art-194",
-    "art-195",
-    "art-196",
-    "art-197",
-    "art-198",
-    "art-199",
-    "art-200",
-    "art-201",
-    "art-202",
-    "art-203",
-    "art-204",
-    "art-205",
-    "art-206"
+    "art-207",
+    "art-208",
+    "art-209",
+    "art-210",
+    "art-211",
+    "art-212",
+    "art-212a",
+    "art-212b",
+    "art-212c",
+    "art-212d",
+    "art-212e",
+    "art-212f",
+    "art-212g",
+    "art-212h",
+    "art-212ha",
+    "art-212hb",
+    "art-212hc",
+    "art-212hd",
+    "art-212he",
+    "art-212hf"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "art-187",
-      "official_path": "/TiteldeelI/AfdelingZevende/Artikel187",
-      "source_paragraphs_reviewed": "1–4",
+      "id": "art-207",
+      "official_path": "/TiteldeelI/AfdelingElfde/Artikel207",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "2c8a12830a3f196607eedc39728dfbbacf53fcf4edc491c805db433888aef40f",
+      "commentary_before_sha256": "aefe9853f2ebb2c9f1c8020b2ba077e53d2ebbde1f97e0e29bb87af69076a778",
+      "commentary_after_sha256": "21bad13d5c755f4ca9a64b7a91bacbd4bdbf5e8d7f677eb9b45414d1ef184fb5",
+      "result": "corrected_or_extended",
+      "assessment": "Alle erkende crediteuren; bewijs bij verzoek, niet alleen akkoordnakoming; RBROT2020:1792 rov4.1 gelezen en toegevoegd.",
+      "internal_cross_references_checked": [
+        "art-206",
+        "art-209"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:RBROT:2020:1792"
+      ]
+    },
+    {
+      "id": "art-208",
+      "official_path": "/TiteldeelI/AfdelingElfde/Artikel208",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "972a9b9f4af010feb37c01c4b96ffd2779a80360c3998a4a280dc37df8528f10",
+      "commentary_before_sha256": "ca99e693be74ef39a22b12e883cf4153349f911c7e1bfa4fd42d4d8c5732cf05",
+      "commentary_after_sha256": "562c2f56b0eb01e175c347a710675a9bebdbfb1945b95b69a6f7e37d6d8ef674",
+      "result": "corrected_or_extended",
+      "assessment": "Staatscourant versus aanvraagbeslissing; historische dagbladplicht in Almelo1999 niet actueel overgenomen.",
+      "internal_cross_references_checked": [
+        "art-209",
+        "art-210",
+        "art-212"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:RBALM:1999:AA3942"
+      ]
+    },
+    {
+      "id": "art-209",
+      "official_path": "/TiteldeelI/AfdelingElfde/Artikel209",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "a8f2f51b921cb9a793efeebc4d15f2d90b08f31d1be2693d2e8520daf10c13aa",
+      "commentary_before_sha256": "a31fc6d315cf945ba1d2e97e96843683fcd42e7147ef88f0af64eeb8045145cc",
+      "commentary_after_sha256": "a31fc6d315cf945ba1d2e97e96843683fcd42e7147ef88f0af64eeb8045145cc",
+      "result": "accepted_without_change",
+      "assessment": "Erkende crediteur, gemotiveerd bezwaarschrift, ontvangstbewijs, twee maanden en uitsluitend207-grond; geen algemene heropening.",
+      "internal_cross_references_checked": [
+        "art-207",
+        "art-208"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-210",
+      "official_path": "/TiteldeelI/AfdelingElfde/Artikel210",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "658d139debdb6b4881691aa5acbfb0c56005c41e3a2bd54d05ea765c7b1445ff",
+      "commentary_before_sha256": "82f8794e4f42dcf5cd7819c2d266343bba3e2b4356ecea4a3a8692f9fbee474d",
+      "commentary_after_sha256": "acac7bef37c2ce55e326de0e7037922de8db26028fca7b6bcfa7b85e3dce6381",
+      "result": "corrected_or_extended",
+      "assessment": "Wachten termijn ook zonder verzet; conclusie OM versus eigen rechterlijke beoordeling; Almelo positief praktijkgeval zonder bewijsvermoeden.",
+      "internal_cross_references_checked": [
+        "art-207",
+        "art-209",
+        "art-211"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:RBALM:1999:AA3942"
+      ]
+    },
+    {
+      "id": "art-211",
+      "official_path": "/TiteldeelI/AfdelingElfde/Artikel211",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "f24b0e222288770c7dad22299e8e798d3f253201f4cf86fd37c6dbdb6e776e89",
+      "commentary_before_sha256": "13300350e50bac75040ea9185a6309d96b468cdc4b2cce6fffd6abb4133a6054",
+      "commentary_after_sha256": "13300350e50bac75040ea9185a6309d96b468cdc4b2cce6fffd6abb4133a6054",
+      "result": "accepted_without_change",
+      "assessment": "Expliciet hogerberoep- en cassatieverbod alleen voor deze beslissing; geen onbewezen doorbrekingsleer ingevoegd.",
+      "internal_cross_references_checked": [
+        "art-210"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212",
+      "official_path": "/TiteldeelI/AfdelingElfde/Artikel212",
+      "source_paragraphs_reviewed": "ongesplitst",
       "source_notes_reviewed": [
         "Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging."
       ],
-      "statutory_text_sha256": "b60e246f94c8b55cb3c026f1127dd5275ad929faba5c221e6a880c427d9c34eb",
-      "commentary_before_sha256": "554dece1c775494915f99b8e1c447c5d3ec59cf042394e22f46ddc6b5f00db4a",
-      "commentary_after_sha256": "90bbb541afd2b20ac08b769dc6a649bb5c156faca2bc0e975a829c20777068a4",
-      "result": "corrected_or_extended",
-      "assessment": "Acht dagen vanaf gegeven beschikking; zitting binnen twintig dagen; curator/iedere schuldeiser versus schuldenaar; openbare deelname en twee routes tot verbindendheid.",
-      "internal_cross_references_checked": [
-        "art-183",
-        "art-185",
-        "art-189",
-        "art-192"
-      ],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-188",
-      "official_path": "/TiteldeelI/AfdelingZevende/Artikel188",
-      "source_paragraphs_reviewed": "1–3",
-      "source_notes_reviewed": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "statutory_text_sha256": "e431509e2e3d9a5a040a28b009ac87dd304d09417369ce57cb09a597236d50d9",
-      "commentary_before_sha256": "c7b5c2c1ec088878190ca39fe622625802fbb5712378ac87e048b64a7ad5a987",
-      "commentary_after_sha256": "9fc70ec6e9ffbc81051608437b0f5e868a16bba25b94f9588cd3089cfae26c26",
-      "result": "corrected_or_extended",
-      "assessment": "Cumulatie levering en koopprijs; alle hypotheken tegenover alleen niet-tegenwerpelijke beperkte rechten; verklaring op verzoek, inschrijving bij of na levering; Rv578-schepenverwijzing niet inhoudelijk uitgebreid.",
-      "internal_cross_references_checked": [],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-189",
-      "official_path": "/TiteldeelI/AfdelingZevende/Artikel189",
-      "source_paragraphs_reviewed": "1–2",
-      "source_notes_reviewed": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "statutory_text_sha256": "582f7c1596e17502608fa8647c3823b408977a119bb125a257885b6396499b0f",
-      "commentary_before_sha256": "3abe9159383dbb9ebcbd8cb656e1c1fe907d262bf1ec8ee48b09fde66fd382c7",
-      "commentary_after_sha256": "3abe9159383dbb9ebcbd8cb656e1c1fe907d262bf1ec8ee48b09fde66fd382c7",
+      "statutory_text_sha256": "3d30db2b177773ea5a59f6b29132d51df06899e012ea2f4405aaa3cfce6cd3f8",
+      "commentary_before_sha256": "d49b2314a91cf2b7950e60db50e33aa26255abe54492d5887422c597f87458d4",
+      "commentary_after_sha256": "d49b2314a91cf2b7950e60db50e33aa26255abe54492d5887422c597f87458d4",
       "result": "accepted_without_change",
-      "assessment": "Voorwaardelijke toelating en betwiste voorrang gescheiden; bij rang alleen meerdere boven concurrent percentage reserveren; geen fictieve volledige blokkade.",
+      "assessment": "Openbare toewijzing en centraal register bevestigd tegen19/19a; geen foutieve terugkeer naar oude lokale registratie; checklist specifiek.",
       "internal_cross_references_checked": [
-        "art-181",
-        "art-192"
-      ],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-190",
-      "official_path": "/TiteldeelI/AfdelingZevende/Artikel190",
-      "source_paragraphs_reviewed": "ongesplitst",
-      "source_notes_reviewed": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "statutory_text_sha256": "9ce188013cb8b63fa75fb938e59400430bfacd8f1bb667b00e06bf75bd156b60",
-      "commentary_before_sha256": "a246755870015abad4dde36cf9456c1720af8dde77b7761f8d9991156393b510",
-      "commentary_after_sha256": "38e4f0ea8ce789e8cfd49d6656b7684b3efd730d5332a625855b0fa3b5431acb",
-      "result": "corrected_or_extended",
-      "assessment": "Correctie uitsluitend reeds ontvangen percentage over hetzelfde batig gerangschikte bedrag; numeriek voorbeeld6000 minus600 niet minus1000.",
-      "internal_cross_references_checked": [
-        "art-179",
-        "art-180"
-      ],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-191",
-      "official_path": "/TiteldeelI/AfdelingZevende/Artikel191",
-      "source_paragraphs_reviewed": "vervallen",
-      "source_notes_reviewed": [
-        "Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging."
-      ],
-      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-      "commentary_before_sha256": "d7e10c679c0778801d8901adc499c43facdbab6b46ceecaa0d9daacaf7e34ccb",
-      "commentary_after_sha256": "d7e10c679c0778801d8901adc499c43facdbab6b46ceecaa0d9daacaf7e34ccb",
-      "result": "accepted_without_change",
-      "assessment": "Lege plaats en overgangsnotitie2018 behouden; geen huidige bevoegdheid afgeleid.",
-      "internal_cross_references_checked": [
-        "art-189",
-        "art-190",
-        "art-192"
-      ],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-192",
-      "official_path": "/TiteldeelI/AfdelingZevende/Artikel192",
-      "source_paragraphs_reviewed": "ongesplitst",
-      "source_notes_reviewed": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "statutory_text_sha256": "e47de5ca2b20ecebbab10c5e1fc7c4bd60fd677fbce824467fc460e05a751893",
-      "commentary_before_sha256": "0d108dcbcb9c1181fc13daf7c5fe42fcd69ad635b84882d1c93922713ba692ea",
-      "commentary_after_sha256": "78851bee5d83072ad13dad7e190b5f4d360487d66dbbf8a063abb5126101d9b1",
-      "result": "corrected_or_extended",
-      "assessment": "Letterlijke betaalmomenten, samenhang187lid4/189; niet-beschikte uitdelingen binnen maand versus gereserveerde; geen inhoudelijke nieuwe verificatie.",
-      "internal_cross_references_checked": [
-        "art-183",
-        "art-187",
-        "art-189"
-      ],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-193",
-      "official_path": "/TiteldeelI/AfdelingZevende/Artikel193",
-      "source_paragraphs_reviewed": "1–3",
-      "source_notes_reviewed": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "statutory_text_sha256": "441f43e485b4ae6caf3070c77bb30acc96b97e93502f7b5d0f6b1154f14cde59",
-      "commentary_before_sha256": "c41bf2cec03d499ebbafb6dbed148a21f54aa2cda19afa3c8cb7d4ad441ae403",
-      "commentary_after_sha256": "eb9c2ce798608c8b5fbcc84ee419ae4793824eac6c36e22d87544f9c44d251da",
-      "result": "corrected_or_extended",
-      "assessment": "Volledige betaling of verbindende slotlijst; publicatie14; maand verantwoordingsplicht onderscheiden van afgifte boeken; persoonlijke aanspraak TEGEN schuldenaar gecorrigeerd.",
-      "internal_cross_references_checked": [
-        "art-14",
-        "art-193",
-        "art-194"
-      ],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-194",
-      "official_path": "/TiteldeelI/AfdelingZevende/Artikel194",
-      "source_paragraphs_reviewed": "ongesplitst",
-      "source_notes_reviewed": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "statutory_text_sha256": "cebfb451373795e970996d3a4091a6e19b953afef5bad42b3e8cbf956d46b206",
-      "commentary_before_sha256": "84c8acb395233d0908919f03fdcbc2cfd12f32df1e627369119c928c88a7d511",
-      "commentary_after_sha256": "d323a7aea542efb451ed32187116f2d33055335a6ce5a2f2610ebcf3453888da",
-      "result": "corrected_or_extended",
-      "assessment": "Terugvallende reserveringen en onbekende baten; rechtbankbevel versus RC-goedkeuring; vroegere lijsten als basis, geen universele heropening.",
-      "internal_cross_references_checked": [
-        "art-180",
-        "art-189",
-        "art-193"
-      ],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-195",
-      "official_path": "/TiteldeelI/AfdelingAchtste/Artikel195",
-      "source_paragraphs_reviewed": "ongesplitst",
-      "source_notes_reviewed": [
-        "Tekstplaatsing met aanpassing van de spelling.",
-        "Bij Achtste afdeling Van de rechtstoestand des schuldenaars na afloop van de vereffening: Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "statutory_text_sha256": "bfcc537eef8aed9d3dd0f7922ce056bc507460db14897c16ffe59a1b95122ed9",
-      "commentary_before_sha256": "0a6b4b7d8a24c0f6ab9902e03391b33c470e5d30934c92ba29b642a617504a58",
-      "commentary_after_sha256": "0a6b4b7d8a24c0f6ab9902e03391b33c470e5d30934c92ba29b642a617504a58",
-      "result": "accepted_without_change",
-      "assessment": "Terugkeer individuele executie bij verbindende slotlijst voor onvoldaan deel, geen automatische kwijtschelding of titelgarantie.",
-      "internal_cross_references_checked": [
-        "art-196",
-        "art-197"
-      ],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-196",
-      "official_path": "/TiteldeelI/AfdelingAchtste/Artikel196",
-      "source_paragraphs_reviewed": "ongesplitst",
-      "source_notes_reviewed": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "statutory_text_sha256": "a66610b9aad94742d83ab20b2f63e047c7d661d400c1d59c33e1a6f34bde59f8",
-      "commentary_before_sha256": "40c95f74ac4c0a24a1ce2cbd7281799ef339eba481db5e55582e518077c74fde",
-      "commentary_after_sha256": "24fd0dc8313ca12705a7a6ab4858c1eb79c3ce1c4170e977cb09d1fadb594a79",
-      "result": "corrected_or_extended",
-      "assessment": "121lid4-erkenning en ondertekend verificatiePV, geen voorlopige lijst; HR7593.4.4–7 twintigjaar vanaf dag na ondertekening; titel niet onverjaarbaar.",
-      "internal_cross_references_checked": [
-        "art-121",
-        "art-197"
-      ],
-      "case_authorities_checked": [
-        "ECLI:NL:HR:2016:759"
-      ]
-    },
-    {
-      "id": "art-197",
-      "official_path": "/TiteldeelI/AfdelingAchtste/Artikel197",
-      "source_paragraphs_reviewed": "ongesplitst",
-      "source_notes_reviewed": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "statutory_text_sha256": "69041dab3bf97b7acf7a1633e7ec601a991d89b2b383ae36da788c35fd45a9c9",
-      "commentary_before_sha256": "55a58f726dcce21f58be1d7ec24213027267897caa096ca15928fd713df01e46",
-      "commentary_after_sha256": "49076d2d183d38b364accd0db4efd5e7724c3f4479bbac40ac90c45ca672260d",
-      "result": "corrected_or_extended",
-      "assessment": "126-betwisting bewaart uitzondering tegen persoonlijke titelwerking, ook partieel; gronden en expliciete afbakening126lid2 vereist; niet vernietiging erkende boedelclaim.",
-      "internal_cross_references_checked": [
-        "art-126",
-        "art-196"
-      ],
-      "case_authorities_checked": [
-        "ECLI:NL:HR:2016:759"
-      ]
-    },
-    {
-      "id": "art-198",
-      "official_path": "/TiteldeelI/AfdelingNegende/Artikel198",
-      "source_paragraphs_reviewed": "vervallen",
-      "source_notes_reviewed": [],
-      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-      "commentary_before_sha256": "ca43e2e73c241f844feea958824eaa8d338cceef0fea4760d77032838a965536",
-      "commentary_after_sha256": "b024c510ab37e80a42cea23667b00c41d66c7bf4f42907cf13c69600bd8202be",
-      "result": "corrected_or_extended",
-      "assessment": "Historische2002nalatenschapsaanvraag onderscheiden van huidig vervallen slot; resterende verwijzing5 vult leeg materieel artikel niet aan.",
-      "internal_cross_references_checked": [
-        "art-5"
-      ],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-199",
-      "official_path": "/TiteldeelI/AfdelingNegende/Artikel199",
-      "source_paragraphs_reviewed": "vervallen",
-      "source_notes_reviewed": [],
-      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-      "commentary_before_sha256": "add3720f1af682a0944cf3ece9c6deae9f07e4c15e1aaf4eb39f4073f21c24aa",
-      "commentary_after_sha256": "b8560bdbae7fc4edbeccf83ea0a6d0161cda2427b25f24a3a615ea0b9a8f212b",
-      "result": "corrected_or_extended",
-      "assessment": "Historische2002bevoegde rechtbank en erfgenamenoproeping afzonderlijk verantwoord; geen huidige oproepingsregel.",
-      "internal_cross_references_checked": [],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-200",
-      "official_path": "/TiteldeelI/AfdelingNegende/Artikel200",
-      "source_paragraphs_reviewed": "vervallen",
-      "source_notes_reviewed": [],
-      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-      "commentary_before_sha256": "4ce9de2ce00434f24cf77d69e2a3a9ea2b735ccfe54009963a9a74903c1355f3",
-      "commentary_after_sha256": "b48b7058737d091087849ed44f0d685fbc344dbbbad60b28b83f3862eb7656b6",
-      "result": "corrected_or_extended",
-      "assessment": "Historische2002vermogensafscheiding uitgelegd met tijdsgrens; geen actuele erfgenamenaansprakelijkheid afgeleid.",
-      "internal_cross_references_checked": [],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-201",
-      "official_path": "/TiteldeelI/AfdelingNegende/Artikel201",
-      "source_paragraphs_reviewed": "vervallen",
-      "source_notes_reviewed": [],
-      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-      "commentary_before_sha256": "d26877a621b61e5ba5ef2e4b6b8ca53d15cfb54d8d0db9637b74c7208afc0404",
-      "commentary_after_sha256": "7229739e5ad04f69613a8862ca64cd820ee5d07cb90da69d755b61c9e0ac351b",
-      "result": "corrected_or_extended",
-      "assessment": "Historische2002aanvraagtermijnen nalatenschap versus actuele lege plaats; geen huidige termijn naverdeling.",
-      "internal_cross_references_checked": [],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-202",
-      "official_path": "/TiteldeelI/AfdelingNegende/Artikel202",
-      "source_paragraphs_reviewed": "vervallen",
-      "source_notes_reviewed": [],
-      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
-      "commentary_before_sha256": "ead26129a5a2c589546a506f49b38c3cf372d2d390d6f4788631ea982af03fef",
-      "commentary_after_sha256": "7f1593956807c1e5b3d4c85284c968999135e281314f488e2897fcc9282878b4",
-      "result": "corrected_or_extended",
-      "assessment": "Historische2002uitsluiting akkoord/achtsteafdeling met zuivere-aanvaardingsuitzondering; geen actuele uitzondering195–197.",
-      "internal_cross_references_checked": [],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-203",
-      "official_path": "/TiteldeelI/AfdelingTiende/Artikel203",
-      "source_paragraphs_reviewed": "ongesplitst",
-      "source_notes_reviewed": [
-        "Tekstplaatsing met aanpassing van de spelling.",
-        "Bij Tiende afdeling Bepalingen van internationaal recht: Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "statutory_text_sha256": "18d86e08665c1d14cd4a3cd8d11e988371f10f6d90a88a26963f34cadbb6536e",
-      "commentary_before_sha256": "03620ccc6ed01968881a5d6d3f7ccbdb2c380ad9c535c9a47396ac5ae6f8c841",
-      "commentary_after_sha256": "f6d45947f2d7fcb925f75df5358b3215c722910eeb831cedacd8115776d0d0ed",
-      "result": "corrected_or_extended",
-      "assessment": "Na faillissement afzonderlijk ontvangen buitenlandse opbrengst; voorrangsuitzondering dubbel getoetst volgens HR16303.3.4/3.4, niet enkel nationale naam of buitenlands label.",
-      "internal_cross_references_checked": [
-        "art-20"
-      ],
-      "case_authorities_checked": [
-        "ECLI:NL:HR:2014:1630"
-      ]
-    },
-    {
-      "id": "art-204",
-      "official_path": "/TiteldeelI/AfdelingTiende/Artikel204",
-      "source_paragraphs_reviewed": "1–2",
-      "source_notes_reviewed": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "statutory_text_sha256": "095f317bdcb8aa4f6159d606a60156a48a108ee6e5ff284065a3a1f140497086",
-      "commentary_before_sha256": "315f9998c323f0f3f53ba052ae7dd013c6d3c422a03c7eb01e0aa5a7f8306f13",
-      "commentary_after_sha256": "47433525e81d080135605973b56b6df2fdad364b137d3d215ef4413bc378abbd",
-      "result": "corrected_or_extended",
-      "assessment": "Overdrager vergoedt werkelijk verhaal bij doelgerichte cessie; vermoeden weerlegbaar bij kennis aanvraag, niet pas uitspraak.",
-      "internal_cross_references_checked": [
-        "art-203"
-      ],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-205",
-      "official_path": "/TiteldeelI/AfdelingTiende/Artikel205",
-      "source_paragraphs_reviewed": "1–2",
-      "source_notes_reviewed": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "statutory_text_sha256": "70591cfdcad6ece1efdcdb1c5de35eaf2e867091eb2087322f4d5b6f2bc644a8",
-      "commentary_before_sha256": "c86d0c38efa73b24c1c96ae980fc384f5f254a37351bb3043d5b6a67d2c1ea7f",
-      "commentary_after_sha256": "61aae6d36a05ad4d0f8516ec35aabd82e4d6c25119d04aaacfd22840f5794103",
-      "result": "corrected_or_extended",
-      "assessment": "Overdracht schuld OF vordering, causaliteit en Fw-verboden buitenlandse verrekening; vermoeden204lid2;54alle drie leden onderscheiden.",
-      "internal_cross_references_checked": [
-        "art-54",
-        "art-204"
-      ],
-      "case_authorities_checked": []
-    },
-    {
-      "id": "art-206",
-      "official_path": "/TiteldeelI/AfdelingElfde/Artikel206",
-      "source_paragraphs_reviewed": "ongesplitst",
-      "source_notes_reviewed": [
-        "Tekstplaatsing met aanpassing van de spelling. Abusievelijk is 'erfgenamen' vervangen door 'erfgenamen,'",
-        "Bij Elfde afdeling Van rehabilitatie: Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "statutory_text_sha256": "c71c27850afd44f66556edbe3a0878119b22ad5fcacc72d3c95edb8032592463",
-      "commentary_before_sha256": "489108a04eb8c7e13ad2dd45359ba68c290762f340b0df23b854898a0634c0c1",
-      "commentary_after_sha256": "a11412fb64918cc9e4a53a9acc731e0cc6baf4fe9dd29e569899d49778d46c3b",
-      "result": "corrected_or_extended",
-      "assessment": "Alleen einde161/193, verzoek schuldenaar/erfgenamen rechtbank;5advocaat en207bewijs; source typo behouden, geen schuldkwijtschelding.",
-      "internal_cross_references_checked": [
-        "art-5",
-        "art-161",
-        "art-193",
+        "art-19",
+        "art-19a",
         "art-207",
-        "art-208",
-        "art-209",
-        "art-210",
-        "art-211",
-        "art-212"
+        "art-208"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212a",
+      "official_path": "/TiteldeelI/Afdeling11A/Artikel212a",
+      "source_paragraphs_reviewed": "a–p; a1/2,b1–3,j1/2",
+      "source_notes_reviewed": [
+        "Artikel III van Stb. 2025/363 bevat overgangsrecht m.b.t. deze wijziging.",
+        "Bij Afdeling 11A Van het definitieve karakter van de afwikkeling van betalingen en effectentransacties in betalings- en afwikkelingssystemen: Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "98c1888e995b5f9b52b9b4ebd38558d088dd5e143d449744421b3f722b2814bc",
+      "commentary_before_sha256": "eb2c03472380460d6df0ee7ab4f8364f9cab13ae75c89beb431e122fc257f513",
+      "commentary_after_sha256": "669d5fc3f36853483c3d5d960b47dc9e78ecdb170202368df0ddcdf2c15f409a",
+      "result": "corrected_or_extended",
+      "assessment": "Alle rollen en opdrachten onderscheiden; b3eigen minimum/exclusies; werkdag dag/nacht; bereik11AA; overgangIII2025/363 geverifieerd.",
+      "internal_cross_references_checked": [
+        "art-212b",
+        "art-212d"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212b",
+      "official_path": "/TiteldeelI/Afdeling11A/Artikel212b",
+      "source_paragraphs_reviewed": "1–6",
+      "source_notes_reviewed": [
+        "Artikel III van Stb. 2025/363 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "f587fdfa59ed43318f15c2cd7f44adf8fb38d808a5ed4338e2fc741dd0f7f396",
+      "commentary_before_sha256": "d3b07f4e1f1436815a3b31f4d38c2bf1a33fd9c27294377f5b89cbf2e244bb1e",
+      "commentary_after_sha256": "4fceabe78207508ebf44808763bba82c137ae66dd7c5a4167bd6b3e849b37d0b",
+      "result": "corrected_or_extended",
+      "assessment": "Minuutwerking; afkoelingbevoegdheden/goederen; lid3niet-tegenwerpelijkheid, werkdag en exploitantkennis bij onherroepelijkheid; lid4alleen1/3; interoperabiliteit en overgang.",
+      "internal_cross_references_checked": [
+        "art-23",
+        "art-24",
+        "art-35",
+        "art-53",
+        "art-54",
+        "art-63a",
+        "art-212a"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212c",
+      "official_path": "/TiteldeelI/Afdeling11A/Artikel212c",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [
+        "Artikel III van Stb. 2025/363 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "c2fa1d5d26175e6cdbb547c81ca7f4c5faf80a6ad8a06ce6dbe6dde5ea1dbd8c",
+      "commentary_before_sha256": "0e12f6139a1df72cb40b2a646000f3933511c53146bfeb12aa9ed2f6f4a75f5f",
+      "commentary_after_sha256": "ddf7e1d588174b4e66c7b0c9078858678f13be466853e2e96908965588d47fa8",
+      "result": "corrected_or_extended",
+      "assessment": "Onverwijlde griffier/DNB/autoriteitenketen; gegevensregels derde land; geen automatische verschuiving werking; overgang geverifieerd.",
+      "internal_cross_references_checked": [
+        "art-212a",
+        "art-212b",
+        "art-212d"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212d",
+      "official_path": "/TiteldeelI/Afdeling11A/Artikel212d",
+      "source_paragraphs_reviewed": "1–8;1a/b,2a/b",
+      "source_notes_reviewed": [
+        "Artikel III van Stb. 2025/363 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "de5aa6badad2ca0510bf0cda8c36734d2942a8897d2db2c06b86799d0c2ad3e0",
+      "commentary_before_sha256": "26bb209ad3c8ca9009b596372479e7fdcf576bce634d565d9a2f7c2edec82f5c",
+      "commentary_after_sha256": "eae84a12fe3f0cdd7cb75433ce7275de89729597dcbc054e52104cbd7b83dff1",
+      "result": "corrected_or_extended",
+      "assessment": "Verschillende uitsluitingslijsten1/2 en clearing/uitvoering niet gelijkgesteld; systeemovereenkomst3; voorschriften4; exploitant5; letterlijke publicatieverwijzing6; aanmelding7; instelling8; overgang.",
+      "internal_cross_references_checked": [
+        "art-212a"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212e",
+      "official_path": "/TiteldeelI/Afdeling11A/Artikel212e",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "e97c3a01d782079a2ec5560a90396208b4f3305e9ca5c3df4e27497652a9e512",
+      "commentary_before_sha256": "86b8126b5a73bf11bebe00010a2d5c8a2a8281aa5cc2f4c2cd472370d6460b04",
+      "commentary_after_sha256": "86b8126b5a73bf11bebe00010a2d5c8a2a8281aa5cc2f4c2cd472370d6460b04",
+      "result": "accepted_without_change",
+      "assessment": "Systeemgebonden conflictenregel, niet alle schulden of goederen; buitenlandse uitkomst niet uit Fw alleen afgeleid.",
+      "internal_cross_references_checked": [
+        "art-212a",
+        "art-212b"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212f",
+      "official_path": "/TiteldeelI/Afdeling11A/Artikel212f",
+      "source_paragraphs_reviewed": "vervallen",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "1cd556310c92b49e60444e4dc24cf2c29aad5f3f4f01dc70f7ea3d69fd8641bf",
+      "commentary_after_sha256": "478a6ccfff5333445d08c9dcb704fcd4a0926c0c3b2c9bd6b2f5b9725eaab903",
+      "result": "corrected_or_extended",
+      "assessment": "Actuele lege plaats; eigen2002effectenzekerheden-conflictenregel alleen historisch toegevoegd; checklist behouden.",
+      "internal_cross_references_checked": [
+        "art-212a",
+        "art-212e"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212g",
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212g",
+      "source_paragraphs_reviewed": "1a–u; f1/2;2a/b",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "e005bf99386d94381a0127d9f4c2ec5728fab6a20c23a4a479870fd258f8ffe8",
+      "commentary_before_sha256": "969dc2d92bff027405617025ccc696c9b10f79342ef0d4346fc1391d8c896c95",
+      "commentary_after_sha256": "23adefb41a2e7d80aa293d64f929dcae9cbc0912bd406d02961a1282ad20cc26",
+      "result": "corrected_or_extended",
+      "assessment": "Alle categorieën en instrumentverwijzingen onderscheiden; deposito-overeenkomst; gegarandeerd versus in aanmerking komend; lid1bereik11AB versus lid2dezeafdeling; brontypografie bewaard.",
+      "internal_cross_references_checked": [
+        "art-212h"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212h",
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212h",
+      "source_paragraphs_reviewed": "1–3;3a/b",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "f6d011bc90d4a0231f32d355bbeef6fb46bf29d43fa5c8e2ec0071cd80857df6",
+      "commentary_before_sha256": "7ded5d07da6421bbaf359a62f4e3f82685ee9749a06660cf0195a714125dc5a1",
+      "commentary_after_sha256": "7ded5d07da6421bbaf359a62f4e3f82685ee9749a06660cf0195a714125dc5a1",
+      "result": "accepted_without_change",
+      "assessment": "Amsterdam, verbod elders vergunde lidstaatbank; onvergunde lidstaat en derdeland bijkantoor; EER niet vergeten.",
+      "internal_cross_references_checked": [
+        "art-2",
+        "art-212g"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212ha",
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212ha",
+      "source_paragraphs_reviewed": "1–4;4a/b",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "df489df7e83c8343c17e18c41b070400962e79cce81762184872d480eece74fe",
+      "commentary_before_sha256": "323d9a050cc1a33d4dca7705fb2a3989c9e1ac33d079df19376bc3346cdbb4ee",
+      "commentary_after_sha256": "15066a3ae35345d160fd5d2ef3c113a2fc3536a368ac7f8199efa02677a99b67",
+      "result": "corrected_or_extended",
+      "assessment": "DNB/SRB-oordeel versus DNB-verzoek; uitsluiting anderen; eigen aangifte en onverwijlde meldingen; zeven dagen vanaf DAGTEKENING, alternatieve DNB-mededeling niet cumulatief.",
+      "internal_cross_references_checked": [
+        "art-1",
+        "art-212g",
+        "art-212h",
+        "art-212hg"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212hb",
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hb",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "63aa2e35028f03e7e4bc7e69d3d2b2dc318d0f89444c3ffdfe66a05452d71a55",
+      "commentary_before_sha256": "5aa8ad542d74c6311e835bc4a80f7b555b4f5a7e49d2ce6153d1ea06b4c39418",
+      "commentary_after_sha256": "5aa8ad542d74c6311e835bc4a80f7b555b4f5a7e49d2ce6153d1ea06b4c39418",
+      "result": "accepted_without_change",
+      "assessment": "Nederlandse zetel, ontbrekende genoemde vergunning, gezamenlijke schuldeisers en bijzondere voorziening; geen automatische faillietgrond; uitvoerbaarheid212hi gecontroleerd.",
+      "internal_cross_references_checked": [
+        "art-212ha",
+        "art-212hi"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212hc",
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hc",
+      "source_paragraphs_reviewed": "vervallen",
+      "source_notes_reviewed": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "b72eaf0851c098ae6109d708d6c128edda513071e1005ba2ffb1f8162f038160",
+      "commentary_after_sha256": "8db98ca9a0b61c06e102ad6a9913d3587f7995f8fcd5cad4b8bee591b2cb70ff",
+      "result": "corrected_or_extended",
+      "assessment": "Geen actuele aanvraaggrond; XIVlid4van2018/489daadwerkelijk gelezen: verzekeraars overgang, herleeft bankplaats niet.",
+      "internal_cross_references_checked": [],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212hd",
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hd",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "a5b20f2c71222bc7a31e7f612c897c1297e44c5805edb0e2ddb4fdfa217206d8",
+      "commentary_before_sha256": "5f24a11097f81c555ab54c90b1b4daa8091fb62373076ac00cea8c07ad0095b3",
+      "commentary_after_sha256": "ea32214f067e6143987ba55467283fc77e14acc7be216199a5a02499ebc0a7fb",
+      "result": "corrected_or_extended",
+      "assessment": "Afschrift bank versus inhoud autoriteiten; diensten vanuit vestigingen andere lidstaat precies overgenomen; aanvraag versus publicatie.",
+      "internal_cross_references_checked": [
+        "art-212ha",
+        "art-212hf",
+        "art-212hgd*"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212he",
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212he",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "858579f8bcd1efac9d0543ca9d2fbed2dd0c8042587840c7012321c77e56fdfb",
+      "commentary_before_sha256": "679668c6ead4f33b51584964e73ada44bd2e221382ed8fc720c60a9fff14b9a2",
+      "commentary_after_sha256": "679668c6ead4f33b51584964e73ada44bd2e221382ed8fc720c60a9fff14b9a2",
+      "result": "accepted_without_change",
+      "assessment": "Meeste spoed, besloten behandeling en subsidiair burgerlijk proces; afstemming/wachtvoorwaarde blijft; openbare uitspraak elders gecontroleerd.",
+      "internal_cross_references_checked": [
+        "art-212ha",
+        "art-212hf",
+        "art-212hgd*"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-212hf",
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hf",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "fa59e331162d24c9fbe0e3fb10fda6c3594b95a1fc71a204923d0f280a74a30e",
+      "commentary_before_sha256": "38327f500fe40ef4c34cfaea391c0975d8740bb65486da7873b90ca59cb59a68",
+      "commentary_after_sha256": "13a22bc86d25087f4af174dec2c04cd08a3c47ca17a06dfa98f07f640faaa42c",
+      "result": "corrected_or_extended",
+      "assessment": "Hoorgelegenheid en redelijkheidstoets voor DNB-oordeel a/b, geen automatische toets c of ieder Europees oordeel; relatie summier212hg.",
+      "internal_cross_references_checked": [
+        "art-212ha",
+        "art-212hg"
       ],
       "case_authorities_checked": []
     }
@@ -384,38 +389,34 @@
   "limitations": [
     "Exactly these 20 places substantively reviewed; earlier review evidence preserved, not claimed as work of this process.",
     "342 missing commentaries elsewhere remain; whole-book completion and successful full build are not claimed.",
-    "Full HR2014:1630 and HR2016:759 read and compared to national corpus. HR2016:202 read but rejected as substantive authority: article81 rejection without own explanation, not an adoption of the PHR inadmissibility conclusion. Relevant Fw provisions196/197/203 retain their operative wording. The old EU regulation1346/2000 discussed in 2014 is not presented as current EU law. Selective research; no exhaustive later-treatment check.",
+    "Full RBROT2020:1792 and RBALM1999:AA3942 read. Historical article208 required additional newspaper publication, current article208 does not. National local corpus contains only higher courts and no lower-court matching decision was found. Selective research, no exhaustive later-treatment check.",
     "External Rv, BW, Invorderingswet, EU and transitional instruments are not separately certified in full; statutory references retained and explanations limited to verified Fw or actual judicial holdings.",
     "Fresh second reading inside project; no external professional approval."
   ],
   "review_date_local": "2026-10-21",
-  "checked_at_utc": "2026-10-20T22:17:44.652045+00:00",
+  "checked_at_utc": "2026-10-20T22:22:54.433365+00:00",
   "whole_book_complete": false,
   "technical_evidence": "review-checks.json",
   "changed_units": [
-    "art-187",
-    "art-188",
-    "art-190",
-    "art-192",
-    "art-193",
-    "art-194",
-    "art-196",
-    "art-197",
-    "art-198",
-    "art-199",
-    "art-200",
-    "art-201",
-    "art-202",
-    "art-203",
-    "art-204",
-    "art-205",
-    "art-206"
+    "art-207",
+    "art-208",
+    "art-210",
+    "art-212a",
+    "art-212b",
+    "art-212c",
+    "art-212d",
+    "art-212f",
+    "art-212g",
+    "art-212ha",
+    "art-212hc",
+    "art-212hd",
+    "art-212hf"
   ],
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001860",
     "units": 639,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 391989,
+    "commentary_chars": 400673,
     "errors": [
       "krátký/chybějící komentář u 342 jednotek: ['art-212j(0<400)', 'art-212k(0<400)', 'art-212l(0<400)', 'art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)']"
     ],

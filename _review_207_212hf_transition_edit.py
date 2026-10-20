@@ -1,0 +1,16 @@
+from pathlib import Path
+import re
+W=Path(__file__).resolve().parent
+add={
+'art-212a':'''Voor oudere procedures is de bronnotitie materieel belangrijk. [Artikel III van Stb. 2025/363](sources/review-art-207-212hf-stb-2025-363.xml) behoudt de vroegere afdeling 11A voor faillissementen uitgesproken vóór de inwerkingtreding en voor voordien voorlopig of definitief verleende surseances. De officiële XML dateert deze wijziging op 19 november 2025. De nu beschreven verruiming voor betaal- en elektronischgeldinstellingen mag dus niet alleen wegens de huidige raadpleegdatum op zo'n oudere procedure worden toegepast.''',
+'art-212b':'''Het overgangsrecht van [Stb. 2025/363, artikel III](sources/review-art-207-212hf-stb-2025-363.xml) bewaart de vroegere afdeling 11A voor vóór de inwerkingtreding uitgesproken faillissementen en voordien verleende voorlopige of definitieve surseances. Controleer naast de minuut van het vonnis daarom ook de datum waarmee het toepasselijke wettelijke regime wordt gekozen. De huidige formulering van de opdracht en de bevoegdheid van het systeem om regels vast te leggen wordt niet zonder meer op zo'n oudere procedure teruggeprojecteerd.''',
+'art-212c':'''Ook deze bepaling valt onder de in [artikel III van Stb. 2025/363](sources/review-art-207-212hf-stb-2025-363.xml) behouden vroegere afdeling 11A bij de daarin omschreven oudere faillissementen en surseances. Een actuele deelnemerslijst of huidig berichtprotocol maakt die overgangsvraag niet overbodig. De bronnotitie is dus geen aanwijzing om historische en huidige meldregels tegelijk in één procedure toe te passen.''',
+'art-212d':'''De [overgangsbepaling van Stb. 2025/363, artikel III](sources/review-art-207-212hf-stb-2025-363.xml) verlangt bij de daarin omschreven vóór de inwerkingtreding uitgesproken faillissementen en verleende surseances toepassing van de vroegere afdeling 11A. Houd de datum van aanwijzing, de actuele systeemregels en het voor de insolventieprocedure geldende wettelijke regime uit elkaar; een later geraadpleegde geconsolideerde tekst beantwoordt die laatste vraag niet zelfstandig.''',
+'art-212hc':'''De bronnoot verwijst naar [Stb. 2018/489, artikel XIV lid 4](sources/review-art-207-212hf-stb-2018-489.xml). Die bepaling behoudt oud faillissementsrecht voor vóór de inwerkingtreding van artikel IV uitgesproken faillissementen van een verzekeraar. Dat sectorgebonden overgangsrecht maakt deze vervallen bankrechtelijke plaats niet tot een huidige aanvraaggrond voor banken. Een concreet historisch verzekeraarsdossier vereist zijn eigen vroegere wettelijke toestand.''',
+'art-212f':'''In de officiële historische toestand van 2002 betrof deze plaats het toepasselijke recht op zekerheidsrechten op in een EU- of EER-register, rekening of depot opgenomen effecten. Dat is historische context, geen actuele extra regel naast artikel 212e. Een oud contract met een verwijzing naar artikel 212f kan daarom juist een effectenrechtelijke verwijzing bevatten; de huidige lege plaats levert de vroegere regeling niet opnieuw op.'''
+}
+for p in (W/'commentary').glob('*.md'):
+ s=p.read_text()
+ for k,v in add.items():
+  s=re.sub(r'(^=== '+re.escape(k)+r'\n)(.*?)(?=^=== |\Z)',lambda m:m[1]+m[2].rstrip()+'\n\n'+v+'\n\n',s,flags=re.M|re.S)
+ if s!=p.read_text():p.write_text(s)

@@ -1,0 +1,13 @@
+{
+  "queries": [
+    "site.rechtspraak.nl rehabilitatie \"207\" \"Faillissementswet\"",
+    "site.rechtspraak.nl \"212b\" faillissement",
+    "site.rechtspraak.nl \"212hf\""
+  ],
+  "official_full_decisions_read": [
+    "ECLI:NL:RBROT:2020:1792",
+    "ECLI:NL:RBALM:1999:AA3942"
+  ],
+  "local_corpus_searched": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak: cbb, crvb, hr, phr, rvs and their _raw snapshots; no lower court collection; exact ECLI text and filename search found no matching snapshot.",
+  "limitations": "Selective search, no sufficiently relevant full verified judgment used for other assigned units. No exhaustive negative claim about existence or later treatment."
+}
