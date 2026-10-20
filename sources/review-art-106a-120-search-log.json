@@ -1,0 +1,14 @@
+{
+  "searched_at_utc": "2026-10-20T21:58:51.786989+00:00",
+  "queries": [
+    "site.rechtspraak.nl \"106a\" \"bestuursverbod\" \"ernstige\"",
+    "site.rechtspraak.nl \"Faillissementswet\" \"110\" \"verificatie\" Hoge Raad"
+  ],
+  "selected_full_decisions": [
+    "ECLI:NL:RBOVE:2020:1557"
+  ],
+  "method": "Official search discovery followed by full primary XML read, including parties positions, judicial reasoning and disposition.",
+  "local_corpus_consulted": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2021-112.md",
+  "local_context_disposition": "Read as research context on verification and composition; no proposition or citation added from this decision, whose main scope is penal monetary claims. Local corpus has HR/PHR and administrative decisions; district-court source fetched directly.",
+  "limitations": "Selective research; no exhaustive subsequent treatment check. No separately verified case used for technical verification units."
+}

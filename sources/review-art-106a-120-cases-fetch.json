@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBOVE:2020:1557",
+    "access_timestamp_utc": "2026-10-20T21:57:20.100231+00:00",
+    "raw_path": "sources/review-art-106a-120-case-rbove-2020-1557.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBOVE:2020:1557",
+    "bytes": 18637,
+    "sha256": "3da7ef5c3d17fcf17357f1cf0b76c1d1c851adebf0505e481d4f512e7ba5b174",
+    "headers_path": "sources/review-art-106a-120-case-rbove-2020-1557.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 10974
+  }
+]

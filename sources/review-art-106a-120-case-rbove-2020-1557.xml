@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBOVE:2020:1557</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T19:33:46</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Overijssel" scheme="overheid.RechterlijkeMacht">Rechtbank Overijssel</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">C/08/238179 / HA ZA 19-443</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Almelo</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>INS-Updates.nl 2020-0118</rdf:li>
+          <rdf:li>OR-Updates.nl 2020-0160</rdf:li>
+          <rdf:li>RI 2020/63</rdf:li>
+          <rdf:li>JONDR 2020/599</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:1557">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:1557</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-21T08:42:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBOVE:2020:1557 Rechtbank Overijssel , 08-04-2020 / C/08/238179 / HA ZA 19-443</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBOVE:2020:1557:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Art. 106a Fw. Gedaagde is in ernstige mate tekortgeschoten in de nakoming van zijn verplichtingen als bedoeld in artikel 106a, lid 1, sub c, Fw. Bestuursverbod opgelegd voor een periode van vijf jaar.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBOVE:2020:1557:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>
+      <inlinemediaobject>
+        <imageobject>
+          <imagedata align="center" scale="100" fileref="5aff4abb-0f7e-4634-89b7-af4f073baf80" depth="2" width="13" format="image/png" />
+        </imageobject>
+      </inlinemediaobject>
+      <inlinemediaobject>
+        <imageobject>
+          <imagedata align="center" scale="100" fileref="0c0bc0ba-ef01-423a-bf70-b6440adc8f6d" depth="2" width="523" format="image/png" />
+        </imageobject>
+      </inlinemediaobject>vonnis</para>
+    <bridgehead role="bold">RECHTBANK OVERIJSSEL</bridgehead>
+    <para />
+    <parablock>
+      <para>Team kanton en handelsrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Almelo</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer / rolnummer: C/08/238179 / HA ZA 19-443</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Vonnis van 8 april 2020</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>in de zaak van</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">ADRIANUS CORNELIS BLANKESTIJN Q.Q.</emphasis>
+      </para>
+      <para>in hoedanigheid van curator in het faillissement van Twente Bemiddeling en Advies B.V.,</para>
+      <para>kantoorhoudende te Hengelo,</para>
+      <para>eiser,</para>
+      <para>advocaat mr. A.C. Blankestijn te Hengelo Ov,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [gedaagde]
+        </emphasis>,</para>
+      <para>wonende te [woonplaats] ,</para>
+      <para>gedaagde,</para>
+      <para>advocaat mr. H. Tadema te Deventer.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen zullen hierna curator en [gedaagde] genoemd worden.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>De procedure</title>
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Het verloop van de procedure blijkt uit:</para>
+      <itemizedlist mark="-">
+        <listitem>
+          <para>het tussenvonnis van 29 januari 2020,</para>
+        </listitem>
+        <listitem>
+          <para>de brief met aanvullende producties van de curator van 20 februari 2020,</para>
+        </listitem>
+        <listitem>
+          <para>het proces-verbaal van de op 6 maart 2020 gehouden mondelinge behandeling,</para>
+        </listitem>
+        <listitem>
+          <para>de e-mail correspondentie tussen de advocaat van [gedaagde] en de griffier van de rechtbank direct na de mondelinge behandeling. </para>
+        </listitem>
+      </itemizedlist>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Vonnis is bepaald op vandaag. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>De feiten</title>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Op 10 juli 2018 is Twente Bemiddeling en Advies B.V. (hierna: failliet) in staat van faillissement verklaard met benoeming van mr. A.C. Blankestijn als curator. Ten tijde van het faillissement was [gedaagde] bestuurder en enig aandeelhouder van failliet. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>
+        [gedaagde] is als bestuurder ook betrokken geweest bij NL Kozijnfabriek B.V. en NL Kozijnadvies B.V. NL Kozijnfabriek B.V. en NL Kozijnadvies B.V. zijn respectievelijk 12 april 2016 en 4 oktober 2016 failliet verklaard met benoeming van mr. N.G. Cornelissen als curator. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>3</nr>Het geschil</title>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>De curator vordert – samengevat en zakelijk weergegeven - uitvoerbaar bij voorraad:</para>
+      <itemizedlist mark="-">
+        <listitem>
+          <para>een verklaring voor recht dat [gedaagde] het bepaalde in artikel 106a Faillissementswet (hierna: Fw) geheel of ten dele heeft overtreden;</para>
+        </listitem>
+        <listitem>
+          <para>een verklaring voor recht dat [gedaagde] als bestuurder tenminste tweemaal eerder betrokken was bij een faillissement van een rechtspersoon en hem daarvan een persoonlijk verwijt treft;</para>
+        </listitem>
+        <listitem>
+          <para>een veroordeling tot een bestuursverbod voor de duur van 5 jaar, nadat deze uitspraak in kracht van gewijsde is gegaan welke periode [gedaagde] niet benoemd kan worden als bestuurder van een rechtspersoon;</para>
+        </listitem>
+        <listitem>
+          <para>dat de rechtbank alle overige gevolgen van dit bestuursverbod zal regelen als bedoeld in artikel 106b, lid 4, Fw;</para>
+        </listitem>
+      </itemizedlist>
+      <para />
+      <parablock>
+        <para>met een veroordeling van [gedaagde] in de kosten en nakosten van dit geding.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>De curator legt hieraan ten grondslag dat [gedaagde] in ernstige mate is tekortgeschoten in de nakoming van zijn informatie- of medewerkingsverplichtingen    (106a, lid 1, sub c, Fw). [gedaagde] heeft geweigerd om medewerking te verlenen aan de curator doordat [gedaagde] de administratie van failliet niet heeft overgelegd. Daarnaast legt de curator aan zijn vorderingen ten grondslag dat voorafgaand aan het faillissement van failliet [gedaagde] ten minste tweemaal betrokken is geweest als bestuurder bij een faillissement en hem daarvan een persoonlijk verwijt treft (artikel 106a, lid 1, sub d, Fw). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>
+        [gedaagde] voert verweer. Hij stelt dat de volledige boekhouding is overgelegd aan de curator. Ook bestrijdt [gedaagde] dat hem een persoonlijk verwijt treft in de eerdere faillissementen. Bovendien was NL Kozijnfabriek B.V. al op 12 april 2016 failliet verklaard zodat het civielrechtelijke bestuursverbod hierop niet van toepassing is.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>De beoordeling</title>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Op grond van artikel 106a, lid 1, Fw kan de rechtbank een bestuursverbod opleggen aan de bestuurder (onder meer) als de bestuurder in ernstige mate is tekortgeschoten in de nakoming van zijn wettelijke informatie- of medewerkingsverplichtingen of als de bestuurder ten minste tweemaal eerder betrokken was bij een faillissement van een rechtspersoon en hem daarvan een persoonlijk verwijt treft.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Meewerken informatieverplichting</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <parablock>
+        <para>
+          [gedaagde] heeft niet gereageerd op verzoeken om inzage te geven in de administratie, aldus de curator. De curator heeft alleen twee offertes, een aankoopbon van een Ipad en een leaseovereenkomst van een auto ontvangen van [gedaagde] . Over de verblijfplaats van de overige administratie heeft [gedaagde] geen duidelijkheid gegeven. De curator heeft op basis van eigen onderzoek geconstateerd dat er in de periode tussen 1 januari 2017 en 12 augustus 2018 in totaal € 166.000,00 is op- en afgeboekt op de ING bankrekening van failliet. Hiervan is volgens de curator geen enkele boekhouding verwerkt in de administratie, zoals inkoop en verkoop, btw, winst/verlies etc. </para>
+        <para>
+          [gedaagde] betwist dat hij niet heeft meegewerkt. Hij voert aan dat alle administratie is afgegeven. Dit blijkt volgens [gedaagde] onder meer uit het faillissementsverslag van 26 augustus 2019 van de curator waarin staat vermeldt dat de boekhouding boven water is gekomen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>De rechtbank is van oordeel dat in deze procedure voldoende is komen vast te staan dat [gedaagde] in ernstige mate is tekortgeschoten in de nakoming van zijn verplichtingen als bedoeld in artikel 106a, lid 1, sub c, Fw. [gedaagde] heeft als enig bestuurder en aandeelhouder van de failliet nagelaten de (volledige) digitale en fysieke administratie over de periode vanaf juni 2015 aan de curator te overhandigen, terwijl hij hiertoe op grond van artikel 105 Fw wel verplicht was en de curator hem daarom had verzocht. [gedaagde] stelt dat de volledige boekhouding aan de curator is overhandigd. Dat [gedaagde] zelf de volledige boekhouding aan de curator heeft overhandigd, is door hem echter in het geheel niet onderbouwd. Dat in het faillissementsverslag wordt vermeld dat de boekhouding “<emphasis role="italic">boven water</emphasis>” is gekomen - zoals door [gedaagde] is gesteld - maakt voorgaand oordeel niet anders. Volgens de curator heeft hij (curator) immers zelf bepaalde stukken kunnen opvragen bij bijvoorbeeld de bank. Dit was echter geen volledige boekhouding. Gelet op de gemotiveerde stellingen van de curator had het op de weg van [gedaagde] gelegen om direct met de curator in overleg te treden over de vragen van de curator en uitleg te geven waarom er geen boekhouding voorhanden was terwijl er - blijkens de overgelegde mutatieoverzichten van de ING bankrekening - wel gelden binnenkwamen en uitgingen bij failliet. Door de curator kunnen de verplichtingen van de failliete vennootschap nu niet worden vastgesteld. Ook kan de curator geen onderzoek doen naar eventuele onregelmatigheden in de boekhouding. Dit komt naar het oordeel van de rechtbank voor rekening en risico van [gedaagde] . </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>Resumerend is er alleen al op grond van artikel 106a, lid 1, sub c, Fw voldoende aanleiding om een bestuursverbod op te leggen. Het bestuursverbod zal conform de wet worden opgelegd vanaf het moment dat de uitspraak in kracht van gewijsde is gedaan. Het bestuursverbod zal worden toegewezen voor vijf jaar. Dit betekent dat [gedaagde] gedurende een periode van vijf jaar niet kan worden benoemd tot bestuurder of commissaris van een rechtspersoon. Verder kan hij gedurende vijf jaar niet optreden als feitelijk beleidsbepaler of bestuurder van een rechtspersoon (artikel 106d Fw).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Nu het bestuursverbod wordt toegewezen op grond van artikel 106a, lid 1, sub c, Fw hoeft de vraag of [gedaagde] een persoonlijk verwijt treft bij de faillissementen van NL Kozijnfabriek B.V. en NL Kozijnadvies B.V. (artikel 106a, lid 1, sub d, Fw) - en of het civielrechtelijk bestuursverbod op grond hiervan kan worden toegewezen - verder niet behandeld te worden.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Proceskosten</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <para>
+        [gedaagde] zal als de grotendeels in het ongelijk gestelde partij in de proceskosten worden veroordeeld. De kosten aan de zijde van de curator worden begroot op:</para>
+      <itemizedlist mark="-">
+        <listitem>
+          <para>dagvaarding 		€    101,06</para>
+        </listitem>
+        <listitem>
+          <para>griffierecht		€    297,00</para>
+        </listitem>
+        <listitem>
+          <para>salaris advocaat		<emphasis role="underline">€ 1.086,00 (</emphasis><emphasis role="underline italic">2 punten x liquidatietarief á € 543,00</emphasis><emphasis role="underline">)</emphasis></para>
+        </listitem>
+      </itemizedlist>
+      <para>Totaal			€ 1.484,06</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7.</nr>
+      <parablock>
+        <para>De gevorderde veroordeling in de nakosten is slechts toewijsbaar voor zover de kosten op dit moment reeds kunnen worden begroot. De nakosten zullen dan ook op de navolgende wijze worden toegewezen.</para>
+        <para>
+          <emphasis role="bold">5.	De beslissing</emphasis>
+        </para>
+        <para>De rechtbank:</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>verklaart voor recht dat [gedaagde] het bepaalde in artikel 106 a, lid 1, sub c, Fw heeft overtreden en veroordeelt [gedaagde] tot een bestuursverbod zoals bedoeld in artikel 106a, lid 1, Fw voor de duur van vijf jaar vanaf het moment dat de uitspraak in kracht van gewijsde is gegaan,</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>veroordeelt [gedaagde] in de proceskosten, aan de zijde van de curator tot op heden begroot op € 1.484,06,</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>veroordeelt [gedaagde] in de na dit vonnis ontstane kosten, begroot op € 157,00 aan salaris advocaat, te vermeerderen, onder de voorwaarde dat [gedaagde] niet binnen 14 dagen na aanschrijving aan het vonnis heeft voldaan en er vervolgens betekening van de uitspraak heeft plaatsgevonden, met een bedrag van € 82,00 aan salaris advocaat en de explootkosten van betekening van de uitspraak,</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>verklaart dit vonnis wat betreft de onderdelen 5.2 en 5.3 uitvoerbaar bij voorraad,</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5.</nr>
+      <para>draagt de griffier op om deze uitspraak zodra deze onherroepelijk is geworden, met bekwame spoed aan de Kamer van Koophandel te sturen zodat die kan overgaan tot uitschrijving van de betrokkene als bestuurder uit het handelsregister (voor zover hij staat ingeschreven als bestuurder) en tot registratie van het bestuursverbod gedurende de duur waarvoor het is opgelegd,</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.6.</nr>
+      <para>wijst het meer of anders gevorderde af.</para>
+      <para />
+      <para />
+      <parablock>
+        <para>Dit vonnis is gewezen door mr. H. Bottenberg - van Ommeren en in het openbaar uitgesproken op 8 april 2020 in tegenwoordigheid van de griffier.</para>
+      </parablock>
+    </paragroup>
+  </section>
+</uitspraak>
+</open-rechtspraak>

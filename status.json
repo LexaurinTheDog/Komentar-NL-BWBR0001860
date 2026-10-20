@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-20T21:54:31.360385+00:00",
+  "updated_at_utc": "2026-10-20T21:59:31.621184+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -33,7 +33,7 @@
   },
   "total_units": 639,
   "completed_units": 297,
-  "commentary_characters": 362236,
+  "commentary_characters": 366593,
   "complete_chapters": 22,
   "planned_chapters": 49,
   "completed_scope": "Every official article slot from article 1 through article 212i in selected XML order, including repealed slots and both article 212hgd* and article 212hgd.",
@@ -682,6 +682,36 @@
     "changed": 7,
     "unassigned_commentaries_unchanged": true,
     "evidence": "sources/review-art-90-106-result.json",
+    "whole_book_complete": false
+  },
+  "bounded_review_art_106a_120": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "art-106a",
+      "art-106b",
+      "art-106c",
+      "art-106d",
+      "art-106e",
+      "art-107",
+      "art-108",
+      "art-109",
+      "art-110",
+      "art-110a",
+      "art-111",
+      "art-112",
+      "art-113",
+      "art-114",
+      "art-115",
+      "art-116",
+      "art-117",
+      "art-118",
+      "art-119",
+      "art-120"
+    ],
+    "changed": 6,
+    "unassigned_commentaries_unchanged": true,
+    "evidence": "sources/review-art-106a-120-result.json",
     "whole_book_complete": false
   }
 }
