@@ -1,0 +1,57 @@
+from pathlib import Path
+import json,re,hashlib,datetime,xml.etree.ElementTree as E,sys,html
+W=Path(__file__).resolve().parent
+sys.path.insert(0,'/Volumes/LaCie/open-commentary/_tools')
+from build_repo import load_commentary
+save=lambda p,v:p.write_text(json.dumps(v,ensure_ascii=False,indent=2)+'\n')
+sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
+now=datetime.datetime.now(datetime.timezone.utc).isoformat()
+ids=['art-'+n for n in ['73','73a','74','75','75a','76','77','78','79','80','80a','81','82','83','84','85','86','87','88','89']]
+records=[]
+for n in ['fetch','cases-fetch']:records+=json.loads((W/f'sources/review-art-73-89-{n}.json').read_text())
+for r in records:assert r['accepted'] and r['http_status']==200 and sha(W/r['raw_path'])==r['sha256']
+raw=W/'sources/review-art-73-89-selected.xml';root=E.parse(raw).getroot()
+assert root.get('inwerkingtreding')=='2026-09-01' and sha(raw)==sha(W/'sources/official-2026-09-01.xml')
+h=(W/'sources/review-art-73-89-current.html').read_text()
+assert 'Geraadpleegd op 20-10-2026.' in h and 'Geldend van 01-09-2026 t/m heden.' in h
+wt=E.parse(W/'sources/review-art-73-89-wti.xml').getroot()
+dates=sorted({x.get('waarde') for x in wt.findall('./wijzigingen/regeling/datum') if x.get('waarde')})
+assert max(d for d in dates if d<='2026-10-19')=='2026-09-01'
+assert min(d for d in dates if d>'2026-10-20')=='2027-11-15'
+assert not [d for d in dates if '2026-10-01'<d<='2026-10-20']
+assert E.parse(W/'sources/version-register.xml').getroot().get('inwerkingtreding')=='2002-01-01'
+expected=['art-'+a.get('label').removeprefix('Artikel ') for a in root.findall('.//artikel')]
+htmlids=['art-'+html.unescape(re.sub('<[^>]+>','',t)).strip().removeprefix('Artikel ') for t in re.findall(r'<a\b[^>]*\bid="TOC_[^"]+"[^>]*>(Artikel [^<]+)</a>',h)]
+u=[json.loads(l) for l in (W/'units.jsonl').read_text().splitlines()];by={x['id']:x for x in u}
+assert expected==htmlids==[x['id'] for x in u] and len(expected)==len(set(expected))==639
+norm=lambda s:re.sub(r'\s+','',s)
+def text(e):
+ if e.tag in {'kop','meta-data'}:return ''
+ return (e.text or '')+''.join(' '+text(c)+' '+(c.tail or '') for c in e)
+for a in root.findall('.//artikel'):assert norm(text(a))==norm(by['art-'+a.get('label').removeprefix('Artikel ')]['text'])
+assert not [e for e in root.iter() if 'bijlage' in e.tag.lower() or 'annex' in e.tag.lower()]
+assert not re.findall(r'<a\b[^>]*\bid="TOC_[^"]+"[^>]*>[^<]*(?:Bijlage|Annex)',h)
+comp=json.loads((W/'completeness-report.json').read_text());assert comp['ok'] and not comp['unaccounted_legal_text_nodes']
+comparisons=[]
+for k in ['2024-1382', '2021-102', '2026-400', '2014-161']:
+ p=W/f'sources/review-art-73-89-hr-{k}.xml';lp=W/f'sources/review-art-73-89-hr-{k}-local.md'
+ body=''.join(E.parse(p).getroot().find('{*}uitspraak').itertext());local=lp.read_text().split('## Uitspraak\n',1)[1]
+ assert norm(body).endswith(norm(local)),k
+ comparisons.append({'ecli':'ECLI:NL:HR:'+k.replace('-',':'),'official_raw_path':str(p.relative_to(W)),'official_sha256':sha(p),'local_snapshot_path':str(lp.relative_to(W)),'local_sha256':sha(lp),'normalized_corpus_body_is_official_suffix':True})
+save(W/'sources/review-art-73-89-case-comparison.json',comparisons)
+notes={'art-73': ('1–2', 'Hoorplicht en concrete toets lijstschrapping toegevoegd met HR 2024; rekening aan opvolger, initiatiefnemers en 69-route aanvaard.', ['art-65', 'art-69', 'art-85'], ['ECLI:NL:HR:2024:1382']), 'art-73a': ('1–3', 'Aanvaard: drie maanden, verlengbaarheid en kosteloze openbaarheid; a/c-rapportage versus vertrouwelijk b; persoonsgegevens en voorlopige verdenkingen correct.', ['art-68', 'art-68a'], []), 'art-74': ('1–2', 'Aanvaard: facultatieve instelling, oneven aantal, belangrijke groepen en rechtbankvacature via dubbeltal; geen individueel zetelrecht.', ['art-75', 'art-76', 'art-77', 'art-78', 'art-79'], []), 'art-75': ('1–3', 'Aanvaard: raadplegen na verificatie ook zonder voorlopige commissie, dadelijke benoeming bij wens vergadering, proces-verbaal en vacature door RC.', ['art-74'], []), 'art-75a': ('1–2', 'Aanvaard: facultatief reglement bij instelling, passende bekendmaking en ontslag door bevoegde rechter; geen automatische personeelswissel of bevoegdheidswijziging.', ['art-74', 'art-75', 'art-76', 'art-77', 'art-78', 'art-79'], []), 'art-76': ('ongesplitst', 'Aanvaard: tijdige toegang tot alle faillissementsinformatie en inlichtingen tegenover curator, geen publieke inzage door iedere schuldeiser; noodzakelijke gegevensverwerking.', ['art-68a', 'art-73a'], []), 'art-77': ('ongesplitst', 'Aanvaard: curator organiseert, zit voor en voert pen; discretionair overleg heft verplichte adviesmomenten niet op.', ['art-78', 'art-79'], []), 'art-78': ('1 inclusief volledige lijst; 2', 'Volledige verwijzingslijst en werkelijk in huidige bron opgenomen 73 lid 2 uitgewerkt. Procesrollen, verificatie-uitzondering, vereffening en uitdelingsmoment onderscheiden. Oproeping met bekwame termijn geen voorspelde weigering.', ['art-37', 'art-39', 'art-40', 'art-58', 'art-72', 'art-73', 'art-79', 'art-100', 'art-101', 'art-175', 'art-177'], []), 'art-79': ('ongesplitst', 'Aanvaard: niet-bindend advies, onmiddellijke afwijkingsmelding, verklaring commissie en precies drie dagen opschorting; geen onbeperkt veto.', ['art-72'], []), 'art-80': ('1–2', 'Aanvaard: RC voorzitter, curator aanwezig of vervanger met goedvinden, onderscheiden van vormkeuze.', ['art-80a'], []), 'art-80a': ('ongesplitst', 'Aanvaard: RC kiest fysieke, schriftelijke of elektronische vorm; geen wijziging stemgewicht, vertegenwoordiging of oproepregels.', ['art-81', 'art-82', 'art-83', 'art-84'], []), 'art-81': ('1–2', 'Aanvaard: volstrekte stemmenmeerderheid aanwezigen, elke 45 euro plus restantstem; 100 euro geeft 3 stemmen; latere splitsing schept geen extra stemrecht, bijzondere meerderheid voorbehouden.', ['art-82', 'art-83'], []), 'art-82': ('ongesplitst', 'Aanvaard: erkend/voorwaardelijk/toonder, niet louter ingediend; betwiste aanspraak niet door stemtoelating definitief; houderschap en gewicht gescheiden.', ['art-81', 'art-83'], []), 'art-83': ('1–2', 'Aanvaard: persoon/schriftelijk gemachtigde/advocaat; vervolgopepen naar gemachtigde tenzij schriftelijk gewijzigd; erkenning en gewicht niet door volmacht hersteld.', ['art-81', 'art-82'], []), 'art-84': ('1–2', 'Stemgerechtigde geadresseerden en uur toegevoegd; beide verzoekdrempels behouden, precies een vijfde voldoende, schriftelijk minimaal tien dagen en agenda.', ['art-80a', 'art-82', 'art-83'], []), 'art-85': ('ongesplitst', 'Vage rechtsmiddelreserve geconcretiseerd: cassatie bij ontslagcurator versus bewaring/schorsing geheel buiten beheer/vereffening, met HR-bronnen; geen uniforme termijn verzonnen.', ['art-67', 'art-73', 'art-87', 'art-88'], ['ECLI:NL:HR:2024:1382', 'ECLI:NL:HR:2021:102']), 'art-86': ('ongesplitst', 'Op de minuut en categorietoets toegelicht; geen omzeiling vrijheidswaarborgen. Uitzondering 106b lid6 en checklist aanvaard.', ['art-13', 'art-85', 'art-106b'], ['ECLI:NL:HR:2021:102']), 'art-87': ('1–4', 'Bewaringsplaatsen/toezicht en initiatiefregels verduidelijkt. Schorsing, stilstaande termijn, herbeoordeling en ontbrekende grond toegevoegd; HR 2026 contactverbod afgewogen tegen eigenlijke dictum, geen inherente extra beperking.', ['art-88', 'art-105', 'art-105a'], ['ECLI:NL:HR:2021:102', 'ECLI:NL:HR:2026:400']), 'art-88': ('1–2', 'Zekerheidsdoel behouden; ontslag en schorsing gescheiden, verzoek tijdens schorsing en gebruiksrestrictie bij wilsafhankelijke informatie toegevoegd. Geen algemeen zwijgrecht of documentimmuniteit afgeleid.', ['art-87', 'art-105'], ['ECLI:NL:HR:2021:102', 'ECLI:NL:HR:2014:161']), 'art-89': ('vervallen slot', 'Aanvaard: geen voortlevende grond of termijnverlenging; historische vermelding vraagt toenmalig recht.', ['art-87', 'art-88'], [])}
+assert list(notes)==ids
+c=load_commentary(str(W));before=json.loads((W/'sources/review-art-73-89-before-hashes.json').read_text())
+assert len(c)==len(before)==297
+assert all(hashlib.sha256(v.encode()).hexdigest()==before[k] for k,v in c.items() if k not in ids)
+rows=[]
+for k in ids:
+ for ref in notes[k][2]:assert ref in by
+ rows.append({'id':k,'official_path':by[k]['official_path'],'source_paragraphs_reviewed':notes[k][0],'source_notes_reviewed':by[k]['notes'],'statutory_text_sha256':hashlib.sha256(by[k]['text'].encode()).hexdigest(),'commentary_before_sha256':before[k],'commentary_after_sha256':hashlib.sha256(c[k].encode()).hexdigest(),'result':'corrected_or_extended' if hashlib.sha256(c[k].encode()).hexdigest()!=before[k] else 'accepted_without_change','assessment':notes[k][1],'internal_cross_references_checked':notes[k][2],'case_authorities_checked':notes[k][3]})
+pre={'complete':True,'decisive_date':'2026-10-19','official_url':'https://wetten.overheid.nl/BWBR0001860/2026-09-01','verified_at':now,'version_evidence':{'fresh_records':'sources/review-art-73-89-fetch.json','selected_toestand':'2026-09-01_0','current_validity':'Geldend van 01-09-2026 t/m heden; geraadpleegd op 20-10-2026','latest_effective_change':'2026-09-01','changes_since_intake':[],'next_dated_change_excluded':'2027-11-15'},'historical_versions_checked':[{'path':'sources/version-register.xml','sha256':sha(W/'sources/version-register.xml'),'effective_from':'2002-01-01','disposition':'Historical version excluded, no historical concatenation.'},{'path':str(raw.relative_to(W)),'sha256':sha(raw),'effective_from':'2026-09-01','disposition':'639 unique simultaneous current slots; 212hgd* and 212hgd distinct.'}],'annexes_checked':comp['annexes'],'opening_and_closing_text_checked':comp['non_article_text'],'coverage_complete':True,'unresolved_blockers':[]}
+save(W/'sources/review-art-73-89-preflight-result.json',pre)
+p=W/'preflight-result.json';v=json.loads(p.read_text());v['bounded_review_art_73_89_recheck']=pre;save(p,v)
+checks={'ok':True,'reviewed_ids':ids,'reviewed_count':20,'unassigned_commentaries_unchanged':True,'expected_official_count':639,'parsed_count':639,'independent_html_toc_count':639,'statutory_verbatim_ratio':1.0,'source_records':'sources/review-art-73-89-fetch.json','case_comparison':'sources/review-art-73-89-case-comparison.json','commentaries_changed':sum(r['result']=='corrected_or_extended' for r in rows)}
+result={'kind':'bounded_independent_second_pass','complete':True,'units_reviewed':20,'reviewed_ids':ids,'unresolved_blockers':[],'findings':rows,'limitations':['Exactly these 20 places substantively reviewed; earlier review evidence preserved, not claimed as work of this process.','342 missing commentaries elsewhere remain; whole-book completion and successful full build are not claimed.','Four selected full HR decisions independently fetched and compared with national corpus; no exhaustive case-law search or separate case for every technical article.','External Rv, BW, Invorderingswet, EU and transitional instruments are not separately certified in full; statutory references retained and explanations limited to verified Fw or actual HR holdings.','Fresh second reading inside project; no external professional approval.'],'checked_at_utc':now,'whole_book_complete':False,'technical_evidence':'review-checks.json','changed_units':[r['id'] for r in rows if r['result']=='corrected_or_extended']}
+for n,v in [('review-result.json',result),('review-checks.json',checks),('sources/review-art-73-89-result.json',result),('sources/review-art-73-89-checks.json',checks)]:save(W/n,v)
+print(json.dumps(checks))

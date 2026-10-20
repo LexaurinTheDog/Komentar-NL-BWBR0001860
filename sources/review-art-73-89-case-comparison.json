@@ -1,0 +1,34 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2024:1382",
+    "official_raw_path": "sources/review-art-73-89-hr-2024-1382.xml",
+    "official_sha256": "6bbbd23a3422d1f2b73802a147d3cb4e177de5e83239858a7bc37ab29fdc6962",
+    "local_snapshot_path": "sources/review-art-73-89-hr-2024-1382-local.md",
+    "local_sha256": "56a37c89da4b635775bc3d92d3d9bc748a00688e53eaba5c9fb96717272383ed",
+    "normalized_corpus_body_is_official_suffix": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2021:102",
+    "official_raw_path": "sources/review-art-73-89-hr-2021-102.xml",
+    "official_sha256": "bc93171a31cc1d4e573d924c47891add8eb6280514aa8e6551a7153975f1bf3a",
+    "local_snapshot_path": "sources/review-art-73-89-hr-2021-102-local.md",
+    "local_sha256": "eac8e4d4d2b4fbfa8f9b50e60d238fefa2a67b4fcb89fa6da0ec3cb73842b74b",
+    "normalized_corpus_body_is_official_suffix": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2026:400",
+    "official_raw_path": "sources/review-art-73-89-hr-2026-400.xml",
+    "official_sha256": "14f3a07ed3aef95053a718cc840cd19579f343c034d418aeddcd05f5f020dd80",
+    "local_snapshot_path": "sources/review-art-73-89-hr-2026-400-local.md",
+    "local_sha256": "7d15d632d3a0883c1b06fd53588af2b214c4a5a594a553a314f474f8813782f7",
+    "normalized_corpus_body_is_official_suffix": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2014:161",
+    "official_raw_path": "sources/review-art-73-89-hr-2014-161.xml",
+    "official_sha256": "efc3943ff98b06511b329633cec5da316a194c5953d9082b2acf5afc5f53986a",
+    "local_snapshot_path": "sources/review-art-73-89-hr-2014-161-local.md",
+    "local_sha256": "08c66e1b18bcf4ac88330deff57040f0078689173142b421f67ba9f16abd5a81",
+    "normalized_corpus_body_is_official_suffix": true
+  }
+]

@@ -1,0 +1,448 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-73",
+    "art-73a",
+    "art-74",
+    "art-75",
+    "art-75a",
+    "art-76",
+    "art-77",
+    "art-78",
+    "art-79",
+    "art-80",
+    "art-80a",
+    "art-81",
+    "art-82",
+    "art-83",
+    "art-84",
+    "art-85",
+    "art-86",
+    "art-87",
+    "art-88",
+    "art-89"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "art-73",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf2/Artikel73",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "147b3706d9bec0b4ab905558b5080fba1a6dda6e649d0046c772425f0a7311e4",
+      "commentary_before_sha256": "c03e285175623ec4b066f8ff62e673535ba26cc0fa66b4a22057c3bb64aa4b94",
+      "commentary_after_sha256": "c64093c127f1956a81da1d3238ce4d6d7b11a3e0eb7aacd6fc6799e903005f5d",
+      "result": "corrected_or_extended",
+      "assessment": "Hoorplicht en concrete toets lijstschrapping toegevoegd met HR 2024; rekening aan opvolger, initiatiefnemers en 69-route aanvaard.",
+      "internal_cross_references_checked": [
+        "art-65",
+        "art-69",
+        "art-85"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:HR:2024:1382"
+      ]
+    },
+    {
+      "id": "art-73a",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf2/Artikel73a",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [
+        "Artikel II, eerste lid, van Stb. 2017/124 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "01cd57f3d28c072ffd5e6c948a1a63441aadb97f708d28d9ada3bf1431a3d854",
+      "commentary_before_sha256": "71ed6942af3905b0587ad1d8fcbd7fee30560fbc6c36a32038a8dda0a7751a4e",
+      "commentary_after_sha256": "71ed6942af3905b0587ad1d8fcbd7fee30560fbc6c36a32038a8dda0a7751a4e",
+      "result": "accepted_without_change",
+      "assessment": "Aanvaard: drie maanden, verlengbaarheid en kosteloze openbaarheid; a/c-rapportage versus vertrouwelijk b; persoonsgegevens en voorlopige verdenkingen correct.",
+      "internal_cross_references_checked": [
+        "art-68",
+        "art-68a"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-74",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel74",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging.",
+        "Bij § 3 Van de schuldeiserscommissie: Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "01f359a014b2fd4bb7a7973ead1bcf8f83e42746a0a5350baec781d9993fa909",
+      "commentary_before_sha256": "196f9d18bc23c79129616f527642e4cfc8fe70652c6a929757d4e5f4ee4056c7",
+      "commentary_after_sha256": "196f9d18bc23c79129616f527642e4cfc8fe70652c6a929757d4e5f4ee4056c7",
+      "result": "accepted_without_change",
+      "assessment": "Aanvaard: facultatieve instelling, oneven aantal, belangrijke groepen en rechtbankvacature via dubbeltal; geen individueel zetelrecht.",
+      "internal_cross_references_checked": [
+        "art-75",
+        "art-76",
+        "art-77",
+        "art-78",
+        "art-79"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-75",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel75",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [
+        "Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "a3c11682b40c25fedfc1295f619409e30216a45c13d7f9c8394a025b58a1c075",
+      "commentary_before_sha256": "f502207f90b8b8ada6eaf91ac1f6a8a4f6948913d23fad4b4f97c0bcef41ff32",
+      "commentary_after_sha256": "f502207f90b8b8ada6eaf91ac1f6a8a4f6948913d23fad4b4f97c0bcef41ff32",
+      "result": "accepted_without_change",
+      "assessment": "Aanvaard: raadplegen na verificatie ook zonder voorlopige commissie, dadelijke benoeming bij wens vergadering, proces-verbaal en vacature door RC.",
+      "internal_cross_references_checked": [
+        "art-74"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-75a",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel75a",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "52144d36ec3f3df83e42be84d4a406338c9bd4ceb7d2df0e520d4c341a153a5c",
+      "commentary_before_sha256": "c58c1ab22756833de3c3630e25fd0a75b200d79694077616496f5a317bad2cbe",
+      "commentary_after_sha256": "c58c1ab22756833de3c3630e25fd0a75b200d79694077616496f5a317bad2cbe",
+      "result": "accepted_without_change",
+      "assessment": "Aanvaard: facultatief reglement bij instelling, passende bekendmaking en ontslag door bevoegde rechter; geen automatische personeelswissel of bevoegdheidswijziging.",
+      "internal_cross_references_checked": [
+        "art-74",
+        "art-75",
+        "art-76",
+        "art-77",
+        "art-78",
+        "art-79"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-76",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel76",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "65b2ca7c39049789fbaf09d074269a22ea37c1369cb531d79adc02d4b6a2410d",
+      "commentary_before_sha256": "2f5d6fefb019f92391655e8394d7d6dad7be87a38aa08b5462fb0430cc4dde5b",
+      "commentary_after_sha256": "2f5d6fefb019f92391655e8394d7d6dad7be87a38aa08b5462fb0430cc4dde5b",
+      "result": "accepted_without_change",
+      "assessment": "Aanvaard: tijdige toegang tot alle faillissementsinformatie en inlichtingen tegenover curator, geen publieke inzage door iedere schuldeiser; noodzakelijke gegevensverwerking.",
+      "internal_cross_references_checked": [
+        "art-68a",
+        "art-73a"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-77",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel77",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "dd5973fd4898c8859e04808837a630d882f4ec472fb03091774d843147ca6045",
+      "commentary_before_sha256": "ad1a750c2c90b8bafabe413a6a965a5f2e4990ad85e5274ba23ce13b9f60d799",
+      "commentary_after_sha256": "ad1a750c2c90b8bafabe413a6a965a5f2e4990ad85e5274ba23ce13b9f60d799",
+      "result": "accepted_without_change",
+      "assessment": "Aanvaard: curator organiseert, zit voor en voert pen; discretionair overleg heft verplichte adviesmomenten niet op.",
+      "internal_cross_references_checked": [
+        "art-78",
+        "art-79"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-78",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel78",
+      "source_paragraphs_reviewed": "1 inclusief volledige lijst; 2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "8914dd2a6704ee08a9e590460f8f0199a62044caedb75ad00b3e8cdc6c426fe9",
+      "commentary_before_sha256": "034a52c9561314c0e260a1bf02fe0a76b5ee08ea47aeae26842d1d2f22aed92a",
+      "commentary_after_sha256": "aeb96679c08c276e2febb61426cedaa1e89c1d89cd4dc32a8ad1b63380bb0d9e",
+      "result": "corrected_or_extended",
+      "assessment": "Volledige verwijzingslijst en werkelijk in huidige bron opgenomen 73 lid 2 uitgewerkt. Procesrollen, verificatie-uitzondering, vereffening en uitdelingsmoment onderscheiden. Oproeping met bekwame termijn geen voorspelde weigering.",
+      "internal_cross_references_checked": [
+        "art-37",
+        "art-39",
+        "art-40",
+        "art-58",
+        "art-72",
+        "art-73",
+        "art-79",
+        "art-100",
+        "art-101",
+        "art-175",
+        "art-177"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-79",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel79",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "01a9971ff1f0a11532b548dffa8233b5f4a6f2016ab80c713184e9e5ecdc79fd",
+      "commentary_before_sha256": "f32cef0276bb30fa87be1fc5c0f4f028d3055fe65fe4b62d0c04828fa67a46de",
+      "commentary_after_sha256": "f32cef0276bb30fa87be1fc5c0f4f028d3055fe65fe4b62d0c04828fa67a46de",
+      "result": "accepted_without_change",
+      "assessment": "Aanvaard: niet-bindend advies, onmiddellijke afwijkingsmelding, verklaring commissie en precies drie dagen opschorting; geen onbeperkt veto.",
+      "internal_cross_references_checked": [
+        "art-72"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-80",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf4/Artikel80",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "ad8f1a8ac2b5804474d3579a835563ea5bc91577952e32ee88c147b3a78c155f",
+      "commentary_before_sha256": "b98e3e9ecbd7a512b7a1649e0b72bb87c7fdd88f6a17773858623a862e981d4c",
+      "commentary_after_sha256": "b98e3e9ecbd7a512b7a1649e0b72bb87c7fdd88f6a17773858623a862e981d4c",
+      "result": "accepted_without_change",
+      "assessment": "Aanvaard: RC voorzitter, curator aanwezig of vervanger met goedvinden, onderscheiden van vormkeuze.",
+      "internal_cross_references_checked": [
+        "art-80a"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-80a",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf4/Artikel80a",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "26b1bff298b91e45753e6c973af03c46a0cbe559f10047bc0662c97f4b4b1ac5",
+      "commentary_before_sha256": "0a2d9035f2f237332fb87a0764ad337862624c3090f0337253c46f96a3bb48b5",
+      "commentary_after_sha256": "0a2d9035f2f237332fb87a0764ad337862624c3090f0337253c46f96a3bb48b5",
+      "result": "accepted_without_change",
+      "assessment": "Aanvaard: RC kiest fysieke, schriftelijke of elektronische vorm; geen wijziging stemgewicht, vertegenwoordiging of oproepregels.",
+      "internal_cross_references_checked": [
+        "art-81",
+        "art-82",
+        "art-83",
+        "art-84"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-81",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf4/Artikel81",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "8eafb0226160eedf71c8838396566b8dc638916bd17b155bf3329460acac5144",
+      "commentary_before_sha256": "660d0d4d86ae0aed5c15ad1892ea5e33215cd086f0bf7b575f15d43c49283155",
+      "commentary_after_sha256": "660d0d4d86ae0aed5c15ad1892ea5e33215cd086f0bf7b575f15d43c49283155",
+      "result": "accepted_without_change",
+      "assessment": "Aanvaard: volstrekte stemmenmeerderheid aanwezigen, elke 45 euro plus restantstem; 100 euro geeft 3 stemmen; latere splitsing schept geen extra stemrecht, bijzondere meerderheid voorbehouden.",
+      "internal_cross_references_checked": [
+        "art-82",
+        "art-83"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-82",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf4/Artikel82",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "3c0cd59732e46e26eb1a7c158f7ecc062bed64e9d1d7ba233163a34063d511f4",
+      "commentary_before_sha256": "f1bd2c5a5248e759fff3f8ad6bff7d401f26e1d841b357ed0cbda71be83219cf",
+      "commentary_after_sha256": "f1bd2c5a5248e759fff3f8ad6bff7d401f26e1d841b357ed0cbda71be83219cf",
+      "result": "accepted_without_change",
+      "assessment": "Aanvaard: erkend/voorwaardelijk/toonder, niet louter ingediend; betwiste aanspraak niet door stemtoelating definitief; houderschap en gewicht gescheiden.",
+      "internal_cross_references_checked": [
+        "art-81",
+        "art-83"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-83",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf4/Artikel83",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "2320630f5f2387c8521a8cab3ad05c1cb6409168e8530a119828b9ff1c5fe338",
+      "commentary_before_sha256": "3c0cf7c035f90d694c0602bca756680ced5040a595f7101d9de39ad6446a37da",
+      "commentary_after_sha256": "3c0cf7c035f90d694c0602bca756680ced5040a595f7101d9de39ad6446a37da",
+      "result": "accepted_without_change",
+      "assessment": "Aanvaard: persoon/schriftelijk gemachtigde/advocaat; vervolgopepen naar gemachtigde tenzij schriftelijk gewijzigd; erkenning en gewicht niet door volmacht hersteld.",
+      "internal_cross_references_checked": [
+        "art-81",
+        "art-82"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-84",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf4/Artikel84",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "79c92689a0b0c3606b1e1706f08d9debc15d345359f68d14f42a861524c2d233",
+      "commentary_before_sha256": "31f56fa622ab235eb39c67841d7ee8aabe08255581a7a9e7a675ebe2b8380362",
+      "commentary_after_sha256": "cf3a62e76e9e5f149f148a2781a14aa9279b047fc91a27aef6520c66a34bf293",
+      "result": "corrected_or_extended",
+      "assessment": "Stemgerechtigde geadresseerden en uur toegevoegd; beide verzoekdrempels behouden, precies een vijfde voldoende, schriftelijk minimaal tien dagen en agenda.",
+      "internal_cross_references_checked": [
+        "art-80a",
+        "art-82",
+        "art-83"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-85",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf5/Artikel85",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling.",
+        "Bij § 5 Van de rechterlijke beschikkingen: Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "aba46fd9f61a418c0e6e9405cde622b60b02a03de453148d180164071a7ad962",
+      "commentary_before_sha256": "5321f60fbf62e80cab0fee2a3a8bf6e6374a9fd3f872cebd6df754463dca5e16",
+      "commentary_after_sha256": "192a489f16ed7bdf10443ac9cd3458a2dae16a5fdfbcfa6534d3066b8f605ddb",
+      "result": "corrected_or_extended",
+      "assessment": "Vage rechtsmiddelreserve geconcretiseerd: cassatie bij ontslagcurator versus bewaring/schorsing geheel buiten beheer/vereffening, met HR-bronnen; geen uniforme termijn verzonnen.",
+      "internal_cross_references_checked": [
+        "art-67",
+        "art-73",
+        "art-87",
+        "art-88"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:HR:2024:1382",
+        "ECLI:NL:HR:2021:102"
+      ]
+    },
+    {
+      "id": "art-86",
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf5/Artikel86",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "59e8e57e86903e7a3d5ea5be03636a40b059f0921b2efc6efa5b98f169688896",
+      "commentary_before_sha256": "a3e371451cd7146721d766c3d4fb595347084325b1b1d1b578f8774fd951e9fb",
+      "commentary_after_sha256": "99494fc280df08dc79d4f4be6604ef600d8367fdfcedc40d2ae7fd84c241f8a3",
+      "result": "corrected_or_extended",
+      "assessment": "Op de minuut en categorietoets toegelicht; geen omzeiling vrijheidswaarborgen. Uitzondering 106b lid6 en checklist aanvaard.",
+      "internal_cross_references_checked": [
+        "art-13",
+        "art-85",
+        "art-106b"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:HR:2021:102"
+      ]
+    },
+    {
+      "id": "art-87",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel87",
+      "source_paragraphs_reviewed": "1–4",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "2df4233f11a2be4eb2883e240f100e3827c3b098df45511ceea00e878c2c177b",
+      "commentary_before_sha256": "9881dac279d21deb208d5794623501ae65ebb50e7b37c2065ee65349096fcb93",
+      "commentary_after_sha256": "309fb4b875f110551b623312931e0396d39fa30a6abeef4d2bf45b30c5d8f487",
+      "result": "corrected_or_extended",
+      "assessment": "Bewaringsplaatsen/toezicht en initiatiefregels verduidelijkt. Schorsing, stilstaande termijn, herbeoordeling en ontbrekende grond toegevoegd; HR 2026 contactverbod afgewogen tegen eigenlijke dictum, geen inherente extra beperking.",
+      "internal_cross_references_checked": [
+        "art-88",
+        "art-105",
+        "art-105a"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:HR:2021:102",
+        "ECLI:NL:HR:2026:400"
+      ]
+    },
+    {
+      "id": "art-88",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel88",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "61573f632aaf367b3f5cf8c8d2898d925d2e507a084cc6466d6da0f8fefdcda8",
+      "commentary_before_sha256": "4814d20a7f3ee4d349f4e937ea954325dfc896fc3650c9ef17c11d1351bfcca2",
+      "commentary_after_sha256": "03c5123737f7d3808f8d6689c3f5a567d910daaff75d1e91bbfb736b563caf3f",
+      "result": "corrected_or_extended",
+      "assessment": "Zekerheidsdoel behouden; ontslag en schorsing gescheiden, verzoek tijdens schorsing en gebruiksrestrictie bij wilsafhankelijke informatie toegevoegd. Geen algemeen zwijgrecht of documentimmuniteit afgeleid.",
+      "internal_cross_references_checked": [
+        "art-87",
+        "art-105"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:HR:2021:102",
+        "ECLI:NL:HR:2014:161"
+      ]
+    },
+    {
+      "id": "art-89",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel89",
+      "source_paragraphs_reviewed": "vervallen slot",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d",
+      "commentary_before_sha256": "8e31358eb83b645933a2f514a63630f4d818f8babefcb464719679ec2a688c9a",
+      "commentary_after_sha256": "8e31358eb83b645933a2f514a63630f4d818f8babefcb464719679ec2a688c9a",
+      "result": "accepted_without_change",
+      "assessment": "Aanvaard: geen voortlevende grond of termijnverlenging; historische vermelding vraagt toenmalig recht.",
+      "internal_cross_references_checked": [
+        "art-87",
+        "art-88"
+      ],
+      "case_authorities_checked": []
+    }
+  ],
+  "limitations": [
+    "Exactly these 20 places substantively reviewed; earlier review evidence preserved, not claimed as work of this process.",
+    "342 missing commentaries elsewhere remain; whole-book completion and successful full build are not claimed.",
+    "Four selected full HR decisions independently fetched and compared with national corpus; no exhaustive case-law search or separate case for every technical article.",
+    "Fresh second reading inside project; no external professional approval.",
+    "External transitional instruments are preserved as editorial notes; not independently analysed in full. EVRM rules are discussed only to the extent supported by the verified HR holdings."
+  ],
+  "checked_at_utc": "2026-10-20T21:51:12.474549+00:00",
+  "whole_book_complete": false,
+  "technical_evidence": "sources/review-art-73-89-checks.json",
+  "changed_units": [
+    "art-73",
+    "art-78",
+    "art-84",
+    "art-85",
+    "art-86",
+    "art-87",
+    "art-88"
+  ],
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 639,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 358015,
+    "errors": [
+      "krátký/chybějící komentář u 342 jednotek: ['art-212j(0<400)', 'art-212k(0<400)', 'art-212l(0<400)', 'art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  }
+}

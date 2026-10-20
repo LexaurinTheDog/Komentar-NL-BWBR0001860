@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2024:1382",
+    "access_timestamp_utc": "2026-10-20T21:48:39.461702+00:00",
+    "raw_path": "sources/review-art-73-89-hr-2024-1382.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2024:1382",
+    "bytes": 9511,
+    "sha256": "6bbbd23a3422d1f2b73802a147d3cb4e177de5e83239858a7bc37ab29fdc6962",
+    "headers_path": "sources/review-art-73-89-hr-2024-1382.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 3689
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2021:102",
+    "access_timestamp_utc": "2026-10-20T21:48:39.462144+00:00",
+    "raw_path": "sources/review-art-73-89-hr-2021-102.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2021:102",
+    "bytes": 21887,
+    "sha256": "bc93171a31cc1d4e573d924c47891add8eb6280514aa8e6551a7153975f1bf3a",
+    "headers_path": "sources/review-art-73-89-hr-2021-102.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 14239
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2026:400",
+    "access_timestamp_utc": "2026-10-20T21:48:39.462438+00:00",
+    "raw_path": "sources/review-art-73-89-hr-2026-400.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2026:400",
+    "bytes": 15070,
+    "sha256": "14f3a07ed3aef95053a718cc840cd19579f343c034d418aeddcd05f5f020dd80",
+    "headers_path": "sources/review-art-73-89-hr-2026-400.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 8012
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2014:161",
+    "access_timestamp_utc": "2026-10-20T21:48:39.462548+00:00",
+    "raw_path": "sources/review-art-73-89-hr-2014-161.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2014:161",
+    "bytes": 16321,
+    "sha256": "efc3943ff98b06511b329633cec5da316a194c5953d9082b2acf5afc5f53986a",
+    "headers_path": "sources/review-art-73-89-hr-2014-161.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 9324
+  }
+]

@@ -1,0 +1,175 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Hoge Raad
+ecli: ECLI:NL:HR:2021:102
+date: '2021-01-22'
+date_published: '2021-01-21'
+case_number:
+- 20/03587
+procedure:
+- Cassatie in het belang der wet
+- Beschikking
+subject:
+- Civiel recht
+relations:
+- 'Conclusie: ECLI:NL:PHR:2020:1088, Gevolgd'
+references: null
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2021:102
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2021:102
+chars: 13060
+license: Public Domain Mark
+retrieved_at: '2026-10-03T22:45:21Z'
+---
+
+# ECLI:NL:HR:2021:102 – Hoge Raad, 2021-01-22
+
+- **Instantie:** Hoge Raad
+- **Datum:** 2021-01-22
+- **Zaaknummer:** 20/03587
+- **Rechtsgebied:** Civiel recht
+
+## Inhoudsindicatie
+
+Cassatie in het belang der wet. Faillissementsgijzeling (art. 87 Fw). In verzekerde bewaringstelling van bestuurder van gefailleerde vennootschappen (art. 87 Fw in verbinding met art. 106 Fw). Loopt wettelijke termijn van art. 87 lid 3 Fw door gedurende voorwaardelijke schorsing? Dient de rechter vrijheidsbeperkende voorwaarden die aan de schorsing zijn verbonden, periodiek te toetsen, onder meer op proportionaliteit en subsidiariteit?
+
+## Uitspraak
+
+HOGE RAAD DER NEDERLANDEN
+
+CIVIELE KAMER
+
+Nummer 20/03587
+
+Datum 22 januari 2021
+
+BESCHIKKING
+
+op een vordering tot cassatie in het belang der wet, ingesteld door de Procureur-Generaal bij de Hoge Raad der Nederlanden en gericht tegen de beschikking in de zaken C/16/18/88 F en C/16/18/166 F van de rechtbank Midden-Nederland van 9 augustus 2019.
+
+1. Procesverloop
+
+Voor het verloop van het geding in feitelijke instantie verwijst de Hoge Raad naar de beschikking in de zaken C/16/18/88 F en C/16/18/166 F van de rechtbank Midden-Nederland van 9 augustus 2019.
+
+Tegen deze beschikking heeft de Procureur-Generaal bij de Hoge Raad beroep in cassatie ingesteld in het belang der wet. De voordracht tot cassatie van de Procureur-Generaal is aan deze beschikking gehecht.
+
+De vordering van de Procureur-Generaal strekt ertoe dat de Hoge Raad de bestreden beschikking zal vernietigen in het belang der wet en zal verstaan dat de vernietiging geen nadeel zal toebrengen aan de door partijen verkregen rechten.
+
+2 Uitgangspunten en feiten
+
+2.1
+
+In cassatie kan van het volgende worden uitgegaan.
+
+(i) Twee besloten vennootschappen (hierna: de vennootschappen) zijn in 2018 in staat van faillissement verklaard.
+
+(ii) Bij beschikking van 15 augustus 2018 heeft de rechtbank Midden-Nederland (hierna: de rechtbank) bevolen dat de bestuurder van de vennootschappen (hierna: de bestuurder) in verzekerde bewaring zal worden gesteld. Op grond van dit bevel is de bestuurder op 15 augustus 2018 in verzekerde bewaring gesteld.
+
+(iii) In een reeks beschikkingen heeft de rechtbank de in verzekerde bewaringstelling (hierna: inbewaringstelling) telkens verlengd.
+
+(iv) De bestuurder heeft achtereenvolgens hoger beroep ingesteld tegen de beschikkingen van de rechtbank van 10 december 2018, 12 maart 2019 en 4 juni 2019 tot verlenging van de inbewaringstelling. Het gerechtshof Arnhem-Leeuwarden (hierna: het hof) heeft de bestreden beschikkingen steeds bekrachtigd.
+
+(v) Bij beschikking van 10 juli 2019 heeft de rechtbank de inbewaringstelling verlengd tot en met 11 augustus 2019.
+
+(vi) De bestuurder heeft hoger beroep ingesteld tegen de hiervoor onder (v) genoemde beschikking. Daarbij heeft hij verzocht de inbewaringstelling te beëindigen dan wel te schorsen.
+
+(vii) Bij beschikking van 26 juli 2019 heeft het hof de bestreden beschikking vernietigd, bepaald dat de inbewaringstelling zal voortduren tot en met 11 augustus 2019, en bevolen dat de inbewaringstelling onder in de beschikking omschreven voorwaarden wordt geschorst. Ook heeft het hof bepaald dat de curator en/of de bestuurder zich uiterlijk 25 oktober 2019 tot de rechter-commissaris zal wenden over (de noodzaak van de verschillende) voorwaarden van de schorsing dan wel de opheffing daarvan.
+
+2.2
+
+De curator heeft de rechtbank verzocht de inbewaringstelling te verlengen en te schorsen onder de voorwaarden zoals opgenomen in de hiervoor in 2.1 onder (vii) bedoelde beschikking van het hof.
+
+2.3
+
+In de bestreden beschikking heeft de rechtbank bevolen dat de inbewaringstelling zal voortduren tot en met 10 september 2019 en de schorsing daarvan bevolen onder de voorwaarden zoals opgenomen in de hiervoor in 2.1 onder (vii) bedoelde beschikking van het hof. Daartoe heeft de rechtbank onder meer als volgt overwogen:
+
+“3.1. Mede in verband met het bepaalde in artikel 5 EVRM dient de rechtbank te onderzoeken of er op basis van de huidige stand van zaken nog gronden aanwezig zijn die de voortduring van de inbewaringstelling en daarmee de inbreuk op de persoonlijke vrijheid van de gefailleerde rechtvaardigen. Het recht op persoonlijke vrijheid van de gefailleerde dient daarbij te worden afgewogen tegen de bij de inbewaringstelling betrokken belangen van de gezamenlijke schuldeisers. Daarbij dient te worden gelet op het karakter van de inbewaringstelling die in het onderhavige geval is bedoeld als dwangmiddel tegen verzuim door de gefailleerde van de inlichtingenplicht ex artikel 105 en 106 van de Faillissementswet.
+
+3.2.
+
+Op 26 juli 2019 heeft het Gerechtshof Arnhem-Leeuwarden de in verzekerde bewaringstelling van [de bestuurder] onder voorwaarden geschorst. Daarbij heeft het Gerechtshof Arnhem-Leeuwarden voorts bepaald dat de curator en/of [de bestuurder] zich uiterlijk 25 oktober 2019 tot de rechter-commissaris zal wenden over de (noodzaak van de verschillende) voorwaarden van de schorsing dan wel de opheffing daarvan. Gelet op het geringe tijdsverloop sinds deze uitspraak en de onderhavige pro forma zitting, refereert de rechtbank zich aan deze uitspraak.
+
+3.3.
+
+Dit is tevens de reden waarom de rechtbank de in verzekerde bewaringstelling verlengt met de wettelijke termijn van 30 dagen. Immers, ook een schorsing van een in verzekerde bewaringstelling betreft nog steeds een vrijheidsbeperkende maatregel, die naar het oordeel van de rechtbank en conform de wet iedere 30 dagen getoetst dient te worden.”
+
+3 Beoordeling van het middel
+
+3.1
+
+Het middel klaagt (onder 3.1 en 3.3) dat de rechtbank heeft blijk gegeven van een onjuiste rechtsopvatting door (in rov. 3.3) te overwegen dat ook een schorsing van een inbewaringstelling nog steeds een vrijheidsbeperkende maatregel betreft die conform de wet iedere 30 dagen dient te worden getoetst, en door op die grond de inbewaringstelling te verlengen met de wettelijke termijn van 30 dagen. De rechtbank heeft miskend dat de wettelijke termijn van 30 dagen van art. 87 lid 3 Fw niet loopt indien en zolang de inbewaringstelling is geschorst, aldus het middel.
+
+Voorts voert het middel (onder 3.2 en 3.4) aan dat indien aan de schorsing van een inbewaringstelling voorwaarden zijn verbonden die een vrijheidsbeperkende strekking hebben, de rechter periodiek (maar niet steeds iedere 30 dagen) moet onderzoeken (i) of aan de vereisten voor voortzetting van de inbewaringstelling is voldaan, (ii) of de voorwaarden die aan de schorsing zijn verbonden, op een rechtmatige grondslag berusten, en (iii) of die voorwaarden (nog steeds) voldoen aan de beginselen van proportionaliteit en subsidiariteit.
+
+Kan een inbewaringstelling (onder voorwaarden) worden geschorst?
+
+3.2.1
+
+De Faillissementswet voorziet niet uitdrukkelijk in de mogelijkheid om een op de voet van art. 87 Fw bevolen inbewaringstelling (ook wel aangeduid als ‘faillissementsgijzeling’) te schorsen, en dus evenmin in de mogelijkheid om aan een dergelijke schorsing voorwaarden te verbinden. Niettemin moet de mogelijkheid worden aanvaard dat een dergelijke inbewaringstelling wordt geschorst, al dan niet onder het stellen van voorwaarden. Daartoe is het volgende redengevend.
+
+3.2.2
+
+Inbewaringstelling is een vrijheidsbeperkende maatregel, die slechts in overeenstemming is met art. 5 lid 1, aanhef en onder b, EVRM indien zij wordt aangewend om de gefailleerde te dwingen tot naleving van de wettelijke verplichtingen die voor hem aan zijn faillissement zijn verbonden. In het licht van het uit het EVRM voortvloeiende subsidiariteitsbeginsel kan een inbewaringstelling slechts worden bevolen indien het daarmee beoogde doel niet op minder ingrijpende wijze kan worden bereikt. Schorsing van de inbewaringstelling, zo nodig onder het stellen van voorwaarden, kan een dergelijke minder ingrijpende wijze vormen om het beoogde doel te bereiken. Aanvaarding van de mogelijkheid van voorwaardelijke of onvoorwaardelijke schorsing van de inbewaringstelling strookt dan ook met uitleg en toepassing van de Faillissementswet in overeenstemming met de voor Nederland uit het EVRM voortvloeiende verplichtingen.
+
+3.3
+
+Het hiervoor in 3.2.2 bedoelde subsidiariteitsbeginsel brengt mee dat de rechter steeds is gehouden om te onderzoeken of hij in het voorliggende geval kan volstaan met het bevelen of verlengen van een inbewaringstelling met gelijktijdige schorsing van de tenuitvoerlegging daarvan. Tot een dergelijk onderzoek is de rechter gehouden bij de eerste voordracht of het eerste verzoek tot inbewaringstelling (art. 87 lid 1 Fw), bij iedere voordracht en ieder verzoek tot verlenging van de inbewaringstelling (art. 87 lid 3 Fw), en bij iedere voordracht en ieder verzoek om de gefailleerde te ontslaan uit de inbewaringstelling, dan wel om de inbewaringstelling op te heffen (art. 88 lid 1 Fw).
+
+3.4
+
+Bij het hiervoor in 3.3 bedoelde onderzoek is steeds uitgangspunt dat alleen grond bestaat voor schorsing van de inbewaringstelling indien en zolang is voldaan aan de vereisten die op grond van art. 87 lid 1 Fw gelden voor het bevelen van de inbewaringstelling zelf. Is dat niet, of niet langer het geval, dan dient de inbewaringstelling te worden geweigerd, respectievelijk beëindigd.
+
+Voor zover de voorwaarden waaronder de inbewaringstelling wordt geschorst, inbreuk maken op het fundamentele recht van vrijheid van verplaatsing van de gefailleerde, dienen zij in overeenstemming te zijn met de vereisten die worden gesteld in art. 2 lid 3 van het Vierde Protocol bij het EVRM, en de daarop betrekking hebbende rechtspraak van het EHRM. Dat laatste vergt onder meer dat de voorwaarden die aan de schorsing zijn verbonden, een rechtmatige grondslag hebben en verenigbaar zijn met de beginselen van proportionaliteit en subsidiariteit (zie de voordracht tot cassatie in het belang der wet van de Procureur-Generaal onder 5.2-5.17).
+
+Loopt de termijn van art. 87 lid 3 Fw door gedurende de schorsing?
+
+3.5.1
+
+De eerste volzin van art. 87 lid 3 Fw houdt in dat het bevel tot inbewaringstelling geldig is gedurende 30 dagen vanaf de dag waarop het bevel ten uitvoer is gelegd. De schorsing van de inbewaringstelling heeft tot gevolg dat de tenuitvoerlegging van het bevel tot inbewaringstelling wordt onderbroken. Daarmee is echter nog niet de vraag beantwoord of gedurende de schorsing van de inbewaringstelling de termijn van 30 dagen van art. 87 lid 3 Fw doorloopt.
+
+3.5.2
+
+Bij gebreke van bruikbare aanknopingspunten in de Faillissementswet kan voor de beantwoording van de hiervoor in 3.5.1 bedoelde vraag worden aangesloten bij het stelsel van de schorsing van de voorlopige hechtenis in het Wetboek van Strafvordering. In dat stelsel loopt de termijn waarvoor de voorlopige hechtenis is bevolen, niet door tijdens de schorsing van die voorlopige hechtenis (zie de voordracht tot cassatie in het belang der wet van de Procureur-Generaal onder 7.18).
+
+3.5.3
+
+Hetgeen hiervoor in 3.5.2 is overwogen is grond om te aanvaarden dat de termijn van art. 87 lid 3 Fw niet doorloopt indien en zolang de inbewaringstelling voorwaardelijk of onvoorwaardelijk is geschorst, en dat het bevel tot inbewaringstelling gedurende de gehele periode van de schorsing zijn rechtskracht behoudt. Daaruit volgt dat gedurende de schorsing van de inbewaringstelling geen plaats is voor een bevel tot verlenging van de inbewaringstelling en evenmin voor een hernieuwde schorsing daarvan.
+
+Processuele waarborgen
+
+3.6.1
+
+Met het oog op de rechtsbescherming van de gefailleerde vergt aanvaarding van het hiervoor in 3.5.3 bedoelde stelsel de volgende processuele waarborgen.
+
+Tegen beslissingen van de rechtbank of het gerechtshof inzake de schorsing van de inbewaringstelling kan hoger beroep, respectievelijk beroep in cassatie worden ingesteld. Dergelijke beslissingen, evenals beslissingen betreffende de inbewaringstelling zelf, zijn niet aan te merken als beslissingen inzake het beheer of de vereffening van de failliete boedel als bedoeld in art. 85 Fw.
+
+Voorts dient de rechter aan de schorsing van de inbewaringstelling een termijn te verbinden waarbinnen wordt onderzocht of er aanleiding bestaat de inbewaringstelling of de schorsing daarvan op te heffen, dan wel de voorwaarden waaronder de inbewaringstelling is geschorst, op te heffen of aan te passen. Deze termijn kan afwijken van de termijn van 30 dagen van art. 87 lid 3 Fw.
+
+Ten slotte moet art. 88 lid 1 Fw aldus worden uitgelegd dat de gefailleerde, op ieder moment gedurende de periode van de schorsing van de inbewaringstelling, de rechter kan verzoeken om de inbewaringstelling op te heffen, dan wel de voorwaarden waaronder de inbewaringstelling is geschorst, op te heffen of aan te passen.
+
+3.6.2
+
+In de hiervoor in 3.6.1 bedoelde procedures dient het hiervoor in 3.4 weergegeven toetsingskader tot uitgangspunt.
+
+Slotsom
+
+3.7
+
+Uit hetgeen hiervoor in 3.5.3 en 3.6.1-3.6.2 is overwogen volgt dat de hiervoor in 3.1 weergegeven klachten van het middel slagen en dat de bestreden beschikking in het belang der wet moet worden vernietigd.
+
+4 Beslissing
+
+De Hoge Raad:
+
+- vernietigt, in het belang der wet, de beschikking van de rechtbank Midden-Nederland van 9 augustus 2019;
+
+- verstaat dat deze vernietiging geen nadeel toebrengt aan de door partijen verkregen rechten.
+
+Deze beschikking is gegeven door de vicepresident M.V. Polak als voorzitter en de raadsheren G. Snijders, T.H. Tanja-van den Broek, H.M. Wattendorff en F.J.P. Lock, en in het openbaar uitgesproken door de raadsheer M.J. Kroeze op 22 januari 2021.
+
+Gerechtshof Arnhem-Leeuwarden 26 juli 2019, ECLI:NL:GHARL:2019:6153.
+
+Rechtbank Midden-Nederland 9 augustus 2019, ECLI:NL:RBMNE:2019:3912.
+
+Vgl. HR 25 juni 1976, ECLI:NL:HR:1976:AC5756.

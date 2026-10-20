@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-20T21:47:05.474183+00:00",
+  "updated_at_utc": "2026-10-20T21:52:10.516257+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -33,7 +33,7 @@
   },
   "total_units": 639,
   "completed_units": 297,
-  "commentary_characters": 352531,
+  "commentary_characters": 358015,
   "complete_chapters": 22,
   "planned_chapters": 49,
   "completed_scope": "Every official article slot from article 1 through article 212i in selected XML order, including repealed slots and both article 212hgd* and article 212hgd.",
@@ -616,5 +616,42 @@
       "ECLI:NL:HR:2018:1799"
     ],
     "whole_book_complete": false
+  },
+  "bounded_review_art_73_89": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "art-73",
+      "art-73a",
+      "art-74",
+      "art-75",
+      "art-75a",
+      "art-76",
+      "art-77",
+      "art-78",
+      "art-79",
+      "art-80",
+      "art-80a",
+      "art-81",
+      "art-82",
+      "art-83",
+      "art-84",
+      "art-85",
+      "art-86",
+      "art-87",
+      "art-88",
+      "art-89"
+    ],
+    "changed": 7,
+    "unassigned_commentaries_unchanged": true,
+    "evidence": "sources/review-art-73-89-result.json",
+    "case_sources": [
+      "ECLI:NL:HR:2024:1382",
+      "ECLI:NL:HR:2021:102",
+      "ECLI:NL:HR:2026:400",
+      "ECLI:NL:HR:2014:161"
+    ],
+    "whole_book_complete": false,
+    "validation": "100% statutory agreement; only full-book failure is 342 missing unassigned commentaries"
   }
 }

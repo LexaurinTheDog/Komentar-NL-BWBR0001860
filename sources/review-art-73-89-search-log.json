@@ -1,0 +1,18 @@
+{
+  "searched_at_utc": "2026-10-20T21:51:12.381687+00:00",
+  "queries": [
+    "site.rechtspraak.nl faillissementsbewaring Hoge Raad 2013",
+    "site.rechtspraak.nl curator 73 ontslag Hoge Raad",
+    "site.rechtspraak.nl Hoge Raad 87 Fw proportionaliteit",
+    "site.rechtspraak.nl Hoge Raad 85 Fw cassatie"
+  ],
+  "selected_full_decisions": [
+    "ECLI:NL:HR:2024:1382",
+    "ECLI:NL:HR:2021:102",
+    "ECLI:NL:HR:2026:400",
+    "ECLI:NL:HR:2014:161"
+  ],
+  "method": "Official search results identify primary decisions; full official XML read separately, not snippets or PHR holdings. Local national corpus full texts compared.",
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/",
+  "limitations": "Selective relevant research. No separately verified judgment found and used for the remaining technical committee/voting provisions. No exhaustive subsequent-case search."
+}

@@ -1,0 +1,1 @@
+CHYBÍ komentář k 342 jednotkám, např.: ['art-212j', 'art-212k', 'art-212l', 'art-212m', 'art-212ma', 'art-212n', 'art-212o', 'art-212p', 'art-212q', 'art-212r']

@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "before": {
+    "meta.json": "d550e5ccd90a245c2f42fa3ecd5c909f0f0f2ddd189ed6712bc1e15aa7efc197",
+    "units.jsonl": "c29f3bc7c8f802d4b7586d356cc32ab4671723a543a5d754785a34db0cea0b6a",
+    "sources/canonical.md": "023fd6a56471dfedbe4256742e690cd4a74af80068e558af50a8b8045e3086a5",
+    "sources/non-article-text.json": "9a02de6f6de5dd7e5fd70812d039a2387fa580fb30a9598c1caea45005e338b9",
+    "sources/structural-editorial-notes.json": "d43e71828d082b957d7a5ee20ea07a5cffbd9451a5f1b61c922be322deacfd8a"
+  },
+  "after": {
+    "meta.json": "d550e5ccd90a245c2f42fa3ecd5c909f0f0f2ddd189ed6712bc1e15aa7efc197",
+    "units.jsonl": "c29f3bc7c8f802d4b7586d356cc32ab4671723a543a5d754785a34db0cea0b6a",
+    "sources/canonical.md": "023fd6a56471dfedbe4256742e690cd4a74af80068e558af50a8b8045e3086a5",
+    "sources/non-article-text.json": "9a02de6f6de5dd7e5fd70812d039a2387fa580fb30a9598c1caea45005e338b9",
+    "sources/structural-editorial-notes.json": "d43e71828d082b957d7a5ee20ea07a5cffbd9451a5f1b61c922be322deacfd8a"
+  },
+  "parser_stdout": "639 units; 49 chapters\n",
+  "coverage_stdout": "{\"expected_count\": 639, \"parsed_count\": 639, \"missing\": [], \"extra\": [], \"duplicates\": [], \"html_toc_count\": 639, \"html_toc_order_equal\": true, \"raw_xml_token_mismatch\": [], \"unaccounted_legal_text_nodes\": [], \"editorial_notes\": 481, \"structural_editorial_notes\": 21, \"ok\": true}\n"
+}
