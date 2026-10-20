@@ -220,5 +220,27 @@
     "Existing selective judicial research verified; no exhaustive case-law or later-treatment research claimed.",
     "Whole-book authoring remains incomplete.",
     "Separate external transitional statutes in editorial notes not independently analysed for historical proceedings."
-  ]
+  ],
+  "validation_result": {
+    "bounded": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 30386,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "whole_book": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 639,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 735451,
+      "errors": [
+        "krátký/chybějící komentář u 139 jednotek: ['art-270(0<120)', 'art-271(0<400)', 'art-272(0<400)', 'art-273(0<120)', 'art-274(0<400)', 'art-275(0<120)', 'art-276(0<400)', 'art-277(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  }
 }
