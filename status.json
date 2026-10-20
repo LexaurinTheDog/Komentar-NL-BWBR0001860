@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-20T18:52:14.419006+00:00",
+  "updated_at_utc": "2026-10-20T18:53:14.745393+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -438,6 +438,7 @@
     "new_commentary_units": 0,
     "statutory_wording_changes": 0,
     "structural_editorial_notes_repaired": 21,
-    "independent_substantive_review": false
+    "independent_substantive_review": false,
+    "strict_validation": "100% statutory agreement; only expected missing-commentary failure for 342 units"
   }
 }

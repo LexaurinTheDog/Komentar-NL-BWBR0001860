@@ -110,5 +110,20 @@
     "No independent substantive review or new case-law research performed.",
     "External transitional provisions referenced by editorial notes remain annotations; no claim of a separate full analysis of those instruments."
   ],
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "technical_checks": {
+    "source_verbatim_ratio": 1.0,
+    "coverage_ok": true,
+    "parser_idempotent": true,
+    "commentary_unchanged": true,
+    "broken_local_links": 0,
+    "existing_commentary_repeated_paragraphs": 0,
+    "full_builder_exit_code": 1,
+    "strict_validator_exit_code": 1,
+    "strict_validator_errors": [
+      "krátký/chybějící komentář u 342 jednotek: ['art-212j(0<400)', 'art-212k(0<400)', 'art-212l(0<400)', 'art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)']"
+    ],
+    "strict_failure_disposition": "Expected whole-book failure: 342 unwritten commentaries. Outside the bounded preflight task; does not block source/parser completeness.",
+    "whole_book_complete": false
+  }
 }
