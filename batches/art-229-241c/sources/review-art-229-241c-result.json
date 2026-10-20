@@ -233,5 +233,14 @@
     "Existing selective judicial research verified; no exhaustive case-law search claimed.",
     "Whole-book authoring remains incomplete; full strict validation failure outside this scope is preserved.",
     "Separate transitional statutes in editorial notes not independently analysed for historical proceedings."
-  ]
+  ],
+  "bounded_validation": {
+    "repo": "Komentar-NL-BWBR0001860-batch-art-229-241c",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 35834,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  }
 }
