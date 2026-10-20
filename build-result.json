@@ -1,8 +1,9 @@
 {
-  "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+  "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001860",
   "exit_code": 1,
   "stdout": "",
   "stderr": "CHYBÍ komentář k 342 jednotkám, např.: ['art-212j', 'art-212k', 'art-212l', 'art-212m', 'art-212ma', 'art-212n', 'art-212o', 'art-212p', 'art-212q', 'art-212r']\n",
   "ok": false,
-  "reason": "342 statutory units have no commentary; full source scope retained."
+  "scope": "Full-book builder attempted for the required checkpoint; incomplete commentary is an expected out-of-scope failure.",
+  "reason": "342 official article slots remain without commentary; no fallback prose created."
 }

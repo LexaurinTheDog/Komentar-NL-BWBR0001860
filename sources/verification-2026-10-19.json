@@ -1,0 +1,137 @@
+{
+  "decisive_date": "2026-10-19",
+  "checked_at_utc": "2026-10-19T18:45:57.291867+00:00",
+  "selected_version": "2026-09-01_0",
+  "current_effectiveness_evidence": "sources/official-information.json: explicit Geldend van 01-09-2026 t/m heden, Geraadpleegd op 19-10-2026; WTI inspected for date/undated changes. Retrieval timestamp alone not used.",
+  "future_changes_excluded": [
+    "15-11-2027 amendment to article 106a",
+    "undated amendments listed in WTI"
+  ],
+  "records": [
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "access_timestamp_utc": "2026-10-19T18:12:06+00:00",
+      "http_status": 200,
+      "raw_path": "sources/official-2026-09-01.xml",
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+      "bytes": 2557947,
+      "xml_root": "toestand",
+      "accepted": true,
+      "finding": "toestand BWBR0001860 inwerkingtreding 2026-09-01; 639 articles",
+      "headers_path": "sources/official-xml.headers"
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "access_timestamp_utc": "2026-10-19T18:12:51+00:00",
+      "http_status": 200,
+      "raw_path": "sources/wti.xml",
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+      "bytes": 5581608,
+      "xml_root": "wetstechnische-informatie",
+      "accepted": true,
+      "finding": "wetstechnische-informatie; generated 2026-10-07; dated and undated future changes inspected",
+      "headers_path": "sources/wti.headers"
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.xml",
+      "access_timestamp_utc": "2026-10-19T18:12:24+00:00",
+      "http_status": 200,
+      "raw_path": "sources/version-register.xml",
+      "sha256": "763e7ee5229eb9d24e14bfa85b9614ed1a757880954b662958b69fb77e64417f",
+      "bytes": 1435239,
+      "xml_root": "toestand",
+      "accepted": false,
+      "finding": "Valid XML but 2002-01-01 historical toestand, not a version register; excluded",
+      "headers_path": "sources/version-register.headers"
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/metadata.xml",
+      "access_timestamp_utc": "2026-10-19T18:12:13+00:00",
+      "http_status": 204,
+      "raw_path": "sources/version-index.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "xml_root": null,
+      "accepted": false,
+      "finding": "204 empty response; no version evidence",
+      "headers_path": "sources/version-index.headers"
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860/2026-10-19",
+      "access_timestamp_utc": "2026-10-19T18:12:14+00:00",
+      "http_status": 404,
+      "raw_path": "sources/official-current.json",
+      "sha256": "9a1f6ab37ddf813ca2b4dbaad5a64ec87ecee2990aa04de2958cb8da3b8105f3",
+      "body_html_path": "sources/official-current.json.html",
+      "body_html_sha256": "bdfbc403295051db599ebac9486f8919befa5bd9c3d4ca25af33267d310b6889",
+      "accepted": false,
+      "finding": "404 error document rejected; exact author-date route not used as current-text evidence."
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01/informatie",
+      "access_timestamp_utc": "2026-10-19T18:12:51+00:00",
+      "http_status": 200,
+      "raw_path": "sources/official-information.json",
+      "sha256": "73e5fee1ddda84b79410dfc0a4e9ad65f6f75ff69262ff4f968517cd89b86a7a",
+      "body_html_path": "sources/official-information.json.html",
+      "body_html_sha256": "15953f3facffe0565c7520c901e5b8a8ea1a7155ea7f54a756218c7a653677c6",
+      "accepted": true,
+      "finding": "Information page explicitly: consulted 19-10-2026; valid 01-09-2026 through present; future 15-11-2027 and undated changes."
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860/2026-10-19",
+      "access_timestamp_utc": "2026-10-19T18:12:24+00:00",
+      "http_status": null,
+      "raw_path": null,
+      "sha256": null,
+      "accepted": false,
+      "finding": "Direct curl failed HTTP/2 protocol error (exit 92), no response body."
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-10-19_0/xml/BWBR0001860_2026-10-19_0.xml",
+      "access_timestamp_utc": "2026-10-19T18:12:43+00:00",
+      "http_status": 301,
+      "raw_path": null,
+      "sha256": null,
+      "accepted": false,
+      "finding": "Redirect loop exit 47; no valid XML; no toestand with this exact start date used."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2018:774",
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:774",
+      "raw_path": "sources/case-2018-774.xml",
+      "http_status": 200,
+      "headers_path": "sources/case-2018-774.headers",
+      "access_timestamp_utc": "2026-10-19T18:14:49+00:00",
+      "sha256": "a61b1cd2bd8bc2e951365b319507c8bd0ed4d57c035c1916469d53617e1a02a1",
+      "xml_root": "open-rechtspraak",
+      "full_uitspraak_chars": 15331,
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-774.md",
+      "local_snapshot_path": "sources/case-2018-774-local.md",
+      "local_sha256": "1ce4792154d66181c4d1dc99353c15b2210878d2e4d77d3cfd0a7330e8891815",
+      "full_decision_text_equal_after_whitespace_normalization": false,
+      "accepted": true,
+      "comparison_limit": "The local 2018 decision omits the party caption; official XML is retained in full and controls. Local 2013 text matches after whitespace normalization.",
+      "cited_court_reasoning_3_3_1_to_decision_equal": true
+    },
+    {
+      "ecli": "ECLI:NL:HR:2013:BY6108",
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY6108",
+      "raw_path": "sources/case-2013-BY6108.xml",
+      "http_status": 200,
+      "headers_path": "sources/case-2013-BY6108.headers",
+      "access_timestamp_utc": "2026-10-19T18:16:40+00:00",
+      "sha256": "1946842ccb355f22d42845e092e0752ef96d7f20fe7b5e7ab7a94aa4f56e4191",
+      "xml_root": "open-rechtspraak",
+      "full_uitspraak_chars": 13315,
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2013-by6108.md",
+      "local_snapshot_path": "sources/case-2013-BY6108-local.md",
+      "local_sha256": "5686e9dfab883e2a8f05c972225090fbffffe907c40499514d0d2c051a46540b",
+      "full_decision_text_equal_after_whitespace_normalization": true,
+      "accepted": true,
+      "comparison_limit": "The local 2018 decision omits the party caption; official XML is retained in full and controls. Local 2013 text matches after whitespace normalization."
+    }
+  ],
+  "original_intake_sha256": "92cc30ab97551cd6f82f34c040aead6eb5f4f90b7377518f862196d5e7dd13a7",
+  "canonical_sha256": "9ec22dd9195e66d7fb71fad60297dad236cc778238b35c786919ca51b53c64f8"
+}

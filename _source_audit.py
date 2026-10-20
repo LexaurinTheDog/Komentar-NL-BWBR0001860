@@ -38,3 +38,8 @@ for u in units:
 if (S/'case-verification.json').exists():records.extend(json.loads((S/'case-verification.json').read_text()))
 (S/'verification.json').write_text(json.dumps({'decisive_date':'2026-10-19','checked_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'selected_version':'2026-09-01_0','current_effectiveness_evidence':'sources/official-information.json: explicit Geldend van 01-09-2026 t/m heden, Geraadpleegd op 19-10-2026; WTI inspected for date/undated changes. Retrieval timestamp alone not used.','future_changes_excluded':['15-11-2027 amendment to article 106a','undated amendments listed in WTI'], 'records':records,'original_intake_sha256':sha(original),'canonical_sha256':sha(S/'canonical.md')},ensure_ascii=False,indent=2)+'\n')
 print('source audit records',len(records),'change representations',len(changes))
+
+# A later verified preflight supplements (and must not be erased by) this original audit.
+if (W/"_preflight_audit.py").exists() and (S/"preflight-2026-10-20-fetch.json").exists():
+ import runpy
+ runpy.run_path(str(W/"_preflight_audit.py"),run_name="__main__")

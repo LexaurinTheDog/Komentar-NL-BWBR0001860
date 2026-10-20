@@ -1,0 +1,21 @@
+{
+  "checked_at_utc": "2026-10-20T18:52:41.872746+00:00",
+  "statutory_units_before": 639,
+  "statutory_units_after": 639,
+  "changed_statutory_text_or_structure_ids": [],
+  "changed_commentary_files": [],
+  "completed_commentary_units": 297,
+  "parser_idempotent": true,
+  "reproduction_hashes": {
+    "units.jsonl": "c29f3bc7c8f802d4b7586d356cc32ab4671723a543a5d754785a34db0cea0b6a",
+    "meta.json": "d550e5ccd90a245c2f42fa3ecd5c909f0f0f2ddd189ed6712bc1e15aa7efc197",
+    "sources/canonical.md": "023fd6a56471dfedbe4256742e690cd4a74af80068e558af50a8b8045e3086a5",
+    "sources/structural-editorial-notes.json": "d43e71828d082b957d7a5ee20ea07a5cffbd9451a5f1b61c922be322deacfd8a",
+    "sources/non-article-text.json": "9a02de6f6de5dd7e5fd70812d039a2387fa580fb30a9598c1caea45005e338b9"
+  },
+  "original_intake_sha256": "92cc30ab97551cd6f82f34c040aead6eb5f4f90b7377518f862196d5e7dd13a7",
+  "notes_before": 460,
+  "notes_after": 481,
+  "note_delta": 21,
+  "ok": true
+}

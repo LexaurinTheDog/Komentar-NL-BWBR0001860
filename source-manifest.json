@@ -1,6 +1,6 @@
 {
-  "created_at_utc": "2026-10-19T18:45:57.492770+00:00",
-  "scope": "All preserved source evidence; no new rights claim over official material.",
+  "created_at_utc": "2026-10-20T18:52:41.923512+00:00",
+  "scope": "All preserved source evidence; original and fresh captures retained. No new rights claim over official material.",
   "files": [
     {
       "path": "sources/author-date-xml.headers",
@@ -9,8 +9,8 @@
     },
     {
       "path": "sources/canonical.md",
-      "bytes": 519635,
-      "sha256": "9ec22dd9195e66d7fb71fad60297dad236cc778238b35c786919ca51b53c64f8"
+      "bytes": 522444,
+      "sha256": "023fd6a56471dfedbe4256742e690cd4a74af80068e558af50a8b8045e3086a5"
     },
     {
       "path": "sources/case-2013-BY6108-local.md",
@@ -59,13 +59,18 @@
     },
     {
       "path": "sources/change-map.json",
-      "bytes": 387,
-      "sha256": "4f00c9e07104334fdf857e3e2d7b313fcf84ddc4343e971cd9ab91da0613a4bb"
+      "bytes": 974,
+      "sha256": "2c84fcbce2e80ae5f684d375943c6ca25ecdf0b98da5b1641be96af48343b131"
     },
     {
       "path": "sources/intake-original.md",
       "bytes": 483902,
       "sha256": "92cc30ab97551cd6f82f34c040aead6eb5f4f90b7377518f862196d5e7dd13a7"
+    },
+    {
+      "path": "sources/non-article-text.json",
+      "bytes": 2213,
+      "sha256": "9a02de6f6de5dd7e5fd70812d039a2387fa580fb30a9598c1caea45005e338b9"
     },
     {
       "path": "sources/official-2026-09-01.xml",
@@ -103,14 +108,74 @@
       "sha256": "7623ff8f5b23594dd2f412726f841b833e2d06e89b394bbd85e2835f3859ae19"
     },
     {
+      "path": "sources/preflight-2026-10-20-current.html",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-current.html.headers",
+      "bytes": 532,
+      "sha256": "20f559077aa05a6884d827730afd72da32b661cdb025bd5dcad36dc4ce17ee42"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-fetch.json",
+      "bytes": 2849,
+      "sha256": "50649174a9531627ea847eebc7309c84d082a0a72774a8845130f19b816f69e1"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-information.html",
+      "bytes": 605817,
+      "sha256": "6f9b0a4cc2a8d3c72a82e341662252af852659e7b5eca85c279115dd2ea06176"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-information.html.headers",
+      "bytes": 532,
+      "sha256": "3f0c83fbab73fd6656c29811fad9f39499c4c996a3c36a0d7bd56c8c0dc9ab97"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-selected.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-selected.xml.headers",
+      "bytes": 261,
+      "sha256": "1ed2a576a9c699d5398819beb00848cd09e0dabe05edd4a7cacdf05d64b8ab85"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-wti.xml",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67"
+    },
+    {
+      "path": "sources/preflight-2026-10-20-wti.xml.headers",
+      "bytes": 261,
+      "sha256": "9e7f598439ba51a365334f77c77dd5f62d1dd29524918769b7ba408590eed6f0"
+    },
+    {
       "path": "sources/search-log.json",
       "bytes": 2067,
       "sha256": "6d815e49a55ba2d510e60e49ca2b9221725e6ee5495c6cb6fc59fb525d7afba7"
     },
     {
-      "path": "sources/verification.json",
+      "path": "sources/structural-editorial-notes.json",
+      "bytes": 4588,
+      "sha256": "d43e71828d082b957d7a5ee20ea07a5cffbd9451a5f1b61c922be322deacfd8a"
+    },
+    {
+      "path": "sources/verification-2026-10-19.json",
       "bytes": 6956,
       "sha256": "669a93d995848ed44788e0cb60a7c631584393326d63876e3783cd33dff401c5"
+    },
+    {
+      "path": "sources/verification.json",
+      "bytes": 10754,
+      "sha256": "1a94683591b76c2350411b07f39d39a1a22c14c0b2080245b418a51fb5ce59f6"
+    },
+    {
+      "path": "sources/version-evidence.json",
+      "bytes": 6138,
+      "sha256": "f01b9231b4564967cda4d2430853f8da1667f89be960ccf02f377741a989c938"
     },
     {
       "path": "sources/version-index.headers",

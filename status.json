@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-19T18:46:25.277507+00:00",
+  "updated_at_utc": "2026-10-20T18:52:14.419006+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -10,7 +10,7 @@
     "official_xml_http_status": 200,
     "information_page_http_status": 200,
     "explicit_valid_from": "2026-09-01",
-    "explicit_valid_through": "heden, geraadpleegd op 19-10-2026",
+    "explicit_valid_through": "heden, geraadpleegd op 20-10-2026",
     "future_changes_excluded": [
       "15-11-2027 amendment to article 106a",
       "undated amendments listed in WTI"
@@ -19,7 +19,15 @@
     "original_intake_untouched": true,
     "article_wording_changes_since_intake": 0,
     "statutory_source_agreement": 1.0,
-    "completeness_ok": true
+    "completeness_ok": true,
+    "reverified_at_utc": "2026-10-20T18:52:14.419006+00:00",
+    "current_route_redirect": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+    "official_xml_sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+    "independent_html_toc_count": 639,
+    "editorial_notes_accounted": 481,
+    "structural_editorial_notes": 21,
+    "unaccounted_legal_text_nodes": 0,
+    "version_evidence": "sources/version-evidence.json"
   },
   "total_units": 639,
   "completed_units": 297,
@@ -384,12 +392,13 @@
   ],
   "case_law_scope": "Selective primary full-text verification for opening conditions and contract/boedel claims, not exhaustive.",
   "full_build": {
-    "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+    "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001860",
     "exit_code": 1,
     "stdout": "",
     "stderr": "CHYBÍ komentář k 342 jednotkám, např.: ['art-212j', 'art-212k', 'art-212l', 'art-212m', 'art-212ma', 'art-212n', 'art-212o', 'art-212p', 'art-212q', 'art-212r']\n",
     "ok": false,
-    "reason": "342 statutory units have no commentary; full source scope retained."
+    "scope": "Full-book builder attempted for the required checkpoint; incomplete commentary is an expected out-of-scope failure.",
+    "reason": "342 official article slots remain without commentary; no fallback prose created."
   },
   "validation": {
     "repo": "Komentar-NL-BWBR0001860",
@@ -420,5 +429,15 @@
   "push_performed": false,
   "next_unwritten_unit": "art-212j",
   "local_output_git_branch": "main",
-  "local_only": true
+  "local_only": true,
+  "preflight": {
+    "complete": true,
+    "scope": "Official current source verification and parser coverage only",
+    "result_path": "preflight-result.json",
+    "verified_at_utc": "2026-10-20T18:52:14.419006+00:00",
+    "new_commentary_units": 0,
+    "statutory_wording_changes": 0,
+    "structural_editorial_notes_repaired": 21,
+    "independent_substantive_review": false
+  }
 }

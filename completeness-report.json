@@ -5,7 +5,11 @@
   "missing": [],
   "extra": [],
   "duplicates": [],
+  "official_identifier_duplicates": [],
+  "official_path_duplicates": [],
   "order_equal": true,
+  "html_toc_count": 639,
+  "html_toc_order_equal": true,
   "raw_xml_token_mismatch": [],
   "repealed_slots": [
     {
@@ -297,227 +301,2723 @@
   "structural_headings": [
     {
       "tag": "titeldeel",
-      "path": "/TiteldeelI"
+      "path": "/TiteldeelI",
+      "heading": "Titel I Van faillissement"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/AfdelingEerste"
+      "path": "/TiteldeelI/AfdelingEerste",
+      "heading": "Eerste afdeling Van de faillietverklaring"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/AfdelingTweede"
+      "path": "/TiteldeelI/AfdelingTweede",
+      "heading": "Tweede afdeling Van de gevolgen der faillietverklaring"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/AfdelingDerde"
+      "path": "/TiteldeelI/AfdelingDerde",
+      "heading": "Derde afdeling Van het bestuur over de failliete boedel"
     },
     {
       "tag": "paragraaf",
-      "path": "/TiteldeelI/AfdelingDerde/Paragraaf1"
+      "path": "/TiteldeelI/AfdelingDerde/Paragraaf1",
+      "heading": "§ 1 Van de rechter-commissaris"
     },
     {
       "tag": "paragraaf",
-      "path": "/TiteldeelI/AfdelingDerde/Paragraaf2"
+      "path": "/TiteldeelI/AfdelingDerde/Paragraaf2",
+      "heading": "§ 2 Van de curator"
     },
     {
       "tag": "paragraaf",
-      "path": "/TiteldeelI/AfdelingDerde/Paragraaf3"
+      "path": "/TiteldeelI/AfdelingDerde/Paragraaf3",
+      "heading": "§ 3 Van de schuldeiserscommissie"
     },
     {
       "tag": "paragraaf",
-      "path": "/TiteldeelI/AfdelingDerde/Paragraaf4"
+      "path": "/TiteldeelI/AfdelingDerde/Paragraaf4",
+      "heading": "§ 4 Van de vergaderingen der schuldeisers"
     },
     {
       "tag": "paragraaf",
-      "path": "/TiteldeelI/AfdelingDerde/Paragraaf5"
+      "path": "/TiteldeelI/AfdelingDerde/Paragraaf5",
+      "heading": "§ 5 Van de rechterlijke beschikkingen"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/AfdelingVierde"
+      "path": "/TiteldeelI/AfdelingVierde",
+      "heading": "Vierde afdeling Van de voorzieningen na de faillietverklaring en van het beheer des curators"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/AfdelingVijfde"
+      "path": "/TiteldeelI/AfdelingVijfde",
+      "heading": "Vijfde afdeling Van de verificatie der schuldvorderingen"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/AfdelingA"
+      "path": "/TiteldeelI/AfdelingA",
+      "heading": "Vijfde afdeling A"
     },
     {
       "tag": "paragraaf",
-      "path": "/TiteldeelI/AfdelingA/Paragraaf"
+      "path": "/TiteldeelI/AfdelingA/Paragraaf",
+      "heading": "Vereenvoudigde afwikkeling van faillissement"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/AfdelingZesde"
+      "path": "/TiteldeelI/AfdelingZesde",
+      "heading": "Zesde afdeling Van het akkoord"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/AfdelingZevende"
+      "path": "/TiteldeelI/AfdelingZevende",
+      "heading": "Zevende afdeling Van de vereffening des boedels"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/AfdelingAchtste"
+      "path": "/TiteldeelI/AfdelingAchtste",
+      "heading": "Achtste afdeling Van de rechtstoestand des schuldenaars na afloop van de vereffening"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/AfdelingNegende"
+      "path": "/TiteldeelI/AfdelingNegende",
+      "heading": "Negende afdeeling Vervallen"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/AfdelingTiende"
+      "path": "/TiteldeelI/AfdelingTiende",
+      "heading": "Tiende afdeling Bepalingen van internationaal recht"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/AfdelingElfde"
+      "path": "/TiteldeelI/AfdelingElfde",
+      "heading": "Elfde afdeling Van rehabilitatie"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/Afdeling11A"
+      "path": "/TiteldeelI/Afdeling11A",
+      "heading": "Afdeling 11A Van het definitieve karakter van de afwikkeling van betalingen en effectentransacties in betalings- en afwikkelingssystemen"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/Afdeling11AA"
+      "path": "/TiteldeelI/Afdeling11AA",
+      "heading": "Afdeling 11AA Van het faillissement van een bank"
     },
     {
       "tag": "paragraaf",
-      "path": "/TiteldeelI/Afdeling11AA/Paragraaf1"
+      "path": "/TiteldeelI/Afdeling11AA/Paragraaf1",
+      "heading": "§ 1 In Nederland gevestigde bank en buiten de Europese Economische Ruimte gevestigde bank met bijkantoor in Nederland"
     },
     {
       "tag": "paragraaf",
-      "path": "/TiteldeelI/Afdeling11AA/Paragraaf2"
+      "path": "/TiteldeelI/Afdeling11AA/Paragraaf2",
+      "heading": "§ 2 Bepalingen van internationaal privaatrecht"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/Afdeling11AB"
+      "path": "/TiteldeelI/Afdeling11AB",
+      "heading": "Afdeling 11AB Van het faillissement van een beleggingsonderneming en van een entiteit onder de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/Afdeling11B"
+      "path": "/TiteldeelI/Afdeling11B",
+      "heading": "Afdeling 11B Van het faillissement van een verzekeraar"
     },
     {
       "tag": "paragraaf",
-      "path": "/TiteldeelI/Afdeling11B/Paragraaf1"
+      "path": "/TiteldeelI/Afdeling11B/Paragraaf1",
+      "heading": "§ 1 Definities"
     },
     {
       "tag": "paragraaf",
-      "path": "/TiteldeelI/Afdeling11B/Paragraaf2"
+      "path": "/TiteldeelI/Afdeling11B/Paragraaf2",
+      "heading": "§ 2 Verzekeraars met zetel in Nederland, verzekeraars zonder vergunning met zetel in een andere lidstaat dan Nederland en verzekeraars met zetel buiten de Europese Unie met bijkantoor in Nederland"
     },
     {
       "tag": "paragraaf",
-      "path": "/TiteldeelI/Afdeling11B/Paragraaf3"
+      "path": "/TiteldeelI/Afdeling11B/Paragraaf3",
+      "heading": "§ 3 Bepalingen van internationaal privaatrecht"
     },
     {
       "tag": "paragraaf",
-      "path": "/TiteldeelI/Afdeling11B/Paragraaf4"
+      "path": "/TiteldeelI/Afdeling11B/Paragraaf4",
+      "heading": "§ 4 Verzekeraars met beperkte risico-omvang"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelI/Afdeling11C"
+      "path": "/TiteldeelI/Afdeling11C",
+      "heading": "Afdeling 11C Van het faillissement van een centrale tegenpartij"
     },
     {
       "tag": "titeldeel",
-      "path": "/TiteldeelII"
+      "path": "/TiteldeelII",
+      "heading": "Titel II Van surseance van betaling"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelII/AfdelingEerste"
+      "path": "/TiteldeelII/AfdelingEerste",
+      "heading": "Eerste afdeling Van de verlening van surseance van betaling en haar gevolgen"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelII/AfdelingTweede"
+      "path": "/TiteldeelII/AfdelingTweede",
+      "heading": "Tweede afdeling Van het akkoord"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelII/AfdelingA"
+      "path": "/TiteldeelII/AfdelingA",
+      "heading": "Tweede afdeling A Bijzondere bepalingen"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelII/AfdelingB"
+      "path": "/TiteldeelII/AfdelingB",
+      "heading": "Tweede afdeling B Van de verlening van surseance van betaling aan een beleggingsonderneming en een financiële instelling die een verklaring van ondertoezichtstelling heeft of een andere instelling"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelII/AfdelingDerde"
+      "path": "/TiteldeelII/AfdelingDerde",
+      "heading": "Derde afdeling Slotbepalingen"
     },
     {
       "tag": "titeldeel",
-      "path": "/TiteldeelIII"
+      "path": "/TiteldeelIII",
+      "heading": "Titel III Schuldsaneringsregeling natuurlijke personen"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelIII/AfdelingEerste"
+      "path": "/TiteldeelIII/AfdelingEerste",
+      "heading": "Eerste afdeling Het uitspreken van de toepassing van de schuldsaneringsregeling"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelIII/AfdelingTweede"
+      "path": "/TiteldeelIII/AfdelingTweede",
+      "heading": "Tweede afdeling De gevolgen van de toepassing van de schuldsaneringsregeling"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelIII/AfdelingDerde"
+      "path": "/TiteldeelIII/AfdelingDerde",
+      "heading": "Derde afdeling Het bestuur over de boedel"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelIII/AfdelingVierde"
+      "path": "/TiteldeelIII/AfdelingVierde",
+      "heading": "Vierde afdeling De voorzieningen na de uitspraak tot de toepassing van de schuldsaneringsregeling en de taak van de bewindvoerder"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelIII/AfdelingVijfde"
+      "path": "/TiteldeelIII/AfdelingVijfde",
+      "heading": "Vijfde afdeling Verificatie van vorderingen"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelIII/AfdelingZesde"
+      "path": "/TiteldeelIII/AfdelingZesde",
+      "heading": "Zesde afdeling Het akkoord"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelIII/AfdelingZevende"
+      "path": "/TiteldeelIII/AfdelingZevende",
+      "heading": "Zevende afdeling De vereffening van de boedel"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelIII/AfdelingAchtste"
+      "path": "/TiteldeelIII/AfdelingAchtste",
+      "heading": "Achtste afdeling Termijn en beëindiging van de toepassing van de schuldsaneringsregeling"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelIII/AfdelingNegende"
+      "path": "/TiteldeelIII/AfdelingNegende",
+      "heading": "Negende afdeling Bijzondere bepalingen"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelIII/AfdelingTiende"
+      "path": "/TiteldeelIII/AfdelingTiende",
+      "heading": "Tiende afdeling Slotbepalingen"
     },
     {
       "tag": "afdeling",
-      "path": "/TiteldeelIII/Afdeling"
+      "path": "/TiteldeelIII/Afdeling",
+      "heading": "Algemene slotbepaling"
     },
     {
       "tag": "afdeling",
-      "path": "/AfdelingTweede"
+      "path": "/AfdelingTweede",
+      "heading": "Tweede afdeling Homologatie van een onderhands akkoord"
     },
     {
       "tag": "paragraaf",
-      "path": "/AfdelingTweede/Paragraaf1"
+      "path": "/AfdelingTweede/Paragraaf1",
+      "heading": "§ 1 Algemene bepalingen"
     },
     {
       "tag": "paragraaf",
-      "path": "/AfdelingTweede/Paragraaf2"
+      "path": "/AfdelingTweede/Paragraaf2",
+      "heading": "§ 2 De aanbieding van en stemming over een akkoord"
     },
     {
       "tag": "paragraaf",
-      "path": "/AfdelingTweede/Paragraaf3"
+      "path": "/AfdelingTweede/Paragraaf3",
+      "heading": "§ 3 De homologatie van het akkoord"
     },
     {
       "tag": "paragraaf",
-      "path": "/AfdelingTweede/Paragraaf4"
+      "path": "/AfdelingTweede/Paragraaf4",
+      "heading": "§ 4 De gevolgen van de homologatie van het akkoord"
     }
   ],
-  "non_article_text": {
-    "aanhef": "preserved in sources/canonical.md, constitutional promulgation and consideration, discussed in introduction",
-    "wetsluiting": "preserved in sources/canonical.md, promulgation/signature, no separate operative numbered rule"
-  },
-  "editorial_notes": 460,
+  "non_article_text": [
+    {
+      "tag": "intitule",
+      "official_path": "/Intitule",
+      "text_sha256": "896007a50c6cf6fd7438af1146f63acbed8cde69c55e07bb43acc80b34d5f483",
+      "raw_tokens_equal": true,
+      "canonical_contains": true,
+      "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+    },
+    {
+      "tag": "citeertitel",
+      "official_path": "/Citeertitel",
+      "text_sha256": "6c0bf00b9776c36a711a4ad5763a897f2da5033725f71577c6bd3ca0f89fbee5",
+      "raw_tokens_equal": true,
+      "canonical_contains": true,
+      "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+    },
+    {
+      "tag": "aanhef",
+      "official_path": "/Aanhef",
+      "text_sha256": "8de9ce517ee1c1167d57b90f1ff934c7a7cd07fbd5e566124082160aa106e1db",
+      "raw_tokens_equal": true,
+      "canonical_contains": true,
+      "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+    },
+    {
+      "tag": "wetsluiting",
+      "official_path": "/SlotformulierEnOndertekening",
+      "text_sha256": "e8b5a20c5e76e4bf9370002c77fedebea5d6887367b220ed73c17a9b3fab3d03",
+      "raw_tokens_equal": true,
+      "canonical_contains": true,
+      "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+    }
+  ],
+  "unaccounted_legal_text_nodes": [],
+  "editorial_notes": 481,
+  "structural_editorial_notes": 21,
+  "editorial_note_disposition": [
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel1",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel2",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel3",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel3a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel3b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel4",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel7",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel8",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel9",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel10",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel11",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel12",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel13",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel14",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel14b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel15",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel15a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel15b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel15c",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel15d",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel16",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel17",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel18",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel19",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel19a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel19b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel20",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel22",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel22a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel22a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel23",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel24",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel25",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel26",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel27",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel28",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel29",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel30",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel31",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel34",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel35",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel35a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel35b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel36",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel36a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel37",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel37a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel37b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel38",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel38a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel39",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel41",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel42",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel42a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel43",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel45",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel48",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel49",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel50",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel51",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel52",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel53",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel55",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel56",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel57",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel58",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel59",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel59a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel60",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel60a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel60b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel61",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel63",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel63a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel63b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel63c",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf1/Artikel64",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf1/Artikel65",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf1/Artikel66",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf1/Artikel67",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf1",
+      "parent_tag": "paragraaf",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf2/Artikel70",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf2/Artikel71",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf2/Artikel72",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf2/Artikel73a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel74",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel75",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel75a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel76",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel77",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel78",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3/Artikel79",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf3",
+      "parent_tag": "paragraaf",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf4/Artikel80",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf4/Artikel80a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf4/Artikel81",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf4/Artikel82",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf4/Artikel84",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf5/Artikel85",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf5/Artikel86",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde/Paragraaf5",
+      "parent_tag": "paragraaf",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingDerde",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel88",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel90",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel91",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel92",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel93",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel93a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel94",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel95",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel96",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel97",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel100",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel101",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel102",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel103",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel104",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel105",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel105a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel105b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel106",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel106a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel106b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel106d",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel106e",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel107",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel108",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel109",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel110",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel111",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel112",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel113",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel114",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel115",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel116",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel117",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel119",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel120",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel121",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel122",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel122a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel123",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel124",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel125",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel126",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel127",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel128",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel129",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel130",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel131",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel132",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel133",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel134",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel136",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingVijfde/Artikel137",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingA/Paragraaf/Artikel137a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingA/Paragraaf/Artikel137b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingA/Paragraaf/Artikel137c",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingA/Paragraaf/Artikel137d",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingA/Paragraaf/Artikel137e",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingA/Paragraaf/Artikel137f",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingA/Paragraaf/Artikel137g",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingA/Paragraaf",
+      "parent_tag": "paragraaf",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingA",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel138",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel139",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel140",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel141",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel142",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel143",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel144",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel145",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel146",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel147",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel148",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel149",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel150",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel151",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel152",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel154",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel155",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel156",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel157",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel158",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel159",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel160",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel161",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel161a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel162",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel163",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel164",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel165",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel166",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel167",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel168",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel169",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel170",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel171",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZesde/Artikel172",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel173",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel173b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel173c",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel173d",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel174",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel175",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel176",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel177",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel178",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel179",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel180",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel181",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel182",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel183",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel184",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel185",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel186",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel187",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel188",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel189",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel190",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel191",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel192",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel193",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende/Artikel194",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingZevende",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingAchtste/Artikel195",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingAchtste/Artikel196",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingAchtste/Artikel197",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingAchtste",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTiende/Artikel203",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTiende/Artikel204",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTiende/Artikel205",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingTiende",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingElfde/Artikel206",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingElfde/Artikel207",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingElfde/Artikel208",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingElfde/Artikel209",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingElfde/Artikel210",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingElfde/Artikel211",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingElfde/Artikel212",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/AfdelingElfde",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11A/Artikel212a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11A/Artikel212b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11A/Artikel212c",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11A/Artikel212d",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11A",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hc",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212he",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hgc",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hgd_1",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hi",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hj",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hk",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hl",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hm",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hn",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212ho",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hp",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hq",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212hr",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212m",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212ma",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212o",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212p",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212q",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212rc",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212rd",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf1/Artikel212re",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf2/Artikel212t",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf2/Artikel212x",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf2/Artikel212ij",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf2/Artikel212z",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf2/Artikel212ee",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf2/Artikel212ff",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf2/Artikel212gg",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf2/Artikel212hh",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf2/Artikel212ii",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11AA/Paragraaf2/Artikel212jj",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf1",
+      "parent_tag": "paragraaf",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ac",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ad1",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ae",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213af",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ag",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213agc",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ah",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ai",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213aj",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ak",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213al",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213am",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213an",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ao",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ap",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213aq",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213f",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213j",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ka",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213kaa",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213l",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ma",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mc",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213md",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213me",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mf",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mg",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mh",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mi",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mj",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mk",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213n",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213o",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213p",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213r",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213s",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213t",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213u",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213v",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213x",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213ij",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213z",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213aa",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213bb",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3",
+      "parent_tag": "paragraaf",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf4/Artikel213kka",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel215",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel215a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel216",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel217",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel218",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel219",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel220",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel221",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel222",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel222a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel222b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel223",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel223a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel223b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel224",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel225",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel226",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel227",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel228",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel229",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel230",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel231",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel232",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel233",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel234",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel235",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel236",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel236a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel237",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel237a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel237b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel238",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel240",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel241",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel241a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel241b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel241c",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel242",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel243",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel244",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel245",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel246",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel247",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel247a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel247b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel247c",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel249",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel249a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel250",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel251",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel252",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel253",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel254",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel255",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel256",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel257",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel258",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel259",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel260",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel261",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel262",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel263",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel264",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel265",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel266",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel267",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel268",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel268a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel269",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel269a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel269b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel270",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel271",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel273",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel274",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel275",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel276",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel277",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel278",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingTweede/Artikel279",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingA/Artikel281a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingA/Artikel281b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingA/Artikel281c",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingA/Artikel281d",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingA/Artikel281e",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingA/Artikel281f",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingA",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingB/Artikel281g",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingB/Artikel281h",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingDerde/Artikel282",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingDerde/Artikel283",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII/AfdelingDerde",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelII",
+      "parent_tag": "titeldeel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingEerste/Artikel285",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingEerste/Artikel287",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingEerste/Artikel288",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingEerste/Artikel294",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingEerste/Artikel294a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel296",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel299b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel300",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel304",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel306",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel307",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel308",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel310",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel311",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel312",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingDerde/Artikel314",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingDerde/Artikel315",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingDerde/Artikel317",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingDerde/Artikel319",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingDerde/Artikel320",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingDerde/Artikel321",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingVierde/Artikel322",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingVierde/Artikel323",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingVierde/Artikel324",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingVierde/Artikel325",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingVierde/Artikel327",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingVierde",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingVijfde/Artikel328",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingVijfde/Artikel328b",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingVijfde/Artikel328c",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingZesde/Artikel335",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingZesde/Artikel337",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingZesde/Artikel338",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingZesde/Artikel339",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingZevende/Artikel348",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingZevende/Artikel349",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingZevende/Artikel349aa",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingAchtste/Artikel349a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingAchtste/Artikel350",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingAchtste/Artikel351",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingAchtste/Artikel352",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingAchtste/Artikel353",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingAchtste/Artikel354",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingAchtste/Artikel354a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingAchtste",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingNegende/Artikel358a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingNegende/Artikel359a",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingNegende",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingTiende/Artikel360",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/AfdelingTiende",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/TiteldeelIII/Afdeling",
+      "parent_tag": "afdeling",
+      "preserved": true
+    },
+    {
+      "official_path": "/AfdelingTweede/Paragraaf1/Artikel369",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/AfdelingTweede/Paragraaf2/Artikel370",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/AfdelingTweede/Paragraaf2/Artikel371",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/AfdelingTweede/Paragraaf2/Artikel373",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/AfdelingTweede/Paragraaf2/Artikel375",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/AfdelingTweede/Paragraaf2/Artikel376",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/AfdelingTweede/Paragraaf2/Artikel378",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/AfdelingTweede/Paragraaf2/Artikel380",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/AfdelingTweede/Paragraaf2/Artikel381",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/AfdelingTweede/Paragraaf3/Artikel383",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/AfdelingTweede/Paragraaf3/Artikel384",
+      "parent_tag": "artikel",
+      "preserved": true
+    },
+    {
+      "official_path": "/AfdelingTweede/Paragraaf4/Artikel385",
+      "parent_tag": "artikel",
+      "preserved": true
+    }
+  ],
   "footnote_elements": 0,
   "annexes": [
     {
       "status": "verified_absence",
-      "method": "Full XML element enumeration: no bijlage or annex elements; all direct wettekst children inventoried.",
+      "method": "Full XML tag enumeration and official HTML TOC: no annex elements or annex entries. References to annexes in other instruments and case-file attachments are not annexes of this Act.",
+      "xml_annex_elements": 0,
+      "html_annex_toc_entries": 0,
+      "html_evidence_path": "sources/preflight-2026-10-20-current.html",
+      "html_sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
       "direct_wettekst_children": [
         {
           "tag": "titeldeel",
@@ -541,6 +3041,23 @@
         }
       ]
     }
+  ],
+  "numbering_disposition": [
+    {
+      "ids": [
+        "art-212hgd*",
+        "art-212hgd"
+      ],
+      "reason": "Distinct current official labels and XML paths Artikel212hgd_1 / Artikel212hgd_2. Both preserved; not a historical duplicate."
+    },
+    {
+      "absent_numeric_range": "363–368",
+      "reason": "No article elements or HTML TOC entries in the selected official version; no invented repealed slots. Article 362 and articles 369–387 preserved."
+    }
+  ],
+  "limitations": [
+    "Completeness proves coverage of this official toestand, not accuracy or completeness of legal commentary.",
+    "Editorial references to external transitional provisions remain source annotations; their full substantive assessment is outside this preflight."
   ],
   "ok": true
 }

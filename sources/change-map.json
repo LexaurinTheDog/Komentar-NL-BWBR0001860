@@ -6,5 +6,14 @@
   "missing_intake_ids": [],
   "absent_from_verified": [],
   "same_after_whitespace_normalization": 639,
-  "representation_differences": []
+  "representation_differences": [],
+  "preflight_checked_at_utc": "2026-10-20T18:51:20.359993+00:00",
+  "fresh_official_xml_sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+  "statutory_wording_changes": 0,
+  "editorial_representation_repairs": [
+    "21 structural editorial notes preserved and displayed once below their heading at its first article.",
+    "Official intitule/citeertitel and exact opening/closing text explicitly inventoried with hashes."
+  ],
+  "non_article_evidence": "sources/non-article-text.json",
+  "structural_note_evidence": "sources/structural-editorial-notes.json"
 }

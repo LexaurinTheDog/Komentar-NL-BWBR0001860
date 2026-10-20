@@ -1,6 +1,14 @@
 # Faillissementswet — BWB-toestand 2026-09-01
 
-## Aanhef
+## intitule
+
+Wet van 30 september 1893, op het faillissement en de surséance van betaling
+
+## citeertitel
+
+Faillissementswet
+
+## aanhef
 
 In naam van Hare Majesteit WILHELMINA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.
 
@@ -935,6 +943,10 @@ De rechter-commissaris houdt toezicht op het beheer en de vereffening van de fai
 
 Redactionele aantekening: Tekstplaatsing met aanpassing van de spelling.
 
+Redactionele aantekening: Bij Derde afdeling Van het bestuur over de failliete boedel: Tekstplaatsing met aanpassing van de spelling.
+
+Redactionele aantekening: Bij § 1 Van de rechter-commissaris: Tekstplaatsing met aanpassing van de spelling.
+
 ## Artikel 65
 
 Alvorens in enige zaak, het beheer of de vereffening des faillieten boedels betreffende, een beslissing te geven, is de rechtbank verplicht de rechter-commissaris te horen.
@@ -1085,6 +1097,8 @@ m.b.t. deze wijziging.
 
 Redactionele aantekening: Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging.
 
+Redactionele aantekening: Bij § 3 Van de schuldeiserscommissie: Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging.
+
 ## Artikel 75
 
 1 Hetzij al of niet een voorlopige schuldeiserscommissie is benoemd, raadpleegt de rechter-commissaris op de verificatievergadering de schuldeisers, na afloop der verificatie, over de benoeming van een definitieve commissie. Zo de vergadering deze wenselijk acht, gaat hij dadelijk tot de benoeming over. Deze commissie bestaat uit een oneven aantal leden en vertegenwoordigt belangrijke groepen van schuldeisers.
@@ -1176,6 +1190,8 @@ Redactionele aantekening: Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t
 Alle beschikkingen in zaken, het beheer of de vereffening des faillieten boedels betreffende, worden door de rechtbank in het hoogste ressort gewezen, behalve in de gevallen waarin het tegendeel is bepaald.
 
 Redactionele aantekening: Tekstplaatsing met aanpassing van de spelling.
+
+Redactionele aantekening: Bij § 5 Van de rechterlijke beschikkingen: Tekstplaatsing met aanpassing van de spelling.
 
 ## Artikel 86
 
@@ -1699,6 +1715,10 @@ Redactionele aantekening: Tekstplaatsing met aanpassing van de spelling.
 
 Redactionele aantekening: Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging.
 
+Redactionele aantekening: Bij Vijfde afdeling A: Tekstplaatsing met aanpassing van de spelling.
+
+Redactionele aantekening: Bij Vereenvoudigde afwikkeling van faillissement: Tekstplaatsing met aanpassing van de spelling.
+
 ## Artikel 137b
 
 1 De curator gaat na welke vorderingen bevoorrecht zijn of door pand, hypotheek of retentierecht gedekt zijn.
@@ -2055,6 +2075,8 @@ De bepalingen van deze afdeling zijn van overeenkomstige toepassing in het geval
 
 Redactionele aantekening: Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging.
 
+Redactionele aantekening: Bij Zevende afdeling Van de vereffening des boedels: Tekstplaatsing met aanpassing van de spelling.
+
 ## Artikel 173a
 
 1 Indien ter verificatievergadering geen akkoord is aangeboden of indien het aangeboden akkoord is verworpen, kan de curator of een ter vergadering aanwezige schuldeiser voorstellen, dat het bedrijf van de gefailleerde worde voortgezet.
@@ -2263,6 +2285,8 @@ Door het verbindend worden der slotuitdelingslijst herkrijgen de schuldeisers vo
 
 Redactionele aantekening: Tekstplaatsing met aanpassing van de spelling.
 
+Redactionele aantekening: Bij Achtste afdeling Van de rechtstoestand des schuldenaars na afloop van de vereffening: Tekstplaatsing met aanpassing van de spelling.
+
 ## Artikel 196
 
 De in het vierde lid van artikel 121 bedoelde erkenning ener vordering heeft kracht van gewijsde zaak tegen de schuldenaar; het proces-verbaal der verificatievergadering levert voor de daarin als erkend vermelde vorderingen de voor tenuitvoerlegging vatbare titel op tegen de schuldenaar.
@@ -2301,6 +2325,8 @@ Schuldeisers, die na de faillietverklaring hun vordering geheel of gedeeltelijk 
 
 Redactionele aantekening: Tekstplaatsing met aanpassing van de spelling.
 
+Redactionele aantekening: Bij Tiende afdeling Bepalingen van internationaal recht: Tekstplaatsing met aanpassing van de spelling.
+
 ## Artikel 204
 
 1 De schuldeiser, die zijn vordering tegen de gefailleerde, geheel of gedeeltelijk, aan een derde overdraagt, ten einde deze in de gelegenheid te stellen die vordering, geheel of gedeeltelijk, afzonderlijk of bij voorrang te verhalen op in het buitenland zich bevindende goederen van de gefailleerde, is verplicht het aldus verhaalde aan de boedel te vergoeden.
@@ -2322,6 +2348,8 @@ Redactionele aantekening: Tekstplaatsing met aanpassing van de spelling.
 Nadat het faillissement overeenkomstig de artikelen 161 of 193 geëindigd is, is de schuldenaar of zijn zijn erfgenamen bevoegd een verzoek van rehabilitatie in te leveren bij de rechtbank, die het faillissement heeft berecht.
 
 Redactionele aantekening: Tekstplaatsing met aanpassing van de spelling. Abusievelijk is 'erfgenamen' vervangen door 'erfgenamen,'
+
+Redactionele aantekening: Bij Elfde afdeling Van rehabilitatie: Tekstplaatsing met aanpassing van de spelling.
 
 ## Artikel 207
 
@@ -2440,6 +2468,8 @@ o. interoperabele systemen: twee of meer systemen waarvan de systeemexploitanten
 p. systeemexploitant: een entiteit die wettelijk aansprakelijk is voor de werking van een systeem.
 
 Redactionele aantekening: Artikel III van Stb. 2025/363 bevat overgangsrecht m.b.t. deze wijziging.
+
+Redactionele aantekening: Bij Afdeling 11A Van het definitieve karakter van de afwikkeling van betalingen en effectentransacties in betalings- en afwikkelingssystemen: Tekstplaatsing met aanpassing van de spelling.
 
 ## Artikel 212b
 
@@ -3082,6 +3112,8 @@ q. richtlijn solvabiliteit II: richtlijn 2009/138/EG van het Europees Parlement
 
 r. moedermaatschappij: een moedermaatschappij als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 
+Redactionele aantekening: Bij § 1 Definities: Tekstplaatsing met aanpassing van de spelling.
+
 ## Artikel 213a
 
 1 In afwijking van artikel 2, eerste lid, geschiedt de faillietverklaring van een verzekeraar met zetel in Nederland door de rechtbank Amsterdam.
@@ -3549,6 +3581,8 @@ m.b.t. deze wijziging.
 
 Redactionele aantekening: Tekstplaatsing met aanpassing van de spelling.
 
+Redactionele aantekening: Bij § 3 Bepalingen van internationaal privaatrecht: Tekstplaatsing met aanpassing van de spelling.
+
 ## Artikel 213o
 
 De beslissing tot opening van een liquidatieprocedure, de liquidatieprocedure zelf en de rechtsgevolgen van de liquidatieprocedure worden beheerst door het recht van de lidstaat van herkomst, tenzij de wet anders bepaalt.
@@ -3800,6 +3834,8 @@ Artikel 10 is niet van toepassing.
 3 Bij het verzoekschrift kan een ontwerp van een akkoord worden gevoegd.
 
 4 Surseance van betaling wordt niet verleend aan een natuurlijke persoon die geen zelfstandig beroep of bedrijf uitoefent, noch aan een bank als bedoeld in artikel 212g, eerste lid, onderdeel a, noch aan een beleggingsonderneming als bedoeld in artikel 212oo, tweede zin, noch aan een verzekeraar als bedoeld in artikel 213, noch aan een centrale tegenpartij als bedoeld in artikel 213ll, onderdeel b.
+
+Redactionele aantekening: Bij Titel II Van surseance van betaling: Tekstplaatsing met aanpassing van de spelling.
 
 ## Artikel 215
 
@@ -4723,6 +4759,8 @@ Redactionele aantekening: Tekstplaatsing met aanpassing van de spelling.
 
 Redactionele aantekening: Tekstplaatsing met aanpassing van de spelling.
 
+Redactionele aantekening: Bij Tweede afdeling A Bijzondere bepalingen: Tekstplaatsing met aanpassing van de spelling.
+
 ## Artikel 281b
 
 1 Indien blijkt dat het aantal schuldeisers meer dan 5000 bedraagt, kan de rechtbank op verzoek van de bewindvoerders de voorzieningen treffen, omschreven in de artikelen 281c-281f.
@@ -4790,6 +4828,8 @@ Redactionele aantekening: Artikel III van Stb. 2009/106 bevat overgangsrecht m.b
 Tegen de beslissingen van de rechter, ingevolge de bepalingen van deze titel gegeven, staat geen hogere voorziening open, behalve in de gevallen, waarin het tegendeel is bepaald, en behoudens de mogelijkheid van cassatie in het belang der wet.
 
 Redactionele aantekening: Tekstplaatsing met aanpassing van de spelling.
+
+Redactionele aantekening: Bij Derde afdeling Slotbepalingen: Tekstplaatsing met aanpassing van de spelling.
 
 ## Artikel 283
 
@@ -5355,6 +5395,8 @@ De bewindvoerder geeft van de dagen, uur en plaats bedoeld in artikel 289 onverw
 
 Redactionele aantekening: Artikel IV van Stb. 2022/491 bevat overgangsrecht m.b.t. deze wijziging.
 
+Redactionele aantekening: Bij Vierde afdeling De voorzieningen na de uitspraak tot de toepassing van de schuldsaneringsregeling en de taak van de bewindvoerder: Tekstplaatsing met aanpassing van de spelling.
+
 ## Artikel 323
 
 De bewindvoerder zorgt, dadelijk na zijn benoeming, door alle nodige en gepaste middelen voor de bewaring van de boedel. Tenzij de rechter-commissaris anders bepaalt, neemt de bewindvoerder de tot de boedel behorende bescheiden en andere gegevensdragers, gelden, kleinodiën, effecten en andere papieren van waarde tegen ontvangstbewijs onder zich, behoudens voorzover het beheer daarover op grond van een beslissing als bedoeld in artikel 296, derde lid, toekomt aan de schuldenaar.
@@ -5630,6 +5672,8 @@ Redactionele aantekening: Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t
 
 Redactionele aantekening: Artikel II van Stb. 2023/87 bevat overgangsrecht m.b.t. deze wijziging.
 
+Redactionele aantekening: Bij Achtste afdeling Termijn en beëindiging van de toepassing van de schuldsaneringsregeling: Voorheen negende afdeling.
+
 ## Artikel 350
 
 1 De rechtbank kan de toepassing van de schuldsaneringsregeling beëindigen op voordracht van de rechter-commissaris of op verzoek van de bewindvoerder, van de schuldenaar dan wel van een of meer schuldeisers. Zij kan zulks ook ambtshalve doen.
@@ -5774,6 +5818,8 @@ Met een vordering onder dit lid wordt gelijkgesteld een vordering die voortvloei
 
 Redactionele aantekening: Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging.
 
+Redactionele aantekening: Bij Negende afdeling Bijzondere bepalingen: Voorheen tiende afdeling.
+
 ## Artikel 359
 
 1 Indien de faillietverklaring van de schuldenaar tijdens de toepassing van de schuldsaneringsregeling wordt uitgesproken of indien de schuldenaar ingevolge artikel 350, vijfde lid, in staat van faillissement komt te verkeren, gelden de volgende regelen:
@@ -5804,6 +5850,8 @@ Tegen de beslissingen van de rechter, ingevolge de bepalingen van deze titel geg
 
 Redactionele aantekening: Tekstplaatsing met aanpassing van de spelling.
 
+Redactionele aantekening: Bij Tiende afdeling Slotbepalingen: Voorheen elfde afdeling.
+
 ## Artikel 361
 
 1 De verzoeken, te doen ingevolge de artikelen 292, eerste en derde lid, 315, eerste lid, 348, 349a, tweede lid, 350, eerste lid, 351, eerste lid, 355, eerste lid, en 358a, eerste lid, moeten door een advocaat zijn ondertekend, behalve wanneer een verzoek wordt gedaan door de bewindvoerder of, bij een verzoek ingevolge artikel 350, eerste lid, door de schuldenaar.
@@ -5819,6 +5867,8 @@ Redactionele aantekening: Tekstplaatsing met aanpassing van de spelling.
 2 De derde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering is niet van toepassing op verzoeken ingevolge deze wet, met uitzondering van de artikelen 262 en 269 van dat wetboek voor zover het verzoeken betreft die op basis van de tweede afdeling van titel IV worden ingediend in het kader van een besloten akkoordprocedure buiten faillissement of een openbare akkoordprocedure buiten faillissement.
 
 3 De rechtbank weigert homologatie van een akkoord, bedoeld in deze wet, indien het akkoord niet voorziet in de terugbetaling van de staatssteun die ingevolge een Commissiebesluit als bedoeld in artikel 1 van de Wet terugvordering staatssteun moet worden teruggevorderd.
+
+Redactionele aantekening: Bij Algemene slotbepaling: Tekstplaatsing met aanpassing van de spelling.
 
 ## Artikel 369
 
