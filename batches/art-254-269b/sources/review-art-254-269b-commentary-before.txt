@@ -1,0 +1,179 @@
+=== art-254
+
+Het akkoord veronderstelt een nog bestaande surseance. Artikel 254 voorkomt dat een ontwerp deze procedure overleeft wanneer de beëindiging daarvan eerder onherroepelijk wordt dan de homologatie. Beslissend is de volgorde waarin de uitspraken kracht van gewijsde verkrijgen. De datum waarop zij worden uitgesproken, de datum van de stemming en de verwachting dat een rechtsmiddel zal falen, vervangen dat criterium niet. Ook een reeds aangenomen akkoord kan dus nog door het vervallen van zijn procedurele basis worden getroffen.
+
+De bepaling verbindt het verval rechtstreeks aan de onherroepelijke beëindiging; een afzonderlijke stemming over intrekking is daarvoor niet vereist. Zij zegt niet dat een niet-onherroepelijke beëindigingsbeslissing het ontwerp onmiddellijk vernietigt. Bewindvoerders moeten daarom naast de akkoordkalender van artikel 255 ook het verloop van rechtsmiddelen tegen de beëindiging bijhouden. Een faillissementsakkoord vergt vervolgens zijn eigen wettelijke procedure; het surseanceontwerp wordt niet door dit artikel automatisch daarin omgezet.
+
+Fictief voorbeeld: de schuldeisers stemmen op maandag voor een akkoord, terwijl een beëindigingsprocedure loopt. Wordt de beëindiging onherroepelijk voordat de homologatie onherroepelijk is, dan vervalt het ontwerp ondanks die positieve stemming. De schuldenaar kan de crediteuren niet uitsluitend op grond van de stemming aan het voorgestelde percentage houden.
+
+=== art-255
+
+Dit artikel bepaalt wanneer de voorbereiding van de akkoordstemming begint en maakt daarbij twee routes mogelijk. Is het ontwerp tegelijk met het surseanceverzoek neergelegd, dan kan de rechtbank na het horen van rechter-commissaris en bewindvoerders de behandeling van artikel 218 achterwege laten. Dit is een bevoegdheid, geen automatisch gevolg van gelijktijdige indiening. De rechtbank stelt dan zowel de uiterste indieningsdag voor vorderingen als dag en uur van de akkoordvergadering vast.
+
+Tussen de indieningsdag en de vergaderdag liggen ten minste veertien dagen. Dat geeft ruimte voor controle, waardering en inzage; artikel 263 verlangt daarnaast zeven dagen terinzagelegging van de lijst. De termijn van veertien dagen mag dus niet worden verward met een termijn die pas bij publicatie begint. Artikel 256 regelt afzonderlijk de bekendmaking.
+
+Lid 3 geldt wanneer de rechtbank de versnelde route niet gebruikt of het ontwerp later is neergelegd. Dan volgt de vaststelling zodra de definitieve surseanceverlening onherroepelijk is, dan wel onmiddellijk na een nog latere neerlegging van het ontwerp. Het moment van indiening van het akkoord beïnvloedt daarmee daadwerkelijk het procesverloop.
+
+Fictief voorbeeld: een onderneming voegt een volledig akkoord bij haar eerste verzoek. Zij kan om de route van lid 1 vragen, maar mag niet zelf de vergadering aankondigen alsof de behandeling van artikel 218 al is vervallen. Eerst moet de rechtbank die keuze maken en de relevante data vaststellen.
+
+=== art-256
+
+De oproepingsregeling combineert openbare bekendmaking met individuele informatie. Bewindvoerders kondigen de beschikking van artikel 255 en de neerlegging van het ontwerp dadelijk in de Staatscourant aan. Voor de neerlegging geldt de uitzondering dat zij al ingevolge artikel 216 bekendgemaakt kan zijn. Die uitzondering heft niet zonder meer de publicatieplicht voor de nieuwe beschikking op.
+
+Daarnaast moeten alle bekende schuldeisers schriftelijk worden geïnformeerd. De waarschuwing voor artikel 257 lid 2 is essentieel: indiening van een anders buiten de surseance vallende vordering kan de werking van de surseance uitbreiden en zekerheids- of voorrangsrechten doen verloren gaan. Een enkel vergaderadres in de brief geeft die informatie niet. Het dossier behoort te laten zien welke bekende schuldeisers zijn aangeschreven en welke waarschuwing zij ontvingen.
+
+Lid 3 laat persoonlijke verschijning, een schriftelijk gemachtigde en een advocaat toe. Het schrijft voor deze vergadering dus geen algemene advocatenplicht voor. Lid 4 geeft bewindvoerders de bevoegdheid vooraf geld voor de aankondigingen en kennisgevingen te verlangen; het betreft de financiering van concrete procescommunicatie.
+
+Fictief voorbeeld: een bank staat als pandhouder in de administratie. Ook wanneer haar vordering in beginsel buiten de surseance valt, mag zij als bekende schuldeiser niet stilzwijgend uit de verzending worden weggelaten. Juist voor haar kan de wettelijke waarschuwing zwaar wegen.
+
+=== art-257
+
+De indiening moet de bewindvoerders in staat stellen het bestaan en de omvang van de vordering te onderzoeken. Een rekening of andere schriftelijke verklaring vermeldt daarom aard en bedrag en gaat vergezeld van bewijsstukken of afschriften. Een mededeling dat men 'nog geld tegoed heeft' biedt onvoldoende basis voor een verantwoorde plaatsing op de lijst van artikel 259. De schuldeiser kan een ontvangbewijs verlangen; daarmee kan hij bij een termijnvraag aantonen wat wanneer is ingediend.
+
+Lid 2 bevat een ingrijpend gevolg voor vorderingen waarvoor de surseance niet werkt. Zij behoren niet te worden ingediend. Gebeurt dit toch, dan gaat de surseance ook voor die vordering werken en vervalt het verbonden voorrecht, retentierecht, pandrecht of hypotheek. De wet biedt herstel voor zover de vordering vóór het begin van de stemming wordt teruggenomen. De grens is dus niet het sluiten van de vergadering. Bij gedeeltelijke terugneming moet duidelijk zijn welk deel wordt behouden.
+
+Een schuldeiser moet de toepasselijkheid van de surseance en de omvang van zijn zekerheid vooraf onderscheiden. Een eventueel ongedekt deel vraagt een andere beoordeling dan het gedekte deel. De rechtbank Den Haag bespreekt dit onderscheid in haar beschikking van 13 november 2024, ECLI:NL:RBDHA:2024:18898, rov. 3.11–3.17; de feiten van die homologatiezaak maken niet iedere zekerheidsregeling gelijkwaardig.
+
+Fictief voorbeeld: een pandhouder dient per vergissing ook het gedekte gedeelte in. Ontdekt hij dit bij de inzage, dan moet hij vóór aanvang van de stemming ondubbelzinnig terugnemen; een protest na de stemming komt voor deze wettelijke herstelmogelijkheid te laat.
+
+=== art-257a
+
+De verwijzing naar artikel 110a brengt een specifieke herstelmogelijkheid uit de faillissementsregeling naar de surseance. Het gaat om een onvolledig ingevuld standaardformulier als bedoeld in artikel 55 van de in artikel 5 lid 3 genoemde verordening. De bewindvoerders moeten de schuldeiser overeenkomstig die regeling gelegenheid geven het formulier aan te vullen. De korte verwijzingsbepaling voorkomt dat het ontbreken van gegevens meteen als een definitief inhoudelijk gebrek wordt behandeld.
+
+De overeenkomstige toepassing vergt een functionele aanpassing: waar artikel 110a de curator noemt, zijn in deze procedure de bewindvoerders de ontvangers van de vordering. Artikel 257 blijft de algemene eis van aard, bedrag en bewijsstukken leveren. Artikel 257a bepaalt niet dat een vordering door het aanbod tot aanvulling erkend is; de inhoudelijke toets van artikel 258 en eventuele betwisting blijven mogelijk. Evenmin kan uit deze verwijzing worden afgeleid dat alle termijnen van de akkoordprocedure automatisch opschuiven.
+
+Fictief voorbeeld: een buitenlandse leverancier gebruikt het bedoelde standaardformulier maar laat de rubriek over het bedrag onvolledig. De bewindvoerder vraagt aanvulling in plaats van de inzending enkel daarom terzijde te leggen. Na ontvangst onderzoekt hij nog steeds of de facturen de opgegeven hoofdsom dragen.
+
+=== art-258
+
+Bewindvoerders hebben bij de akkoordvoorbereiding een eigen onderzoekstaak. Zij vergelijken de ingezonden rekeningen met de administratie en de opgaven van de schuldenaar. De administratie vormt controle-informatie, geen onaantastbare waarheid: ontbreekt een factuur in de boekhouding, dan volgt daaruit niet noodzakelijk dat de schuld niet bestaat. Omgekeerd bewijst een boeking niet dat ieder opgegeven bedrag zonder nader onderzoek moet worden erkend.
+
+Bij bezwaar tegen toelating moeten de bewindvoerders met de schuldeiser overleggen. Zij mogen ontbrekende stukken opvragen en raadpleging van diens administratie en oorspronkelijke bewijsstukken verlangen. De bepaling geeft dus middelen om een verschil te verklaren voordat het als betwisting op de lijst verschijnt. Zij maakt de schuldeiser niet verplicht zijn gehele administratie zonder verband met de vordering openbaar te maken; het onderzoek staat in dienst van de controle van de ingediende rekening.
+
+De uitkomst krijgt vorm in de lijst van artikel 259 en kan ter vergadering nog worden aangepast volgens artikel 266. Fictief voorbeeld: een leverancier declareert € 40.000 terwijl de schuldenaar € 25.000 boekt. De bewindvoerder vraagt de ontbrekende leveringsbewijzen en onderzoekt een mogelijke creditnota. Hij vermeldt een resterend geschil herkenbaar op de lijst, in plaats van het verschil door een onverklaarde verlaging te verbergen.
+
+=== art-259
+
+De lijst vormt het overzicht waarop inzage, bespreking en stemming voortbouwen. Zij bevat per ingediende vordering de naam en woonplaats van de schuldeiser, bedrag en omschrijving, en de mate waarin bewindvoerders erkennen of betwisten. De omschrijving maakt zichtbaar waarop de aanspraak berust; alleen een totaaltelling van schulden is ontoereikend. Het onderscheid tussen volledige en gedeeltelijke betwisting is van belang voor de latere stemtoelating.
+
+Plaatsing op de lijst is niet hetzelfde als erkenning. Een betwiste ingediende vordering hoort juist met die status zichtbaar te worden, zodat artikel 267 kan worden toegepast. De lijst van artikel 259 is bovendien geen onveranderlijk eindresultaat: artikel 266 staat herziening en nieuwe betwistingen ter vergadering toe. Artikel 269 verlangt dat de bijgewerkte lijst gewaarmerkt aan het proces-verbaal wordt gehecht.
+
+Fictief voorbeeld: van een adviesrekening van € 18.000 erkennen de bewindvoerders € 12.000 en betwisten zij € 6.000 wegens niet-uitgevoerde werkzaamheden. De lijst moet dat onderscheid en de betrokken schuldeiser tonen. Eén regel met uitsluitend 'advieskosten € 12.000' zou het ingediende geschil aan het zicht van de vergadering onttrekken en de voorbereiding van een beslissing over het betwiste deel bemoeilijken.
+
+=== art-260
+
+Voor rentedragende vorderingen trekt lid 1 een gemeenschappelijke tijdgrens: de rente wordt bij de lijstberekening meegenomen tot de aanvang van de surseance. Daarmee voorkomen bewindvoerders dat de duur van de voorbereiding op zichzelf steeds de onderlinge stemgewichten verandert. De bepaling betreft de opneming op de lijst; zij is niet zonder meer een algemene uitspraak dat alle later lopende rente in iedere rechtsverhouding ophoudt te bestaan.
+
+Lid 2 importeert aanvullende verificatieregels. Artikel 129 ziet op de ontbindende voorwaarde. Artikel 133 verlangt waardering in Nederlands geld van onzekere, vreemdevaluta- en niet-geldelijke aanspraken; artikel 134 betreft toondervorderingen. Artikel 135 is in de geselecteerde tekst vervallen en levert dus geen extra actuele regel op. Van artikel 136 worden uitsluitend de eerste twee leden over hoofdelijke schuldenaren en hun onderlinge aanspraken overgenomen. Die begrenzing voorkomt het ongericht overnemen van de gehele faillissementsbepaling.
+
+Fictief voorbeeld: een lening draagt rente en daarnaast heeft een medeschuldenaar een mogelijke regresvordering. De bewindvoerder berekent eerst de lening inclusief rente tot de aanvangsdatum en beoordeelt vervolgens de regrespositie volgens artikel 136 leden 1 en 2. Hij telt niet zonder onderzoek zowel de volledige lening als hetzelfde economische risico als een onbeperkte tweede concurrente aanspraak mee.
+
+=== art-261
+
+Een opschortende voorwaarde maakt onzeker of de aanspraak daadwerkelijk tot werking komt. Lid 1 laat opneming toe voor de waarde bij aanvang van de surseance. Het gaat daarmee om waardering van het voorwaardelijke recht, niet om het doen alsof de voorwaarde al vervuld is. De kans op vervulling en de inhoud van de aanspraak kunnen de waarde beïnvloeden, maar de relevante peildatum blijft het begin van de procedure.
+
+Lid 2 biedt een uitweg wanneer bewindvoerders en schuldeisers over die waardering geen overeenstemming bereiken: de vordering wordt voor het volle bedrag voorwaardelijk toegelaten. Het ontbreken van consensus geeft dus geen grond om haar eenvoudig geheel te schrappen. Deze waarderingsregel moet worden onderscheiden van een zelfstandig geschil over het bestaan van de rechtsgrond, waarvoor de regeling van betwisting en stemtoelating van belang blijft. Voor ontbindende voorwaarden verwijst artikel 260 juist naar artikel 129.
+
+Fictief voorbeeld: een contract kent een betalingsaanspraak van € 30.000 toe wanneer een vergunning wordt verleend. Partijen verschillen over de kans daarop bij aanvang van de surseance. Als zij geen akkoord over de waarde bereiken, schrijft lid 2 voorwaardelijke toelating voor het volle bedrag voor; de bewindvoerder mag niet enkel zijn eigen kansschatting van € 3.000 als overeengekomen waarde presenteren.
+
+=== art-262
+
+Artikel 262 maakt toekomstige of periodieke aanspraken vergelijkbaar voor de lijst. Lid 1 neemt bij onzekerheid van de opeisbaarheidsdatum en bij periodieke uitkeringen de waarde bij aanvang van de surseance als uitgangspunt. Die aanspraken mogen niet worden genegeerd omdat op de vergaderdag nog geen afzonderlijke termijn opeisbaar is. Het betreft de bestaande vordering en haar waardering, niet een vrijbrief om iedere verwachte toekomstige handelsrelatie als schuld op te voeren.
+
+Lid 2 onderscheidt vervolgens naar vervaldatum. Binnen één jaar na aanvang vervallende schulden worden behandeld alsof zij bij aanvang opeisbaar waren. Voor later vervallende schulden geldt de waarde na verloop van dat eerste jaar. De wet kiest daarmee een eigen waarderingsmoment; zonder meer alle latere bedragen naar de aanvangsdag contant maken zou de tekst missen.
+
+Lid 3 beperkt de berekeningsfactoren tot tijdstip en wijze van aflossing, eventueel kansgenot en de bedongen rentevoet bij rentedragende vorderingen. Een willekeurige extra korting wegens de algemene financiële nood past niet als afzonderlijke factor in die opsomming.
+
+Fictief voorbeeld: een lening moet acht maanden na aanvang worden afgelost, een andere pas na drie jaar. De eerste valt onder de behandeling als onmiddellijk opeisbaar; voor de tweede moet de wettelijke waardering na het eerste jaar worden berekend. De bewindvoerder legt de gebruikte contractdata en rentevoet vast, zodat de lijst controleerbaar blijft.
+
+=== art-263
+
+De lijst van artikel 259 moet gedurende de zeven dagen vóór de akkoordvergadering kosteloos op de griffie ter inzage liggen. De verplichting rust op de bewindvoerders en betreft een afschrift van de lijst. Zo kunnen betrokkenen vóór de stemming controleren welke vorderingen en betwistingen het stemmenbestand bepalen. De inzage staat volgens de tekst voor een ieder open en is dus niet beperkt tot de schuldeisers die zelf een vordering hebben ingediend.
+
+Lid 2 maakt ook de neerlegging kosteloos. Dat is een ander punt dan kosteloosheid van de inzage: het ene beschermt de toegang, het andere voorkomt griffiekosten voor deze neerlegging. Artikel 263 schrijft geen kosteloze toezending van een volledige papieren set aan iedere schuldeiser voor. De schriftelijke kennisgeving van artikel 256 heeft een eigen functie.
+
+De planning moet aansluiten op artikel 255 en een eventueel uitstel volgens artikel 264. Een lijst die pas op de ochtend van de vergadering beschikbaar komt, levert de voorgeschreven voorafgaande inzage niet op. Fictief voorbeeld: een kleine leverancier ontdekt tijdens de inzage dat zijn vordering gedeeltelijk is betwist. Hij kan bewijs meenemen en zich voorbereiden op de behandeling volgens artikelen 266 en 267. Het inzagerecht heeft dan concrete betekenis voor het stemproces, ook al bepaalt de neerlegging de uitkomst van de betwisting niet.
+
+=== art-264
+
+De rechter-commissaris kan de raadpleging en stemming naar een latere dag verplaatsen. Hij kan dat ambtshalve doen of op verzoek van de bewindvoerders. De tekst verleent schuldenaar en afzonderlijke schuldeisers hier niet dezelfde zelfstandige verzoekbevoegdheid, al kunnen zij de bewindvoerders of rechter-commissaris op een praktisch probleem wijzen. Alleen een onderlinge afspraak tussen enkele deelnemers verandert de vastgestelde vergaderdatum niet.
+
+Door artikel 256 overeenkomstig toepasselijk te verklaren, koppelt lid 2 het uitstel aan nieuwe informatievoorziening. Zowel de openbare aankondiging als de schriftelijke kennisgeving aan bekende schuldeisers verdient aandacht. Een mededeling aan uitsluitend de reeds aanwezige schuldeisers bereikt degenen die op de nieuwe datum alsnog zouden willen verschijnen niet. De verwijzing brengt ook de regeling van vertegenwoordiging en de voorschotbevoegdheid voor communicatiekosten in beeld.
+
+Fictief voorbeeld: kort voor de vergadering blijkt een omvangrijke vordering nader onderzoek te vereisen. De bewindvoerders verzoeken uitstel en de rechter-commissaris wijst een nieuwe dag aan. Zij mogen daarna niet veronderstellen dat de oorspronkelijke oproeping voldoende blijft. Ook de samenhang met de voorafgaande inzage in artikel 263 moet in de aangepaste planning worden bewaakt.
+
+=== art-265
+
+De vergadering krijgt een schriftelijk oordeel over het aanbod van zowel bewindvoerders als eventueel benoemde deskundigen. De verwijzing naar artikel 144 geeft de schuldenaar ruimte om het akkoord toe te lichten, te verdedigen en tijdens de raadpleging te wijzigen. Een wijziging kan dus deel van het stemproces zijn; de uiteindelijk gestemde inhoud moet in het proces-verbaal herkenbaar zijn.
+
+Leden 2 en 3 regelen te late indiening. Na de reguliere indieningsdag maar uiterlijk twee dagen vóór de vergadering ingediende vorderingen kunnen op een ter vergadering gedaan verzoek nog op de lijst komen als bewindvoerders noch een aanwezige schuldeiser bezwaar maken. Nog later ingediende vorderingen worden niet geplaatst. Een tijdig ontvangen brief in de tussenperiode vervangt het vereiste verzoek ter vergadering niet vanzelf.
+
+Lid 4 maakt een uitzondering wanneer de schuldeiser buiten het Rijk in Europa woont en juist daardoor verhinderd was zich eerder aan te melden. Buitenlands verblijf alleen bewijst dat causale beletsel niet. Bij bezwaar als bedoeld in lid 2 of een geschil over de verhindering beslist de rechter-commissaris na raadpleging van de vergadering, aldus lid 5. Dat is geen loutere meerderheidsstemming van schuldeisers over toegang.
+
+Fictief voorbeeld: een buitenlandse leverancier meldt zich één dag vóór de vergadering en voert aantoonbare vertraging door zijn woonplaats aan. De rechter-commissaris beoordeelt de gestelde verhindering; de bewindvoerder kan de aanspraak niet uitsluitend op grond van de algemene tweedagengrens afdoen zonder die uitzondering te onderzoeken.
+
+=== art-266
+
+Erkenning en betwisting op de voorbereide lijst zijn voor het verloop van de vergadering niet definitief. Bewindvoerders kunnen op beide terugkomen. Nieuw bewijs kan dus zowel een eerder betwiste vordering ondersteunen als een eerder erkende vordering ontkrachten. Lid 1 verlangt geen instemming van de betrokken schuldeiser als voorwaarde voor het herzien van het standpunt van de bewindvoerders.
+
+Lid 2 geeft de schuldenaar en iedere verschenen schuldeiser bovendien een eigen mogelijkheid om een door bewindvoerders geheel of gedeeltelijk erkende vordering te betwisten. Daarmee is de controle niet gemonopoliseerd door de bewindvoerders. Een betwisting maakt de schuld echter niet zonder meer materieel onbestaand. Voor het stemrecht bij een geschil neemt de rechter-commissaris de beslissing van artikel 267.
+
+Volgens lid 3 worden de nieuwe erkenningen en betwistingen op de lijst aangetekend. Die actualisering is essentieel voor de stemtelling en de bijlage bij het proces-verbaal van artikel 269. Fictief voorbeeld: een verschenen leverancier toont aan dat een andere crediteur een creditnota niet heeft verwerkt. Hij kan de erkende vordering betwisten, ook als de bewindvoerder eerst geen fout zag. Het geschil en een eventuele herziening worden vastgelegd voordat met onduidelijke bedragen wordt gestemd.
+
+=== art-267
+
+De rechter-commissaris beslist bij betwiste vorderingen over toelating tot de stemming en het bedrag waarvoor dat gebeurt. De bepaling voorkomt dat iedere betwisting het akkoordproces blokkeert. Zij betreft het procesrechtelijke stemgewicht; een toelating mag niet zonder meer worden beschreven als een definitief vonnis over de civielrechtelijke betalingsplicht. De onderliggende stukken en de concrete grond van betwisting moeten daarom uit elkaar worden gehouden.
+
+De beslissing sluit aan op de lijst van artikel 259, de betwistingen van artikel 266 en de dubbele meerderheid van artikel 268. Een geschil over een groot bedrag kan de bedragenmeerderheid beïnvloeden, terwijl ook de toelating van kleine schuldeisers gevolgen heeft voor het aantal stemmen. Het is daarom praktisch noodzakelijk de beslissing per crediteur en voor een bepaald bedrag te registreren.
+
+HR 8 december 2017, ECLI:NL:HR:2017:3110, rov. 3.4.2–3.5, brengt beslissingen op grond van artikel 267 onder artikel 282: een gewoon rechtsmiddel is niet beschikbaar zonder wettelijke uitzondering. Rov. 3.7.1 en 3.8.3 onderscheiden uitzonderlijke doorbrekingsgronden van een enkele onjuiste toepassing. Het arrest beoordeelde de toenmalige procedure; het is geen nieuwe inhoudelijke waarderingsregel.
+
+Fictief voorbeeld: van € 100.000 wordt € 70.000 betwist. De rechter-commissaris moet duidelijk maken of en voor welk bedrag de crediteur mag stemmen; alleen 'vordering betwist' noteren lost de telling niet op.
+
+=== art-268
+
+De aanneming vereist twee gelijktijdige meerderheden. Meer dan de helft van de ter vergadering verschenen erkende en toegelaten schuldeisers moet instemmen. Daarnaast moeten de voorstemmers ten minste de helft vertegenwoordigen van het bedrag van de erkende en toegelaten schuldvorderingen. Bij de bedragentoets ontbreekt de beperking tot de verschenen schuldeisers. Afwezige crediteuren kunnen daarom via het totale erkende en toegelaten bedrag betekenis houden, ook al tellen zij niet mee als aanwezige personen.
+
+Voor zover een vordering op een verbeurde dwangsom berust, is toestemming van die schuldeiser niet vereist. Een gemengde vordering moet daarom naar haar onderdelen worden onderscheiden. De verwijzing naar artikel 147 beschermt de uitkomst tegen latere veranderingen in crediteurenaantal of vorderingsbedragen. Zij neemt niet de noodzaak weg om op de vergadering een juiste stemlijst te gebruiken en de procedure van artikel 269a voor een onjuiste verwerpingsverklaring te onderscheiden.
+
+Fictief voorbeeld: zes van tien verschenen stemgerechtigde crediteuren stemmen voor. Hun vorderingen bedragen € 40.000, de totale erkende en toegelaten schuld € 100.000. Ondanks de gewone personenmeerderheid is artikel 268 niet gehaald. Bij zes voorstemmers met samen € 50.000 zou de bedragentoets wel zijn gehaald, behoudens de overige toepasselijke stemregels. Een eventuele toepassing van artikel 268a moet zelfstandig worden gemotiveerd.
+
+=== art-268a
+
+Artikel 268a maakt onder strikte voorwaarden een vaststelling mogelijk alsof het akkoord was aangenomen. Schuldenaar of bewindvoerder moet daarom verzoeken; de rechter-commissaris moet gemotiveerd beslissen. Voorwaarde a verlangt dat drie vierde van de verschenen erkende en toegelaten schuldeisers vóór stemt. Daarnaast moet de verwerping voortvloeien uit tegenstemmen waartoe één of meer schuldeisers in redelijkheid niet konden komen. De voorwaarden zijn cumulatief.
+
+De vergelijking met de verwachte betaling bij vereffening weegt bijzonder zwaar, maar de tekst verlangt een beoordeling van alle omstandigheden. Een hoger akkoordpercentage bewijst dus niet op zichzelf dat iedere tegenstem onredelijk is. Ook de onderbouwing en uitvoerbaarheid van de alternatieven vragen aandacht. De beslissing vervangt de aanneming; zij is nog geen homologatie. Artikel 269b opent pas daarna de rechterlijke behandeling daarvan.
+
+HR 8 december 2017, ECLI:NL:HR:2017:3110, rov. 3.4.3–3.5 en 3.7.1–3.8.3, bevestigt het rechtsmiddelenverbod voor deze beslissing en de beperkte mogelijkheid van doorbreking. De in dat arrest weergegeven bezwaren van de verzoeker mogen niet als door de Hoge Raad vastgestelde onpartijdigheidsgebreken worden gelezen. Een gewone fout in toepassing volstaat niet voor doorbreking.
+
+Fictief voorbeeld: negen van twaalf verschenen crediteuren stemmen voor, maar een grote tegenstem verhindert de bedragenmeerderheid. De drempel van onderdeel a is bereikt. Voor vaststelling moet echter óók concreet worden aangetoond waarom het betrokken tegenstemmen, gelet op onder meer de vereffeningsopbrengst, onredelijk was.
+
+=== art-269
+
+Het proces-verbaal moet reconstructie van de besluitvorming mogelijk maken. Het bevat de inhoud van het akkoord, de namen van verschenen stemgerechtigde schuldeisers, ieders stem, de uitslag en het overige verhandelde. Alleen 'aangenomen met meerderheid' noteren is ontoereikend. Bij wijziging tijdens de raadpleging moet duidelijk zijn op welke uiteindelijke inhoud de vastgelegde stemmen betrekking hebben.
+
+De bijgewerkte crediteurenlijst wordt door rechter-commissaris en griffier gewaarmerkt en aangehecht. Zo blijven wijzigingen volgens artikel 266 en de stemtoelating van artikel 267 verbonden met het document dat de uitslag draagt. Lid 2 geeft een ieder acht dagen kosteloze inzage op de griffie. Dat is een eigen regeling naast de voorafgaande lijstinzage van artikel 263.
+
+De controleerbaarheid is van belang voor artikel 269a. HR 8 december 2017, ECLI:NL:HR:2017:3110, rov. 3.6.2 en 3.8.3, maakt daarnaast duidelijk dat een gestelde onjuiste toepassing van de regels over het proces-verbaal niet zonder meer een doorbrekingsgrond voor het rechtsmiddelenverbod oplevert. Daarmee is niet geoordeeld dat de inhoudseisen facultatief zijn.
+
+Fictief voorbeeld: een gemachtigde vertegenwoordigt drie schuldeisers en stemt voor twee vóór en voor één tegen. Een enkele notitie 'gemachtigde stemt voor' verhindert een betrouwbare telling. De stemmen horen per vertegenwoordigde stemgerechtigde te worden vastgelegd.
+
+=== art-269a
+
+Een ten onrechte als verwerping aangemerkte uitslag heeft een beperkte correctieroute. De rechter-commissaris zendt het ontwerp en het proces-verbaal onverwijld aan de rechtbank. De schuldenaar en de schuldeisers die vóór hebben gestemd kunnen vervolgens gedurende acht dagen na afloop van de vergadering om verbetering verzoeken. De wet verleent deze bevoegdheid hier niet aan iedere willekeurige crediteur of uitsluitend aan de bewindvoerders.
+
+Het bewijscriterium is streng afgebakend: uit de stukken zelf moet blijken dat het akkoord ten onrechte als verworpen is beschouwd. De procedure is daardoor geen tweede stemming, geen nieuwe aanbieding en geen algemene herkansing om andere stemtoelatingsbeslissingen te laten beoordelen. Een verzoek behoort precies aan te wijzen welke vastgelegde stemmen of bedragen tot een andere uitkomst leiden. Artikel 269b regelt de homologatiezitting wanneer de rechtbank langs deze weg corrigeert.
+
+HR 8 december 2017, ECLI:NL:HR:2017:3110, rov. 3.10, bevat geen inhoudelijke goedkeuring van de afwijzingsgronden voor een verbeteringsverzoek: tegen die afwijzing waren geen afzonderlijke cassatieklachten gericht. Het arrest mag daarom niet als een algemene beslissing over het bereik van artikel 269a worden aangehaald.
+
+Fictief voorbeeld: de bijgevoegde stemlijst toont zes voorstemmen en vier tegenstemmen, terwijl in de berekening één voorstem als tegenstem is verwerkt en het akkoord daarom verworpen heet. Een voorstemmende crediteur kan binnen de termijn de kenbare rekenfout aan de rechtbank voorleggen.
+
+=== art-269b
+
+Na aanneming of vaststelling volgt een afzonderlijke homologatiefase. De rechter-commissaris bepaalt vóór sluiting van de vergadering de zitting waarop de rechtbank het akkoord zal behandelen. Wanneer de rechtbank artikel 269a toepast, bepaalt zij de zitting zelf in haar beschikking en geven de bewindvoerders daarvan schriftelijk kennis aan de schuldeisers. Deze tweede route voorkomt dat na correctie van de uitslag nog onduidelijkheid bestaat over de volgende processtap.
+
+Lid 3 geeft een minimum van acht en een maximum van veertien dagen. Bij een normale aanneming is de stemming het aanknopingspunt; bij toepassing van artikel 269a is dat de beschikking van de rechtbank. Het gaat om de aanvankelijke zittingsbepaling; artikel 271 bevat een eigen mogelijkheid om de behandeling te verplaatsen. Gedurende de tussenliggende tijd kunnen schuldeisers schriftelijk aan de rechter-commissaris opgeven waarom zij weigering van homologatie wenselijk achten. Een positieve stemuitslag sluit dus rechterlijke toetsing niet af.
+
+Fictief voorbeeld: na verbetering van een foutieve verwerpingsverklaring bepaalt de rechtbank de homologatiezitting. Een schuldeiser dient tijdig concrete bezwaren over de nakoming van het akkoord in. De rechterlijke beoordeling daarvan hoort bij de homologatiefase en is geen nieuwe stemming over dezelfde meerderheid.
+
+Praktische controle vóór de homologatiefase: bewaar het definitieve aanbod, de individuele stemmen en de gewaarmerkte lijst; onderscheid de stemdatum van een eventuele verbeteringsbeschikking; bereken de zittingsgrenzen vanaf het juiste moment; registreer de schriftelijke kennisgevingen en bezwaren. Zo blijven aanneming, correctie en homologatie als afzonderlijke wettelijke stappen controleerbaar.

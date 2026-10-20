@@ -1,0 +1,11 @@
+# HR 8 december 2017 — ECLI:NL:HR:2017:3110
+
+Zaak 16/05741. [Officiële volledige tekst](https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2017:3110); [XML-opname](review-art-254-269b-hr-2017.xml); [lokale nationale corpusversie](review-art-254-269b-hr-2017-local.md).
+
+De Hoge Raad verwerpt het cassatieberoep. Rov. 3.4.2–3.5: beslissingen krachtens artikelen 267 en 268a vallen onder het rechtsmiddelenverbod van artikel 282. Een ooit voorgesteld, maar niet ingevoerd rechtsmiddel verandert dit niet. Rov. 3.7.1: doorbreking is mogelijk bij buiten toepassingsgebied treden, ten onrechte buiten toepassing laten of veronachtzaming van een fundamenteel rechtsbeginsel waardoor geen eerlijke en onpartijdige behandeling bestaat. Rov. 3.7.2: acht dagen voor een rechtsmiddel gericht op doorbreking. Rov. 3.8.2: de aangevoerde omstandigheden onderbouwen in deze zaak geen gebrek aan onafhankelijkheid of onpartijdigheid. Rov. 3.8.3: een enkele onjuiste toepassing is geen doorbrekingsgrond. Rov. 3.10: geen afzonderlijke klachten tegen afwijzing van verbetering van het proces-verbaal, dus geen inhoudelijke uitspraak over de gronden van die afwijzing.
+
+Ondersteunde eenheden: art-267, art-268a, art-269, art-269a. Grenzen: de procedure dateert van vóór de wijzigingen van 2023. De in rov. 3.7.2 mede genoemde toenmalige bepaling 270 is thans vervallen; die historische verwijzing is niet overgenomen als huidige beroepsroute. De geselecteerde huidige artikelen 267, 268a en 282 blijven de beschreven institutionele beslissingen en het rechtsmiddelenverbod bevatten. Geen oordeel over de actuele financiële waardering van individuele vorderingen. Partijstellingen in rov. 3.6 zijn geen bevindingen van partijdigheid door de Hoge Raad.
+
+Bronhash en HTTP-opname: [verificatierecord](review-art-254-269b-case-fetch.json). Selectieve raadpleging, geen uitputtend rechtspraakonderzoek.
+
+Tweede lezing op 21 oktober 2026: volledige officiële uitspraak opnieuw opgehaald en gelezen; dictum, eigen overwegingen en weergegeven partijstellingen onderscheiden. Huidige nationale bepalingen vergeleken; beperkingen hierboven blijven gelden.

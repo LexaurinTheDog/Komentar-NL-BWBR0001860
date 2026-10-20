@@ -1,0 +1,40 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2017:3110",
+    "official_sha256": "9fbc4b4989581b2a1556ce91a1b1284c3ef3a9ba6bdca5607dda880880c6cead",
+    "full_text_chars": 17207,
+    "same_as_author_capture": true,
+    "full_text_read": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2017-3110.md",
+    "local_snapshot": "sources/review-art-254-269b-hr-2017-local.md",
+    "local_sha256": "c91506bcc1afee08b83ed28a1c0fe0f2e6b10b1e01d2d35635b06fd917a5e5c9",
+    "official_paragraphs": 126,
+    "unmatched_paragraph_prefixes": [
+      "EersteKamer",
+      "LZ/EE",
+      "HogeRaadderNederlanden",
+      "indezaakvan:",
+      "[verzoeker],wonendete[woonplaats],",
+      "VERZOEKERtotcassatie,",
+      "advocaat:mr.Y.E.J.Geradts,",
+      "1.mrs.O.B.J.POORTHUISenP.R.DEKKER,inhunhoedanigheidvancuratorinhetfaillissementvanAccessioBeheerB.V.",
+      "VERWEERDERSincassatie,",
+      "advocaat:mr.B.I.Kraaipoel,",
+      "2.[A],kantoorhoudendete[plaats],",
+      "3.CBHRechtsanwalte,gevestigdteKeulen,Duitsland,",
+      "4.[B]B.V.,gevestigdte[vestigingsplaats],",
+      "5.PropertizeB.V.,gevestigdteUtrecht,",
+      "6.mrs.F.P.G.DixenM.J.W.vanIngen,inhunhoedanigheidvancuratorinhetfaillissementvan[betrokkene1],kantoo",
+      "VERWEERDERS/BELANGHEBBENDENincassatie,",
+      "nietverschenen.",
+      "Partijenzullenhiernaookwordenaangeduidals[verzoeker]enverweerderssub1alsdecuratorenvanAccessio."
+    ]
+  },
+  {
+    "ecli": "ECLI:NL:RBDHA:2024:18898",
+    "official_sha256": "f442ce30946ae2f173a8f0435f151edb78df89e0901f0805d6bbc175dddbe2f0",
+    "full_text_chars": 44159,
+    "same_as_author_capture": true,
+    "full_text_read": true
+  }
+]

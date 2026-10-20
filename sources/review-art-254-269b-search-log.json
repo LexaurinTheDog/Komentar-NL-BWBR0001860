@@ -1,0 +1,21 @@
+{
+  "at": "2026-10-20T23:50:20.293693+00:00",
+  "queries": [
+    "site.rechtspraak.nl \"268a\" \"surseance\"",
+    "site.rechtspraak.nl \"257\" \"surseance\" \"pandrecht\""
+  ],
+  "verified_case_sources": [
+    "ECLI:NL:HR:2017:3110",
+    "ECLI:NL:RBDHA:2024:18898"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+  "local_version": "ecli-nl-hr-2017-3110.md",
+  "disposition": "Full official judgments read; selective research. No sufficiently relevant separately verified case added for remaining technical units.",
+  "second_pass": {
+    "checked_at": "2026-10-20T23:52:40.923097+00:00",
+    "scope": "Existing selective research independently reviewed. Two complete official judgments freshly fetched and read; HR local corpus compared. No exhaustive additional judicial research claimed.",
+    "holdings": "HR2017:3.4.2–3.5 article282 bar for267/268a;3.6 complaints only;3.7.1 grounds for exceptional review;3.7.2 eight-day deadline;3.8 own disposition;3.10 no distinct complaints against improvement refusal. RBDHA2024:3.16 secured/unsecured split, loss of security on submission, case-specific market valuation;3.17 no unfair preference in these facts. Quoted composition and administrator report in section2 are not judicial holdings.",
+    "current_law_comparison": "Current267/268a/269/269a/282 checked. Repealed270 reference in older HR2017 deadline reasoning not presented as a current route. Current257(2) checked against judgment.",
+    "limitations": "Selective sources; no exhaustive later-treatment audit. No separately verified relevant judgment added to technical provisions."
+  }
+}
