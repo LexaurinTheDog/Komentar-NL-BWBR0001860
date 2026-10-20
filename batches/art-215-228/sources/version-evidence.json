@@ -1,0 +1,224 @@
+{
+  "decisive_date": "2026-10-19",
+  "verification_date": "2026-10-20",
+  "selected_toestand": "2026-09-01_0",
+  "current_route": "https://wetten.overheid.nl/BWBR0001860",
+  "current_redirect_target": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "explicit_information_page_statements": [
+    "Geraadpleegd op 20-10-2026.",
+    "Geldend van 01-09-2026 t/m heden.",
+    "Toekomstige wijziging(en) voorzien met ingang van: 15-11-2027."
+  ],
+  "latest_dated_amendment_by_decisive_date": "2026-09-01",
+  "dated_changes_since_intake_2026_10_01_through_preflight": [],
+  "next_dated_amendment": "2027-11-15",
+  "wti_generated": "2026-10-07T04:42:40",
+  "recent_future_and_undated_changes": [
+    {
+      "effective_date": null,
+      "disposition": "undated/pending excluded",
+      "details": [
+        {
+          "type": "Aanhangig",
+          "sources": [
+            {
+              "section": "ontstaansbron",
+              "type": "oorspronkelijk",
+              "publication": null,
+              "dossier": "36992"
+            }
+          ]
+        },
+        {
+          "type": "Aanhangig",
+          "sources": [
+            {
+              "section": "ontstaansbron",
+              "type": "oorspronkelijk",
+              "publication": null,
+              "dossier": "36805"
+            }
+          ]
+        },
+        {
+          "type": "Aanhangig",
+          "sources": [
+            {
+              "section": "ontstaansbron",
+              "type": "oorspronkelijk",
+              "publication": null,
+              "dossier": "35396"
+            }
+          ]
+        },
+        {
+          "type": "Aanhangig",
+          "sources": [
+            {
+              "section": "ontstaansbron",
+              "type": "oorspronkelijk",
+              "publication": null,
+              "dossier": "34218"
+            }
+          ]
+        },
+        {
+          "type": "wijziging",
+          "sources": [
+            {
+              "section": "ontstaansbron",
+              "type": "oorspronkelijk",
+              "publication": {
+                "soort": "Stb",
+                "urlidentifier": "stb-2018-299"
+              },
+              "dossier": "34740"
+            }
+          ]
+        },
+        {
+          "type": "wijziging",
+          "sources": [
+            {
+              "section": "ontstaansbron",
+              "type": "oorspronkelijk",
+              "publication": {
+                "soort": "Stb",
+                "urlidentifier": "stb-2016-290"
+              },
+              "dossier": "34212"
+            }
+          ]
+        },
+        {
+          "type": "wijziging",
+          "sources": [
+            {
+              "section": "ontstaansbron",
+              "type": "oorspronkelijk",
+              "publication": {
+                "soort": "Stb",
+                "urlidentifier": "stb-2002-429"
+              },
+              "dossier": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "effective_date": "2027-11-15",
+      "disposition": "future excluded",
+      "details": [
+        {
+          "type": "wijziging",
+          "sources": [
+            {
+              "section": "ontstaansbron",
+              "type": "oorspronkelijk",
+              "publication": {
+                "soort": "Stb",
+                "urlidentifier": "stb-2023-243"
+              },
+              "dossier": "36172"
+            },
+            {
+              "section": "ontstaansbron",
+              "type": "juncto",
+              "publication": {
+                "soort": "Stb",
+                "urlidentifier": "stb-2025-124"
+              },
+              "dossier": "36638"
+            },
+            {
+              "section": "inwerkingtreding",
+              "type": "oorspronkelijk",
+              "publication": {
+                "soort": "Stb",
+                "urlidentifier": "stb-2023-243"
+              },
+              "dossier": "36172"
+            },
+            {
+              "section": "inwerkingtreding",
+              "type": "juncto",
+              "publication": {
+                "soort": "Stb",
+                "urlidentifier": "stb-2025-215"
+              },
+              "dossier": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "effective_date": "2026-09-01",
+      "disposition": "effective by decisive date",
+      "details": [
+        {
+          "type": "wijziging",
+          "sources": [
+            {
+              "section": "ontstaansbron",
+              "type": "oorspronkelijk",
+              "publication": {
+                "soort": "Stb",
+                "urlidentifier": "stb-2026-154"
+              },
+              "dossier": "36264"
+            },
+            {
+              "section": "inwerkingtreding",
+              "type": "oorspronkelijk",
+              "publication": {
+                "soort": "Stb",
+                "urlidentifier": "stb-2026-196"
+              },
+              "dossier": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "effective_date": "2026-03-25",
+      "disposition": "effective by decisive date",
+      "details": [
+        {
+          "type": "wijziging",
+          "sources": [
+            {
+              "section": "ontstaansbron",
+              "type": "oorspronkelijk",
+              "publication": {
+                "soort": "Stb",
+                "urlidentifier": "stb-2026-60"
+              },
+              "dossier": "36822"
+            },
+            {
+              "section": "inwerkingtreding",
+              "type": "oorspronkelijk",
+              "publication": {
+                "soort": "Stb",
+                "urlidentifier": "stb-2026-61"
+              },
+              "dossier": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "source_paths": [
+    "sources/preflight-2026-10-20-selected.xml",
+    "sources/preflight-2026-10-20-wti.xml",
+    "sources/preflight-2026-10-20-information.html",
+    "sources/preflight-2026-10-20-current.html"
+  ],
+  "xml_unchanged_since_original_authoring_check": true,
+  "wti_unchanged_since_original_authoring_check": true,
+  "all_article_effective_dates_on_or_before_decisive_date": true
+}

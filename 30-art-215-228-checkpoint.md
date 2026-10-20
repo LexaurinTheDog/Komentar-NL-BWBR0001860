@@ -1,0 +1,443 @@
+# Artikelen 215–228 — auteurscheckpoint
+
+Twintig toegewezen bepalingen. Wettekst geldig vanaf 1 september 2026, opnieuw gecontroleerd op 21 oktober 2026 (lokale tijd). [Broncontrole](sources/author-art-215-228-preflight-result.json) · [Dekking](sources/author-art-215-228-coverage.json) · [Selectief rechtspraakonderzoek](sources/author-art-215-228-search-log.json). Commentaar © 2026 Vojtěch Říha; Apache-2.0. Concept; onafhankelijke tweede lezing nog niet uitgevoerd.
+
+### Artikel 215
+
+**Wettekst:**
+
+> 1 Het verzoekschrift met bijbehorende stukken wordt ter griffie van de rechtbank neergelegd, ter kosteloze inzage van een ieder. Indien de schuldenaar een moedermaatschappij met zetel in Nederland van een verzekeraar met een vergunning als bedoeld in artikel 2:26a, 2:27 of 2:54a van de Wet op het financieel toezicht is stelt de griffier van de rechtbank De Nederlandsche Bank N.V. terstond in kennis van de neerlegging.
+>
+> 2 De rechtbank zal dadelijk de gevraagde surseance voorlopig verlenen en een of meer bewindvoerders benoemen, ten einde met de schuldenaar het beheer over diens zaken te voeren. Bovendien beveelt de rechtbank, dat de bekende schuldeisers, benevens de schuldenaar, en indien de schuldenaar een moedermaatschappij met zetel in Nederland van een verzekeraar met een vergunning als bedoeld in artikel 2:26a, 2:27 of 2:54a van de Wet op het financieel toezicht is, De Nederlandsche Bank N.V., tegen een door de rechtbank op korte termijn bepaalde dag, door de griffier bij brieven worden opgeroepen, ten einde, alvorens beslist wordt omtrent het definitief verlenen van de gevraagde surseance, op het verzoekschrift te worden gehoord. Behalve de dag worden uur en plaats der bijeenkomst daarbij vermeld, alsmede of een ontwerp van akkoord bij het verzoekschrift is gevoegd. Artikel 6, eerste lid, derde zin, en vierde lid, is van overeenkomstige toepassing.
+>
+> 3 Als een verzoek tot verlening van surseance en een verzoek tot aanwijzing van een herstructureringsdeskundige als bedoeld in artikel 371 gelijktijdig aanhangig zijn, komt eerst het laatste in behandeling en vindt in afwijking van het tweede lid geen voorlopige verlening van surseance plaats.
+>
+> 4 De behandeling van het verzoek en de voorlopige verlening van surseance van betaling worden in ieder geval geschorst totdat de rechtbank heeft beslist op het verzoek tot aanwijzing van de herstructureringsdeskundige. Wijst de rechtbank het verzoek toe, dan kondigt zij daarbij tevens overeenkomstig artikel 376 een afkoelingsperiode af en blijft de schorsing tijdens die periode van kracht.
+>
+> 5 De rechtbank benoemt op grond van het tweede lid een bewindvoerder die adequaat is opgeleid en over de voor zijn taken vereiste deskundigheid beschikt. Bij de benoeming:
+>
+> a. houdt de rechtbank rekening met de specifieke kenmerken van de zaak, waaronder eventuele grensoverschrijdende elementen, en de ervaring en deskundigheid van de bewindvoerder; en
+>
+> b. hanteert de rechtbank een procedure en voorwaarden die duidelijk, transparant en rechtvaardig zijn.
+
+*Redactionele bronnotitie:* Artikel IV van Stb. 2022/491 bevat overgangsrecht m.b.t. deze wijziging.
+
+De voorlopige surseance organiseert onmiddellijk gezamenlijk beheer, voordat over definitieve verlening wordt beslist. Lid 1 maakt het verzoekschrift en de bijlagen kosteloos openbaar ter griffie. Voor een Nederlandse moedermaatschappij van de aangewezen verzekeraar moet de griffier DNB bovendien terstond informeren. De openbaarmaking is dus geen vervanging van de afzonderlijke toezichthoudersmelding.
+
+Lid 2 koppelt de dadelijke voorlopige verlening aan benoeming van bewindvoerders en oproeping voor de latere behandeling. Bekende schuldeisers en de schuldenaar worden gehoord; voor de genoemde verzekeringsmoeder wordt ook DNB opgeroepen. De oproeping vermeldt tijd, plaats en een eventueel ontwerpakkoord. Voorlopige verlening beslist nog niet dat duurzaam herstel aannemelijk is. De toets voor definitieve verlening volgt uit artikel 218. De Hoge Raad beschrijft dit onderscheid in zijn beschikking van 7 juli 2017, ECLI:NL:HR:2017:1280, rov. 3.5.2; de destijds besproken onmiddellijke verlening moet tegenwoordig mede worden gelezen met de uitzonderingen in leden 3 en 4.
+
+Die leden geven een gelijktijdig verzoek om aanwijzing van een herstructureringsdeskundige volgens artikel 371 voorrang. De surseancebehandeling en voorlopige verlening worden geschorst totdat daarover is beslist. Bij toewijzing kondigt de rechtbank tevens een afkoelingsperiode volgens artikel 376 af en blijft de schorsing gedurende die periode bestaan. De aanvrager kan deze samenloop dus niet negeren door enkel om snelle voorlopige surseance te vragen. Lid 5 verlangt passende opleiding en deskundigheid van de bewindvoerder, afstemming op de specifieke zaak en een duidelijke, transparante en rechtvaardige benoemingsprocedure. Grensoverschrijdende ervaring kan daarbij beslissend zijn.
+
+Voorbeeld: bij een Nederlandse onderneming met buitenlandse groepsleningen liggen beide verzoeken tegelijk voor. De rechtbank behandelt eerst de aanwijzing van de herstructureringsdeskundige. Komt het later tot benoeming van een bewindvoerder, dan moet diens deskundigheid passen bij die internationale schuldstructuur.
+
+### Artikel 215a
+
+**Wettekst:**
+
+> 1 Elke schuldeiser heeft tegen de voorlopige verlening van surseance recht van verzet gedurende acht dagen na de dag waarop de surseance voorlopig is verleend op grond van het ontbreken van internationale bevoegdheid bedoeld in artikel 5, eerste lid, van de verordening, genoemd in artikel 5, derde lid.
+>
+> 2 De rechter, die een voorlopige verlening van surseance intrekt, stelt tevens het bedrag vast van de kosten van de surseance van betaling en van het salaris van de bewindvoerder. Hij brengt dit bedrag ten laste van de schuldenaar. Artikel 250, derde lid, is van overeenkomstige toepassing. Tegen deze beslissing staat geen rechtsmiddel open. Een bevelschrift van tenuitvoerlegging zal daarvan worden uitgegeven ten behoeve van de bewindvoerder.
+
+*Redactionele bronnotitie:* Artikel IV van Stb. 2022/491 bevat overgangsrecht m.b.t. deze wijziging.
+
+Dit verzet beschermt iedere schuldeiser tegen een voorlopige surseance die zonder de vereiste internationale bevoegdheid is geopend. Lid 1 beperkt de grond tot het ontbreken van de bevoegdheid bedoeld in artikel 5, eerste lid, van de via artikel 5, derde lid, aangewezen verordening. Het is geen algemeen verzet tegen de financiële wenselijkheid van surseance. Daarvoor zijn de behandeling van artikel 218 en de verdere wettelijke routes van belang. De termijn bedraagt acht dagen na de dag van voorlopige verlening; hij wordt hier niet gekoppeld aan persoonlijke ontvangst van de aankondiging.
+
+Lid 2 regelt de afwikkelingskosten wanneer de rechter de voorlopige verlening intrekt. Die rechter stelt zowel de surseancekosten als het salaris van de bewindvoerder vast en belast de schuldenaar daarmee. De verwijzing naar artikel 250, derde lid, moet bij die afwikkeling worden betrokken. Tegen deze kostenbeslissing staat geen rechtsmiddel open; dat verbod mag niet zonder meer tot iedere andere beslissing over de surseance worden uitgebreid. De bewindvoerder ontvangt daarvoor een bevelschrift van tenuitvoerlegging.
+
+Voorbeeld: een buitenlandse leverancier ontdekt dat het centrum van de voornaamste belangen van zijn debiteur mogelijk buiten Nederland ligt. Hij moet binnen de korte verzetstermijn de internationale bevoegdheid bestrijden en onderbouwen. Alleen stellen dat een akkoord financieel onaantrekkelijk is, draagt dit specifieke verzet niet. Wordt de voorlopige verlening ingetrokken, dan verdwijnen de gemaakte bewindvoerderskosten niet automatisch.
+
+### Artikel 215b
+
+**Wettekst:**
+
+> 1 De bewindvoerder kan persoonsgegevens verwerken voor zover dit bij of krachtens de wet noodzakelijk is voor het beheer met de schuldenaar van diens zaken, bedoeld in artikel 215.
+>
+> 2 Onder noodzakelijk voor de uitvoering van de in het eerste lid genoemde taak wordt in ieder geval begrepen gegevensverwerking in het kader van:
+>
+> a. het uitbrengen en ter griffie neerleggen van een verslag, bedoeld in de artikelen 226 en 227, alsmede het openbaar maken en gedurende een redelijke periode openbaar houden van dit verslag;
+>
+> b. het schadeloos houden van de boedel, bedoeld in artikel 228;
+>
+> c. het verzoek, bedoeld in artikel 242;
+>
+> d. het toetsen van de ingezonden rekeningen aan de administratie en opgaven van de schuldenaar, alsmede het vorderen van ontbrekende stukken en van raadpleging van de administratie en oorspronkelijke bewijsstukken, bedoeld in artikel 258;
+>
+> e. het opmaken en ter griffie neerleggen van de lijst, bedoeld in de artikelen 259 en 263, alsmede het openbaar maken van die lijst;
+>
+> f. het uitbrengen van een schriftelijk verslag, bedoeld in artikel 265; of
+>
+> g. bij of krachtens algemene maatregel van bestuur aangewezen handelingen of taken.
+>
+> 3 Gelet op de artikelen 9, tweede lid, onder f en g, en 10 van de Algemene verordening gegevensbescherming kan de bewindvoerder, voor zover dit noodzakelijk is voor de uitoefening van de in het eerste lid genoemde taak, verwerken:
+>
+> a. bijzondere categorieën van persoonsgegevens als bedoeld in paragraaf 3.1 van de Uitvoeringswet Algemene verordening gegevensbescherming, voor zover het verwerken betrekking heeft op de in het tweede lid, onder c, genoemde gespecificeerde taak;
+>
+> b. persoonsgegevens van strafrechtelijke aard als bedoeld in paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming, voor zover het verwerken betrekking heeft op de in het tweede lid, onder c, genoemde gespecificeerde taak.
+
+Artikel 215b geeft de bewindvoerder een uitdrukkelijke wettelijke basis voor noodzakelijke verwerking van persoonsgegevens bij het gezamenlijke beheer van artikel 215. De bepaling geldt in deze tekst vanaf 1 september 2026. Lid 1 verbindt de verwerking aan die wettelijke taak. Een bruikbaar gegeven is daarmee nog niet vanzelf een noodzakelijk gegeven; verzamelen, opnemen in een verslag en openbaar houden vergen ieder een taakgebonden beoordeling.
+
+Lid 2 concretiseert gewone persoonsgegevensverwerking. Het noemt de verslagen van artikelen 226 en 227, schadeloosstelling van de boedel volgens artikel 228, het intrekkingsverzoek van artikel 242, controle van ingezonden rekeningen volgens artikel 258, de lijsten van artikelen 259 en 263 en het verslag van artikel 265. Bij de verslagen is ook openbaarmaking en openbaarhouding gedurende een redelijke periode genoemd. Dat rechtvaardigt geen onbeperkte online beschikbaarheid. Onderdeel g laat aanwijzing van aanvullende handelingen of taken bij of krachtens algemene maatregel van bestuur toe; het is geen vrijbrief voor zelfgekozen doeleinden.
+
+Lid 3 is smaller dan lid 2. Bijzondere categorieën en strafrechtelijke persoonsgegevens mogen, voor zover noodzakelijk, worden verwerkt voor de specifiek genoemde taak van lid 2, onder c: het verzoek van artikel 242. De verwijzingen naar de AVG en de Uitvoeringswet AVG moeten in dat beperkte kader worden gelezen. De toestemming om gewone persoonsgegevens in een openbaar verslag te verwerken geeft dus niet dezelfde ruimte voor medische of strafrechtelijke details.
+
+Voorbeeld: de bewindvoerder vermoedt verzwijging van vermogensbestanddelen en bereidt een intrekkingsverzoek voor. Hij beoordeelt afzonderlijk welke strafrechtelijke gegevens daarvoor noodzakelijk zijn. Dat bepaalde gegevens in het procesdossier thuishoren, betekent nog niet dat zij integraal in een openbaar kwartaalverslag mogen worden opgenomen.
+
+### Artikel 216
+
+**Wettekst:**
+
+> De griffier doet van de indiening van het verzoek, van de voorlopige verlening van surseance en het tijdstip daarvan tot op de minuut nauwkeurig, van de naam van de rechter-commissaris, van de namen en woonplaatsen der benoemde bewindvoerders en van de overeenkomstig het tweede lid van het voorgaande artikel bepaalde dag onmiddellijk aankondiging in de Staatscourant. Indien bij het verzoekschrift een ontwerp van akkoord is gevoegd, wordt daarvan in de aankondiging melding gemaakt.
+
+*Redactionele bronnotitie:* Artikel IV van Stb. 2022/491 bevat overgangsrecht m.b.t. deze wijziging.
+
+De Staatscourant-aankondiging maakt de aanvang en inrichting van de voorlopige surseance kenbaar buiten de kring van persoonlijk aangeschreven schuldeisers. De griffier moet onmiddellijk zowel de indiening van het verzoek als de voorlopige verlening aankondigen. Ook het tijdstip van de verlening tot op de minuut, de naam van de rechter-commissaris, de namen en woonplaatsen van bewindvoerders en de behandelingsdag horen daarin. Een bijgevoegd ontwerpakkoord moet uitdrukkelijk worden vermeld, omdat dat voor schuldeisers aanleiding kan zijn onmiddellijk het dossier te raadplegen.
+
+De publicatie vult de oproeping van artikel 215 aan. Zij geeft informatie, maar verplaatst niet het wettelijke aanvangsmoment van artikel 217 naar de dag waarop een schuldeiser de publicatie leest. Evenmin mag men uit de minuutvermelding afleiden dat alleen latere handelingen van die dag door de surseance worden geraakt: artikel 217 bevat juist een dagaanvangsfictie. De datum van de uitspraak blijft ook voor de korte rechtsmiddeltermijn van artikel 215a van zelfstandig belang.
+
+Voorbeeld: de rechtbank verleent om 15.42 uur voorlopig surseance, met behandeling over enkele weken. De griffier vermeldt dat exacte tijdstip en de benoemingen. Een leverancier die de publicatie pas de volgende ochtend ziet, moet voor de bevoegdheid van zijn wederpartij toch artikel 217 in samenhang met artikel 228 raadplegen. Zijn latere kennisneming maakt de voorafgaande dag niet tot een gewone beheersdag.
+
+### Artikel 217
+
+**Wettekst:**
+
+> De surseance wordt geacht te zijn ingegaan bij de aanvang van de dag, waarop zij voorlopig is verleend.
+
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
+
+Dit artikel laat de surseance ingaan bij het begin van de dag waarop zij voorlopig wordt verleend. Het aanknopingspunt is de voorlopige verlening, niet de datum van het verzoek, de publicatie of de latere definitieve beslissing. Daardoor kunnen ook handelingen van de schuldenaar vóór het feitelijke uitspraaktijdstip binnen de surseance vallen. Voor toepassing van het gezamenlijke beheer van artikel 228 moet men dus de hele verleningsdag onderzoeken.
+
+De fictie maakt een nauwkeurige tijdlijn nodig. Artikel 216 verlangt wel publicatie van het verleningstijdstip tot op de minuut, maar die registratie heft de dagaanvangsfictie niet op. Omgekeerd geeft artikel 217 op zichzelf geen compleet antwoord op de bescherming van een bepaalde wederpartij of op de aansprakelijkheid van de boedel: daarvoor moeten de toepasselijke gevolg- en uitzonderingsbepalingen worden gelezen. Het artikel bepaalt het beginpunt, niet alle rechtsgevolgen van iedere betaling of overeenkomst.
+
+Voorbeeld: een bestuurder verkoopt om 09.00 uur een bedrijfsauto en krijgt die middag voorlopig surseance. Bij onderzoek van die verkoop kan hij niet volstaan met de stelling dat hij ten tijde van ondertekening nog geen beschikking had ontvangen. De bewindvoerder moet de verkoop toetsen met het wettelijke begin van de surseance als uitgangspunt en vervolgens bepalen welke maatregelen artikel 228 toelaat.
+
+### Artikel 218
+
+**Wettekst:**
+
+> 1 Ten bepaalden dage hoort de rechtbank in raadkamer de schuldenaar, de rechter-commissaris, de bewindvoerders en de in persoon bij schriftelijk gemachtigde of bij advocaat opgekomen schuldeisers. Iedere schuldeiser is bevoegd om, zelfs zonder opgeroepen te zijn, op te komen.
+>
+> 2 De rechtbank kan de schuldenaar definitief surseance verlenen, tenzij zich daartegen verklaren hetzij houders van meer dan één vierde van het bedrag der ter vergadering vertegenwoordigde, in artikel 233 bedoelde, schuldvorderingen, hetzij meer dan één derde der houders van zodanige vorderingen.
+>
+> 3 Over de toelating tot de stemming beslist, bij verschil, de rechtbank.
+>
+> 4 Surseance kan nimmer definitief worden verleend, indien er gegronde vrees bestaat, dat de schuldenaar zal trachten de schuldeisers tijdens de surseance te benadelen of het vooruitzicht niet bestaat, dat hij na verloop van tijd zijn schuldeisers zal kunnen bevredigen.
+>
+> 5 De rechtbank, het verzoek afwijzende, kan bij dezelfde beschikking de schuldenaar in staat van faillissement verklaren. Wordt het faillissement niet uitgesproken, dan blijft de voorlopig verleende surseance gehandhaafd tot de beschikking der rechtbank in kracht van gewijsde is gegaan.
+>
+> 6 Indien een aanvrage tot faillietverklaring, niet zijnde een verzoek als bedoeld in artikel 213ar, en een verzoek tot surseance gelijktijdig aanhangig zijn, komt eerst het verzoek tot surseance in behandeling. Indien een aanvrage tot faillietverklaring als bedoeld in artikel 213ar en een verzoek tot surseance gelijktijdig aanhangig zijn, komt eerst de aanvrage tot faillietverklaring in behandeling.
+>
+> 7 De beschikking op het verzoek is met redenen omkleed en wordt uitgesproken ter openbare zitting.
+>
+> 8 In afwijking van het vijfde lid stelt de rechtbank De Nederlandsche Bank N.V. in staat te worden gehoord alvorens een moedermaatschappij met zetel in Nederland van een verzekeraar als bedoeld in artikel 213abis, eerste lid, in staat van faillissement te verklaren.
+
+*Redactionele bronnotitie:* Artikel IV van Stb. 2022/491 bevat overgangsrecht m.b.t. deze wijziging.
+
+Bij de definitieve verlening komen het oordeel van de schuldeisers en een zelfstandige rechterlijke toets samen. Lid 1 geeft iedere schuldeiser toegang tot de behandeling in raadkamer, ook zonder oproeping. Schuldenaar, rechter-commissaris en bewindvoerders worden gehoord. De rechter beslist bij verschil over toelating tot de stemming; de hoogte en kwalificatie van de vertegenwoordigde vorderingen zijn daardoor rechtstreeks relevant.
+
+Lid 2 kent twee afzonderlijke blokkeringsdrempels: tegenstand van houders van meer dan een vierde van het vertegenwoordigde bedrag, of van meer dan een derde van de betrokken schuldeisers. Het betreft de in artikel 233 bedoelde vorderingen. Precies een vierde of een derde bereikt de respectieve drempel niet. Het ontbreken van een blokkerende minderheid verplicht de rechter niet tot verlening: er staat dat hij surseance kan verlenen. Lid 4 verbiedt verlening bij gegronde vrees voor benadeling tijdens de surseance of bij ontbreken van uitzicht op toekomstige bevrediging van schuldeisers.
+
+HR 7 juli 2017, ECLI:NL:HR:2017:1280, rov. 3.5.2, verduidelijkt dat gedragingen vóór de voorlopige surseance mede een vrees voor latere benadeling kunnen dragen. Die beschikking betreft intrekking volgens artikel 242 en legt daarvoor de verbinding met lid 4; zij stelt niet iedere eerdere nadelige transactie gelijk aan een automatische weigering.
+
+Lid 5 laat bij afwijzing tevens faillietverklaring toe. Zonder faillietverklaring blijft de voorlopige surseance bestaan totdat de afwijzing onherroepelijk is. Lid 6 geeft het surseanceverzoek voorrang boven een gelijktijdige gewone faillissementsaanvraag, maar keert de volgorde om voor de aanvraag van artikel 213ar. Lid 8 verlangt vóór faillietverklaring van de bedoelde verzekeringsmoeder gelegenheid voor DNB om te worden gehoord. De gemotiveerde beschikking wordt volgens lid 7 openbaar uitgesproken.
+
+Voorbeeld: negen stemgerechtigde schuldeisers vertegenwoordigen € 120.000. Drie tegenstemmers met samen € 30.000 overschrijden geen van beide drempels. Toch moet de rechter weigeren als betrouwbare prognoses ieder betalingsperspectief uitsluiten.
+
+### Artikel 219
+
+**Wettekst:**
+
+> 1 Gedurende acht dagen na de dag der uitspraak heeft, in geval van afwijzing van het verzoek, de schuldenaar, of, ingeval de surseance verleend is, iedere schuldeiser, die zich niet vóór het verlenen daarvan heeft verklaard, recht van hoger beroep.
+>
+> 2 Het hoger beroep wordt ingesteld door indiening van een verzoek ter griffie van het gerechtshof, dat van de zaak kennis moet nemen. De voorzitter bepaalt terstond dag en uur voor de behandeling.
+>
+> 3 Indien het hoger beroep door een schuldeiser is ingesteld, geeft deze uiterlijk op de vierde dag volgende op die, waarop hij zijn verzoek heeft gedaan, aan de advocaat, die het verzoek tot surseance heeft ingediend, bij deurwaardersexploot kennis van het hoger beroep en van de tijd voor de behandeling bepaald. Deze kennisgeving geldt voor oproeping van de schuldenaar.
+>
+> 4 De griffier van het gerechtshof doet van het hoger beroep en van de tijd, voor de behandeling bepaald, aankondiging in de Staatscourant. Tevens geeft hij van het ingestelde hoger beroep aan de griffier der rechtbank kennis, neemt van deze de in artikel 214 bedoelde stukken over en legt die op zijn griffie voor een ieder ter kosteloze inzage.
+
+*Redactionele bronnotitie:* Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging.
+
+Artikel 219 maakt de eerste beslissing over definitieve surseance vatbaar voor snel hoger beroep. Bij afwijzing kan de schuldenaar opkomen; bij verlening iedere schuldeiser die zich niet vóór die verlening heeft verklaard. Het ontbreken van een eerdere tegenstem sluit een schuldeiser dus niet vanzelf uit. Een schuldeiser die vóór heeft gestemd kan deze toegang echter niet aan de enkele hoedanigheid van schuldeiser ontlenen. De termijn is acht dagen na de uitspraakdag en vereist onmiddellijke beoordeling van de beschikking.
+
+Lid 2 verlangt indiening van een verzoek bij de griffie van het bevoegde gerechtshof. De voorzitter stelt dadelijk de behandeling vast. Voor een appellante schuldeiser bevat lid 3 een aanvullende handeling: uiterlijk op de vierde dag na indiening moet bij deurwaardersexploot aan de advocaat die het surseanceverzoek indiende kennis worden gegeven van beroep én behandelingstijd. Dat exploot geldt als oproeping van de schuldenaar. Alleen het verzoek indienen vervult die afzonderlijke kennisgevingsplicht niet.
+
+Lid 4 legt aankondiging in de Staatscourant bij de hofgriffier. Ook informeert deze de rechtbankgriffier, neemt de stukken van artikel 214 over en stelt die kosteloos ter inzage. Het dossier verhuist daarmee mee met het rechtsmiddel. Artikel 220 regelt de behandeling zonder nieuwe stemming; artikel 222 bepaalt de uitvoerbaarheid van een verleende surseance ondanks het beroep.
+
+Voorbeeld: een schuldeiser die niet aan de bijeenkomst deelnam, wil een definitieve verlening aanvechten. Hij moet zijn proceshandelingen plannen op basis van zowel de acht dagen voor het beroep als de daarop aansluitende, kortere termijn voor het exploot. Wachten op de Staatscourant-aankondiging kan die termijnen in gevaar brengen.
+
+### Artikel 220
+
+**Wettekst:**
+
+> 1 Bij de behandeling van het hoger beroep wordt het verzoek niet opnieuw in stemming gebracht, maar ieder schuldeiser is bevoegd in persoon, bij schriftelijk gemachtigde of bij advocaat aan de bestrijding of verdediging van de uitspraak, waartegen het beroep gericht is, deel te nemen.
+>
+> 2 De behandeling heeft plaats in raadkamer; het arrest wordt uitgesproken ter openbare zitting.
+
+*Redactionele bronnotitie:* Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging.
+
+Het hoger beroep is geen tweede schuldeisersvergadering. Lid 1 sluit een nieuwe stemming over het verzoek uit. Het hof onderzoekt de bestreden beslissing in het kader van het beroep, terwijl iedere schuldeiser gelegenheid heeft de uitspraak te bestrijden of te verdedigen. Die deelnemingsbevoegdheid is ruimer dan de bevoegdheid om zelf volgens artikel 219 hoger beroep in te stellen. Ook een schuldeiser die vóór verlening was, kan de bestreden verlening verdedigen.
+
+De wet noemt verschijning in persoon, bij schriftelijk gemachtigde of bij advocaat. De vereiste schriftelijke machtiging voorkomt onduidelijkheid over vertegenwoordiging. De mogelijkheid tot deelname verandert een later naar voren gebrachte voorkeur niet in een nieuwe stem die de verhoudingen van artikel 218 vervangt. Wel kunnen toelating tot de oorspronkelijke stemming, de berekening van drempels en de zelfstandige weigeringsgronden onderwerp van het beroep zijn.
+
+Lid 2 scheidt de besloten behandeling in raadkamer van de openbare uitspraak van het arrest. Besloten behandeling doet dus niet af aan de openbaarheid van de rechterlijke uitkomst. Voor de instelling van het beroep, oproeping en publicatie blijven de regels van artikel 219 gelden; deelname aan de behandeling herstelt niet vanzelf een gemiste beroepstermijn.
+
+Voorbeeld: een grote leverancier verschijnt bij het hof en verdedigt de verlening met een nieuwe liquiditeitsprognose. Een andere schuldeiser bestrijdt de haalbaarheid daarvan. Het hof hoort beide, maar organiseert geen nieuwe stemming met hun inmiddels gewijzigde voorkeuren.
+
+### Artikel 221
+
+**Wettekst:**
+
+> 1 Van het arrest, door het gerechtshof gewezen, kan, ingeval van afwijzing van het verzoek, de schuldenaar, of, ingeval de surseance is verleend, iedere schuldeiser, die zich niet vóór het verlenen daarvan heeft verklaard, gedurende acht dagen na de dag der uitspraak, in cassatie komen.
+>
+> 2 Het beroep in cassatie wordt ingesteld bij een verzoekschrift, in te dienen ter griffie van de Hoge Raad. De voorzitter bepaalt terstond dag en uur voor de behandeling.
+>
+> 3 De griffier van de Hoge Raad doet van het beroep in cassatie en van de tijd, voor de behandeling bepaald, aankondiging in de Staatscourant. Tevens geeft hij van het ingestelde beroep kennis aan de griffier van het gerechtshof, neemt van deze de in artikel 214 bedoelde stukken over en legt die op zijn griffie voor een ieder ter kosteloze inzage.
+>
+> 4 De bepalingen van het derde lid van artikel 219 en van het tweede lid van artikel 220 vinden overeenkomstige toepassing.
+
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
+
+Cassatie vormt een afzonderlijke, eveneens zeer korte rechtsmiddelstap. Lid 1 geeft bij afwijzing van het surseanceverzoek toegang aan de schuldenaar, en bij verlening aan iedere schuldeiser die zich niet vóór het verlenen heeft verklaard. De acht dagen lopen na de dag van de hofuitspraak. De toegang volgt uit deze bijzondere regeling en mag niet worden afgeleid uit het enkele feit dat iemand ter hofzitting aanwezig was.
+
+Lid 2 schrijft een verzoekschrift ter griffie van de Hoge Raad voor, waarna de voorzitter onmiddellijk dag en uur bepaalt. Lid 3 organiseert bekendmaking, kennisgeving aan het hof en overname van de stukken van artikel 214. Die stukken blijven voor iedereen kosteloos ter inzage. Lid 4 neemt de explootkennisgeving van artikel 219, derde lid, en de besloten behandeling met openbare uitspraak van artikel 220, tweede lid, over. Bij een door een schuldeiser ingesteld cassatieberoep hoort dus ook aandacht voor de afzonderlijke oproepingshandeling en termijn.
+
+Cassatie is gericht op toetsing van rechts- en motiveringsklachten, niet op een nieuwe schuldeisersstemming. De spoedregeling rechtvaardigt daarom geen verwachting dat nieuwe financiële stellingen zonder passende cassatieklacht alsnog inhoudelijk zullen worden onderzocht. Het relevante procesdossier en de precieze overwegingen van het hof zijn essentieel voor het formuleren van klachten.
+
+Voorbeeld: het hof verleent definitieve surseance, hoewel een schuldeiser meent dat een blokkeringsdrempel verkeerd is uitgelegd. Hij laat onmiddellijk onderzoeken of die uitleg een cassatieklacht draagt. Alleen een gewijzigde voorkeur voor faillissement is geen zelfstandige juridische fout van het hof.
+
+### Artikel 222
+
+**Wettekst:**
+
+> 1 De beschikking, waarbij de surseance definitief wordt toegestaan, is bij voorraad uitvoerbaar, niettegenstaande enige daartegen gerichte voorziening.
+>
+> 2 Zij wordt aangekondigd op de wijze, in artikel 216 voorgeschreven.
+
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
+
+Definitieve surseance werkt onmiddellijk door, ook als een rechtsmiddel wordt ingesteld. Lid 1 verklaart de beschikking bij voorraad uitvoerbaar ondanks een daartegen gerichte voorziening. Schuldenaar en bewindvoerders hoeven hun wettelijke samenwerking dus niet stil te zetten totdat hoger beroep of cassatie is geëindigd. Omgekeerd kunnen schuldeisers een gewoon beroep niet behandelen alsof de verleende surseance daarmee al is vervallen.
+
+De bepaling ziet op de beschikking waarbij surseance definitief wordt toegestaan. Zij moet worden onderscheiden van artikel 218, vijfde lid, dat bij afwijzing zonder faillietverklaring het voortbestaan van de voorlopige surseance tot het onherroepelijk worden regelt. De procesuitkomst bepaalt dus welke grondslag de voortduring draagt. Artikel 222 verleent evenmin een onbeperkte bevoegdheid aan de schuldenaar: artikel 228 blijft het gezamenlijke beheer beheersen.
+
+Lid 2 verlangt aankondiging op de wijze van artikel 216. De openbare bekendmaking en de uitvoerbaarheid dienen verschillende doelen: publicatie informeert betrokkenen, terwijl lid 1 voorkomt dat een rechtsmiddel als zodanig de verleende bescherming en beheersregeling ophoudt.
+
+Voorbeeld: een leverancier stelt tijdig hoger beroep in tegen definitieve verlening. De ondernemer mag daaruit niet concluderen dat hij voorlopig weer zelfstandig bedrijfsactiva kan verkopen. De definitieve beschikking blijft uitvoerbaar en voor zo'n boedelhandeling is de vereiste betrokkenheid van de bewindvoerder nodig.
+
+### Artikel 222a
+
+**Wettekst:**
+
+> 1 Bij elke rechtbank wordt door de griffier een openbaar register aangehouden, waarin hij voor iedere surseance van betaling afzonderlijk, achtereenvolgens, met vermelding van de dagtekening, inschrijft:
+>
+> 1°.
+>
+> een uittreksel van de rechterlijke beslissingen, waarbij voorlopig of definitief surseance van betaling is verleend, waarbij deze is verlengd of waarbij de surseance van betaling is ingetrokken;
+>
+> 2°.
+>
+> de benoeming van een rechter-commissaris;
+>
+> 3°.
+>
+> de summiere inhoud en de homologatie van het akkoord;
+>
+> 4°.
+>
+> de ontbinding van het akkoord;
+>
+> 5°.
+>
+> de vereisten vermeld in artikel 24, tweede lid, van de in artikel 5, derde lid, genoemde verordening;
+>
+> 6°.
+>
+> bij of krachtens algemene maatregel van bestuur aan te wijzen stukken.
+>
+> 2 Omtrent vorm en inhoud van het register worden bij algemene maatregel van bestuur nadere regels gegeven.
+>
+> 3 De griffier is verplicht aan ieder kosteloze inzage van het register en tegen betaling een uittreksel daaruit te verstrekken.
+>
+> 4 De griffier geeft de in het eerste lid genoemde gegevens door aan Onze Minister van Justitie of een bij algemene maatregel van bestuur aan te wijzen ander orgaan ten behoeve van het in artikel 222b genoemde centrale register.
+
+*Redactionele bronnotitie:* Artikel IV van Stb. 2022/491 bevat overgangsrecht m.b.t. deze wijziging.
+
+Het plaatselijke openbare register biedt een gedateerde geschiedenis van iedere surseance. Lid 1 verlangt afzonderlijke inschrijving per procedure en noemt achtereenvolgens de beslissingen over voorlopige en definitieve verlening, verlenging en intrekking, de benoeming van een rechter-commissaris, de summiere inhoud en homologatie van een akkoord en de ontbinding daarvan. Daardoor kan een belanghebbende niet alleen vaststellen dát een procedure bestaat, maar ook welke beslissende wijzigingen hebben plaatsgevonden.
+
+De vijfde categorie betreft de gegevens van artikel 24, tweede lid, van de via artikel 5, derde lid, aangewezen verordening. De zesde laat aanwijzing van verdere stukken bij of krachtens algemene maatregel van bestuur toe. Men mag de registerinhoud daarom niet reduceren tot het oorspronkelijke verleningsbesluit. Lid 2 laat nadere regels over vorm en inhoud toe. Lid 3 geeft iedereen kosteloze inzage; voor een uittreksel mag betaling worden verlangd. Inzage en afgifte zijn dus verschillende diensten.
+
+Lid 4 verplicht de griffier tot doorgifte van deze gegevens voor het centrale register van artikel 222b. Het lokale register en het centrale register zijn verbonden, maar die doorgifte vervangt niet de afzonderlijke Staatscourant-aankondigingen van onder meer artikelen 216 en 222. Evenmin blijkt uit deze bepaling dat een verouderde inschrijving een ingetrokken surseance inhoudelijk laat voortbestaan.
+
+Voorbeeld: een financier ziet in een oud uittreksel een verleende surseance. Voor een nieuwe transactie moet hij ook latere inschrijvingen over verlenging, intrekking of akkoord onderzoeken. De oorspronkelijke registratiedatum alleen geeft geen actueel beeld van de procedure.
+
+### Artikel 222b
+
+**Wettekst:**
+
+> 1 Door onze Minister van Justitie of, indien ingevolge artikel 222a, vierde lid, een ander orgaan is aangewezen, door dat orgaan, wordt een centraal register gehouden, waarin de in artikel 222a, eerste lid, genoemde gegevens worden ingeschreven.
+>
+> 2 Omtrent vorm en inhoud van het register worden bij algemene maatregel van bestuur nadere regels gegeven.
+>
+> 3 Een ieder heeft kosteloos inzage in het register en kan tegen betaling een uittreksel daaruit verkrijgen.
+
+*Redactionele bronnotitie:* Artikel IV van Stb. 2022/491 bevat overgangsrecht m.b.t. deze wijziging.
+
+Het centrale register brengt de in artikel 222a, eerste lid, genoemde surseancegegevens bijeen. Lid 1 legt het beheer bij de minister van Justitie of bij het volgens artikel 222a, vierde lid, aangewezen andere orgaan. De bepaling schrijft dus een centrale registratie voor, maar noemt geen onveranderlijke technische aanbieder of website. Voor de wettelijke gegevenscategorieën moet steeds worden teruggelezen naar artikel 222a.
+
+Lid 2 biedt een grondslag voor nadere regels over vorm en inhoud. Lid 3 waarborgt kosteloze inzage door een ieder, naast de mogelijkheid tegen betaling een uittreksel te verkrijgen. De toegankelijkheid dient schuldeisers, wederpartijen en andere belanghebbenden die niet weten bij welke rechtbank een procedure speelt. Het register is echter geen vervanging van de onderliggende rechterlijke beschikking wanneer exacte duur, voorwaarden of reikwijdte daarvan beslissend zijn.
+
+Het bestaan van openbare gegevens betekent ook niet dat alle informatie uit het boedeldossier openbaar moet zijn. Artikel 222b betreft de overgenomen registercategorieën; voor openbare verslagen en persoonsgegevens gelden onder meer artikelen 226, 227 en 215b. Een verzoek om inzage in het register kan dus niet zonder meer worden gebruikt als aanspraak op de volledige administratie van de schuldenaar.
+
+Voorbeeld: een leverancier met klanten in verschillende arrondissementen zoekt centraal of een debiteur in surseance verkeert. Na een treffer controleert hij de recente beslissingen en zo nodig de beschikking zelf. Een registervermelding van homologatie is aanleiding de gevolgen van dat akkoord te onderzoeken, geen bewijs van een bepaalde uitkering aan zijn eigen vordering.
+
+### Artikel 223
+
+**Wettekst:**
+
+> 1 Bij het definitief verlenen der surseance bepaalt de rechtbank haar duur ten hoogste op anderhalf jaar. Indien de surseance is geëindigd door het verloop van de termijn waarvoor zij is verleend, doen de bewindvoerders daarvan aankondiging in de Staatscourant.
+>
+> 2 Vóór het einde der surseance kan door de schuldenaar eenmaal of meermalen haar verlenging voor ten hoogste anderhalf jaar worden gevraagd. Het verzoek wordt behandeld op dezelfde wijze als een verzoek tot verlening van surseance. Zolang bij afloop der surseance op een verzoek tot verlenging nog niet is beschikt, blijft de surseance gehandhaafd. De door de rechtbank gewezen beschikking wordt bekendgemaakt op de wijze als in het eerste lid is bepaald.
+
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
+
+De definitieve surseance is tijdelijk. Lid 1 laat de rechtbank een duur van ten hoogste anderhalf jaar bepalen. De maximumduur betekent niet dat iedere schuldenaar recht heeft op die volle periode. Eindigt de surseance door tijdsverloop, dan moeten de bewindvoerders dat in de Staatscourant aankondigen. Die aankondiging informeert derden over een einde dat uit het verstrijken van de verleende termijn voortvloeit.
+
+Lid 2 maakt een of meer verlengingen mogelijk, telkens voor ten hoogste anderhalf jaar. De schuldenaar moet het verzoek vóór het einde van de lopende surseance doen; een bewindvoerder kan de termijn niet alleen door een eigen mededeling verlengen. Het verzoek wordt behandeld op dezelfde wijze als een verzoek om verlening. Dat brengt wederom aandacht voor schuldeisers en de voorwaarden van de definitieve voorziening mee. Een verlenging is geen automatische beloning voor het enkele voortbestaan van betalingsproblemen.
+
+Een tijdig verlengingsverzoek voorkomt een leemte: zolang daarop bij het aflopen van de surseance nog niet is beslist, blijft deze gehandhaafd. De wet koppelt dat aan het nog onbesliste verzoek, niet aan de enkele verwachting later een verzoek te zullen doen. De beschikking over verlenging wordt op de in lid 1 genoemde wijze bekendgemaakt.
+
+Voorbeeld: een onderneming verwacht pas na afronding van een verkooptraject aan schuldeisers te kunnen betalen. Zij verzoekt vóór de einddatum om verlenging met een onderbouwde prognose. Valt de zitting na die datum, dan blijft de surseance in afwachting van de beslissing bestaan. Zonder tijdig verzoek kan zij zich niet op die overbrugging beroepen.
+
+### Artikel 223a
+
+**Wettekst:**
+
+> 1 Bij het voorlopig verlenen van de surseance benoemt de rechtbank een of meer van haar leden tot rechter-commissaris, teneinde de bewindvoerders op hun verzoek van advies te dienen en toezicht te houden op de vervulling door de bewindvoerders van de door hen ingevolge deze titel te verrichten taken.
+>
+> 2 Benoemt de rechtbank meerdere rechters-commissarissen, dan zijn zij zowel afzonderlijk als tezamen bevoegd om de in deze wet genoemde bevoegdheden uit te oefenen.
+
+*Redactionele bronnotitie:* Artikel IV van Stb. 2022/491 bevat overgangsrecht m.b.t. deze wijziging.
+
+De rechter-commissaris behoort in de huidige tekst tot de verplichte inrichting van de voorlopige surseance. De rechtbank benoemt bij die verlening een of meer eigen leden. Lid 1 onderscheidt advisering van de bewindvoerders op hun verzoek en toezicht op de vervulling van hun taken volgens Titel II. Dat toezicht maakt de rechter-commissaris niet tot medebestuurder van de onderneming en neemt de verantwoordelijkheid van bewindvoerders voor hun beheershandelingen niet weg.
+
+De taak krijgt concrete instrumenten in de omliggende bepalingen. Artikel 223b voorziet op verzoek van bewindvoerders in getuigenverhoor en deskundigenonderzoek, artikel 224 geeft een rol bij staking van stemmen tussen bewindvoerders en artikel 227 laat verlenging van de verslagtermijn toe. Die afzonderlijke bevoegdheden moeten naar hun eigen voorwaarden worden toegepast. Een algemeen advies volgens artikel 223a is bijvoorbeeld niet zonder meer de vervanging van de vereiste meerderheidsbesluitvorming.
+
+Lid 2 voorkomt dat meerdere benoemde rechters-commissarissen slechts gezamenlijk zouden kunnen optreden: zij zijn afzonderlijk én tezamen bevoegd tot uitoefening van de genoemde wettelijke bevoegdheden. Dossierafstemming blijft praktisch belangrijk om tegenstrijdige instructies te voorkomen, ook al schrijft dit lid geen unanimiteit voor.
+
+Voorbeeld: twee rechters-commissarissen zijn benoemd wegens de omvang van een internationaal dossier. Een bewindvoerder vraagt tijdig verlenging van de termijn voor het kwartaalverslag. De aanwezigheid van twee benoemingen maakt een gezamenlijke beslissing niet op zichzelf verplicht; de inhoudelijke voorwaarden van artikel 227 blijven wel gelden.
+
+### Artikel 223b
+
+**Wettekst:**
+
+> 1 Op verzoek van de bewindvoerders is de rechter-commissaris bevoegd ter opheldering van alle omstandigheden, de surseance betreffende, getuigen te horen of een onderzoek van deskundigen te bevelen. De getuigen worden bij exploot opgeroepen namens de rechter-commissaris. Artikel 177 van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing.
+>
+> 2 Bij niet-verschijning of weigering om de eed of getuigenis af te leggen, zijn de artikelen 171, 172, 173, eerste lid, eerste volzin, tweede en derde lid, 174 en 175 van het Wetboek van Burgerlijke Rechtsvordering toepasselijk.
+>
+> 3 De echtgenoot of gewezen echtgenoot van de schuldenaar of degene met wie de schuldenaar een geregistreerd partnerschap is of was aangegaan, de kinderen en verdere afkomelingen en de ouders en grootouders van de schuldenaar kunnen zich van het geven van getuigenis verschonen.
+
+*Redactionele bronnotitie:* Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging.
+
+Voor gericht feitenonderzoek kan de rechter-commissaris op verzoek van de bewindvoerders getuigen horen of deskundigenonderzoek bevelen. Lid 1 verbindt de bevoegdheid aan opheldering van omstandigheden die de surseance betreffen. Het onderzoek dient dus het beheer en toezicht binnen deze procedure. De bewindvoerder kan niet door een eigen brief de rechterlijke bevoegdheden tot getuigenverhoor overnemen. Oproeping van getuigen geschiedt bij exploot namens de rechter-commissaris.
+
+De verwijzing naar artikel 177 Rv betreft de overeenkomstige toepassing van die bewijsrechtelijke regeling. Lid 2 noemt nauwkeurig welke bepalingen van Rv bij niet-verschijnen en weigering van eed of getuigenis gelden, met een beperkte verwijzing naar delen van artikel 173. Voor mogelijke dwangmiddelen moet men die verwijzingen afzonderlijk controleren; het artikel bevat geen onbeperkte sanctiebevoegdheid voor de bewindvoerder.
+
+Lid 3 geeft de echtgenoot of voormalige echtgenoot, de huidige of voormalige geregistreerde partner, kinderen en verdere afstammelingen, ouders en grootouders van de schuldenaar een verschoningsrecht. Dat zij mogen weigeren te getuigen is iets anders dan een verbod hen op te roepen of een automatische vrijstelling van iedere administratieve verplichting. De omschreven familiekring mag evenmin zonder wettelijke grond tot alle zakelijke relaties worden uitgebreid.
+
+Voorbeeld: de administratie toont onverklaarde betalingen aan een familielid. De bewindvoerder kan de rechter-commissaris om een verhoor of deskundigenonderzoek vragen. Is de opgeroepene een kind van de schuldenaar, dan moet rekening worden gehouden met diens recht zich van getuigenis te verschonen; het ontbrekende bewijs zal zo nodig langs een andere rechtmatige weg moeten worden onderzocht.
+
+### Artikel 224
+
+**Wettekst:**
+
+> 1 Indien meer dan één bewindvoerder is benoemd, wordt voor de geldigheid hunner handelingen toestemming der meerderheid of bij staking van stemmen een beslissing van de rechter-commissaris vereist. Het tweede lid van artikel 70 vindt overeenkomstige toepassing.
+>
+> 2 De rechtbank kan te allen tijde een bewindvoerder, na hem gehoord of behoorlijk opgeroepen te hebben, ontslaan en door een ander vervangen of hem één of meer bewindvoerders toevoegen, een en ander op verzoek van hemzelf, van de andere bewindvoerders, van één of meer schuldeisers of van de schuldenaar, op voordracht van de rechter-commissaris, dan wel ambtshalve.
+
+*Redactionele bronnotitie:* Artikel IV van Stb. 2022/491 bevat overgangsrecht m.b.t. deze wijziging.
+
+Bij meerdere bewindvoerders vraagt lid 1 voor geldige handelingen toestemming van de meerderheid. Een interne taakverdeling geeft één bewindvoerder dus niet zonder meer vrijheid om iedere boedelhandeling alleen te verrichten. Bij staking van stemmen beslist de rechter-commissaris. De verwijzing naar artikel 70, tweede lid, is van belang voor de mogelijkheid een bewindvoerder bepaalde werkzaamheden of zelfstandig optreden toe te delen. Men moet de concrete rechterlijke regeling en de omvang daarvan raadplegen.
+
+Lid 2 biedt een afzonderlijke waarborg voor de bezetting van het bewind. De rechtbank kan te allen tijde een bewindvoerder ontslaan en vervangen of extra bewindvoerders toevoegen. De betrokken bewindvoerder moet eerst worden gehoord of behoorlijk worden opgeroepen. Het initiatief kan komen van hemzelf, andere bewindvoerders, een of meer schuldeisers, de schuldenaar of de rechter-commissaris; ook ambtshalve optreden is mogelijk. Een schuldeiser kan dus om wijziging verzoeken, maar beslist niet zelf over het ontslag.
+
+De vervangingsbevoegdheid verschilt van het oplossen van een inhoudelijk meningsverschil. Bij een enkele staking van stemmen biedt lid 1 een besluitvormingsroute. Of daarnaast een personele wijziging nodig is, vraagt een afzonderlijke beoordeling door de rechtbank. Voor de deskundigheid van een benoemde opvolger blijft artikel 215 relevant.
+
+Voorbeeld: twee bewindvoerders verschillen over verkoop van een machine en geen van beiden heeft voor dat onderwerp een bevoegdheid tot zelfstandig handelen. De rechter-commissaris kan de staking van stemmen oplossen. Blijvende onwerkbaarheid kan daarnaast aanleiding geven de rechtbank om toevoeging of vervanging te verzoeken, met eerbiediging van het hoorrecht.
+
+### Artikel 225
+
+**Wettekst:**
+
+> 1 Bij het voorlopig verlenen der surseance kan de rechtbank zodanige bepalingen maken, als zij ter beveiliging van de belangen der schuldeisers nodig oordeelt.
+>
+> 2 Zij kan dit ook gedurende de surseance doen op voordracht van de rechter-commissaris, op verzoek van de bewindvoerders of van één of meer schuldeisers dan wel ambtshalve.
+
+*Redactionele bronnotitie:* Artikel IV van Stb. 2022/491 bevat overgangsrecht m.b.t. deze wijziging.
+
+Deze bepaling biedt de rechtbank ruimte om belangen van schuldeisers met concrete voorzieningen te beveiligen. Lid 1 ziet op het moment van voorlopige verlening. De noodzaak wordt beoordeeld vanuit de bescherming van die belangen, bijvoorbeeld wanneer onzekerheid bestaat over de bewaring van administratie of de beheersing van geldstromen. Het artikel is geen zelfstandige bevoegdheid van een individuele schuldeiser om eenzijdig de bedrijfsvoering over te nemen.
+
+Lid 2 maakt aanpassing tijdens de surseance mogelijk. De rechter-commissaris kan een voordracht doen, bewindvoerders of een of meer schuldeisers kunnen een verzoek indienen en de rechtbank kan ambtshalve optreden. De schuldeiser hoeft dus niet te wachten op instemming van de schuldenaar om een concreet risico onder de aandacht van de rechtbank te brengen. De tekst noemt de schuldenaar hier niet als zelfstandige verzoeker in deze opsomming.
+
+De gekozen voorziening moet aansluiten bij het risico en bij de overige wettelijke bevoegdheden. Artikel 228 blijft het gezamenlijke beheer regelen; artikel 226 biedt een specifieke route voor deskundigenonderzoek. Een beschermingsmaatregel bewijst nog niet dat de surseance definitief moet worden geweigerd of ingetrokken. Daarvoor gelden de eigen voorwaarden van artikelen 218 en 242.
+
+Voorbeeld: schuldeisers constateren dat essentiële digitale administratie uitsluitend toegankelijk is voor één vertrokken bestuurder. Zij kunnen een voorziening vragen die de bewaring en beschikbaarheid daarvan veiligstelt. De rechtbank moet bepalen welke maatregel nodig is; het verzoek rechtvaardigt niet vanzelf een door die schuldeisers gekozen verkoop van de onderneming.
+
+### Artikel 226
+
+**Wettekst:**
+
+> 1 Bij het voorlopig verlenen der surseance kan de rechtbank één of meer deskundigen benoemen teneinde binnen een door haar te bepalen termijn, die zo nodig kan worden verlengd, een onderzoek naar de staat van de boedel in te stellen en een beredeneerd verslag van hun bevinding uit te brengen. Het laatste lid van artikel 225 vindt overeenkomstige toepassing.
+>
+> 2 Het verslag van de deskundigen bevat een met redenen omkleed oordeel over de betrouwbaarheid van de door de schuldenaar overgelegde staat en bescheiden, en over de vraag of er vooruitzicht bestaat, dat de schuldenaar na verloop van tijd zijn schuldeisers zal kunnen bevredigen. Het verslag geeft zo mogelijk de maatregelen aan, welke tot die bevrediging kunnen leiden.
+>
+> 3 De deskundigen leggen hun verslag neder ter griffie van de rechtbank, ter kosteloze inzage van een ieder. De neerlegging geschiedt kosteloos.
+>
+> 4 Het laatste lid van artikel 224 vindt ten aanzien van de deskundigen overeenkomstige toepassing.
+
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
+
+Een onafhankelijk deskundigenonderzoek kan de betrouwbaarheid van het vermogensbeeld en het herstelperspectief toetsen. Lid 1 laat de rechtbank bij voorlopige verlening een of meer deskundigen benoemen en hun een termijn stellen, die zo nodig kan worden verlengd. Door overeenkomstige toepassing van artikel 225, laatste lid, is benoeming ook tijdens de surseance mogelijk via de daar genoemde initiatieven. Het deskundigenonderzoek is een mogelijkheid, geen verplicht onderdeel van iedere surseance.
+
+Lid 2 bepaalt wat het verslag moet beoordelen: de betrouwbaarheid van de staat en bescheiden van de schuldenaar en het uitzicht dat hij later zijn schuldeisers kan bevredigen. Een loutere opsomming van boekhoudkundige cijfers voldoet niet aan het vereiste beredeneerde oordeel. Het verslag moet zo mogelijk ook maatregelen noemen die bevrediging kunnen bereiken. De deskundige onderzoekt en adviseert; de beslissing over definitieve verlening volgens artikel 218 blijft bij de rechtbank.
+
+Lid 3 verlangt kosteloze neerlegging ter griffie en kosteloze inzage door iedereen. Dat openbare karakter vraagt zorgvuldigheid bij persoonsinformatie, maar mag niet worden verward met de eigen verwerkingstitel voor de bewindvoerder in artikel 215b. Lid 4 past de ontslag-, vervangings- en aanvullingsregeling van artikel 224, laatste lid, overeenkomstig toe op deskundigen. Een problematische opdracht hoeft dus niet onbeheersbaar door te lopen.
+
+Voorbeeld: een debiteur waardeert een omvangrijke voorraad op historische aankoopprijs. Een benoemde deskundige onderzoekt verkoopbaarheid, incassomogelijkheden en liquiditeit. Hij licht toe waarom een lager realiseerbaar bedrag het herstelplan aantast en welke aanpassingen nog kansrijk zijn, in plaats van de opgave van het bestuur ongewijzigd over te nemen.
+
+### Artikel 227
+
+**Wettekst:**
+
+> 1 De bewindvoerders brengen, telkens na verloop van drie maanden, een verslag uit over de toestand van de boedel. Met dit verslag wordt gehandeld, gelijk in het derde lid van artikel 226 is voorgeschreven.
+>
+> 2 De termijn, bedoeld in het vorige lid, kan door de rechter-commissaris worden verlengd.
+
+*Redactionele bronnotitie:* Artikel IV van Stb. 2022/491 bevat overgangsrecht m.b.t. deze wijziging.
+
+De bewindvoerders moeten telkens na drie maanden verslag doen over de toestand van de boedel. De verplichting voorkomt dat het beeld bij de aanvraag de hele surseance blijft bepalen. Veranderingen in liquiditeit, verhaalbare activa, bedrijfsresultaat en het vooruitzicht op schuldeisersbevrediging kunnen de beoordeling van voortduring wezenlijk veranderen. Het verslag behoort daarom begrijpelijk te maken welke relevante ontwikkelingen zich sinds de vorige rapportage hebben voorgedaan.
+
+Door de verwijzing naar artikel 226, derde lid, wordt het verslag kosteloos ter griffie neergelegd en voor iedereen kosteloos toegankelijk. Het is niet slechts een vertrouwelijke voortgangsbrief aan de schuldenaar. Voor persoonsgegevensverwerking door de bewindvoerder noemt artikel 215b, tweede lid, onder a, juist deze verslagtaak, inclusief openbaarmaking en openbaarhouding gedurende een redelijke periode. Noodzakelijkheid en de strengere grenzen voor bijzondere en strafrechtelijke gegevens blijven van belang.
+
+Lid 2 legt de bevoegdheid tot verlenging van de verslagtermijn bij de rechter-commissaris. Werkdruk of een nog lopend verkooptraject geeft de bewindvoerders niet zelfstandig het recht de driemaandstermijn te laten verstrijken. Een verlengde verslagtermijn verlengt bovendien niet de duur van de surseance; daarvoor geldt artikel 223.
+
+Voorbeeld: kort vóór het derde maandmoment is een activaonderzoek nog niet afgerond. De bewindvoerder vraagt gemotiveerd termijnverlenging aan de rechter-commissaris. Zonder die beslissing blijft de wettelijke rapportageverplichting het uitgangspunt. In het openbare verslag kan hij onzekerheden benoemen zonder onnodige persoonsgegevens van betrokken werknemers te publiceren.
+
+### Artikel 228
+
+**Wettekst:**
+
+> 1 Gedurende de surseance is de schuldenaar onbevoegd enige daad van beheer of beschikking betreffende de boedel te verrichten zonder medewerking, machtiging of bijstand van de bewindvoerders. Indien de schuldenaar in strijd daarmede gehandeld heeft, zijn de bewindvoerders bevoegd alles te doen, wat vereist wordt, om de boedel te dier zake schadeloos te houden.
+>
+> 2 Voor verbintenissen van de schuldenaar, zonder medewerking, machtiging of bijstand van de bewindvoerders na de aanvang der surseance ontstaan, is de boedel niet aansprakelijk, dan voorzover deze tengevolge daarvan is gebaat.
+
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
+
+Surseance laat de schuldenaar bij het beheer betrokken, maar beperkt zijn zelfstandige bevoegdheid. Lid 1 verlangt medewerking, machtiging of bijstand van de bewindvoerders voor iedere daad van beheer of beschikking betreffende de boedel. Bij handelen in strijd daarmee mogen de bewindvoerders doen wat nodig is om de boedel schadeloos te houden. Het gaat niet alleen om verkoop van activa; ook afspraken die verhaalsrechten van de boedel aantasten kunnen binnen de bepaling vallen.
+
+Lid 2 beschermt de boedel tegen verbintenissen die na de aanvang zonder die betrokkenheid ontstaan. De boedel is daarvoor slechts aansprakelijk voor zover zij erdoor is gebaat. Een na de verlening gedateerde factuur is dus op zichzelf geen bewijs van een boedelverplichting. Men moet ontstaansmoment, rechtsgrond, betrokkenheid van de bewindvoerder en eventuele baat afzonderlijk onderzoeken. Artikel 217 bepaalt vanaf welk dagbegin de surseance geldt.
+
+HR 22 oktober 2010, ECLI:NL:HR:2010:BN6123, rov. 4.1.3–4.1.5, aanvaardt dat toestemming onder omstandigheden stilzwijgend kan blijken. Voortzetting van bedrijfsactiviteiten alleen draagt in het algemeen niet de conclusie dat alle samenhangende schulden zijn goedgekeurd. Welbewust toelaten van wezenlijke verplichtingen om een concrete voortzetting of overname mogelijk te houden kan wel toestemming opleveren. Dat is een beoordeling van omstandigheden, geen algemene garantie voor alle leveranciers.
+
+HR 7 juli 2017, ECLI:NL:HR:2017:1280, rov. 3.7.2–3.9.3, past het gezamenlijke beheer ook toe binnen een internationale groep: een buitenlandse groepsherstructurering schakelt zonder toepasselijke afwijkende regeling de Nederlandse bevoegdheidsbeperking niet uit. De schuldenaar moet de bewindvoerder behoorlijk informeren over boedelrelevante onderhandelingen. Het arrest onderscheidt de concrete binding van de boedel in die groepsprocedure van een eigen akkoordaanbod volgens artikel 252.
+
+Voorbeeld: een bestuurder laat nieuwe transportdiensten afnemen terwijl een verkoop wordt voorbereid. Een bewindvoerder die dat specifieke, eenvoudig te stoppen gebruik bewust toestaat, kan medewerking hebben verleend. Alleen weten dat het bedrijf nog open is, geeft de transporteur niet dezelfde zekerheid.
+
+**Praktijkcontrole verlening en beheer:** leg verzoeken en hun samenloop vast; controleer de ingangsdag; onderscheid stemdrempels van verplichte weigeringsgronden; bewaak rechtsmiddel- en exploottermijnen; controleer actuele registergegevens en surseanceduur; documenteer de vereiste bewindvoerdersmedewerking; plan openbare verslagen met afzonderlijke beoordeling van persoonsgegevens.

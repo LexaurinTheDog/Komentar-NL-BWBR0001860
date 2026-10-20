@@ -1,0 +1,30 @@
+[
+  {
+    "tag": "intitule",
+    "official_path": "/Intitule",
+    "text": "Wet van 30 september 1893, op het faillissement en de surséance van betaling",
+    "text_sha256": "896007a50c6cf6fd7438af1146f63acbed8cde69c55e07bb43acc80b34d5f483",
+    "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+  },
+  {
+    "tag": "citeertitel",
+    "official_path": "/Citeertitel",
+    "text": "Faillissementswet",
+    "text_sha256": "6c0bf00b9776c36a711a4ad5763a897f2da5033725f71577c6bd3ca0f89fbee5",
+    "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+  },
+  {
+    "tag": "aanhef",
+    "official_path": "/Aanhef",
+    "text": "In naam van Hare Majesteit WILHELMINA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz., enz., enz.\n\nWij EMMA, Koningin-Weduwe, Regentes van het Koninkrijk;\n\nAllen, die deze zullen zien of hooren lezen, saluut! doen te weten:\n\nAlzoo Wij in overweging genomen hebben, dat de wettelijke bepalingen omtrent het faillissement en de surséance van betaling herziening vereischen;\n\nZoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:",
+    "text_sha256": "8de9ce517ee1c1167d57b90f1ff934c7a7cd07fbd5e566124082160aa106e1db",
+    "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+  },
+  {
+    "tag": "wetsluiting",
+    "official_path": "/SlotformulierEnOndertekening",
+    "text": "Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.\n\nGegeven op het Loo\nden 30sten September 1893\n\nEMMA.\n\nDe Minister van Justitie.\n\nSMIDT.\n\nden zesden October 1893.\n\nDe Minister van Justitie,\n\nSMIDT.",
+    "text_sha256": "e8b5a20c5e76e4bf9370002c77fedebea5d6887367b220ed73c17a9b3fab3d03",
+    "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+  }
+]

@@ -302,3 +302,6 @@ Het [selectieve zoeklog](sources/review-art-213aa-214-search-log.json) verantwoo
 
 De [bouwpoging](sources/review-art-213aa-214-build.txt) en [strikte validatie](sources/review-art-213aa-214-validation.json) zijn uitgevoerd. De wettelijke tekstovereenkomst is 100%; 219 ontbrekende commentaren buiten de batch verhinderen volledige boekbouw en boekvalidatie. Het bestaande checkpoint is met deze twintig beoordeelde artikelen bijgewerkt. Lokale links en identiek herhaalde lange alinea’s zijn gecontroleerd. Dit is een projectinterne tweede lezing van deze batch, geen volledige boekreview of externe professionele goedkeuring.
 
+
+
+Auteursbatch 215–228: twintig specifieke toelichtingen; [broncontrole](sources/author-art-215-228-preflight-result.json), [dekking](sources/author-art-215-228-coverage.json), [selectief rechtspraakonderzoek](sources/author-art-215-228-search-log.json). Twee volledige Hoge Raad-uitspraken selectief verwerkt; zie de bronkaarten. Onafhankelijke tweede lezing nog niet uitgevoerd; overige bepalingen vallen buiten deze opdracht.

@@ -90,3 +90,6 @@ Tweede lezing 213me–213z, inclusief 213ij: [beoordeling](sources/review-art-21
 Auteursbatch 213aa–214: twintig specifieke toelichtingen; [broncontrole](sources/author-art-213aa-214-preflight-result.json), [dekking](sources/author-art-213aa-214-coverage.json), [selectief rechtspraakonderzoek](sources/author-art-213aa-214-search-log.json). Geen rechterlijke uitspraak aangehaald in deze batch. Onafhankelijke tweede lezing nog niet uitgevoerd; overige bepalingen vallen buiten deze opdracht.
 
 Tweede lezing 213aa–214: [beoordeling](sources/review-art-213aa-214-result.json), [bronpreflight](sources/review-art-213aa-214-preflight-result.json), [selectief zoeklog](sources/review-art-213aa-214-search-log.json).
+
+
+Auteursbatch 215–228: twintig specifieke toelichtingen; [broncontrole](sources/author-art-215-228-preflight-result.json), [dekking](sources/author-art-215-228-coverage.json), [selectief rechtspraakonderzoek](sources/author-art-215-228-search-log.json). Twee volledige Hoge Raad-uitspraken selectief verwerkt; zie de bronkaarten. Onafhankelijke tweede lezing nog niet uitgevoerd; overige bepalingen vallen buiten deze opdracht.

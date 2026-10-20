@@ -1,0 +1,18 @@
+{
+  "at": "2026-10-20T23:21:10.222394+00:00",
+  "queries": [
+    "site.rechtspraak.nl surseance 228 Hoge Raad",
+    "site.rechtspraak.nl 218 surseance vierde"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+  "local_hits": "sources/author-art-215-228-local-hits.txt",
+  "disposition": "Selective search. Full official judgments read, not AG conclusions or commercial annotations. No unit-by-unit exhaustive case-law coverage claimed.",
+  "verified_case_sources": [
+    "ECLI:NL:HR:2017:1280",
+    "ECLI:NL:HR:2010:BN6123"
+  ],
+  "case_cards": [
+    "sources/author-art-215-228-case-2017.md",
+    "sources/author-art-215-228-case-2010.md"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "relative_links_checked": 12,
+  "broken_links": [],
+  "assigned_units": 20,
+  "commentary_blocks": 20,
+  "repeated_long_paragraphs": 0,
+  "bounded_build_returncode": 0,
+  "full_build_limitation": "199 unassigned units still lack commentary; full shared build stops before writing."
+}
