@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2024:210",
+    "access_timestamp_utc": "2026-10-20T22:04:34.391573+00:00",
+    "raw_path": "sources/review-art-137c-152-case-hr-2024-210.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2024:210",
+    "bytes": 18068,
+    "sha256": "7b6e7fe822d4d92f7f17ccdc0c1562a97374ceffb151d6165786abc10877b795",
+    "headers_path": "sources/review-art-137c-152-case-hr-2024-210.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 10212
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBGEL:2015:5785",
+    "access_timestamp_utc": "2026-10-20T22:04:34.391938+00:00",
+    "raw_path": "sources/review-art-137c-152-case-rbgel-2015-5785.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBGEL:2015:5785",
+    "bytes": 27479,
+    "sha256": "da3bc63f0070e37ccecd00141edb96f93fca1bd62b466a63e0a6530e107a9b7a",
+    "headers_path": "sources/review-art-137c-152-case-rbgel-2015-5785.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 17241
+  }
+]

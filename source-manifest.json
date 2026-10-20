@@ -1,6 +1,6 @@
 {
   "created_at_utc": "2026-10-20T21:47:05.474183+00:00",
-  "scope": "Preserved original, preflight and bounded-review evidence sets, including articles 121–137b. No new rights claim over official texts.",
+  "scope": "Preserved original, preflight and bounded-review evidence sets, including articles 137c–152. No new rights claim over official texts.",
   "files": [
     {
       "path": "sources/author-date-xml.headers",
@@ -436,6 +436,116 @@
       "path": "sources/review-art-121-137b-wti.xml.headers",
       "bytes": 261,
       "sha256": "168a53ad3acec8c6c3cbc09a98a34470409cb36d86dd696360d8ed5554da67d3"
+    },
+    {
+      "path": "sources/review-art-137c-152-before-hashes.json",
+      "bytes": 24031,
+      "sha256": "42f91c832da795cbcd070d0278f0bbd43f9f1a82370153f853491a49b3d37c97"
+    },
+    {
+      "path": "sources/review-art-137c-152-build.txt",
+      "bytes": 166,
+      "sha256": "3aea440443d4e8203a021bbde25ef1793ef7c890640e3494275356c5ee8c47c4"
+    },
+    {
+      "path": "sources/review-art-137c-152-case-hr-2024-210.txt",
+      "bytes": 10226,
+      "sha256": "423160ff15a3884a03aac483fccc87079e82b6ccbe5805a3379b02c1898b959b"
+    },
+    {
+      "path": "sources/review-art-137c-152-case-hr-2024-210.xml",
+      "bytes": 18068,
+      "sha256": "7b6e7fe822d4d92f7f17ccdc0c1562a97374ceffb151d6165786abc10877b795"
+    },
+    {
+      "path": "sources/review-art-137c-152-case-hr-2024-210.xml.headers",
+      "bytes": 497,
+      "sha256": "454e7c7c79e9b8b27c6bd73e1ee419c51f4256847fdfcb2746bcecd760cf0063"
+    },
+    {
+      "path": "sources/review-art-137c-152-case-rbgel-2015-5785.txt",
+      "bytes": 17323,
+      "sha256": "f9dcacb6935d8fcfdb58a1d182d4ebcb788855b5b4d754fed8723ae89fc8460a"
+    },
+    {
+      "path": "sources/review-art-137c-152-case-rbgel-2015-5785.xml",
+      "bytes": 27479,
+      "sha256": "da3bc63f0070e37ccecd00141edb96f93fca1bd62b466a63e0a6530e107a9b7a"
+    },
+    {
+      "path": "sources/review-art-137c-152-case-rbgel-2015-5785.xml.headers",
+      "bytes": 497,
+      "sha256": "09321a2908f1bc3f5a4262cecd10d723ec0b5b314689a531e55408c73eb27212"
+    },
+    {
+      "path": "sources/review-art-137c-152-cases-fetch.json",
+      "bytes": 1297,
+      "sha256": "9d88b6bfdeee7bc6fd1af8c17d928f72cce222748071f2f8e6f0009f3846052a"
+    },
+    {
+      "path": "sources/review-art-137c-152-checks.json",
+      "bytes": 1407,
+      "sha256": "8e8eb2e78cf45519f44c544b291050b198b624c229cf4271c074913227bbba67"
+    },
+    {
+      "path": "sources/review-art-137c-152-current.html",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57"
+    },
+    {
+      "path": "sources/review-art-137c-152-current.html.headers",
+      "bytes": 532,
+      "sha256": "59a295f5be89eb5aa1086387f66debaa3952c126a59f188f8c16e5d9b12694bd"
+    },
+    {
+      "path": "sources/review-art-137c-152-fetch.json",
+      "bytes": 2521,
+      "sha256": "47e02f06dfbaded55603ff7cf9d1a5244debe9a057830e22ab8ef4c7098967a9"
+    },
+    {
+      "path": "sources/review-art-137c-152-hr-2024-210-local.md",
+      "bytes": 9742,
+      "sha256": "203860c0f6463be6a38e31aa98340c6056bf7d3c5dbcb25648146dc46909c9f0"
+    },
+    {
+      "path": "sources/review-art-137c-152-preflight-result.json",
+      "bytes": 3754,
+      "sha256": "837c51c38a05adf827ab1f925dd020e51cd0b2925cf6bf15b16edd5c0dedf003"
+    },
+    {
+      "path": "sources/review-art-137c-152-result.json",
+      "bytes": 20567,
+      "sha256": "abca2ed792970d95f8e5e3500d81846f7562c33c1cbc4251e174a01cabbcdbe5"
+    },
+    {
+      "path": "sources/review-art-137c-152-search-log.json",
+      "bytes": 710,
+      "sha256": "7fda8125022862f087eff3233f4554382d8886bf76fbee48d9dc81ef579a86e0"
+    },
+    {
+      "path": "sources/review-art-137c-152-selected.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+    },
+    {
+      "path": "sources/review-art-137c-152-selected.xml.headers",
+      "bytes": 261,
+      "sha256": "312daa09c03534d3be22bb985de5ec6b0e8f3615d8be2a8cc1fe5b44095d2c33"
+    },
+    {
+      "path": "sources/review-art-137c-152-validation.json",
+      "bytes": 348,
+      "sha256": "0de6bbb6d2987f4d3d56fb7b383a61bc84f3f280b4a81394b66b615f638a68e7"
+    },
+    {
+      "path": "sources/review-art-137c-152-wti.xml",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67"
+    },
+    {
+      "path": "sources/review-art-137c-152-wti.xml.headers",
+      "bytes": 261,
+      "sha256": "8603f2af1bf0111f51cf88465bba9337f62ad083eca2f4cc0f4507306f01872e"
     },
     {
       "path": "sources/review-art-15-27-before-hashes.json",
@@ -1384,8 +1494,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 48986,
-      "sha256": "cef3aa06c5c4dafebd2752d92705bfe43011cd98de84cb1d5949b7cf3ea44f2b"
+      "bytes": 51927,
+      "sha256": "85dc6b0032a85b9c9d15b4eef548fc6bd5c65683b5e5562fa86a6c0f2d1028f7"
     },
     {
       "path": "sources/version-evidence.json",
@@ -1523,6 +1633,11 @@
       "sha256": "434527414d1778c4910270112c71f4aa4f252d7598756be91111bb89f93e0133"
     },
     {
+      "path": "cases/HR-2024-210-akkoord-reikwijdte.md",
+      "bytes": 1670,
+      "sha256": "81079fbb34a7fe8b117d50f83e99cca6f12e57ebf9e286b65d88dd21f9f7e398"
+    },
+    {
       "path": "cases/HR-2025-975.md",
       "bytes": 2101,
       "sha256": "a286b24eb412401d817a38602a74960cfecf65cee89265d380c246bf0b887065"
@@ -1536,6 +1651,11 @@
       "path": "cases/HR-2026-400.md",
       "bytes": 1362,
       "sha256": "949adc9be8f4cc13e298a77df917ba7766449118b7ab8abd896dad2400824d7a"
+    },
+    {
+      "path": "cases/RBGEL-2015-5785-akkoordstemming.md",
+      "bytes": 1823,
+      "sha256": "b0935c57d54c8f72f9a3352253ddaa1dbe0fb6ac168af1dbf95e3f5d8100c7e9"
     },
     {
       "path": "cases/RBOVE-2020-1557.md",

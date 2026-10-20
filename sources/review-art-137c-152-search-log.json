@@ -1,0 +1,20 @@
+{
+  "searched_at_utc": "2026-10-20T22:06:07.210696+00:00",
+  "queries": [
+    "site.rechtspraak.nl faillissementsakkoord artikel 146 145 faillissementswet drie vierde",
+    "local HR corpus: 146 Fw|art.145 Fw|artikel146"
+  ],
+  "full_decisions_read": [
+    "ECLI:NL:HR:2024:210",
+    "ECLI:NL:RBGEL:2015:5785"
+  ],
+  "local_corpus_read": [
+    "ecli-nl-hr-2024-210.md",
+    "ecli-nl-hr-2019-425.md"
+  ],
+  "not_used": [
+    "HR2019:425 false keyword hit: criminal seizure, no Fw authority",
+    "PHR2023:554 search result is advisory opinion, not used as holding"
+  ],
+  "limits": "Selective research. No verified relevant case added for each technical provision; no exhaustive subsequent-treatment review."
+}

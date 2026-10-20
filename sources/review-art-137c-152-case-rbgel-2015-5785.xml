@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBGEL:2015:5785</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T02:43:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-09-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Gelderland" scheme="overheid.RechterlijkeMacht">Rechtbank Gelderland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2015-07-14</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">285159</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Arnhem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RI 2016/8</rdf:li>
+          <rdf:li>INS-Updates.nl 2015-0261</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2015:5785">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2015:5785</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2015-09-11T11:58:43</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2015-09-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBGEL:2015:5785 Rechtbank Gelderland , 14-07-2015 / 285159</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBGEL:2015:5785:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Artt. 67, 145, 146, 149 en 332 Fw. Volgens gefailleerde heeft de r-c ten onrechte vastgesteld dat het door hem aan de schuldeisers aangeboden akkoord is verworpen. De rechtbank oordeelt dat art. 149 Fw (en 148 Fw) niet alleen kan worden toegepast in geval van verbetering van tel- en typefouten maar ook ingeval van een onjuiste interpretatie van art. 145 Fw. Art. 145 Fw bevat een tweeledig criterium, te weten een quorum en een quotum. De lezing van gefailleerde dat het quotum ziet op het totaal van de vorderingen van de ter vergadering verschenen schuldeisers wordt door de rechtbank niet gevolgd. Uit de wetsgeschiedenis valt niet (voldoende duidelijk) af te leiden dat de wetgever, ondanks de van de tekst van art. 332 Fw afwijkende bewoordingen, heeft willen aansluiten bij de regeling die in de wettelijke schuldsaneringsregeling geldt voor het aannemen van een akkoord. Het verzoek wordt afgewezen. Beslissing r-c (weigering akkoord ex art. 146 Fw vast te stellen als ware het aangenomen) wordt aangemerkt als een beschikking in de zin van art. 67 lid 1 Fw. Het niet verschijnen van een schuldeiser op de vergadering geldt niet als een tegenstem in de zin van art. 146 Fw. De rechtbank acht die opvatting van gefailleerde in strijd met de tekst van art. 146 Fw en in strijd met de toelichting van de wetgever op de artt. 145 en 146 Fw. De door de rechtbank gegeven uitleg van art. 145 Fw in samenhang met art. 146 Fw leidt tot de conclusie dat een schuldeiser wier vordering meer dan de helft van de concurrente schuldenlast vormt (in de zin van het quorum), bij tegenstem ter vergadering door de r-c ex art. 146 Fw kan worden ‘overruled’ maar dat ‘overrulen’ niet kan als die schuldeiser niet ter vergadering verschijnt (thuisblijft). Afgezet tegen de voorheen geldende regels houdt art. 145 Fw in de uitleg van de rechtbank nog steeds een aanmerkelijke versoepeling in van de eisen voor het aangenomen krijgen van een akkoord, welke versoepeling ten grondslag lag aan de wijziging van art. 145 Fw. Het beroep faalt.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBGEL:2015:5785:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>
+      <inlinemediaobject>
+        <imageobject>
+          <imagedata align="center" scale="100" fileref="91e590b3-9bf1-4bb5-8056-5bbe9c575cba" depth="2" width="13" format="image/png" />
+        </imageobject>
+      </inlinemediaobject>
+      <inlinemediaobject>
+        <imageobject>
+          <imagedata align="center" scale="100" fileref="d1c4fd33-351b-4f71-869a-feae73056a72" depth="2" width="523" format="image/png" />
+        </imageobject>
+      </inlinemediaobject>beschikking</para>
+    <bridgehead role="bold">RECHTBANK GELDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Team kanton en handelsrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Arnhem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer / rekestnummer: C/05/285159 / HA RK 15-88</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Beschikking van 14 juli 2015</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>in het faillissement (12/381 F) van</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [gefailleerde]
+        </emphasis>
+      </para>
+      <para>geboren op [1962]</para>
+      <para>wonende te Nijmegen,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>curator mr. E.A.S. Jansen, advocaat te Nijmegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>op het verzoek en beroep van:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [gefailleerde]
+        </emphasis>
+      </para>
+      <para>wonende te Nijmegen,</para>
+      <para>gefailleerde,</para>
+      <para>advocaat mr. R. Dufour te Amersfoort</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>De procedure</title>
+    <para>Het verloop van de procedure blijkt uit:</para>
+    <para>- het proces-verbaal van de verificatievergadering (en stemming over het door gefailleerde aangeboden akkoord) d.d. 29 mei 2015</para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>het verzoekschrift en beroepschrift van gefailleerde met producties van 3 juni 2015</para>
+      </listitem>
+      <listitem>
+        <para>de brief van de advocaat van gefailleerde van 24 juni 2015</para>
+      </listitem>
+      <listitem>
+        <para>het proces-verbaal van de mondelinge behandeling van 30 juni 2015 (waarop is overgelegd een brief van Bavaria N.V. d.d. 26 juni 2015)</para>
+      </listitem>
+      <listitem>
+        <para>de pleitaantekeningen van gefailleerde.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Het primaire verzoek ex art. 149 Fw</title>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Het primaire verzoek strekt tot verbetering van het proces-verbaal van de verificatievergadering van 29 mei 2015. In dat proces-verbaal is onder meer het volgende opgenomen:</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">“(…) Vervolgens wordt overgegaan tot de stemming over het aangeboden akkoord.</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Mr. Jansen verklaart namens zestien door hem bij volmacht vertegenwoordigde concurrente</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">schuldeisers </emphasis>
+          <emphasis role="bold underline italic">v o o r</emphasis>
+          <emphasis role="italic"> het akkoord te stemmen. Mr. Jansen verklaart namens één door hem</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">bij volmacht vertegenwoordigde concurrente schuldeiser (Bavaria N.V.) </emphasis>
+          <emphasis role="bold underline italic">t e g e n </emphasis>
+          <emphasis role="italic">het</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">akkoord te stemmen.</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Het aantal stemgerechtigde crediteuren bedraagt zeventien en het totaal van hun vorderingen</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">€ 649.644,29. Vóór het akkoord stemden zestien crediteuren die een bedrag van</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">€ 573.973,29 vertegenwoordigen van de totale concurrente en voorwaardelijk toegelaten</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">schuldenlast van € 1.964.630,07. Daarmee wordt niet voldaan aan het “stemvereiste” van</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">artikel 145 Fw.</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Mr. Dufour heeft aangevoerd dat artikel 145 Fw. aldus moet worden gelezen dat moet worden gekeken naar de totale schuldenlast die de ter vergadering verschenen en tot de stemming toegelaten concurrente schuldeisers vertegenwoordigen en niet naar de totale concurrente schuldenlast van gefailleerde. De waarnemend rechter-commissaris meent dat de tekst van artikel 145 Fw. niet aldus kan worden uitgelegd en verwijst daarvoor naar de uitspraak van de rechtbank Leeuwarden van 4 oktober 2011 CLI:NL:RBLEE:2011:BT6703.</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">De wettelijke regeling beoogt de belangen van de niet ter vergadering verschenen</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">schuldeisers te waarborgen. In deze zin ook Wessels Insolventierecht VI 2013/6084.</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Het akkoord is derhalve verworpen. (…)”</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Gefailleerde stelt dat de rechter-commissaris ten onrechte heeft vastgesteld dat het door hem aan de schuldeisers aangeboden akkoord is verworpen. 16 van de 19 verschenen, stemgerechtigde crediteuren hebben voorgestemd. De crediteur die tegen heeft gestemd (Bavaria N.V.) vertegenwoordigt een schuldenlast van € 75.671,- en de crediteuren die voor het akkoord hebben gestemd een schuldenlast van € 573.973,29. De schuldeisers die ter vergadering voor het akkoord hebben gestemd vertegenwoordigen derhalve meer dan de helft van de schuld van de ter verificatievergadering verschenen schuldeisers. Daarmee is voldaan aan de criteria in art. 145 Fw waarbij gefailleerde de tekst van deze wetsbepaling zo leest dat de zinsnede “tenminste de helft van het bedrag van de door geen voorrang gedekte erkende en voorwaardelijk toegelaten schuldvorderingen” ziet op de ter vergadering verschenen schuldeisers.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>3</nr>Het subsidiaire beroep ex art. 67 Fw</title>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Ter (verificatie)vergadering heeft gefailleerde de rechter-commissaris verzocht het akkoord ex art. 146 Fw vast te stellen als ware het aangenomen. De rechter-commissaris heeft dit (gemotiveerd) geweigerd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <parablock>
+        <para>Gefailleerde voert aan dat dit ten onrechte is en verzoekt de rechtbank de beschikking van de rechter-commissaris te vernietigen en het akkoord alsnog vast te stellen als ware het aangenomen. Ten eerste is, aldus gefailleerde, voldaan</para>
+        <para>aan de eis van art. 146 Fw dat drie vierde van de ter vergadering verschenen erkende en voorwaardelijk toegelaten concurrente schuldeisers voor het akkoord heeft gestemd. Het akkoord is verworpen omdat Bavaria N.V. heeft tegengestemd en omdat ABN AMRO als grootste schuldeiser niet ter vergadering is verschenen. Het niet verschijnen (van ABN AMRO) moet worden beschouwd als tegenstem in de zin van art. 146 Fw. De bedoeling van de wettekst is om de gefailleerde te behoeden voor crediteuren die in redelijkheid niet tot het stemgedrag hebben kunnen komen en anderzijds om de belangen van de crediteuren te beschermen tegen een akkoord dat onwenselijk is. In dat verband past niet de regel dat een wegblijvende schuldeiser een verderstrekkend stemgedrag kan bewerkstelligd en doordat zijn wegblijven resulteert in de niet-toepasselijkheid van art. 146 Fw. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>Inhoudelijk gezien wijst gefailleerde er op dat de rechter-commissaris in zijn afweging niet heeft betrokken de omstandigheid dat de te voorziene inkomsten voor de boedel bij vereffening van het faillissement of bij toepassing van de WSNP veel lager zijn dat bij vaststelling van het akkoord. Er wordt een maandelijkse boedelbijdrage van € 155,87 voldaan. Ook met toepassing van de WSNP met een looptijd van drie jaar zal het boedelactief aanmerkelijk lager zijn dan het bedrag van € 20.000,- dat in het kader van het akkoord wordt aangeboden. Vooruitzicht op verbetering van zijn inkomen is er, gelet op het faillissement en de daarmee gepaard gaande vertrouwensbreuk (met voormalig opdrachtgevers) alsook de impact van de economische crisis op de bouw(ondernemingen), volgens gefailleerde niet.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>De beoordeling van het verzoek ex art. 149 Fw</title>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Het verzoek is tijdig ingediend. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Op grond van artikelen 149 Fw kan de gefailleerde na afloop van de verificatievergadering de rechtbank verzoeken het proces-verbaal te verbeteren als uit de stukken blijkt dat het akkoord door de rechter-commissaris ten onrechte als verworpen is beschouwd. Hoewel uit de jurisprudentie ter zake art. 149 (en 148) Fw blijkt dat gedacht is aan de verbetering van fouten van rekenkundige (telfout) of administratieve (typefout) aard (Wessels Insolventierecht V 2011/5169) is de rechtbank van oordeel dat art. 149 Fw tevens grondslag biedt voor eventuele verbetering van de door gefailleerde gestelde fout, te weten een onjuiste interpretatie van art. 145 Fw. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Art. 145 Fw bepaalt – sinds 1 december 2005 – dat voor het aannemen van een (faillissements)akkoord is vereist “de toestemming van de gewone meerderheid van de ter vergadering verschenen erkende en voorwaardelijk toegelaten concurrente schuldeisers, die tezamen ten minste de helft van het bedrag van de door geen voorrang gedekte erkende en voorwaardelijk toegelaten schuldvorderingen vertegenwoordigen.” Het bevat derhalve een tweeledig criterium te weten een quorum (meerderheid van de ter vergadering verschenen (…) schuldeisers) en een quotum (tenminste de helft van het bedrag van de door geen voorrang gedekte erkende en voorwaardelijk toegelaten schuldvorderingen). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>Gefailleerde stelt dat art. 145 Fw zo moet worden gelezen dat het quotum ziet om het totaal van de vorderingen van de <emphasis role="italic">ter vergadering verschenen</emphasis> schuldeisers en dat de vorderingen van de niet (ter vergadering en stemming) verschenen schuldeisers daarbij niet meetellen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <parablock>
+        <para>De rechtbank is met de rechter-commissaris van oordeel dat de door gefailleerde bepleite uitleg niet uit de tekst van art. 145 Fw volgt. Art. 145 Fw spreekt over “de helft van het bedrag van <emphasis role="underline">de</emphasis> (…) schuldvorderingen”. In de memorie van toelichting bij het wetsontwerp dat leidde tot het huidige art. 145 Fw (Kamerstukken II 27 244 2000/01, nr. 3) staat op p. 19:</para>
+        <para>
+          <emphasis role="italic">“71. Onder het huidige recht is een akkoord aangenomen indien ten minste tweederde van de erkende en de voorwaardelijk toegelaten concurrente schuldeisers hebben voorgestemd, en zij ten minste drievierde van het bedrag van de door geen voorrang gedekte erkende en voorwaardelijk toegelaten schuldvorderingen vertegenwoordigen. Deze gekwalificeerde meerderheid wordt in de praktijk als een te stringente eis beschouwd. Om die reden is ervoor gekozen te bepalen dat een gewone meerderheid van de concurrente schuldeisers voldoende is, die tezamen tenminste de helft van het bedrag aan concurrente vorderingen vertegenwoordigen. Bovendien is bepaald dat het betreft de meerderheid van de ter vergadering aanwezige schuldeisers. Onder het huidige recht wordt iedere schuldeiser die niet vóór heeft gestemd, geacht te hebben tegengestemd, hetgeen betekent dat ook degenen die in het geheel niet hebben gestemd, tot de tegenstemmers worden gerekend. In het voorstel is slechts van belang het stemgedrag van de ter vergadering aanwezige concurrente schuldeisers; degenen die niet verschijnen tellen niet mee. Degenen die wel verschijnen, maar niet meestemmen, worden geacht te hebben tegengestemd.” </emphasis>
+        </para>
+        <para>Uit deze toelichting volgt evenmin de door [gefailleerde] voorgestane uitleg. In deze toelichting staat immers niet dat bij het bepalen van het quotum de schuldvorderingen van de niet ter vergadering (en stemming) verschenen schuldeisers niet mee zouden tellen. Van hen wordt slechts gezegd dat zij niet geacht worden te hebben tegengestemd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <parablock>
+        <para>De rechtbank acht bij de uitleg van het in art. 145 Fw vermelde criterium ten slotte van belang dat in het met art. 145 Fw vergelijkbare art. 332 Fw (welke bepaling geldt in de wettelijke schuldsaneringsregeling) is vermeld “hun vorderingen”. Hierdoor is duidelijk dat de door gefailleerde bepleite uitleg geldt bij de stemming over een akkoord in een wettelijke schuldsaneringsregeling. Art. 332 Fw is op 1 december 1998 ingevoerd. Indien de wetgever hierbij wilde aansluiten had het voor de hand gelegen dat ook in art. 145 Fw was verwezen naar ‘hun vorderingen’. Uit de wetsgeschiedenis van art. 145 Fw blijkt dat hieraan aandacht is besteed door de Tweede Kamer. In het verslag van de bespreking (door de vaste commissie voor Justitie) van het wetsontwerp dat tot invoering van het huidige art. 145 Fw (Kamerstukken II 27 244 2000/01, nr. 4) leidde staat op p. 17 het volgende:</para>
+        <para>
+          <emphasis role="italic">“Artikel 145</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">De regeling van het faillissements- en surséanceakkoord is geënt op die van de huidige regeling van het schuldsaneringakkoord, behalve dat bevoorrechte schuldeisers er niet aan zijn gebonden. In de ogen van de leden van de PvdA-fractie valt ook te overwegen om bevoorrechte schuldeisers te binden aan het akkoord, zoals dat thans in de schuldsaneringsregeling geschiedt. Op deze wijze wordt voorkomen dat bevoorrechte schuldeisers de totstandkoming van een akkoord kunnen frustreren. Hierop graag een reactie van de regering?</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">De leden van de PvdA-fractie vernemen graag wat de reden is geweest om de woorden «door geen voorrang gedekt», zoals opgenomen in artikel 268 niet in artikel 145 op te nemen.”</emphasis>
+        </para>
+        <para>In de nota naar aanleiding van voornoemd verslag (Kamerstukken II 27 244 2000/01, nr. 6) is de minister daarop echter niet ingegaan. Op p. 24/25 van deze nota staat (slechts): </para>
+        <para>
+          <emphasis role="italic">“Artikel 145 De leden van de fractie van de PvdA gaven in overweging om bevoorrechte schuldeisers te binden aan het akkoord om te voorkomen dat deze schuldeisers de totstandkoming van het akkoord kunnen frustreren. Volgens het voorstel worden alleen de concurrente schuldeisers aan het akkoord gebonden. Complement daarvan is dat alleen deze schuldeisers stemgerechtigd zijn. Indien preferente schuldeisers willen stemmen kan dat slechts met verlies van preferentie. Omdat preferente schuldeisers buiten het akkoord blijven en niet in die hoedanigheid kunnen stemmen, deel ik niet de vrees van deze leden.”</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7.</nr>
+      <para>Uit deze wetsgeschiedenis valt niet (voldoende duidelijk) af te leiden dat de wetgever, ondanks de van de tekst van art. 332 Fw afwijkende bewoordingen, heeft willen aansluiten bij de regeling die in de wettelijke schuldsaneringsregeling geldt voor het aannemen van een akkoord.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.8.</nr>
+      <para>De conclusie is dat het verzoek van gefailleerde (tot verbetering van het proces-verbaal) wordt afgewezen. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>5</nr>De beoordeling van het subsidiaire beroepschrift ex art. 67 Fw</title>
+    <para />
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Op grond van het voorgaande komt de rechtbank toe aan de beoordeling van het subsidiaire beroep. Gefailleerde is daarin ontvankelijk omdat de beslissing van de rechter-commissaris als beschikking in de zin van art. 67 lid 1 Fw moet worden aangemerkt. Het beroep is tevens tijdig (binnen vijf dagen) ingesteld. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <parablock>
+        <para>Op grond van art. 146 Fw is de rechter-commissaris bevoegd om een (ex art. 145 Fw) verworpen (faillissements)akkoord vast te stellen als ware het aangenomen indien – onder meer – de verwerping van het akkoord “het gevolg is van het tegenstemmen van een of meer schuldeisers”.</para>
+        <para>De rechtbank is van oordeel dat de rechter-commissaris geen bevoegdheid ex art. 146 Fw heeft omdat de verwerping van het akkoord niet veroorzaakt is door een tegenstem (de tegenstem van Bavaria N.V.) maar doordat de grootste schuldeiser, ABN AMRO, niet heeft gereageerd op het aangeboden akkoord. ABN AMRO heeft, anders gezegd, niet tegengestemd maar wel de aanvaarding van het akkoord verhinderd omdat bij het ‘quotum’, zoals hiervoor overwogen, ook de niet ter vergadering verschenen schuldeisers meetellen. Gefailleerde heeft betoogd dat het niet-verschijnen van ABN AMRO als een tegenstem in de zin van art. 146 Fw zou moeten gelden. De rechtbank kan in deze redenering niet meegaan. Deze is allereerst in strijd met de tekst van art. 146 Fw waarin niet alleen over tegenstemmen wordt gesproken maar ook over ‘stemgedrag’ waartoe in redelijkheid niet kon worden gekomen. Indien het gaat om een schuldeiser die niet ter vergadering is verschenen kan daarvan niet worden gesproken, nog daargelaten dat dan moet worden vastgesteld dat deze schuldeiser het ontwerp van akkoord en de oproeping voor de vergadering heeft ontvangen. Voorts heeft de wetgever in de toelichting op art. 145 en 146 Fw uitdrukkelijk vermeld (r.ov. 4.5.) dat, anders dan onder het voorheen geldende recht, een niet-verschenen schuldeisers niet (meer) als tegenstemmer kan worden beschouwd.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>De rechtbank realiseert zich dat de hiervoor gegeven uitleg van art. 145 Fw in samenhang met art. 146 Fw leidt tot de conclusie dat een schuldeiser wier vordering meer dan de helft van de concurrente schuldenlast (in de zin van art. 145 Fw – quorum) vormt, bij een tegenstem ter vergadering door de rechter-commissaris ex art. 146 Fw kan worden ‘overrruled’ en dat dat niet het geval is als die schuldeiser niet-verschijnt (thuisblijft). Deze constatering brengt de rechtbank niet tot een ander oordeel omdat art. 145 Fw, afgezet tegen de voorheen geldende regels, in deze uitleg nog steeds een aanmerkelijke versoepeling van de eisen voor het aangenomen krijgen van een akkoord inhouden, welke versoepeling ten grondslag lag aan de wijziging van art. 145 Fw.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>De conclusie is dat het beroep faalt. De bestreden beschikking van de rechter-commissaris wordt bekrachtigd.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>6</nr>De beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>wijst het verzoek (ex art. 149 Fw) af;</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>verwerpt het beroep (ex art. 67 Fw) en bekrachtigt de beschikking van de rechter-commissaris van 29 mei 2015.</para>
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>Deze beschikking is gegeven door mrs. B.J. Engberts, F.M.T. Quaadvliet en G.J. Meijer en in het openbaar uitgesproken op 14 juli 2015.</para>
+        <para>Coll. BJE</para>
+      </parablock>
+    </paragroup>
+  </section>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,9 @@
+# Rb. Gelderland 14 juli 2015 — akkoordstemming
+
+ECLI:NL:RBGEL:2015:5785; zaak C/05/285159 / HA RK 15-88. [Officiële volledige uitspraak](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBGEL:2015:5785). [XML-snapshot](../sources/review-art-137c-152-case-rbgel-2015-5785.xml), [leesversie](../sources/review-art-137c-152-case-rbgel-2015-5785.txt), [HTTP/hashcontrole](../sources/review-art-137c-152-cases-fetch.json).
+
+De gefailleerde verzocht verbetering van het proces-verbaal onder artikel 149 en bestreed subsidiair de weigering van toepassing van artikel 146. Zijn uitleg dat alleen de verschenen vorderingsbedragen meetellen, en zijn gelijkstelling van afwezigheid met tegenstemmen, zijn processtandpunten (2.2 en 3.2), geen oordelen van de rechtbank.
+
+De rechtbank achtte in rov. 4.2 de herstelroute ook bruikbaar voor een gestelde interpretatiefout, maar wees het verzoek af: voor de bedragdrempel van artikel 145 tellen ook de bedoelde vorderingen van afwezigen mee (4.3–4.8). De beroepsbeslissing berust op 5.2–5.4: de afwezige grootste schuldeiser verhinderde de benodigde bedragsteun; dit was geen tegenstem in de zin van artikel 146. De feitelijk aanwezige tegenstem veroorzaakte de verwerping niet.
+
+Ondersteunde toelichtingen: art-145, art-146, art-149. Gehele tekst gelezen, met onderscheid tussen geciteerde processtukken, wetsgeschiedenis en eigen rechterlijke beoordeling. De geciteerde oude meerderheidsregels zijn historische context en worden niet als actueel recht gebruikt. De relevante teksten van artikelen 145, 146 en 149 in het arrest zijn inhoudelijk gelijk aan de geselecteerde actuele toestand. Dit is rechtspraak van één rechtbank; geen controle van alle latere behandeling of landelijk uniforme rechtspraak. Geen algemene bevoegdheid tot dwangakkoord of herstemming afgeleid.
