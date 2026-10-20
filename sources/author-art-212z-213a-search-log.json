@@ -1,0 +1,25 @@
+{
+  "searched_at": "2026-10-20T22:41:14.076685+00:00",
+  "web_queries": [
+    "site:rechtspraak.nl \"212ee\"",
+    "site:curia.europa.eu \"C-85/12\" judgment",
+    "site:rechtspraak.nl \"213a\" \"verzekeraar\""
+  ],
+  "web_result": "LBI C-85/12 located in official index; EUR-Lex full-text fetch returned empty body and is rejected. No holding used. GHAMS 2021:2592 concerns older insurance regime; not used as authority for current jurisdiction rule.",
+  "local_search": "rg -l -i 212ee|212dd|212oo|213a /Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr --glob *.md",
+  "local_matches": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1968-ac2286.md",
+      "disposition": "Metadata references to different numbered insurance articles; no relevant current jurisdiction holding established."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2006-au7473.md",
+      "disposition": "False positive: paragraph 213a of accounting guideline."
+    },
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2023-839.md",
+      "disposition": "Conservatrix valuation and old intervention regime; not used as authority for current jurisdiction rule."
+    }
+  ],
+  "limits": "Selective research only; no sufficiently relevant full-text judgment verified for this batch; no judgment holding attributed; no exhaustive coverage claimed."
+}

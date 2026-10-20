@@ -1,0 +1,57 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "batch_date_local": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "verified_at": "2026-10-20T22:41:14.076685+00:00",
+  "ids": [
+    "art-212z",
+    "art-212aa",
+    "art-212bb",
+    "art-212cc",
+    "art-212dd",
+    "art-212ee",
+    "art-212ff",
+    "art-212gg",
+    "art-212hh",
+    "art-212ii",
+    "art-212jj",
+    "art-212kk",
+    "art-212ll",
+    "art-212mm",
+    "art-212nn",
+    "art-212nna",
+    "art-212oo",
+    "art-212pp",
+    "art-213",
+    "art-213a"
+  ],
+  "version_evidence": {
+    "effective_from": "2026-09-01",
+    "current_html_explicit": "Geldend van 01-09-2026 t/m heden; cached Geraadpleegd op 20-10-2026; actual fetch timestamp recorded separately",
+    "fresh_xml_matches_canonical": true,
+    "fresh_wti_matches_previous": true,
+    "records": "author-art-212z-213a-fetch.json",
+    "changes_since_intake": [],
+    "next_dated_change_excluded": "2027-11-15; see title preflight and unchanged WTI inventory"
+  },
+  "historical_versions_checked": [
+    "sources/version-register.xml: prior 2002 historical state excluded, as established by existing title preflight",
+    "Fresh WTI version inventory unchanged from preceding checked batch; current consolidated state selected, not historical concatenation",
+    {
+      "path": "sources/version-register.xml",
+      "sha256": "763e7ee5229eb9d24e14bfa85b9614ed1a757880954b662958b69fb77e64417f",
+      "disposition": "Historical 2002 state excluded; selected full XML is byte-identical to canonical 2026-09-01 state."
+    }
+  ],
+  "annexes_checked": [
+    "Full fresh official XML has no bijlage/annex elements; no change to independently checked coverage-evidence.json."
+  ],
+  "coverage": {
+    "official_unique": 639,
+    "parsed": 639,
+    "missing": [],
+    "extra": []
+  },
+  "unresolved_blockers": []
+}
