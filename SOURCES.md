@@ -98,3 +98,5 @@ Tweede lezing 215–228: [resultaat](sources/review-art-215-228-result.json), [p
 
 
 Auteursbatch 229–241c: twintig specifieke toelichtingen; [broncontrole](sources/author-art-229-241c-preflight-result.json), [dekking](sources/author-art-229-241c-coverage.json), [selectief rechtspraakonderzoek](sources/author-art-229-241c-search-log.json). Twee volledige Hoge Raad-uitspraken selectief verwerkt; zie de bronkaarten. Onafhankelijke tweede lezing nog niet uitgevoerd; overige bepalingen vallen buiten deze opdracht.
+
+Tweede lezing 229–241c: [bevindingen](sources/review-art-229-241c-result.json), [preflight](sources/review-art-229-241c-preflight-result.json), [selectief onderzoek](sources/review-art-229-241c-search-log.json).

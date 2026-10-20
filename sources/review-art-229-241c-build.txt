@@ -1,0 +1,1 @@
+CHYBÍ komentář k 179 jednotkám, např.: ['art-241d', 'art-241e', 'art-242', 'art-243', 'art-244', 'art-245', 'art-246', 'art-247', 'art-247a', 'art-247b']

@@ -1,0 +1,3 @@
+# Inleiding
+
+Deze batch behandelt uitsluitend de gevolgen van surseance in artikelen 229–241c: gemeenschapsvermogen, executie en procedures, de betrokken schulden, evenredige betaling en verrekening, wederkerige contracten, huur en arbeid, bevrijdende betaling, medeschuldenaren en afkoeling. Artikelen buiten dit bereik zijn niet opnieuw inhoudelijk beoordeeld. Alle leden en bronnoten zijn tegen de officiële geselecteerde versie gelezen. De beoordeling en de bronkaarten leggen de grenzen van het selectieve onderzoek vast. De toepasselijke overgangsregelingen bij historische procedures vergen afzonderlijke beoordeling.

@@ -1,0 +1,41 @@
+[
+  {
+    "year": "2023",
+    "official_sha256": "21d85711e316a316bfe0e77968e2f3866acda2669ffb1d0518444520d89f632b",
+    "full_text_chars": 29100,
+    "same_as_author_capture": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2023-1135.md",
+    "local_snapshot": "sources/review-art-229-241c-hr-2023-local.md",
+    "local_sha256": "9119c2cab051d0233debf2ea93eb865a5316b7271929647147dfd025c0ecb9a8",
+    "official_paragraphs": 141,
+    "unmatched_paragraph_prefixes": [
+      "HOGERAADDERNEDERLANDEN",
+      "CIVIELEKAMER",
+      "Nummer21/04254",
+      "Datum25augustus2023",
+      "ARREST",
+      "Indezaakvan",
+      "INGBANKN.V.,",
+      "gevestigdteAmsterdam,",
+      "EISERESinhetprincipalecassatieberoep,verweersterinhetincidentelecassatieberoep,",
+      "hierna:ING,",
+      "advocaten:B.T.M.vanderWielenA.Stortelder,",
+      "CornelisVANDENBERGH,inzijnhoedanigheidvancuratorindefaillissementenvanFLINTERSHIPPINGB.V.enFLINTERMA",
+      "wonendeteRotterdam,",
+      "VERWEERDERinhetprincipalecassatieberoep,eiserinhetincidentelecassatieberoep,",
+      "hierna:decurator,",
+      "advocaat:D.M.deKnijff."
+    ]
+  },
+  {
+    "year": "2005",
+    "official_sha256": "79dc767db97ff7a6e96a2294b6f22eb599faba69915cfa254129404664206317",
+    "full_text_chars": 18687,
+    "same_as_author_capture": true,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2005-at2650.md",
+    "local_snapshot": "sources/review-art-229-241c-hr-2005-local.md",
+    "local_sha256": "4b1a8c896c43d9b11923526dff342c889a67215033bab8e3e9f0c3309a67c427",
+    "official_paragraphs": 94,
+    "unmatched_paragraph_prefixes": []
+  }
+]

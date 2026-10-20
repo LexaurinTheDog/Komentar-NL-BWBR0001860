@@ -3,225 +3,227 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "art-215",
-    "art-215a",
-    "art-215b",
-    "art-216",
-    "art-217",
-    "art-218",
-    "art-219",
-    "art-220",
-    "art-221",
-    "art-222",
-    "art-222a",
-    "art-222b",
-    "art-223",
-    "art-223a",
-    "art-223b",
-    "art-224",
-    "art-225",
-    "art-226",
-    "art-227",
-    "art-228"
+    "art-229",
+    "art-230",
+    "art-231",
+    "art-231a",
+    "art-232",
+    "art-233",
+    "art-234",
+    "art-235",
+    "art-236",
+    "art-236a",
+    "art-237",
+    "art-237a",
+    "art-237b",
+    "art-238",
+    "art-239",
+    "art-240",
+    "art-241",
+    "art-241a",
+    "art-241b",
+    "art-241c"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "art-215",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel215",
-      "finding": "Alle vijf leden en onderdelen gecontroleerd. Uitleg van overeenkomstige toepassing6(1), derde zin, en6(4) toegevoegd: buitenlandse hoofdprocedure, zienswijze en typering procedure. Oi2017 geldt met huidige WHOA-uitzonderingen.",
+      "id": "art-229",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel229",
+      "finding": "Beide leden en verwijzing61 gecontroleerd: baten en lasten bestaande gemeenschap, afzonderlijk privévermogen partner en terugneming, zonder nieuwe partneraansprakelijkheid.",
+      "result": "accepted_without_change",
+      "before_sha256": "36d71976262f50f3993abc904852f371eca3f3267f74898eee4e91175aa4f75f",
+      "after_sha256": "36d71976262f50f3993abc904852f371eca3f3267f74898eee4e91175aa4f75f",
+      "statutory_sha256": "3ec10221fa16d9aadf114000806f39b05a9bb04569bcf64770d8573ddc3d17c3"
+    },
+    {
+      "id": "art-230",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel230",
+      "finding": "Alle vier leden: afdwingingspauze, schorsing versus verval/onherroepelijkheid, vervroeging, registerverklaring, voorrang beperkt tot belaste goederen. Verwijzing36 uitgewerkt tot zesmaandenverlenging en van rechtswege aanvangende vervaltermijnen; geen algemene stuiting.",
       "result": "corrected",
-      "before_sha256": "afd42525660c1609200f0538926ba62ce02083957212c4aaa864b1a73acc243f",
-      "after_sha256": "1b4e78c45c5399eb3afab7b3b38b49cb02f02f0a563bf8b1c20529453d889f64",
-      "statutory_sha256": "15f06680b0a62691e5ba8c6dd6b4815bcff393c1f25c2befbff56e94005a0ddb"
+      "before_sha256": "4c81f69d78992a14dd68beb54192d545f313b3562408255b15c3e1b6fc113be0",
+      "after_sha256": "48f742ef04a2d81004eb2b4e4949d5caeac23c761470380030057e02fdb1b59a",
+      "statutory_sha256": "d5bbf4d698fd246ca23dec324cb55d5c45d2f1ba0cd5bf479034108d69d873fe"
     },
     {
-      "id": "art-215a",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel215a",
-      "finding": "Verzettermijn en uitsluitend internationale-bevoegdheidsgrond gecontroleerd. Efficiënt looncriterium en zienswijzemogelijkheid van250(3) uitgewerkt; rechtsmiddelenverbod beperkt tot kostenbeslissing.",
+      "id": "art-231",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel231",
+      "finding": "Alle drie leden: lopende/nieuwe procedure, beperkte discretionaire uitspraakopschorting na erkenning en ontbreken derdenbelang, medewerking bij eis en verweer boedelrechten.",
+      "result": "accepted_without_change",
+      "before_sha256": "f46da329ddc344fb87bf29b0bbacab143ec8016bd4257eb3835dc0c6df4a562a",
+      "after_sha256": "f46da329ddc344fb87bf29b0bbacab143ec8016bd4257eb3835dc0c6df4a562a",
+      "statutory_sha256": "fcbcfd18499b5b7ef9723cefbb4979c7d310d129da7fd02c38e6ffdb441b905b"
+    },
+    {
+      "id": "art-231a",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel231a",
+      "finding": "Erkenning via19 en5(3), verlies beheer/beschikking en beperking tot vordering over concreet goed/recht gecontroleerd; geen universele bevoegdheid afgeleid.",
+      "result": "accepted_without_change",
+      "before_sha256": "f311dc22de60a5d512f79d5cebaadae64e797b9b947355e3c7fcb2bc30e88d9a",
+      "after_sha256": "f311dc22de60a5d512f79d5cebaadae64e797b9b947355e3c7fcb2bc30e88d9a",
+      "statutory_sha256": "8af932418c538366379cde79dc504a9da372346e6ff5b6d8aebb2a0326057b42"
+    },
+    {
+      "id": "art-232",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel232",
+      "finding": "Alle drie uitzonderingen: dekkingsgrens voorrang, wettelijke vastgestelde onderhoudslasten/vooraf vervallen termijnen/rechterlijke vaststelling, huurkooptermijnen tegenover237aafwikkeling gecontroleerd.",
+      "result": "accepted_without_change",
+      "before_sha256": "27fec0bd1d50e6104a0147ada639eac111372d72b0ab905719026b13e6ae7ab6",
+      "after_sha256": "27fec0bd1d50e6104a0147ada639eac111372d72b0ab905719026b13e6ae7ab6",
+      "statutory_sha256": "f7c2817019b79a50eecb71ead64405737d07fbcc16484cac571f11821e3e44b2"
+    },
+    {
+      "id": "art-233",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel233",
+      "finding": "Gezamenlijke evenredige betaling van overige vooraf bestaande schulden gecontroleerd; numeriek20/80voorbeeld juist, medewerking228 heft verbod niet op;236a/boedelschulden onderscheiden.",
+      "result": "accepted_without_change",
+      "before_sha256": "906d568472a559091ec4f7bedc286ec2991eff59a36c5bd92eef3b91a26935f8",
+      "after_sha256": "906d568472a559091ec4f7bedc286ec2991eff59a36c5bd92eef3b91a26935f8",
+      "statutory_sha256": "88abfe6acae076eea4f01eff5de0075fd8d6e370bf851b93478dabe60812d633"
+    },
+    {
+      "id": "art-234",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel234",
+      "finding": "Alle drie leden en volledige HR2023 gelezen. Berekening261/262 uitgewerkt: voorwaarden, onenigheid, onzekere/periodieke/later opeisbare vorderingen.6:136 rechtstreeks geverifieerd; concrete3.2.2niet tot onbeperkte verrekeningsbevoegdheid uitgebreid.",
       "result": "corrected",
-      "before_sha256": "2c294335ced8a44681225afa7e56ac1917a7f5dc99f2f1306d6947df7e0565af",
-      "after_sha256": "f3c54b36457183f5ce5daa8f70c1b91dff48399663eb20398bf5d2caf81dfea9",
-      "statutory_sha256": "fd16ef9fedc26381722c5e7cd2d6ee7f433dcc1c70e9c1d3b58fabed911a8e99"
+      "before_sha256": "31e8a5623d9ac3eb07ad7722842f66fb1d38e235d72b29868fa6bc7957d03a93",
+      "after_sha256": "444235b2fe11eef2936f6d3d3c89e1dbb892187eb1529f73eb254511e95d9eba",
+      "statutory_sha256": "9daa7ee6179b173a070b35589f30803e698250e1c0cae35def3d01d199b92ddb"
     },
     {
-      "id": "art-215b",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel215b",
-      "finding": "Alle taken a–g en bijzondere/strafrechtelijke gegevens uitsluitend voor lid2(c) gecontroleerd; huidige ingangsdatum1 september2026 bevestigd.",
+      "id": "art-235",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel235",
+      "finding": "Alle drie leden en55/56 gecontroleerd. HR2023eigen oordeel3.1.2–3.1.7omvat behoren te weten en omstandigheden; financiering geen automatische goede trouw; na aanvang overgenomen posten uitgesloten.",
       "result": "accepted_without_change",
-      "before_sha256": "ac66fe6b0868f97829d537e5a7c4f6f857eb1555b9e446a25a03f0260e15ab55",
-      "after_sha256": "ac66fe6b0868f97829d537e5a7c4f6f857eb1555b9e446a25a03f0260e15ab55",
-      "statutory_sha256": "3533f8fc132ea8770b914f7bc0f6a348f215522865af4761f8e77cd1d9cdb878"
+      "before_sha256": "5e4c10033001116a2d3805cf9692fb8f4c5bf38508531b0cb2edf34acc15107f",
+      "after_sha256": "5e4c10033001116a2d3805cf9692fb8f4c5bf38508531b0cb2edf34acc15107f",
+      "statutory_sha256": "0f444a4e147a3e8a0d808a31c098f5a095256a96db197005103dd07f12380541"
     },
     {
-      "id": "art-216",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel216",
-      "finding": "Alle publicatiegegevens, minuutvermelding en eventueel akkoord gecontroleerd; publicatie niet tot constitutief aanvangsmoment gemaakt.",
+      "id": "art-236",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel236",
+      "finding": "Alle drie leden: onvolledige wederzijdse nakoming, schriftelijke redelijke termijn aan beiden, verval eigen nakomingsrecht zonder automatische ontbinding, zekerheid desverlangd, persoonlijke-prestatieuitzondering.",
       "result": "accepted_without_change",
-      "before_sha256": "155fdc9522939736a7dd37e8cef398e687fc28715c598ba6175348eefe258a9f",
-      "after_sha256": "155fdc9522939736a7dd37e8cef398e687fc28715c598ba6175348eefe258a9f",
-      "statutory_sha256": "1d8960cb640f4299a6cc34256afc2bae89f9bfc638c842f267750735eea18941"
+      "before_sha256": "71f5bafa8a30b4432adc2cc629f4c80bdf30bc74e8778e95e41327461562ca09",
+      "after_sha256": "71f5bafa8a30b4432adc2cc629f4c80bdf30bc74e8778e95e41327461562ca09",
+      "statutory_sha256": "261815d257086ccaaa5a9b46b7961be54d17ac02e611250ca5a13c30f72cabf4"
     },
     {
-      "id": "art-217",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel217",
-      "finding": "Dagaanvangsfictie gecontroleerd; voorbeeld en verhouding228 juist, geen algemene ongeldigheid of derdenbescherming verzonnen.",
+      "id": "art-236a",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel236a",
+      "finding": "Vooraf gesloten overeenkomst versus vooraf verkregen vordering, ontbinding/vernietiging/schadevergoeding en233route gecontroleerd; regel schept materiële aanspraak niet zelf.",
       "result": "accepted_without_change",
-      "before_sha256": "832654849f7112b70f23246c1bbfbad3ba37aafd75669c5d23567931fec24fbd",
-      "after_sha256": "832654849f7112b70f23246c1bbfbad3ba37aafd75669c5d23567931fec24fbd",
-      "statutory_sha256": "2b722df3cf6db3a4b65ba92241ca41a2d4beabed2dda3c97c7e7b0435226bda1"
+      "before_sha256": "0873142b500ecc5914613e480c5db024688e71d84da1330b8d7142e1ebc317d4",
+      "after_sha256": "0873142b500ecc5914613e480c5db024688e71d84da1330b8d7142e1ebc317d4",
+      "statutory_sha256": "fa3ede57f40a43c77fa49c3a14c3c9eaff257d2533d8489b889554b4a69825e7"
     },
     {
-      "id": "art-218",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel218",
-      "finding": "Alle acht leden gecontroleerd. Beide strikte meer-dan-drempels en rekenvoorbeeld juist; verplichte weigering, discretionaire verlening, faillissement,213ar-prioriteit en DNB-hoorrecht onderscheiden. Oi2017 passage gelezen.",
+      "id": "art-237",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel237",
+      "finding": "Beurswaren, leveringstijdstip of termijn na aanvang en236situatie gecontroleerd. Automatische ontbinding door voorlopige verlening en schade beide richtingen onderscheiden.",
       "result": "accepted_without_change",
-      "before_sha256": "c99d559bbd0bd4f5dc809616f7fadb5219bcaf2583e9fafd89270c813f7b79e5",
-      "after_sha256": "c99d559bbd0bd4f5dc809616f7fadb5219bcaf2583e9fafd89270c813f7b79e5",
-      "statutory_sha256": "d251a77cd8a329ea9ab8af0c11af95bac61f0677a7294b07e3840dc67717c875"
+      "before_sha256": "e54114884aeb2c628e5206c5e0561a84cef947a93ef856d60eb3764b03870161",
+      "after_sha256": "e54114884aeb2c628e5206c5e0561a84cef947a93ef856d60eb3764b03870161",
+      "statutory_sha256": "c8e57106b89b41ebcb54eae710efc6384b2f4d34c3fbfdcd0dd97fe12eb56070"
     },
     {
-      "id": "art-219",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel219",
-      "finding": "Alle vier leden: toegang niet-voorstemmers, acht dagen, verzoekschrift en vierdaagse explootplicht, openbare dossierovername gecontroleerd.",
+      "id": "art-237a",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel237a",
+      "finding": "Alle drie leden: beide ontbindingsgerechtigden, huurkoop/scheepshuurkoop, geen automatische ontbinding, gevolgen koperswanprestatie, verkopersclaim233 versus232(3).",
       "result": "accepted_without_change",
-      "before_sha256": "c8df781cb765ffb5ec23ed742aa0d05bde1d3b9e96b711ed4b068a4445547620",
-      "after_sha256": "c8df781cb765ffb5ec23ed742aa0d05bde1d3b9e96b711ed4b068a4445547620",
-      "statutory_sha256": "c06bf99ff7bf668a2efa4854fd584ce94ce9b3a0bd3c0fb9c5ccb1c5a517e42b"
+      "before_sha256": "96973916f88715d7541c5a7b352acd5b7e9aed35a24ed45288e2973eac845c34",
+      "after_sha256": "96973916f88715d7541c5a7b352acd5b7e9aed35a24ed45288e2973eac845c34",
+      "statutory_sha256": "e9a5e5664ca50656cf3cce9794fc897e1277e9601d0db50e739899637c4c1c98"
     },
     {
-      "id": "art-220",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel220",
-      "finding": "Beide leden: geen herstemming, deelname iedere schuldeiser, raadkamer en openbare uitspraak onderscheiden.",
+      "id": "art-237b",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel237b",
+      "finding": "Alle drie leden: noodzakelijke limitatief beschreven nutslevering, oude betalingsverbintenis, eerdere tekortkoming, insolventie/beslagbeding alleen met goedvinden beiden;2005arrest niet uitgebreid tot andere diensten.",
       "result": "accepted_without_change",
-      "before_sha256": "a584d6b0788ab3b79649bef1a95544ce14b0552696b6ffebb4da524d166da711",
-      "after_sha256": "a584d6b0788ab3b79649bef1a95544ce14b0552696b6ffebb4da524d166da711",
-      "statutory_sha256": "155f4cf41d098a773b191c8c14ab75d0f8d58940056387bc3024c40eef01c53b"
+      "before_sha256": "6a8b285c7c8f501592247b022112bef1bd8391360fd50eac7ef3e192f3383137",
+      "after_sha256": "6a8b285c7c8f501592247b022112bef1bd8391360fd50eac7ef3e192f3383137",
+      "statutory_sha256": "144b86c312209ec079c4c93131f4c83ef37011882426b7bf5e8402dfb6de2f88"
     },
     {
-      "id": "art-221",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel221",
-      "finding": "Alle vier leden: cassatietoegang en termijn, verzoekschrift, dossierovername en overeenkomstige exploot/besloten behandeling gecontroleerd.",
-      "result": "accepted_without_change",
-      "before_sha256": "6922b534a961baf11551104fe91c88885a70772771a11653685746a86057f0df",
-      "after_sha256": "6922b534a961baf11551104fe91c88885a70772771a11653685746a86057f0df",
-      "statutory_sha256": "94ccce314fdebda5903f7af182cf25a3a645756c37ca827c0c400fe66fae052e"
-    },
-    {
-      "id": "art-222",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel222",
-      "finding": "Beide leden: uitvoerbaarheid verlening ondanks rechtsmiddel en publicatie, onderscheiden van voortduring voorlopige voorziening bij afwijzing218(5).",
-      "result": "accepted_without_change",
-      "before_sha256": "acb2dc982a67420ca9b09bdecdacd96157e3a375e4fae8b95134faa099a60fa3",
-      "after_sha256": "acb2dc982a67420ca9b09bdecdacd96157e3a375e4fae8b95134faa099a60fa3",
-      "statutory_sha256": "1f5fa3560d8e5b0bb8df453d3f2201272b42eb33737d89d84d8d1a8c6fffe648"
-    },
-    {
-      "id": "art-222a",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel222a",
-      "finding": "Alle vier leden en zes gegevenscategorieën: chronologisch lokaal register, verordeninggegevens, delegatie, gratis inzage/betaald uittreksel en doorgifte gecontroleerd.",
-      "result": "accepted_without_change",
-      "before_sha256": "226eb0d774a52dd27757a9d8f27a5fcb73661d4d573ea070d5b7ac9f1f7786c4",
-      "after_sha256": "226eb0d774a52dd27757a9d8f27a5fcb73661d4d573ea070d5b7ac9f1f7786c4",
-      "statutory_sha256": "91d8263e1397f914e4df9bd682c8bd2e7e6a1950eb810797ddf4a8845873dfbc"
-    },
-    {
-      "id": "art-222b",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel222b",
-      "finding": "Alle drie leden: centrale beheerder, verwijzing naar222a, delegatie en inzage/uittreksel gecontroleerd, geen recht op volledige administratie beweerd.",
-      "result": "accepted_without_change",
-      "before_sha256": "d60eb48660886c717773ea3eadd43bf51ed3368a4d1940db9ca6d57fd304cab6",
-      "after_sha256": "d60eb48660886c717773ea3eadd43bf51ed3368a4d1940db9ca6d57fd304cab6",
-      "statutory_sha256": "4a84bdb893c8763aed9ea0e6d5f7063b01b74e0333d3c773ce1480079c81a7cc"
-    },
-    {
-      "id": "art-223",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel223",
-      "finding": "Beide leden: maximale duur anderhalf jaar, herhaalde verlengingen, tijdig verzoek, voortduring hangende beslissing en bekendmaking gecontroleerd.",
-      "result": "accepted_without_change",
-      "before_sha256": "2f738b540395705cdc5520624af53508ff67aa707ade2419c68c1e4cc156f205",
-      "after_sha256": "2f738b540395705cdc5520624af53508ff67aa707ade2419c68c1e4cc156f205",
-      "statutory_sha256": "8a09d4ddc0bdfdc594714ed4b46f4b142d580a5ec169cb3728764e36a8d4b9e4"
-    },
-    {
-      "id": "art-223a",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel223a",
-      "finding": "Beide leden: verplichte benoeming, advies op verzoek en toezicht, afzonderlijke/gezamenlijke bevoegdheid meerdere RCs gecontroleerd.",
-      "result": "accepted_without_change",
-      "before_sha256": "1337a6b1e8168d1223318943db0db18ae9ad15040c9f433ba3c6044f8f8d7281",
-      "after_sha256": "1337a6b1e8168d1223318943db0db18ae9ad15040c9f433ba3c6044f8f8d7281",
-      "statutory_sha256": "3121b92280928f104c3834165221b07b9709a9f9facc60686e5d9ae3eba87f8a"
-    },
-    {
-      "id": "art-223b",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel223b",
-      "finding": "Alle drie leden: verzoekvereiste, exploot, Rv-verwijzingen en exacte familiekring gecontroleerd. Inhoud Rv177 verduidelijkt met eed en uitzonderingen onder16/ontbrekend begrip.",
+      "id": "art-238",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel238",
+      "finding": "Alle drie leden en volledige HR2005gelezen. Plaatselijk eindtijdstip, termijn/vooruitbetaling, boedelhuur/pacht gecontroleerd. Geen schadevergoeding bij wettelijke opzegging en mogelijke6:248(2)grens contractueel beding uit3.4.2/3.6 verduidelijkt; partijstellingen niet als holding gebruikt.",
       "result": "corrected",
-      "before_sha256": "b0cac4c69dd270ae70b673359d5cd787373cedeb4423a0dcb5cefaeb273f5a54",
-      "after_sha256": "f52d75c2507d44532d528fdf6261b9532d9de53734a46f88728607a0680454fd",
-      "statutory_sha256": "1940901b27b5bd7c21e0de04fc177431c5379e5555c87a7fff1d5e2c3be35a6c"
+      "before_sha256": "7ef10275a6fd0f6df8a692083b9a1269206d9ddbd7529e91d2e916eab0cb2508",
+      "after_sha256": "0b34a46275db31fe3aaa4b8b12cef8949edb8c94a895fbacb4edcbf9c3e90031",
+      "statutory_sha256": "9605ad4951c89807a76d4e580165dae51f8070008c2462ff8ac5bc03bd10a230"
     },
     {
-      "id": "art-224",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel224",
-      "finding": "Beide leden: meerderheid, staking en RC-beslissing, ontslag/vervanging/toevoeging en hoorrecht gecontroleerd. Zelfstandige werkkring70(2) preciezer verbonden aan rechterlijke benoemingsbeslissing.",
+      "id": "art-239",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel239",
+      "finding": "Alle vier leden en actuele BW7:672gelezen. Langere werkgeverstermijnen2/3/4maanden per diensttijd uitgewerkt; gewone werknemerstermijn1maand benoemd. Letterlijke239(2)verwijzing behouden, overige voorwaarden niet weggeredeneerd; boedelloon/premies en agentuur onderscheiden.",
       "result": "corrected",
-      "before_sha256": "5d5830af8db0c672e8ca641a103516727bc7d8bbc12a335d97ece017373700f7",
-      "after_sha256": "64988d5b77d5935d147db09b9830e463bf014e352e60fe9cd96f5daa5698b75c",
-      "statutory_sha256": "76b0d75d495e4001821ac9e69a4f7ccb9b898fd173bb723103222df7e6dd0fcd"
+      "before_sha256": "c249ce634a7ec019ab559f7dcc90f33654fa8d9481e11ec6affa36d96c3788c8",
+      "after_sha256": "f758edd53d625b54e1753e33e7a7afec468bb765e1f39af4d0d6054270d11caa",
+      "statutory_sha256": "4c7e38c11bf54cb942e35d71b0215b8d13c52c2b8e1fec8680a4f3eac0fe8d7d"
     },
     {
-      "id": "art-225",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel225",
-      "finding": "Beide leden: bescherming bij verlening en later, alle initiatiefnemers en geen zelfstandig schuldenaarsverzoek in opsomming gecontroleerd.",
-      "result": "accepted_without_change",
-      "before_sha256": "f7bb5869573b0e3bff0b9baaa9552e4233663ee66a48b5f375552edb61539162",
-      "after_sha256": "f7bb5869573b0e3bff0b9baaa9552e4233663ee66a48b5f375552edb61539162",
-      "statutory_sha256": "f5e18af87c8e13bef6b91fb8e3c597f3bc2b520b29f7af83f2d2ec71d0a52766"
+      "id": "art-240",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel240",
+      "finding": "Alle drie leden: bewijspositie voor/na publicatie en werkelijke bekendheid, zelfstandige bevrijding boedelvoordeel. Voorbeeld gewijzigd: gedeeltelijke bevrijding en geen verrekening234.",
+      "result": "corrected",
+      "before_sha256": "5516734d8dd59f242204a9b793a95c67f646e068f3e1784abc936e0e449d0e1c",
+      "after_sha256": "7b9abc9a11549ee3bb776372f5c33eab0afa2138e29861b17fb6ad30935cb4a4",
+      "statutory_sha256": "f4b8a85aa1d1111ef88e0506476adb5d20c03547000c6d394bd4c4bd06a1032a"
     },
     {
-      "id": "art-226",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel226",
-      "finding": "Alle vier leden: benoeming, verlengbare onderzoekstermijn, beredeneerde betrouwbaarheid/prognose/maatregelen, gratis neerlegging/inzage en personeelsregeling gecontroleerd.",
+      "id": "art-241",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel241",
+      "finding": "Borgen/andere medeschuldenaren, eigen verweermiddelen/garantieomvang, derdenbelang231(2)en afzonderlijke regresbehandeling gecontroleerd; geen universele opschorting.",
       "result": "accepted_without_change",
-      "before_sha256": "c9bb205013005c44f5d8927dedb502813bfe55fbe915a181af1dfae6067e6e04",
-      "after_sha256": "c9bb205013005c44f5d8927dedb502813bfe55fbe915a181af1dfae6067e6e04",
-      "statutory_sha256": "17afa3ca5f0dcf9c960984b77d4ca21547902f330486f140cab9df4d53c870c2"
+      "before_sha256": "1c97cb84c8668f8b47da8abbecc8557223a4205d6cc9d8f2ef9b653766066cdd",
+      "after_sha256": "1c97cb84c8668f8b47da8abbecc8557223a4205d6cc9d8f2ef9b653766066cdd",
+      "statutory_sha256": "a89b2955f6ff6ac3ba0323d077fd17ae40e2372c7206d0f8960833716f74a9f7"
     },
     {
-      "id": "art-227",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel227",
-      "finding": "Beide leden: driemaandelijks verslag, openbaarmaking via226(3), termijnverlenging uitsluitend RC; geen verlenging surseanceduur afgeleid.",
+      "id": "art-241a",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel241a",
+      "finding": "Alle vier leden: afzonderlijke beschikking, belanghebbende/ambtshalve, uitzondering boedelschuldeisers,2+2maanden, voorwaarden, termijnschorsing en dagaanvang gecontroleerd. Officiële terminologie curator in lid3 zichtbaar gelaten.",
       "result": "accepted_without_change",
-      "before_sha256": "985c5d280caeb162ef4c97cfa54a9950ac7ba870a2ef7ca083c739d52333ee21",
-      "after_sha256": "985c5d280caeb162ef4c97cfa54a9950ac7ba870a2ef7ca083c739d52333ee21",
-      "statutory_sha256": "5f427d5b6e6150e43b6ab8f75e27d38b467163734d567f63427564b7abf01295"
+      "before_sha256": "e59ed967c8e0d4e4b401fa7c63e9798f4847f1e9145a5c4e3d0fa7f974b3f39c",
+      "after_sha256": "e59ed967c8e0d4e4b401fa7c63e9798f4847f1e9145a5c4e3d0fa7f974b3f39c",
+      "statutory_sha256": "cf84b7206bc3b3b0955b2571a7ef245473816e65d46750cb3144021c6571b4cd"
     },
     {
-      "id": "art-228",
-      "official_path": "/TiteldeelII/AfdelingEerste/Artikel228",
-      "finding": "Beide leden en volledige twee HR-uitspraken gecontroleerd. Gezamenlijk beheer en schadeloosstelling onderscheiden van beperkte aansprakelijkheid voor baat; stilzwijgende toestemming geen gevolg van enkele voortzetting. Oi betreft specifieke groepsboedelbinding/informatieplicht, geen algemeen verbod akkoord252.",
+      "id": "art-241b",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel241b",
+      "finding": "Beide leden en actuele Rv490bgelezen. Fout hersteld: bewaarstorting is onder verwijzingsvoorwaarden, niet onvoorwaardelijk bij iedere ontvangst. Bij ontbreken verdelingsovereenstemming volledig bedrag i.p.v.overschot; rangregelingroute uitgelegd.",
+      "result": "corrected",
+      "before_sha256": "beadd5347b17afa5158426b324038976d01ea446f6bc2d652185d76d66674e86",
+      "after_sha256": "1b06e5d841f8a21f16c0d7a9b0d94f9b0cca612ce6d8307a4ed626906b755e2a",
+      "statutory_sha256": "b2be89056efb18e10e85657ce5e3e67a910605e489f88af7c80fcf2fa53388af"
+    },
+    {
+      "id": "art-241c",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel241c",
+      "finding": "Beide leden: bodembeslaguitwinning versus leggen/bestaan, RCuitzondering, vreemd goed op bodem, later beslag en voorafgaand deurwaardersexploot eigenaar/andere pandhouder gecontroleerd. Geen opheffing afkoeling door exploot afgeleid.",
       "result": "accepted_without_change",
-      "before_sha256": "f11a19dc8910ab482dbf232aaa0f3f4310fb7a426448dd1a276ab714fb71c5ec",
-      "after_sha256": "f11a19dc8910ab482dbf232aaa0f3f4310fb7a426448dd1a276ab714fb71c5ec",
-      "statutory_sha256": "1b2478fa21c9eeb425b7a4789176990fce56e04a08b79c8839a078c50d6d7d1e"
+      "before_sha256": "a2fc619e73c3070ed695f7021a4262f30974da10fd1b3e48f332d376b88ae876",
+      "after_sha256": "a2fc619e73c3070ed695f7021a4262f30974da10fd1b3e48f332d376b88ae876",
+      "statutory_sha256": "68cb2b310be814cfee81dcf3937cc7212df3740f92c2c96cd11f6def42abed66"
     }
   ],
   "changed_units": [
-    "art-215",
-    "art-215a",
-    "art-223b",
-    "art-224"
+    "art-230",
+    "art-234",
+    "art-238",
+    "art-239",
+    "art-240",
+    "art-241b"
   ],
-  "checked_at_utc": "2026-10-20T23:24:55.537977+00:00",
+  "checked_at_utc": "2026-10-20T23:33:44.592481+00:00",
   "whole_book_complete": false,
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001860",
     "units": 639,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 635067,
+    "commentary_chars": 670901,
     "errors": [
-      "krátký/chybějící komentář u 199 jednotek: ['art-229(0<400)', 'art-230(0<400)', 'art-231(0<400)', 'art-231a(0<400)', 'art-232(0<400)', 'art-233(0<400)', 'art-234(0<400)', 'art-235(0<400)']"
+      "krátký/chybějící komentář u 179 jednotek: ['art-241d(0<400)', 'art-241e(0<400)', 'art-242(0<400)', 'art-243(0<400)', 'art-244(0<400)', 'art-245(0<120)', 'art-246(0<400)', 'art-247(0<400)']"
     ],
     "warnings": [],
     "ok": false
@@ -229,15 +231,7 @@
   "limitations": [
     "Only twenty assigned units reviewed; no external professional approval.",
     "Existing selective judicial research verified; no exhaustive case-law search claimed.",
-    "199 unassigned commentaries absent; whole-book strict validation fails only for these outside-scope units."
-  ],
-  "bounded_validation_result": {
-    "repo": "Komentar-NL-BWBR0001860-batch-art-215-228",
-    "units": 20,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 36221,
-    "errors": [],
-    "warnings": [],
-    "ok": true
-  }
+    "Whole-book authoring remains incomplete; full strict validation failure outside this scope is preserved.",
+    "Separate transitional statutes in editorial notes not independently analysed for historical proceedings."
+  ]
 }

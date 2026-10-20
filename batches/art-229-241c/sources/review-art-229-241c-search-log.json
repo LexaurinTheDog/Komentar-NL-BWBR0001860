@@ -1,0 +1,25 @@
+{
+  "at": "2026-10-20T23:30:19.476086+00:00",
+  "queries": [
+    "site.rechtspraak.nl 234 surseance Hoge Raad",
+    "site.rechtspraak.nl 238 surseance Hoge Raad"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+  "local_hits": "sources/author-art-229-241c-local-hits.txt",
+  "disposition": "Selective search. Full official judgments read, not AG conclusions or commercial annotations. No unit-by-unit exhaustive case-law coverage claimed.",
+  "verified_case_sources": [
+    "ECLI:NL:HR:2023:1135",
+    "ECLI:NL:HR:2005:AT2650"
+  ],
+  "case_cards": [
+    "sources/author-art-229-241c-case-2023.md",
+    "sources/author-art-229-241c-case-2005.md"
+  ],
+  "second_pass": {
+    "checked_at": "2026-10-20T23:33:44.592481+00:00",
+    "scope": "Existing selective research reviewed, no additional case asserted. Full official judgments freshly fetched and read, corpus snapshots compared.",
+    "holdings": "2023 paragraphs3.1.2–3.1.7: actual and constructive knowledge, real rescue prospects;3.2.2: concrete contractual booking qualification;3.3.2–3.3.3 limits bank exception, not blanket approval. 2005 paragraphs3.4.1–3.4.4 and3.6: statutory termination versus contractual dissolution, potential6:248(2)limit and distinct damages.",
+    "external_law": "Fresh current BW6:136, BW7:672 and Rv490b read directly; preserve statutory cross-reference numbers, no silent repair. Rv490b(2)condition corrected in241b.",
+    "limitations": "No exhaustive new case-law search or universal later-treatment audit claimed."
+  }
+}

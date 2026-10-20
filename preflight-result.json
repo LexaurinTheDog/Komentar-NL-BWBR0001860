@@ -2572,5 +2572,132 @@
       "Preflight confirms selected statutory coverage; separate external transitional statutes cited in editorial notes were not independently analysed for historical proceedings in this batch.",
       "No independent substantive second pass performed."
     ]
+  },
+  "bounded_review_art_229_241c": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "batch_date_local": "2026-10-21",
+    "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+    "verified_at": "2026-10-20T23:33:44.592481+00:00",
+    "assigned_ids": [
+      "art-229",
+      "art-230",
+      "art-231",
+      "art-231a",
+      "art-232",
+      "art-233",
+      "art-234",
+      "art-235",
+      "art-236",
+      "art-236a",
+      "art-237",
+      "art-237a",
+      "art-237b",
+      "art-238",
+      "art-239",
+      "art-240",
+      "art-241",
+      "art-241a",
+      "art-241b",
+      "art-241c"
+    ],
+    "version_evidence": {
+      "effective_from": "2026-09-01",
+      "current_redirect": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+      "explicit_current_statement": "Geldend van 01-09-2026 t/m heden. Geraadpleegd op 20-10-2026.",
+      "capture_date_distinguished_from_display": true,
+      "xml_same_as_canonical": true,
+      "wti_same_as_previous": true,
+      "changes_since_intake": [],
+      "future_dated_change_excluded": "2027-11-15",
+      "undated_changes_excluded": true,
+      "prior_detailed_wti_evidence": "sources/version-evidence.json",
+      "fresh_records": "sources/review-art-229-241c-fetch.json",
+      "fresh_wti_dates_check": {
+        "batch_date_local": "2026-10-21",
+        "latest_effective_amendment": "2026-09-01",
+        "changes_since_intake": [],
+        "next_dated_amendment": "2027-11-15",
+        "wti_sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67"
+      },
+      "future_dates_excluded": [
+        "2027-11-15"
+      ],
+      "fresh_wti_matches_previous": true
+    },
+    "historical_versions_checked": [
+      {
+        "path": "sources/version-register.xml",
+        "sha256": "763e7ee5229eb9d24e14bfa85b9614ed1a757880954b662958b69fb77e64417f",
+        "effective_from": "2002-01-01",
+        "article_count": 414,
+        "disposition": "Historical version excluded from current extraction.",
+        "assigned_present_ids": [
+          "art-229",
+          "art-230",
+          "art-231",
+          "art-232",
+          "art-233",
+          "art-234",
+          "art-235",
+          "art-236",
+          "art-236a",
+          "art-237",
+          "art-237a",
+          "art-238",
+          "art-239",
+          "art-240",
+          "art-241",
+          "art-241a"
+        ]
+      },
+      {
+        "path": "sources/review-art-212z-213a-historical-2025.xml",
+        "sha256": "51ef559220c00e2a608c328cf1254c0bfa4bf2620acd431a766d8c2694ac2202",
+        "effective_from": "2025-11-19",
+        "article_count": 635,
+        "disposition": "Historical version excluded from current extraction.",
+        "assigned_present_ids": [
+          "art-229",
+          "art-230",
+          "art-231",
+          "art-231a",
+          "art-232",
+          "art-233",
+          "art-234",
+          "art-235",
+          "art-236",
+          "art-236a",
+          "art-237",
+          "art-237a",
+          "art-237b",
+          "art-238",
+          "art-239",
+          "art-240",
+          "art-241",
+          "art-241a",
+          "art-241b",
+          "art-241c"
+        ]
+      }
+    ],
+    "annexes_checked": [
+      "Full fresh XML scanned for bijlage/annex elements: none. Non-article opening and closing material preserved in sources/non-article-text.json, structural editorial notes in sources/structural-editorial-notes.json."
+    ],
+    "coverage": {
+      "expected": 639,
+      "parsed": 639,
+      "missing": [],
+      "extra": [],
+      "duplicates": [],
+      "all_current_texts_exact": true
+    },
+    "unresolved_blockers": [],
+    "limitations": [
+      "Separate external transitional statutes cited in editorial notes were not independently analysed for historical proceedings.",
+      "The substantive second pass covers exactly the twenty assigned units; no whole-book review claimed."
+    ],
+    "review_date_local": "2026-10-21",
+    "parser_evidence": "sources/review-art-229-241c-parser-check.json"
   }
 }

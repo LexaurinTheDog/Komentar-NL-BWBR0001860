@@ -1,0 +1,7 @@
+# Faillissementswet — artikelen 229–241c
+
+Dit afzonderlijke checkpoint bevat uitsluitend twintig bepalingen: 229–231, 231a, 232–236, 236a, 237, 237a, 237b, 238–241, 241a, 241b en 241c. Het volledige boek blijft onvoltooid. De officiële wettekst geldt vanaf 1 september 2026, beoordeeld naar de auteurspeildatum 19 oktober 2026 en opnieuw officieel geverifieerd op 21 oktober 2026 lokale tijd. [Officiële bron](https://wetten.overheid.nl/BWBR0001860/2026-09-01); [preflight](sources/review-art-229-241c-preflight-result.json); [captures met HTTP, tijd en hashes](sources/review-art-229-241c-fetch.json).
+
+De wettekst is mechanisch uit officiële XML overgenomen. Elke toegewezen bepaling heeft een specifieke toelichting en een fictief voorbeeld. Selectief jurisprudentieonderzoek omvat de volledig gelezen Hoge Raad-uitspraken van 25 augustus 2023 en 13 mei 2005; zie de [onderzoeksverantwoording](sources/review-art-229-241c-search-log.json). Geen uitputtende rechtspraakinventarisatie. De tweede lezing heeft alle twintig artikelen behandeld en zes toelichtingen verbeterd; [exacte bevindingen](sources/review-art-229-241c-result.json).
+
+Oorspronkelijk commentaar © 2026 Vojtěch Říha; Apache-2.0, zie LICENSE. Officiële wettekst en uitspraken zijn afzonderlijk herkenbaar en worden niet als oorspronkelijk commentaar geclaimd. Geen commerciële annotaties overgenomen. Concept voor verdere juridische controle; geen externe professionele goedkeuring. Technische validatie bewijst op zichzelf geen juridische kwaliteit.

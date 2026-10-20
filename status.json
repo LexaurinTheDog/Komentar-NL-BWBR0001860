@@ -1645,5 +1645,34 @@
     },
     "strict_validation_evidence": "sources/author-art-229-241c-strict-validation.json",
     "full_build_limitation": "Shared builder refuses to render an incomplete book; a source-exact assigned-unit checkpoint was rendered with the shared quote function instead."
+  },
+  "bounded_review_art_229_241c": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "art-229",
+      "art-230",
+      "art-231",
+      "art-231a",
+      "art-232",
+      "art-233",
+      "art-234",
+      "art-235",
+      "art-236",
+      "art-236a",
+      "art-237",
+      "art-237a",
+      "art-237b",
+      "art-238",
+      "art-239",
+      "art-240",
+      "art-241",
+      "art-241a",
+      "art-241b",
+      "art-241c"
+    ],
+    "corrected": 6,
+    "whole_book_complete": false,
+    "evidence": "sources/review-art-229-241c-result.json"
   }
 }

@@ -1,6 +1,6 @@
 {
   "created_at_utc": "2026-10-20T21:47:05.474183+00:00",
-  "scope": "Preserved evidence through bounded review215–228; whole book incomplete.",
+  "scope": "Preserved evidence through bounded review229–241c; whole book incomplete.",
   "files": [
     {
       "path": "sources/author-art-212j-212l-build.txt",
@@ -736,6 +736,131 @@
       "path": "sources/author-art-215-228-wti.xml.headers",
       "bytes": 261,
       "sha256": "691d5e99add148875373c7538b14baa67b362b12d50a5000b9714c68fdad07c3"
+    },
+    {
+      "path": "sources/author-art-229-241c-build.txt",
+      "bytes": 159,
+      "sha256": "a96e0f69950fbcfbc8f0c20e7da223ee471f93c5137bb12db2decf89b15109b6"
+    },
+    {
+      "path": "sources/author-art-229-241c-case-2005.md",
+      "bytes": 2292,
+      "sha256": "d1141311e0a3b8aa5c16a19705595c116b2be5992a5189414289622f422ea580"
+    },
+    {
+      "path": "sources/author-art-229-241c-case-2023.md",
+      "bytes": 2433,
+      "sha256": "a0599d81db0dfadec147a012937ba91e945b806295e7ce97fc8ced91ac6d067e"
+    },
+    {
+      "path": "sources/author-art-229-241c-coverage.json",
+      "bytes": 20586,
+      "sha256": "94576575b1387855b118eadb492a4a7ada08fe4cdabbd0bf3fa2a0ce48541f1a"
+    },
+    {
+      "path": "sources/author-art-229-241c-current.html",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57"
+    },
+    {
+      "path": "sources/author-art-229-241c-current.html.headers",
+      "bytes": 532,
+      "sha256": "d759309330e1aa0b8d5ab91cc723d343a9454988f742f6008563748f287d7c6c"
+    },
+    {
+      "path": "sources/author-art-229-241c-fetch.json",
+      "bytes": 3771,
+      "sha256": "d0a2dcb497ecc084047ee4d80238a5e5f6e660c8a729e4cbcf91b0944bf7a5b6"
+    },
+    {
+      "path": "sources/author-art-229-241c-hr-1988.xml",
+      "bytes": 2459,
+      "sha256": "9513e32e2bb920e9f29af8105c93741db53505416b9f98881bbb5e569bfd1f7e"
+    },
+    {
+      "path": "sources/author-art-229-241c-hr-1988.xml.headers",
+      "bytes": 497,
+      "sha256": "f154bceeac15af77e9b7508b67ba006b7917e9cb707b3f9304bf5a98ddd25a19"
+    },
+    {
+      "path": "sources/author-art-229-241c-hr-2005.txt",
+      "bytes": 18542,
+      "sha256": "bda5023ed3c87b8925a3478d16671380c86eb42438aaa3a1c80743f2e1b72917"
+    },
+    {
+      "path": "sources/author-art-229-241c-hr-2005.xml",
+      "bytes": 25307,
+      "sha256": "79dc767db97ff7a6e96a2294b6f22eb599faba69915cfa254129404664206317"
+    },
+    {
+      "path": "sources/author-art-229-241c-hr-2005.xml.headers",
+      "bytes": 497,
+      "sha256": "836997eec7708dca6dcc088f7551f6bba0ecb30287da2a008919647f7925b93f"
+    },
+    {
+      "path": "sources/author-art-229-241c-hr-2023.txt",
+      "bytes": 29174,
+      "sha256": "9072b580699785be65e041babeb17eb1d0e8803050d7264ed39ec370807fc64c"
+    },
+    {
+      "path": "sources/author-art-229-241c-hr-2023.xml",
+      "bytes": 38964,
+      "sha256": "21d85711e316a316bfe0e77968e2f3866acda2669ffb1d0518444520d89f632b"
+    },
+    {
+      "path": "sources/author-art-229-241c-hr-2023.xml.headers",
+      "bytes": 497,
+      "sha256": "a3e2fa0aa7d78201510114faccb2939cc3600f3e5c3b6086c6b535ab3fdb2404"
+    },
+    {
+      "path": "sources/author-art-229-241c-local-hits.txt",
+      "bytes": 9344,
+      "sha256": "0032f111b344872c3e91ad4e22d29716d53ba9454bc19df99af441e2bce18e67"
+    },
+    {
+      "path": "sources/author-art-229-241c-preflight-result.json",
+      "bytes": 2787,
+      "sha256": "b1e000273d3a4798fc50cd2b34b2e37589dd7fd397e5720f8218a641d807b83a"
+    },
+    {
+      "path": "sources/author-art-229-241c-result.json",
+      "bytes": 2622,
+      "sha256": "be2f32454ce301055b8dcb3264e4ef9c29c588da1cc356d5f2af4ed10c9afc36"
+    },
+    {
+      "path": "sources/author-art-229-241c-search-log.json",
+      "bytes": 675,
+      "sha256": "13b4e0d153c165a142dbf83ba613342da66968907f04a361f0a9900fb5d392e7"
+    },
+    {
+      "path": "sources/author-art-229-241c-selected.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+    },
+    {
+      "path": "sources/author-art-229-241c-selected.xml.headers",
+      "bytes": 261,
+      "sha256": "b3c1b1ae2128a0aca71952b727e4cff838e905ac1742b1d316888720d5eb5a6e"
+    },
+    {
+      "path": "sources/author-art-229-241c-strict-validation.json",
+      "bytes": 850,
+      "sha256": "fbcad281d92f9ff2457baf4186ef6538b8d69f57fc7937c5777bcdf76e0555d4"
+    },
+    {
+      "path": "sources/author-art-229-241c-unused-search-response.json",
+      "bytes": 526,
+      "sha256": "cf5da357b1970e5b07a6198c90ae5d649803e1fd41b266f504b1690580d502c9"
+    },
+    {
+      "path": "sources/author-art-229-241c-wti.xml",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67"
+    },
+    {
+      "path": "sources/author-art-229-241c-wti.xml.headers",
+      "bytes": 261,
+      "sha256": "bc28339e272655d05c9ae32131a332b212cc8cd457b9b8d18e79399190f9e73b"
     },
     {
       "path": "sources/author-date-xml.headers",
@@ -2753,6 +2878,186 @@
       "sha256": "1ae8819abdaaee934bdf4fcf14994e120b773be772a40b62efd4d3074e78ce3e"
     },
     {
+      "path": "sources/review-art-229-241c-before-hashes.json",
+      "bytes": 37457,
+      "sha256": "c7eea307ab24d6f5a10a49281513d45e973bd0c862794e930bbf3114bb3ad809"
+    },
+    {
+      "path": "sources/review-art-229-241c-bounded-build.txt",
+      "bytes": 110,
+      "sha256": "106271fb4b4b8ace9f299070adf47878791cecba3e80766a9e494a434679e951"
+    },
+    {
+      "path": "sources/review-art-229-241c-build.txt",
+      "bytes": 159,
+      "sha256": "a96e0f69950fbcfbc8f0c20e7da223ee471f93c5137bb12db2decf89b15109b6"
+    },
+    {
+      "path": "sources/review-art-229-241c-bw6-136.txt",
+      "bytes": 416,
+      "sha256": "e1544d15e543fb9ed115898d4f206d539dc3b3ce5471a0ca06e49fad044412cd"
+    },
+    {
+      "path": "sources/review-art-229-241c-bw6.html",
+      "bytes": 2430078,
+      "sha256": "561c521c495ac769173000e097ce981953b96bae4c3c80ef40bfd2fa4018f6b5"
+    },
+    {
+      "path": "sources/review-art-229-241c-bw6.html.headers",
+      "bytes": 532,
+      "sha256": "8c73619ec4b4aa8c1af84bb23fbd02610a8b00e5a951f8419b43a12d450e5dc5"
+    },
+    {
+      "path": "sources/review-art-229-241c-bw7-672.txt",
+      "bytes": 3627,
+      "sha256": "fd5df6b1a01022d07a474315e2615e53f23ac2ce2224f06a436b8b9c5c674a46"
+    },
+    {
+      "path": "sources/review-art-229-241c-bw7.html",
+      "bytes": 6929194,
+      "sha256": "e017a8134c7403bc49a13d626b8defe5046e3ccb0739837910bfe11a1d19c6e4"
+    },
+    {
+      "path": "sources/review-art-229-241c-bw7.html.headers",
+      "bytes": 532,
+      "sha256": "9a3780bcb1300467ae6fd85891d17691acf0680fd17a0d87afcf7741ed0b71fd"
+    },
+    {
+      "path": "sources/review-art-229-241c-case-comparison.json",
+      "bytes": 1678,
+      "sha256": "a8e2f20c063846b5eda25e1d0d9cdbd24186c5b9769cee8b076bad7014d6049b"
+    },
+    {
+      "path": "sources/review-art-229-241c-checks.json",
+      "bytes": 998,
+      "sha256": "f315717dbeea3714067afeedd1869bc609fdaad2ecf1bdc31ad28f52831c512a"
+    },
+    {
+      "path": "sources/review-art-229-241c-current.html",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57"
+    },
+    {
+      "path": "sources/review-art-229-241c-current.html.headers",
+      "bytes": 532,
+      "sha256": "10a984e5207352ec3a457ce260750fa9751ba53182d9a3a34b5fb32f6c84d8ad"
+    },
+    {
+      "path": "sources/review-art-229-241c-external-fetch.json",
+      "bytes": 1999,
+      "sha256": "9fa6cdad7bd1fd11bcc3dc1a90c0f3ae501c168bb7a33e5d9988cd2ed9fc6264"
+    },
+    {
+      "path": "sources/review-art-229-241c-fetch.json",
+      "bytes": 3771,
+      "sha256": "0177dd771f6feeeea8cf503910ccea908832c5188a9f02df43cd728efcc35f16"
+    },
+    {
+      "path": "sources/review-art-229-241c-hr-2005-local.md",
+      "bytes": 19517,
+      "sha256": "4b1a8c896c43d9b11923526dff342c889a67215033bab8e3e9f0c3309a67c427"
+    },
+    {
+      "path": "sources/review-art-229-241c-hr-2005.txt",
+      "bytes": 18758,
+      "sha256": "11cfda53c274c6db9f3f84eb354f5e9e7ee7db4bfd16f4f874db381e852805e6"
+    },
+    {
+      "path": "sources/review-art-229-241c-hr-2005.xml",
+      "bytes": 25307,
+      "sha256": "79dc767db97ff7a6e96a2294b6f22eb599faba69915cfa254129404664206317"
+    },
+    {
+      "path": "sources/review-art-229-241c-hr-2005.xml.headers",
+      "bytes": 497,
+      "sha256": "faa24af78168121eefde504d05daab00a41dd9dd0db5be4395beb960bf6cc692"
+    },
+    {
+      "path": "sources/review-art-229-241c-hr-2023-local.md",
+      "bytes": 27938,
+      "sha256": "9119c2cab051d0233debf2ea93eb865a5316b7271929647147dfd025c0ecb9a8"
+    },
+    {
+      "path": "sources/review-art-229-241c-hr-2023.txt",
+      "bytes": 29194,
+      "sha256": "3e2d24b5f9b3cd4aede4ac316c0b054e0a6a2b6ed6b8d9f96d900dad84a1a078"
+    },
+    {
+      "path": "sources/review-art-229-241c-hr-2023.xml",
+      "bytes": 38964,
+      "sha256": "21d85711e316a316bfe0e77968e2f3866acda2669ffb1d0518444520d89f632b"
+    },
+    {
+      "path": "sources/review-art-229-241c-hr-2023.xml.headers",
+      "bytes": 497,
+      "sha256": "faed0a99971da42e261c249a263816374367585c255e8de5e23e03a90c99b7c5"
+    },
+    {
+      "path": "sources/review-art-229-241c-parser-check.json",
+      "bytes": 22732,
+      "sha256": "4f21f0dfbd923e46dde3501f2e9ed92bb8360dacdcb06e3967d5692c10376cd8"
+    },
+    {
+      "path": "sources/review-art-229-241c-preflight-result.json",
+      "bytes": 3753,
+      "sha256": "1eed0f36f40c1d85d69e3e7969ed7f6a4740a584a49bcf0b81b5464a725a8eab"
+    },
+    {
+      "path": "sources/review-art-229-241c-result.json",
+      "bytes": 14388,
+      "sha256": "4e1d95f44e943339a9f8463a6df9c951758622c703796d478e3e723f28ea1e81"
+    },
+    {
+      "path": "sources/review-art-229-241c-rv-490b.txt",
+      "bytes": 2818,
+      "sha256": "ad7a6374d0b888689ecb71a711c83b63469a1543c3c2a212ddf63640c2975fcb"
+    },
+    {
+      "path": "sources/review-art-229-241c-rv.html",
+      "bytes": 9181258,
+      "sha256": "c7e252556560bf60b864821d2dc54aa4fd6ee05c784ccd10ae86407257554a7d"
+    },
+    {
+      "path": "sources/review-art-229-241c-rv.html.headers",
+      "bytes": 532,
+      "sha256": "9a3780bcb1300467ae6fd85891d17691acf0680fd17a0d87afcf7741ed0b71fd"
+    },
+    {
+      "path": "sources/review-art-229-241c-search-log.json",
+      "bytes": 1542,
+      "sha256": "fce0422670309b7135b9a208ed30e1c1a021da09c94bce00e8d7b754d0a84241"
+    },
+    {
+      "path": "sources/review-art-229-241c-selected.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+    },
+    {
+      "path": "sources/review-art-229-241c-selected.xml.headers",
+      "bytes": 261,
+      "sha256": "566e9f953b8995a9ff5c488dc7713754d5c1d57aaffc6c7e609745fb9f06c047"
+    },
+    {
+      "path": "sources/review-art-229-241c-validation.json",
+      "bytes": 365,
+      "sha256": "0a4d85d3d3aa387ff965b7153b179356e6b0f7b1662a95e4a0446c2c103c787f"
+    },
+    {
+      "path": "sources/review-art-229-241c-validation.txt",
+      "bytes": 341,
+      "sha256": "033c24d515e3718b8050094da09a9acdf03579d0928c2abce82e77c7cab7ebc4"
+    },
+    {
+      "path": "sources/review-art-229-241c-wti.xml",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67"
+    },
+    {
+      "path": "sources/review-art-229-241c-wti.xml.headers",
+      "bytes": 261,
+      "sha256": "5801fc9d7890bf82d70e272b1c1f18bfdd4a724864f2e65d1771a76825c0c4a0"
+    },
+    {
       "path": "sources/review-art-28-40-before-hashes.json",
       "bytes": 24031,
       "sha256": "20c9a461cd35905580e6e7e626c1f09b3302d148d0c3c122bfbd0e3e86105da4"
@@ -3574,8 +3879,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 124607,
-      "sha256": "c128bbdce9eb00b8ec95335c7770ad99909ef3645dd1495c75ff0271d94fb8f2"
+      "bytes": 135860,
+      "sha256": "f75ed581ce6fa8188c185cbcc3b72350781d3803b75e79ec8adcf741d475df19"
     },
     {
       "path": "sources/version-evidence.json",

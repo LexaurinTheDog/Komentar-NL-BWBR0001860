@@ -1,0 +1,53 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005290",
+    "access_timestamp_utc": "2026-10-20T23:31:57.040304+00:00",
+    "raw_path": "sources/review-art-229-241c-bw7.html",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005290/2026-10-08",
+    "bytes": 6929194,
+    "sha256": "e017a8134c7403bc49a13d626b8defe5046e3ccb0739837910bfe11a1d19c6e4",
+    "headers_path": "sources/review-art-229-241c-bw7.html.headers",
+    "validity_statements": [
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 08-10-2026 t/m heden.",
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 08-10-2026 t/m heden."
+    ]
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005289",
+    "access_timestamp_utc": "2026-10-20T23:31:57.040692+00:00",
+    "raw_path": "sources/review-art-229-241c-bw6.html",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0005289/2026-07-16",
+    "bytes": 2430078,
+    "sha256": "561c521c495ac769173000e097ce981953b96bae4c3c80ef40bfd2fa4018f6b5",
+    "headers_path": "sources/review-art-229-241c-bw6.html.headers",
+    "validity_statements": [
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 16-07-2026 t/m heden.",
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 16-07-2026 t/m heden."
+    ]
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001827",
+    "access_timestamp_utc": "2026-10-20T23:31:57.040958+00:00",
+    "raw_path": "sources/review-art-229-241c-rv.html",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0001827/2026-07-14",
+    "bytes": 9181258,
+    "sha256": "c7e252556560bf60b864821d2dc54aa4fd6ee05c784ccd10ae86407257554a7d",
+    "headers_path": "sources/review-art-229-241c-rv.html.headers",
+    "validity_statements": [
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 14-07-2026 t/m heden.",
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 14-07-2026 t/m heden."
+    ]
+  }
+]
