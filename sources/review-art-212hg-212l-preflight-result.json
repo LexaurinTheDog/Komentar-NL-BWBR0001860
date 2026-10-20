@@ -1,0 +1,109 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "verified_at": "2026-10-20T22:29:37.574790+00:00",
+  "version_evidence": {
+    "fresh_http_records": "sources/review-art-212hg-212l-fetch.json",
+    "effective_from": "2026-09-01",
+    "current_route_validity": "Geldend van 01-09-2026 t/m heden; official cached response consulted 20-10-2026; fetched 20 October UTC / 21 October Prague",
+    "changes_since_intake": [],
+    "next_wti_date_excluded": "2027-11-15"
+  },
+  "historical_versions_checked": [
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2018-01-01_0/xml/BWBR0001860_2018-01-01_0.xml",
+      "access_timestamp_utc": "2026-10-20T22:27:35.140989+00:00",
+      "http_status": 200,
+      "raw_path": "sources/review-art-212hg-212l-historical.xml",
+      "sha256": "573f52ec21173e846b7f99eeff3d9d69cfb07976e3761c901aaa02cb63ad7812",
+      "accepted": true
+    },
+    {
+      "path": "sources/version-register.xml",
+      "effective_from": "2002-01-01",
+      "disposition": "Historical, excluded from current units."
+    },
+    {
+      "ids": [
+        "art-212hgd*",
+        "art-212hgd"
+      ],
+      "disposition": "Distinct simultaneously effective XML article paths Artikel212hgd_1 and Artikel212hgd_2, not historical duplicates."
+    }
+  ],
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "method": "Full XML tag enumeration and official HTML TOC: no annex elements or annex entries. References to annexes in other instruments and case-file attachments are not annexes of this Act.",
+      "xml_annex_elements": 0,
+      "html_annex_toc_entries": 0,
+      "html_evidence_path": "sources/preflight-2026-10-20-current.html",
+      "html_sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+      "direct_wettekst_children": [
+        {
+          "tag": "titeldeel",
+          "official_path": "/TiteldeelI",
+          "articles": 419
+        },
+        {
+          "tag": "titeldeel",
+          "official_path": "/TiteldeelII",
+          "articles": 103
+        },
+        {
+          "tag": "titeldeel",
+          "official_path": "/TiteldeelIII",
+          "articles": 98
+        },
+        {
+          "tag": "afdeling",
+          "official_path": "/AfdelingTweede",
+          "articles": 19
+        }
+      ]
+    }
+  ],
+  "opening_and_closing_text_checked": [
+    {
+      "tag": "intitule",
+      "official_path": "/Intitule",
+      "text_sha256": "896007a50c6cf6fd7438af1146f63acbed8cde69c55e07bb43acc80b34d5f483",
+      "raw_tokens_equal": true,
+      "canonical_contains": true,
+      "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+    },
+    {
+      "tag": "citeertitel",
+      "official_path": "/Citeertitel",
+      "text_sha256": "6c0bf00b9776c36a711a4ad5763a897f2da5033725f71577c6bd3ca0f89fbee5",
+      "raw_tokens_equal": true,
+      "canonical_contains": true,
+      "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+    },
+    {
+      "tag": "aanhef",
+      "official_path": "/Aanhef",
+      "text_sha256": "8de9ce517ee1c1167d57b90f1ff934c7a7cd07fbd5e566124082160aa106e1db",
+      "raw_tokens_equal": true,
+      "canonical_contains": true,
+      "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+    },
+    {
+      "tag": "wetsluiting",
+      "official_path": "/SlotformulierEnOndertekening",
+      "text_sha256": "e8b5a20c5e76e4bf9370002c77fedebea5d6887367b220ed73c17a9b3fab3d03",
+      "raw_tokens_equal": true,
+      "canonical_contains": true,
+      "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+    }
+  ],
+  "coverage": {
+    "official_count": 639,
+    "parsed_count": 639,
+    "missing": [],
+    "duplicate_ids": [],
+    "parser_reproduction": "sources/review-art-212hg-212l-parser-check.json"
+  },
+  "unresolved_blockers": []
+}

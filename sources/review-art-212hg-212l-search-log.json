@@ -1,0 +1,12 @@
+{
+  "searched_at_utc": "2026-10-20T22:29:37.574790+00:00",
+  "queries": [
+    "site:rechtspraak.nl \"212hgb\"",
+    "site:rechtspraak.nl \"212hg\" \"faillissement\""
+  ],
+  "web_result": "No sufficiently relevant official full judgment located; nonofficial commentary search hits not used as judicial authority.",
+  "local_search": "rg -l -i 212hgb|212hg|212hgd /Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr --glob *.md",
+  "local_matches": [],
+  "author_search_evidence_for_212j_212l": "sources/author-art-212j-212l-search-log.json",
+  "limitation": "Selective search; no exhaustive negative assertion."
+}
