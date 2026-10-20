@@ -1,0 +1,18 @@
+{
+  "checked_at_utc": "2026-10-20T23:31:05.967195+00:00",
+  "command": "python3 /Volumes/LaCie/open-commentary/_tools/validate.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001860",
+  "exit_code": 1,
+  "result": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 639,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 669236,
+    "errors": [
+      "krátký/chybějící komentář u 179 jednotek: ['art-241d(0<400)', 'art-241e(0<400)', 'art-242(0<400)', 'art-243(0<400)', 'art-244(0<400)', 'art-245(0<120)', 'art-246(0<400)', 'art-247(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "scope_disposition": "All 20 assigned units pass individual text, commentary, rendered-output and local-link checks. Only full-book error is missing unassigned commentary.",
+  "batch_result": "sources/author-art-229-241c-result.json"
+}

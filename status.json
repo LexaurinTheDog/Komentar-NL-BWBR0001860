@@ -1631,6 +1631,19 @@
     "batch_rendered_units": 20,
     "local_links_checked": 7,
     "parser_coverage_evidence": "sources/author-art-229-241c-coverage.json",
-    "validation_scope": "Assigned 20 units pass; full-book strict validation separately recorded and expected to report only unassigned missing commentary."
+    "validation_scope": "Assigned 20 units pass; full-book strict validation separately recorded and expected to report only unassigned missing commentary.",
+    "strict_validation_result": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 639,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 669236,
+      "errors": [
+        "krátký/chybějící komentář u 179 jednotek: ['art-241d(0<400)', 'art-241e(0<400)', 'art-242(0<400)', 'art-243(0<400)', 'art-244(0<400)', 'art-245(0<120)', 'art-246(0<400)', 'art-247(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_validation_evidence": "sources/author-art-229-241c-strict-validation.json",
+    "full_build_limitation": "Shared builder refuses to render an incomplete book; a source-exact assigned-unit checkpoint was rendered with the shared quote function instead."
   }
 }
