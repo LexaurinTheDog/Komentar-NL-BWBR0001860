@@ -407,7 +407,7 @@
     "repo": "Komentar-NL-BWBR0001860",
     "units": 639,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 311121,
+    "commentary_chars": 317821,
     "errors": [
       "krátký/chybějící komentář u 342 jednotek: ['art-212j(0<400)', 'art-212k(0<400)', 'art-212l(0<400)', 'art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)']"
     ],
@@ -444,7 +444,8 @@
       "art-14b"
     ],
     "result_path": "review-result.json",
-    "scope": "Only assigned art-1 through art-14b in official order; no whole-book approval."
+    "scope": "Only assigned art-1 through art-14b in official order; no whole-book approval.",
+    "strict_validation": "100% statutory agreement; full-book failure only for 342 unassigned unwritten commentaries"
   },
   "remaining_limitations": [
     "342 commentaries are unwritten; manuscript is not complete.",
