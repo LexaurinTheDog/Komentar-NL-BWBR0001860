@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2025-11-19_0/xml/BWBR0001860_2025-11-19_0.xml",
+    "access_timestamp_utc": "2026-10-20T22:42:41.440481+00:00",
+    "raw_path": "sources/review-art-212z-213a-historical-2025.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2025-11-19_0/xml/BWBR0001860_2025-11-19_0.xml",
+    "bytes": 2502926,
+    "sha256": "51ef559220c00e2a608c328cf1254c0bfa4bf2620acd431a766d8c2694ac2202",
+    "headers_path": "sources/review-art-212z-213a-historical-2025.xml.headers",
+    "xml_root": "toestand",
+    "xml_attributes": {
+      "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2025-11-19/0",
+      "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+      "bwb-id": "BWBR0001860",
+      "inwerkingtreding": "2025-11-19"
+    }
+  }
+]

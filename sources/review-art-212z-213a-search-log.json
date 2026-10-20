@@ -1,0 +1,26 @@
+{
+  "searched_at_utc": "2026-10-20T22:45:13.408874+00:00",
+  "web_queries": [
+    "site.curia.europa.eu C-85/12 LBI judgment 24 October 2013",
+    "site:rechtspraak.nl \"212ee\"",
+    "site:rechtspraak.nl \"213a\" \"verzekeraar\""
+  ],
+  "web_result": "Official InfoCuria case index identified LBI, C-85/12, ECLI:EU:C:2013:697. Full judgment PDF capture failed: HTTP202 empty body, rejected; web open also cache miss. No judgment holding used.",
+  "official_index": "https://infocuria.curia.europa.eu/tabs/redirect/juris/documents.jsf?num=C-85%2F12",
+  "local_search": "rg -l -i 212ee|212dd|212oo|213a /Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr --glob *.md",
+  "local_matches": [
+    {
+      "file": "ecli-nl-hr-1968-ac2286.md",
+      "disposition": "Not adopted as an authority; prior search identified different numbered insurance provisions."
+    },
+    {
+      "file": "ecli-nl-hr-2006-au7473.md",
+      "disposition": "Not adopted; accounting guideline paragraph false positive in earlier search."
+    },
+    {
+      "file": "ecli-nl-hr-2023-839.md",
+      "disposition": "Inspected local text: damages/valuation following forced transfer under old Wft, not adopted for current213a jurisdiction. No holding used."
+    }
+  ],
+  "limits": "Selective research; no exhaustive case-law claim, no new case cards or holdings."
+}

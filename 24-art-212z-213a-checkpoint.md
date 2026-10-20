@@ -1,12 +1,14 @@
-# Artikelen 212z–213a — auteurscheckpoint
+# Artikelen 212z–213a — beoordeeld checkpoint
 
-Twintig toegewezen eenheden van het onvoltooide commentaar. Wettekst: 1 september 2026. [Broncontrole](sources/author-art-212z-213a-preflight-result.json). [Selectieve rechtspraakzoekactie](sources/author-art-212z-213a-search-log.json). Tekst commentaar © 2026 Vojtěch Říha; Apache-2.0. Concept, nog geen onafhankelijke tweede beoordeling.
+Twintig toegewezen eenheden van een onvoltooid commentaar. Wettekst: 1 september 2026. Projectinterne tweede lezing: 21 oktober 2026; drie toelichtingen gecorrigeerd, zeventien aanvaard. [Exacte beoordeling](sources/review-art-212z-213a-result.json). [Bronpreflight](sources/review-art-212z-213a-preflight-result.json). Tekst commentaar © 2026 Vojtěch Říha; Apache-2.0. Concept; geen externe professionele goedkeuring.
 
 ### Artikel 212z
 
 **Wettekst:**
 
 > In afwijking van artikel 212t worden de gevolgen van een liquidatieprocedure voor een overeenkomst die het recht geeft op het genot of de verkrijging van een onroerende zaak uitsluitend beheerst door het recht van de lidstaat op het grondgebied waarvan de onroerende zaak is gelegen. Dit recht bepaalt of een zaak roerend dan wel onroerend is.
+
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
 
 Artikel 212z beschermt de samenhang tussen de insolventie en het recht van de plaats waar een onroerende zaak ligt. De hoofdregel van artikel 212t wijkt voor overeenkomsten die het genot of de verkrijging van zo'n zaak geven. Daaronder kan bijvoorbeeld een huurovereenkomst of koopovereenkomst vallen; beslissend is het toegekende recht, niet alleen de titel van het contract. Het aangewezen recht beheerst de gevolgen van de liquidatie voor die overeenkomst. De bepaling geeft zelf geen bevoegdheid tot opzegging of ontbinding en maakt evenmin iedere contractuele kwestie tot insolventierecht.
 
@@ -72,6 +74,8 @@ Fictief voorbeeld: voor de opening procedeert de bank in België over de afgifte
 >
 > b. dat recht in het gegeven geval niet voorziet in de mogelijkheid dat die rechtshandeling wordt aangetast onderscheidenlijk niet kan worden tegengeworpen.
 
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
+
 Artikel 212ee maakt de toepassing van het liquidatierecht op schuldeisersbenadelende rechtshandelingen afhankelijk van een nauwkeurig omschreven tegenbewijs. Degene die voordeel had, moet zowel aantonen dat de handeling door het recht van een andere lidstaat dan de herkomststaat wordt beheerst, als dat dit recht in het concrete geval geen mogelijkheid tot aantasting of niet-tegenwerpelijkheid biedt. De onderdelen a en b zijn dus cumulatief. Alleen een buitenlandse rechtskeuze tonen is niet genoeg.
 
 De formulering «in het gegeven geval» vraagt om een beoordeling van de werkelijke handeling en haar omstandigheden. Een abstracte stelling dat het buitenlandse recht geen identieke Nederlandse paulianaregel kent, bewijst niet dat aantasting daar onmogelijk is. De begunstigde moet de relevante rechtsgrondslagen en hun toepassing op de feiten inzichtelijk maken. Slaagt het bewijs, dan wordt artikel 212t voor de genoemde aantastingsregels uitgesloten; de bepaling verleent geen algemene immuniteit tegen iedere vordering van de curator.
@@ -84,9 +88,11 @@ Fictief voorbeeld: de curator bestrijdt een zekerheidsverlening aan een buitenla
 
 > In afwijking van artikel 212t worden de gevolgen van een liquidatieprocedure voor een overeenkomst tot verrekening als bedoeld in artikel 212a, onderdeel m, uitsluitend beheerst door het recht dat van toepassing is op die overeenkomst.
 
-De liquidatiegevolgen voor een overeenkomst tot verrekening in de zin van artikel 212a, onderdeel m, volgen uitsluitend het recht dat op die overeenkomst van toepassing is. Daarmee krijgt de contractueel georganiseerde verrekening een eigen verwijzingsregel tegenover artikel 212t. Vooraf moet echter worden vastgesteld dat de overeenkomst werkelijk aan de wettelijke omschrijving voldoet. De enkele aanwezigheid van een verrekenbeding op een factuur bewijst dat niet.
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
 
-Het onderwerp is de invloed van de liquidatie op de overeenkomst, bijvoorbeeld op de afwikkeling van de daaronder vallende posities. Het artikel kent zelf geen saldo toe en verklaart een beding niet inhoudelijk geldig. De curator moet het toepasselijke contractrecht vaststellen en daaruit de concrete gevolgen afleiden. Ook mag de regel niet zonder meer worden gebruikt voor een losstaande wettelijke verrekeningsbevoegdheid: voor die vraag moet het overige stelsel, waaronder artikel 212x, afzonderlijk worden bezien.
+De liquidatiegevolgen voor een overeenkomst tot verrekening volgen volgens artikel 212ff uitsluitend het recht dat op die overeenkomst van toepassing is. De kruisverwijzing bevat echter een concreet tekstprobleem: het genoemde artikel 212a, onderdeel m, definieert in de actuele toestand de afwikkelingsrekening, terwijl onderdeel l de verrekening omschrijft. De wettekst wordt hier letterlijk behouden. De verwijzing naar m kan daarom niet worden voorgesteld als een sluitende actuele definitie van de kwalificerende overeenkomst. Voor toepassing is nader interpretatief onderzoek nodig naar de samenhang van de verrekeningsbegrippen en de bedoelde contractuele afwikkeling; het commentaar vernummerde de wettelijke verwijzing niet. De enkele aanwezigheid van een verrekenbeding op een factuur bewijst in elk geval niet dat de bijzondere verwijzingsregel geldt.
+
+Het onderwerp is de invloed van de liquidatie op de overeenkomst, bijvoorbeeld op de afwikkeling van de daaronder vallende posities. Het artikel kent zelf geen saldo toe en verklaart een beding niet inhoudelijk geldig. De curator moet het toepasselijke contractrecht vaststellen en daaruit de concrete gevolgen afleiden. Ook mag de regel niet zonder meer worden gebruikt voor een losstaande wettelijke verrekeningsbevoegdheid: voor die vraag moet het overige stelsel, waaronder artikel 212w voor het verrekeningsrecht en artikel 212x voor benadelingsacties, afzonderlijk worden bezien.
 
 Fictief voorbeeld: een bank en een wederpartij hebben meerdere transacties onder één kwalificerende verrekeningsovereenkomst gebracht. Na opening van de liquidatie ontstaat verschil over de samenvoeging tot één saldo. De betrokkenen onderzoeken eerst welk recht de overeenkomst beheerst en vervolgens welke liquidatiegevolgen dat recht daaraan verbindt. Artikel 212ff alleen bewijst noch de omvang, noch de opeisbaarheid van het gestelde saldo.
 
@@ -95,6 +101,8 @@ Fictief voorbeeld: een bank en een wederpartij hebben meerdere transacties onder
 **Wettekst:**
 
 > In afwijking van artikel 212t worden, onverminderd artikel 212hh, de gevolgen van een liquidatieprocedure voor een overeenkomst waarbij de ene partij, de koper, zich verbindt tot een latere overdracht van een gelijke hoeveelheid activa van dezelfde soort aan de verkoper, uitsluitend beheerst door het recht van de lidstaat dat van toepassing is op die overeenkomst.
+
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
 
 Deze bepaling ziet op een overeenkomst waarin de koper zich verbindt later een gelijke hoeveelheid activa van dezelfde soort terug over te dragen. Die omschrijving sluit aan bij het economische patroon van een repo, maar de wettelijke kenmerken blijven beslissend. Een verplichting tot teruggave van precies hetzelfde individuele goed hoeft niet zonder meer dezelfde overeenkomst te zijn. Voor de gevolgen van liquidatie wordt uitsluitend verwezen naar het toepasselijke recht van een lidstaat op de overeenkomst.
 
@@ -107,6 +115,8 @@ Fictief voorbeeld: een bank verkoopt obligaties met de verplichting voor de kope
 **Wettekst:**
 
 > In afwijking van artikel 212t worden de gevolgen van een liquidatieprocedure voor het uitoefenen van het rechten op financiële instrumenten waarvan het bestaan of de overdracht inschrijving in een register, op een rekening of in een in een lidstaat bijgehouden of gesitueerd gecentraliseerd effectendepot veronderstelt, uitsluitend beheerst door het recht van de lidstaat waar het register, de rekening of het gecentraliseerde effectendepot waar deze rechten zijn ingeschreven, wordt bijgehouden of is gesitueerd.
+
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
 
 Artikel 212hh koppelt de liquidatiegevolgen voor de uitoefening van rechten op bepaalde financiële instrumenten aan het recht van de lidstaat waar het relevante register, de rekening of het gecentraliseerde effectendepot wordt bijgehouden of is gesitueerd. Voorwaarde is dat het bestaan of de overdracht van de instrumenten de bedoelde inschrijving veronderstelt. Niet iedere vermelding in een intern overzicht maakt dat overzicht tot het wettelijke aanknopingspunt.
 
@@ -126,6 +136,8 @@ Praktische controle bij artikelen 212z–212hh: omschrijf eerst de concrete rech
 >
 > 3 Indien op grond van het recht van de lidstaat van herkomst personen zijn aangewezen om de curator te vertegenwoordigen of anderszins bij te staan, kunnen zij de bevoegdheden die zij hebben op grond van het recht van die lidstaat uitoefenen op het grondgebied van Nederland.
 
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
+
 De buitenlandse curator krijgt in Nederland in beginsel de bevoegdheden die hij in de lidstaat van herkomst bezit. Dat is geen onbeperkte import van buitenlandse overheidsmacht. Lid 1 sluit de bevoegdheid tot een dwangmaatregel en tot een uitspraak in een geding of geschil uit. Bovendien wordt de wijze waarop hij zijn bevoegdheden hier uitoefent door Nederlands recht beheerst. De omvang van de bevoegdheid en de wijze van uitoefening moeten daarom afzonderlijk worden onderzocht.
 
 Lid 2 staat toe dat de curator personen aanwijst om hem te vertegenwoordigen of anderszins bij te staan. Lid 3 behandelt personen die op grond van het herkomstrecht zijn aangewezen: zij kunnen hun daaruit voortvloeiende bevoegdheden ook in Nederland uitoefenen. Deze hulpconstructies vergroten de bevoegdheid van de curator niet tot de in lid 1 uitgesloten machtsuitoefening. Voor bewijs van de aanwijzing van de curator sluit artikel 212jj op deze regeling aan.
@@ -139,6 +151,8 @@ Fictief voorbeeld: een buitenlandse curator laat een gemachtigde bankstukken in 
 > 1 Voor het bewijs van aanwijzing van de curator uit een andere lidstaat dan Nederland volstaat een voor eensluidend gewaarmerkt afschrift van het aanwijzingsbesluit of van ieder ander door de bevoegde instanties van de lidstaat gegeven schriftelijke verklaring.
 >
 > 2 De curator uit een andere lidstaat dan Nederland toont op verlangen van een ieder tegenover wie hij zijn bevoegdheden wenst uit te oefenen een vertaling in de Nederlandse taal van het afschrift.
+
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
 
 Dit artikel vereenvoudigt het bewijs van de buitenlandse benoeming. Volgens lid 1 volstaat een voor eensluidend gewaarmerkt afschrift van het aanwijzingsbesluit of van een andere schriftelijke verklaring van de bevoegde instanties van de betrokken lidstaat. Een wederpartij kan dus niet zonder meer verlangen dat de curator eerst opnieuw in Nederland wordt benoemd. De bewijsregel betreft zijn aanwijzing; de inhoud en grenzen van zijn bevoegdheden blijven een afzonderlijke vraag onder artikel 212ii.
 
@@ -205,6 +219,8 @@ Praktische controle bij artikelen 212ii–212nn: verifieer aanwijzing en bevoegd
 > Vervallen
 
 Artikel 212nna is in de geselecteerde toestand vervallen, met ingang van 25 maart 2026. Het bewaarde artikelnummer is een historisch herkenningspunt en bevat geen actuele bevoegdheid of verplichting. Een oud dossier of een verwijzing in een oudere publicatie moet daarom worden beoordeeld aan de hand van de destijds geldende tekst en het toepasselijke overgangsrecht; de vervallen plaats mag niet met een vroegere inhoud worden opgevuld.
+
+In de afzonderlijk gecontroleerde toestand van 19 november 2025 verbond deze bepaling de overeenkomstige toepassing van afdeling 11AA aan eerder gebruik door DNB van een bevoegdheid uit afdeling 3A.1.5 Wft ten aanzien van de toen genoemde entiteiten van artikel 3A:2, onderdelen c tot en met g. De artikelen 212k en 212r waren uitgezonderd. Dat was dus een conditionele uitbreidingsregel, geen algemene definitie van bank. Voor de huidige entiteitsregeling moet onder meer artikel 212pp zelfstandig worden gelezen: diens categorieën en uitzonderingen zijn anders en mogen niet uit het oude artikel worden overgenomen. De metadata van de actuele bron verbinden het vervallen aan Stb. 2026, 60 en de inwerkingtreding aan Stb. 2026, 61; daarmee is nog niet elk overgangsvraagstuk in oude dossiers beslist.
 
 Fictief voorbeeld: een processtuk beroept zich voor een handeling in oktober 2026 uitsluitend op artikel 212nna. De behandelaar moet daarvoor een andere geldende grondslag zoeken. De enkele aanwezigheid van het artikelnummer in de wet ondersteunt de gestelde bevoegdheid niet.
 
@@ -280,7 +296,9 @@ Fictief voorbeeld: een Nederlandse financiële holding valt onder artikel 3A:2, 
 >
 > r. moedermaatschappij: een moedermaatschappij als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.
 
-Artikel 213 is de toegangspoort tot de bijzondere verzekeraarsafdeling. De definities werken voor deze afdeling en moeten worden gebruikt voordat een procedurele of materiële vervolgbepaling wordt toegepast. De aanhef van onderdeel a moet samen met de verwijzingen naar d, e en f worden gelezen: naast schade- en levensverzekeraars is de omschrijving van herverzekeraar in onderdeel f uitdrukkelijk betrokken. Bij d tot en met f is zowel de Wft-kwalificatie als het toepassingsgebied van Solvabiliteit II relevant. Een onderneming die in het dagelijks taalgebruik verzekeraar heet, valt daardoor niet vanzelf onder elke bijzondere regel.
+*Redactionele bronnotitie:* Bij § 1 Definities: Tekstplaatsing met aanpassing van de spelling.
+
+Artikel 213 is de toegangspoort tot de bijzondere verzekeraarsafdeling. De definities werken voor deze afdeling en moeten worden gebruikt voordat een procedurele of materiële vervolgbepaling wordt toegepast. Onderdeel a is tekstueel onregelmatig: het noemt een schadeverzekeraar of levensverzekeraar, maar verwijst vervolgens naar drie onderdelen, d, e en f. Onderdeel f definieert juist de herverzekeraar. Die derde verwijzing maakt het onveilig een herverzekeraar uitsluitend op grond van de twee voorafgaande benamingen buiten de afdeling te plaatsen. Bij toepassing moet de samenhang met de afzonderlijke definities en de concrete vervolgbepaling worden onderzocht; de geciteerde wettekst is niet stilzwijgend aangevuld met een ontbrekende benaming. Bij d tot en met f is zowel de Wft-kwalificatie als het toepassingsgebied van Solvabiliteit II relevant. Een onderneming die in het dagelijks taalgebruik verzekeraar heet, valt daardoor niet vanzelf onder elke bijzondere regel.
 
 De onderdelen b en c verwijzen voor verzekeringsovereenkomsten naar de Wft. De zetel van onderdeel g is in beginsel statutair of reglementair bepaald, met een hoofdvestigingsregel voor wie geen rechtspersoon is. Onderdeel h omschrijft het bijkantoor functioneel als duurzame aanwezigheid; ook een zelfstandig gemachtigde kan daaronder vallen. Onderdeel i kiest een ruime omschrijving van liquidatieprocedure: collectiviteit, vereffening en optreden van bevoegde instanties zijn belangrijk, terwijl insolventie of een verzoek door een bepaalde persoon geen noodzakelijk definitiekenmerk is.
 

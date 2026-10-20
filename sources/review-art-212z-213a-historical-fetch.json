@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-01-01_0/xml/BWBR0001860_2026-01-01_0.xml",
+    "access_timestamp_utc": "2026-10-20T22:42:22.819519+00:00",
+    "raw_path": "sources/review-art-212z-213a-historical.xml",
+    "accepted": false,
+    "http_status": 301,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-01-01_0/xml/BWBR0001860_2026-01-01_0.xml",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "headers_path": "sources/review-art-212z-213a-historical.xml.headers",
+    "error": "no element found: line 1, column 0"
+  }
+]

@@ -2,7 +2,7 @@
 
 [Inleiding](00-inleiding.md) · [Bronnen](SOURCES.md) · [Controle en open werk](REVIEW.md)
 
-De 22 hieronder vermelde hoofdstukken bevatten 320 toegelichte plaatsen, van artikel 1 tot en met artikel 212ij (inclusief de afzonderlijke checkpoints). De volledige wet telt 639 plaatsen. De 319 overige commentaren zijn nog niet geschreven; daarvoor zijn geen lege hoofdstukken of vervangteksten opgenomen.
+De 25 hieronder vermelde hoofdstukken bevatten 340 toegelichte plaatsen, van artikel 1 tot en met artikel 213a (inclusief afzonderlijke checkpoints). De volledige wet telt 639 plaatsen. De 299 overige commentaren zijn nog niet geschreven; daarvoor zijn geen lege hoofdstukken of vervangteksten opgenomen.
 
 - [01-wet-01.md](01-wet-01.md) — Titel I Van faillissement / Eerste afdeling Van de faillietverklaring; Artikel 1 t/m Artikel 15d
 
@@ -47,6 +47,12 @@ De 22 hieronder vermelde hoofdstukken bevatten 320 toegelichte plaatsen, van art
 - [21-wet-21.md](21-wet-21.md) — Titel I Van faillissement / Afdeling 11A Van het definitieve karakter van de afwikkeling van betalingen en effectentransacties in betalings- en afwikkelingssystemen; Artikel 212a t/m Artikel 212f
 
 - [22-wet-22.md](22-wet-22.md) — Titel I Van faillissement / Afdeling 11AA Van het faillissement van een bank; Artikel 212g t/m Artikel 212i
+
+- [23-wet-23.md](23-wet-23.md) — Titel I Van faillissement / Afdeling 11AA Van het faillissement van een bank; Artikel 212j t/m Artikel 212aa
+
+- [24-wet-24.md](24-wet-24.md) — Titel I Van faillissement / Afdeling 11AA Van het faillissement van een bank; Artikel 212bb t/m Artikel 212nna
+
+- [25-wet-25.md](25-wet-25.md) — Titel I Van faillissement / Afdeling 11AB Van het faillissement van een beleggingsonderneming en van een entiteit onder de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen; Artikel 212oo t/m Artikel 212pp
 
 [Afzonderlijk checkpoint: artikelen 212j–212l](23-art-212j-212l-checkpoint.md).
 
