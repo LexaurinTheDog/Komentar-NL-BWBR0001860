@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-20T19:09:44.858902+00:00",
+  "updated_at_utc": "2026-10-20T19:10:58.362209+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -409,7 +409,7 @@
     "repo": "Komentar-NL-BWBR0001860",
     "units": 639,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 317821,
+    "commentary_chars": 322837,
     "errors": [
       "krátký/chybějící komentář u 342 jednotek: ['art-212j(0<400)', 'art-212k(0<400)', 'art-212l(0<400)', 'art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)']"
     ],
@@ -446,7 +446,9 @@
       "art-27"
     ],
     "result_path": "review-result.json",
-    "scope": "Exactly assigned art-15 through art-27 in official order, including lettered articles; no whole-book approval."
+    "scope": "Exactly assigned art-15 through art-27 in official order, including lettered articles; no whole-book approval.",
+    "strict_validation": "100% statutory agreement; failure only for 342 unassigned unwritten commentaries",
+    "batch_commentaries_corrected": 11
   },
   "remaining_limitations": [
     "342 commentaries are unwritten; manuscript is not complete.",

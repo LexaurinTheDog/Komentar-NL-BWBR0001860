@@ -486,5 +486,36 @@
     "art-20",
     "art-22",
     "art-23"
-  ]
+  ],
+  "validation": {
+    "strict_validator_exit_code": 1,
+    "strict_validator": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 639,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 322837,
+      "errors": [
+        "krátký/chybějící komentář u 342 jednotek: ['art-212j(0<400)', 'art-212k(0<400)', 'art-212l(0<400)', 'art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "shared_full_builder_exit_code": 1,
+    "statutory_text_agreement": 1.0,
+    "independent_coverage_ok": true,
+    "expected_official_units": 639,
+    "parsed_units": 639,
+    "batch_units_reviewed": 20,
+    "batch_commentaries_corrected": 11,
+    "batch_commentaries_accepted_unchanged": 9,
+    "unassigned_commentaries_unchanged": true,
+    "duplicate_commentary_ids": [],
+    "broken_local_links": [],
+    "repeated_paragraphs": 0,
+    "batch_complete": true,
+    "whole_book_complete": false,
+    "remaining_whole_book_failure": "342 unassigned unwritten commentaries; no other strict validation error.",
+    "output_checkpoint_commit": "20784dd",
+    "work_checkpoint_commit": "d226635"
+  }
 }
