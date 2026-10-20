@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2018:1799</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-19T10:12:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2018-09-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2018-09-28</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/00820</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#beschikking">Beschikking</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht_insolventierecht">Civiel recht; Insolventierecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2018:755" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2018:755, Gevolgd</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2018/1827</rdf:li>
+          <rdf:li>RvdW 2018/1087</rdf:li>
+          <rdf:li>RI 2018/91</rdf:li>
+          <rdf:li>JOR 2018/317 met annotatie van mr. B.I. Kraaipoel</rdf:li>
+          <rdf:li>NJ 2019/16 met annotatie van F.M.J. Verstijlen</rdf:li>
+          <rdf:li>INS-Updates.nl 2018-0234</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2018:1799">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2018:1799</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2018-09-28T08:31:49</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2018-09-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2018:1799 Hoge Raad , 28-09-2018 / 18/00820</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2018:1799:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Faillissementsrecht. Art. 176 lid 1 Fw. Toestemming r-c tot ondershandse verkoop. Uitsluiting hoger beroep (art. 67 lid 1 Fw). Daarnaast procedure art. 69 Fw waarin schuldeiser zich verzet tegen toestemming tot ondershandse verkoop en/of ondershandse verkoop aan een bepaalde derde, waarin hoger beroep wel openstaat (art. 67 lid 1 Fw). Proceskostenveroordeling in faillissementsprocedures; verwijzing naar HR 15 december 2017, ECLI:NL:HR:2017:3143.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2018:1799:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>28 september 2018</para>
+    <para>Eerste Kamer</para>
+    <para>18/00820</para>
+    <para>TT/AS</para>
+    <para />
+    <para> </para>
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Beschikking</para>
+    <para />
+    <para>in de zaak van:</para>
+    <para />
+    <para />
+    <parablock>
+      <para>1. De vennootschap naar Duits recht LM VERMIETUNGS GMBH &amp; CO. KG,<?linebreak?></para>
+      <para>2. De vennootschap naar Duits recht LM HOLDING GMBH &amp; CO. KG,<?linebreak?><?linebreak?>beide gevestigd te Meppen, Duitsland,</para>
+      <para>VERZOEKSTERS tot cassatie,</para>
+      <para>advocaat: mr. J.H.M. van Swaaij,</para>
+      <para />
+    </parablock>
+    <parablock>
+      <para>		t e g e n</para>
+      <para />
+    </parablock>
+    <parablock>
+      <para>1. Mr. R.P. VAN BOVEN, in zijn hoedanigheid van curator in het faillissement van Hospital Waste Services B.V.,<?linebreak?>kantoorhoudende te Assen, </para>
+      <para>VERWEERDER in cassatie,</para>
+      <para>niet verschenen,</para>
+      <para>2. [verweerster 2],<?linebreak?>gevestigd te [vestigingsplaats], </para>
+      <para>VERWEERSTER in cassatie,</para>
+      <para>advocaat: mr. R.J. van Galen.</para>
+      <para />
+    </parablock>
+    <para>Partijen zullen hierna ook worden aangeduid als LM (enkelvoud), de curator en [verweerster 2].</para>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Het geding in feitelijke instantie</title>
+    <parablock>
+      <para>	Voor het verloop van het geding in feitelijke instantie verwijst de Hoge Raad naar de beschikking in de zaak C/18/17/187F van de rechter-commissaris in de rechtbank Noord-Nederland van 29 september 2017 en de beschikking in de zaak C18/179471/HA RK 17-276 van de rechtbank Noord-Nederland van 16 februari 2018.</para>
+      <para>	De beschikking van de rechtbank is aan deze beschikking gehecht.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Het geding in cassatie</title>
+    <parablock>
+      <para>	Tegen de beschikking van het hof heeft LM beroep in cassatie ingesteld. Het cassatierekest en het aanvullend verzoekschrift zijn aan deze beschikking gehecht en maken daarvan deel uit.</para>
+      <para>	De curator heeft geen verweerschrift ingediend. </para>
+      <para>
+        [verweerster 2] heeft verzocht het beroep te verwerpen.</para>
+      <para>	De conclusie van de Advocaat-Generaal L. Timmerman strekt tot vernietiging en tot verwijzing.<?linebreak?>	De advocaat van [verweerster 2] heeft schriftelijk op die conclusie gereageerd.</para>
+      <para />
+      <para>
+        <emphasis role="bold">3.	Beoordeling van het middel</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>In cassatie kan van het volgende worden uitgegaan.</para>
+      <para>(i)	Het concern waartoe LM behoort, produceert, verhuurt en verkoopt afvalverwerkingsmachines. Tussen LM en Hospital Waste Services B.V., handelend onder de naam [A] (hierna: [A]), heeft een jarenlange zakelijke relatie bestaan op basis waarvan LM afvalverwerkingsmachines heeft verhuurd aan [A]. [A] verhuurde deze machines aan derden.<?linebreak?></para>
+      <parablock>
+        <para>(ii)	[A] heeft op enig moment een betalingsachterstand laten ontstaan. Blijkens het vonnis van het Landgericht Osnabrück van 25 juli 2017 heeft LM op [A] een vordering ter hoogte van € 443.142,24.</para>
+        <para>(iii)	Bij vonnis van de rechtbank Noord-Nederland van 5 september 2017 is [A] in staat van faillissement verklaard. <?linebreak?></para>
+        <para>(iv)	Na de faillietverklaring hebben zeven partijen de curator benaderd om de activa van de failliet over te nemen. De curator heeft een verkoop-memorandum opgesteld en dit aan de geïnteresseerden, waaronder LM, ter beschikking gesteld. Uiteindelijk heeft slechts [verweerster 2] (op dat moment nog in oprichting), vertegenwoordigd door haar enig aandeelhouder en bestuurder [betrokkene 1], een bieding uitgebracht.</para>
+      </parablock>
+      <para>(v)	De curator heeft, in verband met zijn voornemen de activa en activiteiten van [A] over te dragen aan [verweerster 2], voor deze transactie bij brief van 28 september 2017 toestemming verzocht aan de rechter-commissaris. <?linebreak?></para>
+      <para />
+      <paragroup>
+        <nr>3.2.1</nr>
+        <para>LM verzoekt in deze procedure op de voet van art. 69 Fw dat het de curator wordt verboden de activa en de onderneming ondershands te verkopen aan een aan [A] gelieerde partij. De rechter-commissaris heeft dit verzoek afgewezen. In deze beschikking is verder machtiging verleend aan de curator voor de ondershandse verkoop van de activa en activiteiten van [A] aan [verweerster 2], zoals vastgelegd in de activaovereenkomst van 22 september 2017. <?linebreak?></para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2</nr>
+        <parablock>
+          <para>LM heeft hoger beroep ingesteld tegen de beschikking van de rechter-commissaris. De rechtbank heeft LM niet-ontvankelijk verklaard in haar verzoek en heeft daartoe – voor zover in cassatie van belang – als volgt overwogen:<?linebreak?></para>
+          <para>“2.5. Het wettelijk uitgangspunt is dat goederen van de faillissementsboedel in het openbaar worden verkocht en daarom is voor de onderhandse verkoop toestemming van de rechter-commissaris vereist (art. 176 Fw). Gelet op de betrokken belangen (…), heeft de wetgever niet gewild dat tegen de beslissing van de rechter-commissaris om toestemming te geven tot onderhandse in plaats van een openbare verkoop, hoger beroep open staat (art. 67 lid 1 Fw in verbinding met art. 176 Fw). Een schuldeiser die bezwaar heeft, kan zich uitsluitend op de voet van art. 69 Fw tot de rechter-commissaris wenden teneinde een bevel aan de curator uit te lokken om tot openbare verkoop over te gaan (zie: HR 3 juni 1994, ECLI:NL:HR:1994:ZC1387, NJ 1995, 341, <emphasis role="italic">Antillen/Komdeur</emphasis>).	<?linebreak?><?linebreak?><?linebreak?></para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.6.</nr>
+      <para>De bezwaren van LM richten zich niet op een onderhandse verkoop als zodanig, maar op een verkoop aan [A]. Om die reden kon LM zich niet op de voet van art. 69 Fw tot de rechter-commissaris wenden. Dat de rechter-commissaris welwillend de bezwaren inhoudelijk van LM heeft beoordeeld, brengt niet met zich dat op de door de rechter-commissaris genomen beslissing rechterlijke controle in hoger beroep kan worden uitgelokt. Dit brengt met zich dat LM in haar beroep niet-ontvankelijk moet worden verklaard.”</para>
+      <para />
+      <para />
+      <paragroup>
+        <nr>3.3.1</nr>
+        <para>De onderdelen 2 en 3 van het middel richten klachten tegen het oordeel van de rechtbank in rov. 2.5 en 2.6 dat erin uitmondt dat LM niet-ontvankelijk moet worden verklaard in haar hoger beroep.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.2</nr>
+        <parablock>
+          <para>De in art. 69 lid 1 Fw bedoelde personen kunnen op de voet van dit artikel bij de rechter-commissaris opkomen tegen de verkoop van goederen door de curator op een van de wijzen als vermeld in art. 176 lid 1 Fw. Zij kunnen zich dus verzetten zowel tegen openbare als tegen ondershandse verkoop. In het geval van door de curator gewenste ondershandse verkoop kunnen hun bezwaren zich ook richten tegen de transactie zoals de curator die wenst aan te gaan (‘de verkoop zelf’ in de bewoordingen van de hierna te noemen uitspraak van 1994), of tegen een of meer beoogde contractanten, zoals in het onderhavige geval. Het is aan de rechter-commissaris de belangen van de belanghebbende – dat zijn, in beginsel, diens belangen bij goed boedelbeheer – af te wegen tegen die van een vlotte afwikkeling van de boedel. (Vgl. HR 8 mei 1952, ECLI:NL:HR:1952:15, NJ 1952/572 (Euroimpex) en HR 3 juni 1994, ECLI:NL:HR:1994:ZC1387, NJ 1995/341, rov. 3.3 (Antillen/Komdeur).)<?linebreak?></para>
+          <para>	Tegen een door de rechter-commissaris op de voet van art. 69 lid 1 Fw gegeven beschikking staat ingevolgeart. 67 lid 1, eerste volzin, Fw hoger beroep op de rechtbank open (vgl. HR 10 mei 1985, ECLI:NL:HR:1985:AG5015, NJ 1985/791). <?linebreak?><?linebreak?></para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.3</nr>
+        <parablock>
+          <para>De uitsluiting van hoger beroep in art. 67 lid 1, derde volzin, Fw in verbinding met art. 176 lid 1 Fw ziet uitsluitend op de procedure waarin de curator toestemming heeft verzocht om tot ondershandse verkoop van goederen over te gaan en de rechter-commissaris die toestemming heeft verleend. Deze uitsluiting heeft dus geen betrekking op het hiervoor in 3.3.2 beschreven geval dat een schuldeiser opkomt tegen de handeling waartoe de curator het voornemen heeft, zelfs als de curator eerder toestemming van de rechter-commissaris zou hebben verzocht en verkregen voor ondershandse verkoop.</para>
+          <para>	De klachten van de onderdelen 2 en 3 treffen dus doel.</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Onderdeel 5, dat zich keert tegen de door de rechtbank ten laste van LM uitgesproken proceskostenveroordeling, faalt. Zoals volgt uit HR 15 december 2017, ECLI:NL:HR:2017:3143, NJ 2018/17, is een proceskostenveroordeling in procedures ingevolge de Faillissementswet mogelijk en is het aan het inzicht van de betrokken rechter overgelaten of hij in het gegeven geval tot een zodanige veroordeling aanleiding vindt. Van een veroordeling ten laste van de failliet of de boedel is in het onderhavige hoger beroep geen sprake geweest, zodat voor de in de zojuist genoemde uitspraak bedoelde terughoudendheid op dit punt in hoger beroep geen aanleiding bestond.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>De overige klachten van het middel kunnen niet tot cassatie leiden. Dit behoeft, gezien art. 81 lid 1 RO, geen nadere motivering nu die klachten niet nopen tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6</nr>
+      <para>De bestreden beschikking moet worden vernietigd. <?linebreak?>De Hoge Raad ziet aanleiding om een proceskostenveroordeling uit te spreken, maar zal dat, gelet op de op dat punt vereiste terughoudendheid, niet doen tegen de curator.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>vernietigt de beschikking van de rechtbank Noord-Nederland van 16 februari 2018;</para>
+      <para>verwijst het geding naar het gerechtshof Arnhem-Leeuwarden ter verdere behandeling en beslissing;</para>
+      <para>veroordeelt [verweerster 2] in de kosten van het geding in cassatie, tot op deze uitspraak aan de zijde van LM begroot op € 862,07 aan verschotten en € 2.200,-- voor salaris.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze beschikking is gegeven door de vice-president E.J. Numann als voorzitter en de raadsheren A.H.T. Heisterkamp, M.V. Polak, T.H. Tanja-van den Broek en M.J. Kroeze, en in het openbaar uitgesproken door de raadsheer M.V. Polak op <emphasis role="underline">28 september 2018</emphasis>.<?linebreak?></para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

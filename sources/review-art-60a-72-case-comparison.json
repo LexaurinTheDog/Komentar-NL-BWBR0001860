@@ -1,0 +1,18 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2016:2997",
+    "official_raw_path": "sources/review-art-60a-72-hr-2016-2997.xml",
+    "official_sha256": "d9bb7e4ed4d7ccdfd3203afab829d53fbea80979ddfafd5bfbd224a843964956",
+    "local_snapshot_path": "sources/review-art-60a-72-hr-2016-2997-local.md",
+    "local_sha256": "833c8f507b7b1b8a9245c3b561bb6fea1a55c2cc7cfc7c9ae98bd339641d5ea3",
+    "normalized_corpus_body_is_official_suffix": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2018:1799",
+    "official_raw_path": "sources/review-art-60a-72-hr-2018-1799.xml",
+    "official_sha256": "be135cefd291725e3e403518d8b171a21fc2dd75b787b7c1d96ebf43897f18a6",
+    "local_snapshot_path": "sources/review-art-60a-72-hr-2018-1799-local.md",
+    "local_sha256": "9cc14eef8e6b0f138fc4e7b3d17aebfb88bf781f538d38b26ac2d5c5b6a8eab2",
+    "normalized_corpus_body_is_official_suffix": true
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "searched_at": "2026-10-20T21:46:18.278685+00:00",
+  "queries": [
+    "site.rechtspraak.nl \"artikel 69\" \"persoonlijke rechten\" \"Hoge Raad\"",
+    "site.rechtspraak.nl \"artikel 66\" \"verschoningsrecht\" curator Hoge Raad",
+    "site.rechtspraak.nl \"18/00820\" \"2018\" \"Hoge Raad\" \"69\""
+  ],
+  "selection": "Primary HR 2016:2997 (identified through official PHR relation) and HR 2018:1799 (identified through official PHR relation), full official judgments read. PHR search excerpts not cited as court holdings.",
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/",
+  "limitations": "Selective research; no separately verified case for remaining technical units. No exhaustive subsequent-case search."
+}

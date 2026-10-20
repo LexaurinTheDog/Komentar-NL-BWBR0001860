@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-20T19:28:41.916251+00:00",
+  "updated_at_utc": "2026-10-20T21:47:05.474183+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -28,12 +28,12 @@
     "structural_editorial_notes": 21,
     "unaccounted_legal_text_nodes": 0,
     "version_evidence": "sources/version-evidence.json",
-    "bounded_review_reverified_at_utc": "2026-10-20T19:27:12.319849+00:00",
-    "bounded_review_evidence": "sources/review-art-41-60-fetch.json"
+    "bounded_review_reverified_at_utc": "2026-10-20T21:47:05.474183+00:00",
+    "bounded_review_evidence": "sources/review-art-60a-72-fetch.json"
   },
   "total_units": 639,
   "completed_units": 297,
-  "commentary_characters": 345009,
+  "commentary_characters": 352531,
   "complete_chapters": 22,
   "planned_chapters": 49,
   "completed_scope": "Every official article slot from article 1 through article 212i in selected XML order, including repealed slots and both article 212hgd* and article 212hgd.",
@@ -582,5 +582,39 @@
     "substantive_commentaries_corrected_or_deepened": 10,
     "chapter_checklist_added_at": "art-36a",
     "strict_validation": "Actual post-commit strict run: 100% statutory agreement; only failure is 342 unwritten unassigned commentaries."
+  },
+  "bounded_review_art_60a_72": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "art-60a",
+      "art-60b",
+      "art-61",
+      "art-62",
+      "art-63",
+      "art-63a",
+      "art-63b",
+      "art-63c",
+      "art-63d",
+      "art-63e",
+      "art-64",
+      "art-65",
+      "art-66",
+      "art-67",
+      "art-68",
+      "art-68a",
+      "art-69",
+      "art-70",
+      "art-71",
+      "art-72"
+    ],
+    "changed": 9,
+    "unassigned_commentaries_unchanged": true,
+    "evidence": "sources/review-art-60a-72-result.json",
+    "case_sources": [
+      "ECLI:NL:HR:2016:2997",
+      "ECLI:NL:HR:2018:1799"
+    ],
+    "whole_book_complete": false
   }
 }

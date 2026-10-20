@@ -35,3 +35,6 @@ Op 20 oktober 2026 zijn exact de twintig toegewezen plaatsen van artikel 28 tot 
 ## Afgebakende tweede lezing: artikel 41–60
 
 Op 20 oktober 2026 zijn exact de twintig toegewezen plaatsen `41, 42, 42a, 43, 45, 47–59, 59a, 60` volledig tegen de officiële XML gelezen. Twaalf toelichtingen zijn gecorrigeerd of verdiept en acht ongewijzigd aanvaard. De [exacte identificaties en beoordelingen](review-result.json), [bronpreflight](sources/review-art-41-60-preflight-result.json) en [integriteitscontroles](review-checks.json) begrenzen deze review. Vijf aanvullende volledige arresten zijn gelezen, met name over samenhangende paulianatransacties en verrekening. Alle 277 overige bestaande toelichtingen en alle wettelijke teksten zijn behouden. De eerdere zestig plaatsbeoordelingen blijven afzonderlijk beschikbaar; dit proces claimt alleen deze twintig. Het gehele boek blijft onvoltooid en heeft geen externe professionele goedkeuring.
+
+
+Tweede lezing van de twintig toegewezen plaatsen 60a–72 afgerond op 20 oktober 2026: negen toelichtingen aangescherpt, elf ongewijzigd aanvaard. [Verslag](REVIEW.md) en [exacte artikelbeoordelingen](sources/review-art-60a-72-result.json). Dit wijzigt niet de onvoltooide boekstatus: 342 toelichtingen ontbreken nog buiten deze batch.
