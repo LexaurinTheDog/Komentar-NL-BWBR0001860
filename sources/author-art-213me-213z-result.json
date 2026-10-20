@@ -65,5 +65,19 @@
     "Unassigned units remain unwritten; whole-book validation is not a batch completion gate."
   ],
   "updated_at_utc": "2026-10-20T23:06:55.259342+00:00",
-  "broken_local_links": []
+  "broken_local_links": [],
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 639,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 568532,
+    "errors": [
+      "krátký/chybějící komentář u 239 jednotek: ['art-213aa(0<400)', 'art-213bb(0<400)', 'art-213cc(0<400)', 'art-213dd(0<400)', 'art-213ee(0<400)', 'art-213ff(0<120)', 'art-213gg(0<400)', 'art-213hh(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "strict_validation_exit_code": 1,
+  "batch_complete": true,
+  "all_output_local_links_checked": 574
 }

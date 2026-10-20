@@ -104,8 +104,8 @@
     },
     {
       "path": "sources/author-art-213me-213z-result.json",
-      "bytes": 1743,
-      "sha256": "39b229fad20a0a141cd9cf82648f1fcef897ecf9be748adfb2b1e82ef6a659f6"
+      "bytes": 2269,
+      "sha256": "328e04310e618c8528350d513398363ee41bafedbe85c9b77f45a47ad3b1ec93"
     },
     {
       "path": "sources/author-art-213me-213z-search-log.json",
@@ -121,6 +121,11 @@
       "path": "sources/author-art-213me-213z-selected.xml",
       "bytes": 2557947,
       "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+    },
+    {
+      "path": "sources/author-art-213me-213z-validation.json",
+      "bytes": 379,
+      "sha256": "68eaf0e198503cfcc8253d6b0be27e5082087bb72f29982216acfb549c4892cf"
     },
     {
       "path": "sources/author-art-213me-213z-wti.headers",
