@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2014:3464",
+    "access_timestamp_utc": "2026-10-20T22:00:43.406269+00:00",
+    "raw_path": "sources/review-art-121-137b-case-hr-2014-3464.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2014:3464",
+    "bytes": 38559,
+    "sha256": "34ff9e14ae38a139493d9db51d250afba6fb7cfc3c83ef4e351588c36043ce3e",
+    "headers_path": "sources/review-art-121-137b-case-hr-2014-3464.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 27506
+  }
+]

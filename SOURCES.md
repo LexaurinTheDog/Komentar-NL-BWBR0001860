@@ -58,3 +58,5 @@ Aanvullende tweede lezing artikelen 73–89: [actuele broncontrole](sources/revi
 Tweede lezing artikelen 90–106: [broncontrole](sources/review-art-90-106-preflight-result.json), [bevindingen per artikel](sources/review-art-90-106-result.json), [hercontrole primaire rechtspraak](sources/review-art-90-106-cases-fetch.json). De bestaande zaaknotities voor HR 2014:161 en HR 2026:400 zijn opnieuw getoetst.
 
 Tweede lezing artikelen 106a–120: [broncontrole](sources/review-art-106a-120-preflight-result.json), [bevindingen](sources/review-art-106a-120-result.json), [primaire rechtspraak](cases/RBOVE-2020-1557.md) en [onderzoekslog](sources/review-art-106a-120-search-log.json).
+
+Tweede lezing artikelen 121–137b: [broncontrole](sources/review-art-121-137b-preflight-result.json), [bevindingen](sources/review-art-121-137b-result.json), [primaire rechtspraak](cases/HR-2014-3464-verificatie.md) en [onderzoekslog](sources/review-art-121-137b-search-log.json).

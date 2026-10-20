@@ -1,0 +1,22 @@
+{
+  "searched_at_utc": "2026-10-20T22:01:47.794538+00:00",
+  "queries": [
+    "site.rechtspraak.nl Faillissementswet 121 137 erkenning",
+    "site.rechtspraak.nl Faillissementswet 136 hoofdelijke",
+    "site.rechtspraak.nl 21/05303 Hoge Raad",
+    "site.rechtspraak.nl 137g Hoge Raad",
+    "local HR corpus: 137[abcg]|121 lid 4"
+  ],
+  "selected_full_decisions": [
+    "ECLI:NL:HR:2014:3464"
+  ],
+  "full_primary_source": "sources/review-art-121-137b-case-hr-2014-3464.xml",
+  "local_corpus_source": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2014-3464.md",
+  "local_snapshot": "sources/review-art-121-137b-hr-2014-3464-local.md",
+  "local_sha256": "72809aab8ddcfa51e9883c92483bc8f56eb494f189d8d8577529c3ffa4d74937",
+  "not_used": [
+    "PHR 2022:540 is an advisory opinion on estates, not an HR holding; no authority added from search snippet.",
+    "HR 1952:281 not relied on because historical-law context not separately verified."
+  ],
+  "limitations": "Selective search and full reading of one selected decision; no exhaustive subsequent-treatment search or verified decision for every technical unit."
+}

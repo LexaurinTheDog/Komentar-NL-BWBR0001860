@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2014:3464</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-19T10:12:35</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2014-11-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2014-11-28</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">13/05525</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht_insolventierecht">Civiel recht; Insolventierecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2014:1707" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2014:1707</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860">Faillissementswet</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=20">Faillissementswet 20</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=67">Faillissementswet 67</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=69">Faillissementswet 69</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=108">Faillissementswet 108</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=109">Faillissementswet 109</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=110">Faillissementswet 110</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=112">Faillissementswet 112</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=122">Faillissementswet 122</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=126">Faillissementswet 126</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=127">Faillissementswet 127</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=196">Faillissementswet 196</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=197">Faillissementswet 197</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JWB 2014/411</rdf:li>
+          <rdf:li>NJB 2014/2218</rdf:li>
+          <rdf:li>RI 2015/14</rdf:li>
+          <rdf:li>RvdW 2015/1</rdf:li>
+          <rdf:li>NJ 2015/123 met annotatie van P. van Schilfgaarde</rdf:li>
+          <rdf:li>JOR 2015/58 met annotatie van mr. N.S.G.J. Vermunt, prof. mr. N.E.D. Faber</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2014:3464">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2014:3464</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2014-11-28T13:12:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2014-11-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2014:3464 Hoge Raad , 28-11-2014 / 13/05525</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2014:3464:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Faillissement. Beslissing rechter-commissaris om schuldvorderingen die niet op de voet van art. 110 Fw door de schuldeisers ter verificatie zijn ingediend, toch tot verificatie toe te laten; beschikking waartegen op de voet van art. 67 Fw beroep openstaat. Betekenis HR 15 maart 2013, ECLI:NL:HR:2013:BY4558, NJ 2013/173 voor ontvankelijkheid beroep gefailleerde; procedure art. 110 Fw strekt ook ter bescherming van zijn belangen. Niet-ontvankelijk beroep indirecte aandeelhouders. Indiening ter verificatie van schuldvorderingen door  of namens schuldeiser zelf, niet door curator op eigen gezag; art. 108, 110, 122 Fw. Heropening en voortzetting verificatievergadering met overeenkomstige toepassing van art. 108 en 109 Fw; opnieuw of alsnog beslissen over aan de orde zijnde kwesties.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2014:3464:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>28 november 2014</para>
+    <para>Eerste Kamer</para>
+    <para>nr. 13/05525</para>
+    <para>EE/LZ</para>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Arrest</para>
+    <para />
+    <para>in de zaak van:</para>
+    <para />
+    <parablock>
+      <para>Mr. Robert Jan VAN GALEN, in zijn hoedanigheid van curator in het faillissement van [verweerster 1] in liquidatie,<?linebreak?>kantoorhoudende te Amsterdam,</para>
+      <para>VERZOEKER tot cassatie, verweerder in het incidenteel cassatieberoep, </para>
+      <para>advocaat: mr. F.E. Vermeulen,</para>
+      <para />
+    </parablock>
+    <parablock>
+      <para>t e g e n</para>
+      <para />
+    </parablock>
+    <parablock>
+      <para>1.   [verweerster 1] in liquidatie,<?linebreak?>  gevestigd te [vestigingsplaats],</para>
+      <para>2.   [verweerder 2],<?linebreak?>  wonende te [woonplaats],</para>
+      <para>3.   [verweerster 3],<?linebreak?>  wonende te [woonplaats],</para>
+      <para>4.   [verweerder 4],<?linebreak?>  wonende te [woonplaats] </para>
+      <para>5.   [verweerster 5],<?linebreak?>  wonende te [woonplaats],</para>
+      <para>6.   [verweerder 6], <?linebreak?>  wonende te [woonplaats], Verenigde Staten van Amerika,</para>
+      <para>7.   [verweerster 7], <?linebreak?>  wonende te [woonplaats], Spanje, </para>
+      <para>8.   [verweerster 9], <?linebreak?>  wonende te [woonplaats], </para>
+      <para>9.   [verweerster 10], <?linebreak?>  wonende te [woonplaats], </para>
+      <para>10. [verweerster 10], <?linebreak?>wonende te [woonplaats],</para>
+      <para>11. [verweerder 11],<?linebreak?>wonende te [woonplaats],</para>
+      <para>VERWEERDERS in cassatie, verzoekers in het incidenteel cassatieberoep, </para>
+      <para>advocaten: mr. J.P. Heering en           mr. I.E. Reimert, </para>
+      <para />
+    </parablock>
+    <parablock>
+      <para>12. TELE LOGISTICS B.V.,<?linebreak?>gevestigd te Tegelen, gemeente Venlo,</para>
+      <para>13. FABORY NEDERLAND B.V.,<?linebreak?>gevestigd te Tilburg, </para>
+      <para>VERWEERDERS in cassatie, </para>
+      <para>niet verschenen.</para>
+    </parablock>
+    <para />
+    <para>
+      <?linebreak?>
+      <?linebreak?>
+    </para>
+    <parablock>
+      <para>Verzoeker tot cassatie zal hierna ook worden aangeduid als de curator, verweerder onder 1 als [verweerster 1], verweerders onder 2 tot en met 11 als de indirecte aandeelhouders en verweerders onder 12 en 13 als Tele Logistics en Fabory.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Het geding in feitelijke instantie</title>
+    <parablock>
+      <para>Voor het verloop van het geding in feitelijke instantie verwijst de Hoge Raad naar de beschikking in de zaak C/10/430643/FT RK 13-605 van de rechtbank Rotterdam van 31 oktober 2013.</para>
+      <para>	De beschikking van de rechtbank is aan deze beschikking gehecht. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Het geding in cassatie</title>
+    <parablock>
+      <para>	Tegen de beschikking van het hof heeft de curator beroep in cassatie ingesteld. Verweerders onder 1 tot en met 11 hebben incidenteel cassatieberoep ingesteld. <?linebreak?>Tele Logistics en Fabory hebben geen verweerschrift ingediend. Het cassatierekest en het verweerschrift, tevens houdende incidenteel cassatieberoep, zijn aan deze beschikking gehecht en maken daarvan deel uit.</para>
+      <para>	Partijen hebben over en weer geconcludeerd tot verwerping van het beroep.</para>
+      <para>	De conclusie van de Advocaat-Generaal J. Wuisman strekt in het principaal beroep ten dele tot vernietiging en ten dele tot verwerping, en in het incidenteel beroep tot verwerping. </para>
+      <para>De advocaat van de curator heeft bij brief van 8 augustus 2014 op die conclusie gereageerd; de advocaat van verweerders onder 1 tot en met 11 heeft datzelfde gedaan bij brief van eveneens 8 augustus 2014.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>3</nr>Uitgangspunten in cassatie</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>In cassatie kan van het volgende worden uitgegaan.</para>
+      <para>(i)	De vennootschap [verweerster 1] (hierna: [verweerster 1]) is op 10 maart 1987 failliet verklaard. Na ruim 24 jaar is dit faillissement op 17 september 2011 geëindigd door het verbindend worden van de slotuitdelingslijst. De in dit faillissement geverifieerde vorderingen zijn voor 100% (hoofdsommen en rente tot datum faillissement) aan de betrokken schuldeisers voldaan. Na afwikkeling van het faillissement resteerde in de boedel nog een bedrag van € 1.599.049,49. </para>
+      <parablock>
+        <para>(ii)	Bij beschikking van 20 juni 2012 heeft de rechtbank mr. R.J. van Galen, de curator in het eerste faillissement van [verweerster 1], benoemd tot vereffenaar van die vennootschap. Mr. Van Galen voornoemd heeft vervolgens op de voet van art. 2:23a lid 4 BW de rechtbank verzocht om wederom het faillissement van [verweerster 1] uit te spreken. <?linebreak?>Hij voerde daartoe aan dat de boedelschulden en de onvoldaan gebleven vorderingen op [verweerster 1], met name die inzake de niet voor verificatie in aanmerking gekomen rente, in totaal een hoger bedrag belopen dan de bij [verweerster 1] nog aanwezige baten. De rechtbank heeft daarop op 27 mei 2013 het gevraagde (tweede) faillissement uitgesproken, met aanstelling van mr. Van Galen tot curator (hierna: de curator) en met benoeming van een rechter-commissaris.</para>
+        <para>(iii)	De curator heeft op 24 juni 2013 (als bijlage bij de hierna onder (iv) te vermelden brief) aan de schuldeisers die op de uitdelingslijst van het eerste faillissement stonden, een circulaire gezonden waarin hij hen in kennis stelde van de aanwezigheid bij [verweerster 1] van het hiervoor in (i) vermelde tegoed en van zijn voornemen om dat tegoed in het bijzonder aan te wenden voor de voldoening van de in het eerste faillissement niet geverifieerde rentevorderingen. Uit efficiency-overwegingen stelde hij voor om ten aanzien van alle rentevorderingen de wettelijke rente tot uitgangspunt te nemen ter bepaling van de hoogte daarvan. In de hierna onder (iv) te vermelden brief heeft hij het bedrag vermeld waarvoor de desbetreffende schuldeiser, ervan uitgaande dat deze zijn voorstel aanvaardt, op de lijst van voorlopig erkende schuldeisers staat vermeld. <?linebreak?>Hij verzocht de schuldeisers die niet akkoord gingen met zijn voorstel, om alsnog hun vordering in te dienen voorzien van een motivering waarom zij menen recht te hebben op een hoger bedrag.</para>
+        <para>(iv)	De curator heeft bij brief van eveneens 24 juni 2013 op de voet van art. 109 Fw de schuldeisers, overeenkomstig de beslissing van de rechter-commissaris van 14 juni 2013, bericht dat zij uiterlijk op 4 juli 2013 hun vordering bij hem konden indienen en dat de verificatievergadering op 19 juli 2013 zou worden gehouden. </para>
+      </parablock>
+      <para>(v)	De curator heeft op de lijst van voorlopig erkende schuldvorderingen 112 crediteuren geplaatst die zich niet bij hem hebben gemeld. Tot die 112 crediteuren behoren 53 crediteuren van wie de curator niet kon vaststellen of zij rente hadden aangezegd of in hun algemene voorwaarden hadden bedongen. Zij zijn uitgenodigd om alsnog aan te tonen dat rente in algemene voorwaarden was overeengekomen, of was aangezegd. Daarnaast zijn drie crediteuren, voor een bedrag van in totaal € 845.515,29, op de lijst van betwiste schuldvorderingen geplaatst.</para>
+      <para>(vi)	Tijdens de op 19 juli 2013 gehouden verificatievergadering heeft mr. D.J.A. van den Berg, optredende als raadsman van zowel [verweerster 1] als van circa 70% van de indirecte aandeelhouders van [verweerster 1] en twee voorlopig erkende crediteuren van [verweerster 1] (Tele Logistics en Fabory), bezwaar gemaakt tegen de handelwijze van de curator. Dit bezwaar richtte zich met name tegen het feit dat de curator vorderingen van crediteuren op de lijst van voorlopig erkende vorderingen heeft geplaatst zonder dat die crediteuren hun vorderingen – zoals in art. 110 Fw is bepaald – ter verificatie hadden ingediend. Primair werd aangevoerd dat die vorderingen al daarom niet voor verificatie in aanmerking komen. Subsidiair heeft mr. Van den Berg die vorderingen betwist en verzocht om partijen op de voet van art. 122 lid 1 Fw naar een terechtzitting van de rechtbank te verwijzen voor een renvooiprocedure.</para>
+      <para />
+      <paragroup>
+        <nr>3.2.1</nr>
+        <para>De rechter-commissaris heeft het primaire bezwaar van mr. Van den Berg verworpen op de grond dat de schuldvorderingen al in het eerste faillissement waren ingediend. Ten aanzien van de subsidiaire betwisting namens [verweerster 1] oordeelde hij dat deze niet tot renvooiprocedures leiden. De betwisting door de twee voorlopig erkende crediteuren Tele Logistics en Fabory diende te worden aangemerkt als misbruik van bevoegdheid. Deze schuldeisers hadden tezamen immers nog geen € 110,-- te vorderen. <?linebreak?>Zij behartigden in wezen de gestelde belangen van de aandeelhouders van [verweerster 1] en oefenden hun bevoegdheid tot betwisting dus uit voor een ander doel dan waarvoor deze is gegeven. Ten slotte oordeelde de rechter-commissaris dat alle voorlopig erkende schuldvorderingen werden overgebracht naar de lijst van definitief erkende schuldvorderingen.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2</nr>
+        <para>
+          [verweerster 1], de indirecte aandeelhouders alsmede Tele Logistics en Fabory hebben op de voet van art. 67 Fw beroep ingesteld tegen de beslissingen van de rechter-commissaris. Zij hebben bezwaar gemaakt tegen het overbrengen van de vorderingen die op de lijst van voorlopig erkende schuldvorderingen stonden, naar de lijst van de definitief erkende schuldvorderingen. <?linebreak?>Zij voerden ten eerste aan dat de curator de lijst van voorlopig erkende vorderingen in strijd met art. 110 Fw heeft opgesteld door op die lijst ook vorderingen te plaatsen die niet bij hem zijn ingediend. Ten tweede stelden zij dat partijen naar een renvooiprocedure hadden moeten worden verwezen. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.3</nr>
+        <para>Tijdens de mondelinge behandeling van het beroep heeft de advocaat van de curator het totaalbedrag van de vorderingen van Tele Logistics en Fabory contant voldaan. Om die reden heeft de rechtbank hun beroep ongegrond verklaard. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.4</nr>
+        <parablock>
+          <para>Voor het overige heeft de rechtbank als volgt geoordeeld. [verweerster 1] en de indirecte aandeelhouders zijn ontvankelijk in hun beroep. [verweerster 1] is partij bij de in appel bestreden beschikkingen van de rechter-commissaris. <?linebreak?>[verweerster 1] en de aandeelhouders worden mogelijk geschaad door de wijze waarop de curator de lijst van voorlopig erkende schuldvorderingen heeft opgesteld. Als zij daartegen geen hoger beroep konden instellen, zou hun geen effectieve rechtsbescherming worden geboden. (rov. 6.13-6.17) </para>
+          <para>	De curator heeft de lijst van voorlopig erkende vorderingen opgesteld op een met art. 110 Fw strijdige wijze. Hoewel zijn handelwijze uit praktische overwegingen begrijpelijk is, stond het de curator toch niet vrij om schuldeisers die hun vorderingen niet hebben ingediend en zelfs in het geheel niet hebben gereageerd op de aan hen gerichte brief van de curator, op de lijst van voorlopig erkende schuldeisers te plaatsen. <?linebreak?>Dit klemt temeer omdat een bedrag van € 100.000,-- in het eerste faillissement niet kon worden uitgekeerd aangezien daarvoor geen betaaladres kon worden gevonden. Niet kan worden uitgesloten dat enkele van de door de curator op eigen initiatief op de lijst geplaatste schuldeisers hebben opgehouden te bestaan. Daardoor zijn de belangen van [verweerster 1] en de aandeelhouders geschaad, temeer omdat zij een verjaringsverweer hebben gevoerd. Naleving van de Faillisementswet waarborgt de bescherming van die belangen; daarvan kan niet uit efficiency-overwegingen worden afgezien. (rov. 6.21 en 6.23)</para>
+          <para>	De rechtbank vernietigde de beslissingen van de rechter-commissaris dat de namens [verweerster 1] gedane subsidiaire betwisting van de desbetreffende vorderingen niet tot een renvooiprocedure leidt, en dat alle voorlopig erkende concurrente schuldvorderingen werden overgebracht naar de lijst van definitief erkende schuldvorderingen. Zij droeg de rechter-commissaris op om uiterlijk binnen veertien dagen nadat haar beschikking in kracht van gewijsde is gegaan, de dag te bepalen waarop crediteuren van [verweerster 1] uiterlijk hun schuldvorderingen ingediend moeten hebben alsmede dag, uur en plaats vast te stellen waarop de verificatievergadering wordt gehouden. Zij wees het meer of anders verzochte af. </para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van het middel in het principale beroep</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Ontvankelijkheid van het beroep voor zover gericht tegen Tele Logistics en Fabory</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <para>De curator heeft zijn cassatieberoep mede gericht tegen Tele Logistics en Fabory, hoewel de rechtbank het geschil tussen hen en de curator in het voordeel van de curator heeft beslist. Het middel bevat dan ook geen hiertegen gerichte klachten. De curator is dus in zoverre niet-ontvankelijk in zijn beroep.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Onderdeel I: ontvankelijkheid van [verweerster 1] en de indirecte aandeelhouders in hun hoger beroep </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>De onderdelen 1, 1.1, 1.1.1 en 1.1.2 houden in de kern de klacht in dat de rechtbank heeft miskend dat de Faillissementswet niet aan de rechter-commissaris de bevoegdheid toekent een beslissing te nemen over de toelating tot de verificatie van bij de curator ingediende schuldvorderingen, en dat de rechter-commissaris een dergelijke beslissing feitelijk ook niet heeft genomen.</para>
+      <para />
+      <paragroup>
+        <nr>4.3.1</nr>
+        <para>Blijkens het proces-verbaal van de op 19 juli 2013 gehouden verificatievergadering heeft mr. Van den Berg namens [verweerster 1] en de aandeelhouders bezwaar gemaakt tegen het feit dat de curator vorderingen van crediteuren op de lijst van voorlopig erkende vorderingen heeft geplaatst zonder dat die crediteuren hun vorderingen – zoals in art. 110 Fw is bepaald – ter verificatie hadden ingediend. Het proces-verbaal bevat aan het slot de volgende passage:</para>
+        <para />
+        <parablock>
+          <para>"De rechter-commissaris schorst vervolgens de vergadering.</para>
+          <para>De rechter-commissaris heropent de vergadering en deelt mee dat:</para>
+          <para>(...)</para>
+          <para>- de betwistingen namens de gefailleerde worden genoteerd. (...) Die betwistingen leiden niet tot renvooiprocedures;</para>
+          <para>(…)</para>
+          <para>- alle op de lijst van voorlopig erkende concurrente schuldvorderingen [voorkomende schuldvorderingen] worden overgebracht naar de lijst van definitief erkende schuldvorderingen;</para>
+          <para>(...)".</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Tegen deze achtergrond is niet onbegrijpelijk dat de rechtbank heeft geoordeeld dat de rechter-commissaris, met verwerping van het bezwaar van mr. Van den Berg, tevens heeft beslist tot toelating van de desbetreffende vorderingen tot de verificatie, hoewel zij niet door de schuldeisers bij de curator zijn ingediend. </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.2</nr>
+        <parablock>
+          <para>Anders dan de onderdelen aanvoeren brengt de omstandigheid dat in art. 127 lid 4 Fw twee gevallen worden genoemd waarin de rechter-commissaris kan beslissen over de toelating van vorderingen tot de verificatie, niet mee dat hij die bevoegdheid mist in het onderhavige geval, dat in die bepaling niet wordt genoemd. Zoals in HR 6 oktober 2006, ECLI:NL:HR:2006:AX8295, NJ 2010/184 is geoordeeld ten aanzien van beslissingen van de rechter-commissaris die op de voet van art. 66 Fw zijn genomen, geldt ook voor andere beslissingen van de rechter-commissaris in het kader van de uitoefening van zijn taak dat zij voor de toepassing van art. 67 Fw dienen te worden aangemerkt als beschikkingen. Dit is slechts anders als het gaat om een door de wet voorgeschreven beslissing of om een maatregel van orde, zoals die ter verzekering van de geregelde loop van de verificatievergadering (vgl. HR 27 augustus 1943, NJ 1943/680 en HR 20 april 1979, ECLI:NL:HR:1979:AC6561, NJ 1980/156). </para>
+          <para>	Tot de taak van de rechter-commissaris behoort mede het beslissen van geschilpunten die rijzen bij de verificatievergadering, voor zover deze niet beslecht dienen te worden in een renvooiprocedure. Van die beslissingen staat dus op de voet van art. 67 Fw beroep open. Tot de geschilpunten die kunnen rijzen bij de verificatievergadering behoren die met betrekking tot de hier aan de orde zijnde vraag of vorderingen tot de verificatie kunnen worden toegelaten. Hoger beroep daartegen wordt door de wet niet uitgesloten.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.3</nr>
+        <para>De hiervoor in 4.2 genoemde klacht faalt derhalve. </para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>Onderdeel 1.2 voert subsidiair aan dat de beslissing van de rechter-commissaris tot toelating van de desbetreffende vorderingen tot de verificatie geen beschikking is, omdat die toelating voor de betrokken personen (nog) geen rechtsgevolg heeft.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <para>Blijkens het proces-verbaal van de verificatievergadering heeft mr. Van den Berg bezwaar gemaakt tegen toelating tot de verificatie van niet door de desbetreffende schuldeisers zelf ingediende rentevorderingen. In de beslissing van de rechter-commissaris tot verwijzing van alle op de lijst van voorlopig erkende schuldvorderingen voorkomende vorderingen naar de lijst van definitief erkende schuldvorderingen, ligt de verwerping van dit bezwaar besloten. Deze beslissing was geen ordemaatregel of een door de wet voorgeschreven beslissing, maar was gebaseerd op een juridische beoordeling door de rechter-commissaris van de over en weer aangevoerde argumenten. Zij had rechtsgevolg omdat daardoor schuldeisers die hun vordering niet bij de curator hadden ingediend, toch tot de verificatie werden toegelaten en daarmee in beginsel konden meedelen in het boedelactief van € 1.599.049,49. Het onderdeel faalt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6</nr>
+      <para>De onderdelen 3 en 3.1 houden kort gezegd in dat, wat de beslissing tot verificatie van de bij de curator ingediende schuldvorderingen betreft, aan de gefailleerde slechts de in art. 126 Fw geregelde bevoegdheid is toegekend. Daarom kan hij zich niet met succes verzetten tegen de verificatie van schuldvorderingen, zodat hem ook geen recht van hoger beroep toekomt tegen de daarover in de verificatievergadering genomen beslissing van de rechter-commissaris.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7</nr>
+      <para>De onderdelen berusten op het juiste uitgangspunt dat, hoewel het onder het faillissementsbeslag vallende vermogen nog steeds aan de schuldenaar toebehoort (art. 20 Fw), de vereffening en de verdeling van de opbrengst daarvan geschiedt ten behoeve van diens gezamenlijke schuldeisers. Met de belangen van de gefailleerde wordt in beginsel slechts in zoverre rekening gehouden dat hem de bevoegdheid is gegeven zich te verzetten tegen de erkenning van een vordering of van een gestelde voorrang (art. 126 lid 1 Fw). Over een zodanige betwisting hoeft niet in een renvooiprocedure te worden beslist; het gevolg daarvan is (slechts) dat, in afwijking van het in art. 196 Fw neergelegde uitgangspunt, het proces-verbaal van de verificatievergadering na beëindiging van het faillissement, tegenover de gefailleerde niet een voor tenuitvoerlegging vatbare titel oplevert (art. 196 en 197 Fw). Dit stelsel brengt mee dat de gefailleerde niet als “partij” in de zin van art. 67 Fw kan opkomen tegen een beschikking van de rechter-commissaris over de erkenning van ter verificatie ingediende schuldvorderingen of tegen daarmee gelijk te stellen beslissingen (HR 15 maart 2013, ECLI:NL:HR:2013:BY4558, NJ 2013/173).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.8</nr>
+      <para>In het onderhavige geval gaat het evenwel niet om een beroep tegen de erkenning van ter verificatie ingediende schuldvorderingen, maar om een beroep tegen de daaraan voorafgaande beslissing om schuldvorderingen die niet op de voet van art. 110 Fw door de schuldeisers ter verificatie zijn ingediend, toch tot de verificatie toe te laten. De omstandigheid dat het onder het faillissementsbeslag vallende vermogen aan de gefailleerde toebehoort, en dat een eventueel overschot na het verbindend worden van de slotuitdelingslijst dus aan hem toekomt (en in geval van een failliet verklaarde vennootschap aan haar toekomt ter vereffening van haar vermogen), brengt mee dat hij een rechtens te respecteren belang heeft bij zijn beroep tegen de beslissing om niet bij de curator ingediende schuldvorderingen toe te laten tot de verificatie. De gefailleerde dient in zoverre te worden beschouwd als “partij” bij de beschikking van de rechter-commissaris en kan daarom in zijn daartegen gerichte beroep worden ontvangen. Een andere opvatting zou meebrengen dat zijn vermogen, zonder dat daartegen voor hem rechtsbescherming bestaat, blootstaat aan verhaal mede ten behoeve van derden van wie de vorderingen op grond van de Faillissementswet niet tot de verificatie mochten worden toegelaten. De in art. 110 Fw voorgeschreven procedure strekt dus ook ter bescherming van de belangen van de gefailleerde. De onderdelen falen. </para>
+      <para />
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.9</nr>
+      <para>Onderdeel 3.2 keert zich tegen het oordeel van de rechtbank dat ook de indirecte aandeelhouders kunnen opkomen tegen de beslissingen van de rechter-commissaris. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.10</nr>
+      <para>Het onderdeel treft doel. In dit geding staat vast dat alle aandelen in [verweerster 1] worden gehouden door haar (eveneens failliet verklaarde) moedermaatschappij,[A] B.V. Nu de beslissing van de rechter-commissaris om de niet-ingediende vorderingen tot de verificatie in het faillissement van [verweerster 1] toe te laten, niet de vereffening van het vermogen van de indirecte aandeelhouders zelf betreft, hebben zij niet het hiervoor in 4.8 bedoelde belang. De rechtbank heeft hen derhalve ten onrechte in hun beroep ontvangen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Onderdeel II: indiening van schuldvorderingen bij de curator (art. 110 Fw)</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.11</nr>
+      <para>De onderdelen 1-4 zijn met uiteenlopende argumenten gericht tegen de oordelen van de rechtbank in de rov. 6.21 en 6.23 dat de curator de lijst van voorlopig erkende vorderingen heeft opgesteld op een met art. 110 Fw strijdige wijze en dat het hem niet vrijstond om schuldeisers die hun vorderingen niet hebben ingediend en zelfs in het geheel niet hebben gereageerd op de aan hen gerichte brief van de curator, toch op de lijst van voorlopig erkende schuldeisers te plaatsen. De onderdelen zijn mede gericht tegen de daarmee samenhangende of daarop voortbouwende oordelen.</para>
+      <para />
+      <paragroup>
+        <nr>4.12.1</nr>
+        <parablock>
+          <para>De door de onderdelen aangevoerde klachten falen. Het oordeel van de rechtbank houdt in dat schuldeisers zelf de schuldvorderingen bij de curator moeten indienen waarvan zij verificatie wensen. Dit oordeel is juist. <?linebreak?>Ook in faillissement is het aan de schuldeisers zelf om hun rechten geldend te maken dan wel daarvan, desgewenst, af te zien, zoals niet alleen volgt uit de tekst van art. 110 lid 1 Fw, maar ook uit die van art. 108 lid 1, aanhef en onder 1, en art. 122 lid 3 Fw. Dit stemt overeen met de wetsgeschiedenis, nu in de MvT op art. 108 Fw onder meer is opgemerkt: “Van de schuldeisers mag de diligentie gevorderd worden, dat zij hunne vorderingen vóór afloop van den daarvoor bepaalde termijn indienen” (Van der Feltz II, p. 76). De in art. 110 Fw vereiste vermelding van de aard en het bedrag der vordering, overlegging van bewijsstukken of afschriften daarvan, en opgave of op voorrecht, pand, hypotheek of retentierecht aanspraak wordt gemaakt, kunnen uit hun aard slechts door de desbetreffende schuldeiser(s) zelf worden gedaan. Hiermee strookt voorts dat volgens art. 26 Fw de daarin omschreven vorderingen tegen de gefailleerde gedurende het faillissement slechts “door aanmelding ter verificatie” kunnen worden ingesteld. </para>
+          <para>	Het voorgaande betekent derhalve dat schuldvorderingen door of namens de schuldeiser zelf ter verificatie moeten worden aangemeld, overeenkomstig de regels van de wet, en dat dit niet kan gebeuren door de curator op eigen gezag.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.12.2</nr>
+        <para>Anders dan de onderdelen betogen, is de omstandigheid dat in art. 112 Fw niet uitdrukkelijk is vermeld dat de door de curator goedgekeurde vorderingen door de desbetreffende schuldeiser(s) zelf moeten worden ingediend, in dit verband niet van belang. Deze bepaling regelt een vervolgstap in de verificatieprocedure (het plaatsen van vorderingen op een lijst van voorlopig erkende schuldvorderingen dan wel op een lijst van betwiste vorderingen) die pas kan worden gezet nadat de desbetreffende vorderingen op de voet van art. 110 Fw bij de curator zijn ingediend. </para>
+        <para />
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Overige klachten</emphasis>
+          </para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.13</nr>
+      <para>De tot dusver niet behandelde klachten van het middel kunnen niet tot cassatie leiden. Dit behoeft, gezien art. 81 lid 1 RO, geen nadere motivering nu die klachten niet nopen tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>5</nr>Beoordeling van het middel in het incidentele beroep</title>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Het middel voert aan dat de rechtbank ten onrechte heeft geoordeeld dat de vernietiging van de in het dictum van haar beschikking vermelde beslissingen van de rechter-commissaris meebrengt dat de verificatievergadering opnieuw moet worden gehouden. <?linebreak?>De Faillissementswet biedt immers niet de mogelijkheid om meer dan één verificatievergadering te houden.</para>
+      <para />
+      <paragroup>
+        <nr>5.2.1</nr>
+        <para>Het middel mist feitelijke grondslag en kan daarom niet tot cassatie leiden. Op zichzelf is juist dat de Faillissementswet niet voorziet in de mogelijkheid om meer dan één verificatievergadering te houden, maar de rechtbank heeft dit niet miskend. Haar oordeel dient aldus te worden verstaan dat de verificatievergadering dient te worden heropend en voortgezet met overeenkomstige toepassing van de art. 108 en 109 Fw. <?linebreak?>Aan de reeds gehouden verificatievergadering is immers, naar het kennelijke en niet onbegrijpelijke oordeel van de rechtbank, met de hiervoor in 3.1 onder (iii) en (iv) genoemde mededelingen van de curator een zodanig onjuiste kennisgeving voorafgegaan, dat voldoende aannemelijk is dat als gevolg daarvan schuldeisers ervan zijn weerhouden hun vordering ter verificatie in te dienen en ter verificatievergadering te verschijnen.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>5.2.2</nr>
+        <parablock>
+          <para>In verband met dit laatste dient tijdens de heropende verificatievergadering, voor zover nodig om de gevolgen van de eerdere onjuiste kennisgeving te herstellen, opnieuw of alsnog te worden beslist over alle kwesties die bij de aanvankelijk gehouden, en heropende, verificatievergadering aan de orde waren. Dat geldt ook voor de reeds gedane erkenningen, waaraan anders op de voet van art. 121 lid 4 Fw kracht van gewijsde zou toekomen. Tijdens de heropende verificatievergadering bestaat derhalve de mogelijkheid voor nieuw verschenen schuldeisers om schuldvorderingen alsnog te betwisten. Betwistingen die op de aanvankelijk gehouden verificatie-vergadering zijn gedaan (en de verwijzing naar de renvooiprocedure) blijven van kracht.</para>
+          <para>		Voor zover daartoe aanleiding bestaat dient tijdens de heropende verificatievergadering mede in de beoordeling te worden betrokken hetgeen tijdens <?linebreak?>de aanvankelijk gehouden verificatievergadering is aangevoerd of gebleken.</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>6</nr>Beslissing</title>
+    <parablock>
+      <para>	De Hoge Raad:</para>
+      <para>
+        <emphasis role="italic">in het principale beroep:</emphasis>
+      </para>
+      <para>	verklaart de curator niet-ontvankelijk in zijn beroep voor zover het is gericht tegen Tele Logistics en Fabory;</para>
+      <para>	vernietigt de beschikking van de rechtbank, doch uitsluitend voor zover daarin het beroep van de indirecte aandeelhouders met betrekking tot de door de rechtbank omschreven beslissingen b en d van de rechter-commissaris gegrond is geacht, en verklaart de indirecte aandeelhouders alsnog niet-ontvankelijk in dat beroep;</para>
+      <para>	verwerpt het beroep voor het overige; </para>
+      <para>
+        <emphasis role="italic">in het incidentele beroep:</emphasis>
+      </para>
+      <para>	verwerpt het beroep.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>	Dit arrest is gewezen door de vice-president F.B. Bakels als voorzitter en de raadsheren C.A. Streefkerk, G. Snijders, M.V. Polak en T.H. Tanja-van den Broek, en in het openbaar uitgesproken door de raadsheer G. de Groot op <emphasis role="underline">28 november 2014</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>
