@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-20T23:14:03.715474+00:00",
+  "queries": [
+    "site.rechtspraak.nl \"213nn\" \"213oo\"",
+    "site.rechtspraak.nl \"214\" \"surseance\" \"Hoge Raad\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak",
+  "local_hits": "sources/author-art-213aa-214-local-hits.txt",
+  "disposition": "Selective search only. No judicial holding cited in these twenty units. Search result ECLI:NL:RBDHA:2024:18898 concerns later homologation and was not used as authority without full-text examination. No claim of exhaustive research or absence of all relevant case law.",
+  "verified_case_sources": [],
+  "local_hit_disposition": "Only HR 1968 AC2286; matches occur in imported statutory reference metadata, not a verified interpretation of these later provisions. Excluded."
+}

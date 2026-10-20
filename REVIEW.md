@@ -284,3 +284,6 @@ Het volledige arrest van het Hof van Justitie van 13 januari 2022, C-724/20, ECL
 
 De [bouwpoging](sources/review-art-213me-213z-build.txt) en [strikte validatie](sources/review-art-213me-213z-validation.json) zijn uitgevoerd. De wettekstovereenkomst is 100%; 239 ontbrekende commentaren buiten deze batch verhinderen een volledige boekbouw en validatie. Het bestaande checkpoint is daarom met deze twintig gecontroleerde artikelen opnieuw samengesteld. De linkcontrole en controle op identiek herhaalde lange alinea’s slagen. Dit is een projectinterne afgebakende tweede lezing, geen volledige boekreview of externe professionele goedkeuring.
 
+
+
+Auteursbatch 213aa–214: twintig specifieke toelichtingen; [broncontrole](sources/author-art-213aa-214-preflight-result.json), [dekking](sources/author-art-213aa-214-coverage.json), [selectief rechtspraakonderzoek](sources/author-art-213aa-214-search-log.json). Geen rechterlijke uitspraak aangehaald in deze batch. Onafhankelijke tweede lezing nog niet uitgevoerd; overige bepalingen vallen buiten deze opdracht.

@@ -1,0 +1,1 @@
+CHYBÍ komentář k 219 jednotkám, např.: ['art-215', 'art-215a', 'art-215b', 'art-216', 'art-217', 'art-218', 'art-219', 'art-220', 'art-221', 'art-222']

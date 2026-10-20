@@ -2134,5 +2134,75 @@
       "sha256": "30032835c8d2a7b6797b3d809ef8b0b768dfd184ef5bc740aa118a2ef1bf35ef",
       "finding": "XIV(4) preserves former Faillissementswet for insurer bankruptcies before Article IV commencement; text read at line424."
     }
+  },
+  "bounded_author_art_213aa_214": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "batch_date_local": "2026-10-21",
+    "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+    "verified_at": "2026-10-20T23:14:03.715474+00:00",
+    "assigned_ids": [
+      "art-213aa",
+      "art-213bb",
+      "art-213cc",
+      "art-213dd",
+      "art-213ee",
+      "art-213ff",
+      "art-213gg",
+      "art-213hh",
+      "art-213ii",
+      "art-213jj",
+      "art-213kk",
+      "art-213kka",
+      "art-213ll",
+      "art-213mm",
+      "art-213nn",
+      "art-213oo",
+      "art-213pp",
+      "art-213qq",
+      "art-213rr",
+      "art-214"
+    ],
+    "version_evidence": {
+      "effective_from": "2026-09-01",
+      "current_redirect": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+      "explicit_current_statement": "Geldend van 01-09-2026 t/m heden. Geraadpleegd op 20-10-2026.",
+      "capture_date_distinguished_from_display": true,
+      "xml_same_as_canonical": true,
+      "wti_same_as_previous": true,
+      "changes_since_intake": [],
+      "future_dated_change_excluded": "2027-11-15",
+      "undated_changes_excluded": true,
+      "prior_detailed_wti_evidence": "sources/version-evidence.json",
+      "fresh_records": "sources/author-art-213aa-214-fetch.json"
+    },
+    "historical_versions_checked": [
+      {
+        "path": "sources/version-register.xml",
+        "sha256": "763e7ee5229eb9d24e14bfa85b9614ed1a757880954b662958b69fb77e64417f",
+        "effective_from": "2002-01-01",
+        "article_count": 414,
+        "disposition": "Historical labels separately counted, excluded from current article extraction."
+      },
+      {
+        "path": "sources/review-art-212z-213a-historical-2025.xml",
+        "sha256": "51ef559220c00e2a608c328cf1254c0bfa4bf2620acd431a766d8c2694ac2202",
+        "effective_from": "2025-11-19",
+        "article_count": 635,
+        "disposition": "Historical labels separately counted, excluded from current article extraction."
+      }
+    ],
+    "annexes_checked": [
+      "Full fresh XML scanned for bijlage/annex elements: none. Non-article opening and closing material preserved in sources/non-article-text.json, structural editorial notes in sources/structural-editorial-notes.json."
+    ],
+    "coverage": {
+      "expected": 639,
+      "parsed": 639,
+      "missing": [],
+      "extra": [],
+      "duplicates": [],
+      "all_current_texts_exact": true
+    },
+    "unresolved_blockers": []
   }
 }
