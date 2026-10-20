@@ -1,0 +1,21 @@
+{
+  "ids": [
+    "art-212j",
+    "art-212k",
+    "art-212l"
+  ],
+  "completed_units": 3,
+  "commentary_chars": {
+    "art-212j": 2621,
+    "art-212k": 2489,
+    "art-212l": 2484
+  },
+  "official_xml_identifiers": 639,
+  "coverage_ok": true,
+  "statutory_source_sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+  "whole_build_returncode": 1,
+  "whole_build_limitation": "Whole book still incomplete; builder refuses missing unassigned commentary. Bounded checkpoint exported without placeholders.",
+  "independent_review": false,
+  "stage": "bounded_batch_authored",
+  "updated_at": "2026-10-20T22:26:35.817339+00:00"
+}

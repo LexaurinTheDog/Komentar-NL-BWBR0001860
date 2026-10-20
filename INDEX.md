@@ -47,3 +47,5 @@ De 22 hieronder vermelde hoofdstukken bevatten 297 toegelichte plaatsen, van art
 - [21-wet-21.md](21-wet-21.md) — Titel I Van faillissement / Afdeling 11A Van het definitieve karakter van de afwikkeling van betalingen en effectentransacties in betalings- en afwikkelingssystemen; Artikel 212a t/m Artikel 212f
 
 - [22-wet-22.md](22-wet-22.md) — Titel I Van faillissement / Afdeling 11AA Van het faillissement van een bank; Artikel 212g t/m Artikel 212i
+
+[Afzonderlijk auteurscheckpoint: artikelen 212j–212l](23-art-212j-212l-checkpoint.md).

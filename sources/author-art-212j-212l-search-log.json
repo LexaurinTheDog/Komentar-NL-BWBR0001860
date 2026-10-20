@@ -1,0 +1,11 @@
+{
+  "queries": [
+    "site:rechtspraak.nl \"212j\" \"Faillissementswet\"",
+    "site:rechtspraak.nl \"212k\" \"Faillissementswet\"",
+    "site:rechtspraak.nl \"212l\" \"Faillissementswet\""
+  ],
+  "searched_at": "2026-10-20T22:26:35.817339+00:00",
+  "local_search": "rg -l -i 212j|212k|212l /Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr --glob *.md",
+  "local_matches": [],
+  "result": "No sufficiently relevant verified official full-text judgment found. No case holding attributed. Selective search only; no exhaustive coverage claim."
+}

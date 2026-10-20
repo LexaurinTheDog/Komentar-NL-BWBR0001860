@@ -1,0 +1,35 @@
+{
+  "kind": "bounded_author_preflight",
+  "complete": true,
+  "ids": [
+    "art-212j",
+    "art-212k",
+    "art-212l"
+  ],
+  "decisive_date": "2026-10-19",
+  "batch_date_local": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "verified_at": "2026-10-20T22:26:35.817339+00:00",
+  "version_evidence": {
+    "records": "sources/author-art-212j-212l-fetch.json",
+    "effective_from": "2026-09-01",
+    "explicit_valid_through": "heden, geraadpleegd op 20-10-2026",
+    "current_xml_unchanged": true,
+    "wti_unchanged": true,
+    "changes_since_intake": []
+  },
+  "historical_versions_checked": [
+    "sources/version-register.xml (2002 historical state excluded)",
+    "sources/author-art-212j-212l-wti.xml (version inventory unchanged; future changes excluded)"
+  ],
+  "annexes_checked": [
+    "Full freshly fetched XML: no annex elements; existing independently verified official HTML inventory unchanged."
+  ],
+  "coverage": {
+    "official_unique": 639,
+    "parsed": 639,
+    "missing": [],
+    "extra": []
+  },
+  "unresolved_blockers": []
+}
