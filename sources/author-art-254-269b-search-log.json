@@ -1,0 +1,14 @@
+{
+  "at": "2026-10-20T23:50:20.293693+00:00",
+  "queries": [
+    "site.rechtspraak.nl \"268a\" \"surseance\"",
+    "site.rechtspraak.nl \"257\" \"surseance\" \"pandrecht\""
+  ],
+  "verified_case_sources": [
+    "ECLI:NL:HR:2017:3110",
+    "ECLI:NL:RBDHA:2024:18898"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+  "local_version": "ecli-nl-hr-2017-3110.md",
+  "disposition": "Full official judgments read; selective research. No sufficiently relevant separately verified case added for remaining technical units."
+}

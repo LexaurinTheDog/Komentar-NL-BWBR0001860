@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-20T23:41:04.703377+00:00",
+  "updated_at_utc": "2026-10-20T23:50:20.293693+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -32,33 +32,13 @@
     "bounded_review_evidence": "sources/review-art-60a-72-fetch.json"
   },
   "total_units": 639,
-  "completed_units": 480,
+  "completed_units": 500,
   "commentary_characters": 568532,
   "complete_chapters": 27,
   "planned_chapters": 49,
   "completed_scope": "400 consecutive official article slots, article 1 through article 213z in selected XML order; latest batch 213me–213z including 213ij awaits independent second pass.",
-  "remaining_units": 159,
+  "remaining_units": 139,
   "remaining_ids": [
-    "art-254",
-    "art-255",
-    "art-256",
-    "art-257",
-    "art-257a",
-    "art-258",
-    "art-259",
-    "art-260",
-    "art-261",
-    "art-262",
-    "art-263",
-    "art-264",
-    "art-265",
-    "art-266",
-    "art-267",
-    "art-268",
-    "art-268a",
-    "art-269",
-    "art-269a",
-    "art-269b",
     "art-270",
     "art-271",
     "art-272",
@@ -1815,5 +1795,95 @@
         "ok": false
       }
     }
+  },
+  "bounded_author_art_254_269b": {
+    "assigned_ids": [
+      "art-254",
+      "art-255",
+      "art-256",
+      "art-257",
+      "art-257a",
+      "art-258",
+      "art-259",
+      "art-260",
+      "art-261",
+      "art-262",
+      "art-263",
+      "art-264",
+      "art-265",
+      "art-266",
+      "art-267",
+      "art-268",
+      "art-268a",
+      "art-269",
+      "art-269a",
+      "art-269b"
+    ],
+    "assigned_total": 20,
+    "completed_units": 20,
+    "commentary_chars": {
+      "art-254": 1437,
+      "art-255": 1503,
+      "art-256": 1485,
+      "art-257": 1665,
+      "art-257a": 1348,
+      "art-258": 1404,
+      "art-259": 1294,
+      "art-260": 1417,
+      "art-261": 1357,
+      "art-262": 1480,
+      "art-263": 1368,
+      "art-264": 1335,
+      "art-265": 1601,
+      "art-266": 1314,
+      "art-267": 1479,
+      "art-268": 1445,
+      "art-268a": 1628,
+      "art-269": 1417,
+      "art-269a": 1550,
+      "art-269b": 1746
+    },
+    "batch_checks_ok": true,
+    "verbatim_ratio": 1.0,
+    "all_639_official_texts_exact": true,
+    "unassigned_commentary_unchanged": true,
+    "repeated_long_paragraphs": 0,
+    "full_build_returncode": 1,
+    "bounded_build_returncode": 0,
+    "validation_result": {
+      "bounded": {
+        "repo": "Komentar-NL-BWBR0001860",
+        "units": 20,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 29273,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "whole_book": {
+        "repo": "Komentar-NL-BWBR0001860",
+        "units": 639,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 734338,
+        "errors": [
+          "krátký/chybějící komentář u 139 jednotek: ['art-270(0<120)', 'art-271(0<400)', 'art-272(0<400)', 'art-273(0<120)', 'art-274(0<400)', 'art-275(0<120)', 'art-276(0<400)', 'art-277(0<400)']"
+        ],
+        "warnings": [],
+        "ok": false
+      }
+    },
+    "stage": "bounded_batch_authored",
+    "whole_book_complete": false,
+    "independent_review": false,
+    "case_law_sources": [
+      "ECLI:NL:HR:2017:3110",
+      "ECLI:NL:RBDHA:2024:18898"
+    ],
+    "limitations": [
+      "Whole-book authoring incomplete.",
+      "Selective case-law search, not exhaustive.",
+      "Independent second pass pending."
+    ],
+    "at": "2026-10-20T23:50:20.293693+00:00"
   }
 }

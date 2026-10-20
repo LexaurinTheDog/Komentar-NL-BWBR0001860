@@ -1,0 +1,10 @@
+{
+  "url": "https://uitspraken.rechtspraak.nl/api/content/uitspraak?id=ECLI%3ANL%3AHR%3A2017%3A3110",
+  "http_status": 200,
+  "accepted": false,
+  "reason": "XML parse rejected HTML response; replaced by full official data.rechtspraak.nl XML.",
+  "raw_path": "sources/author-art-254-269b-rejected-api-response.html",
+  "sha256": "36069482a44139f041698d456792c914c8209e59d2671f8f167b9d5d61d9596e",
+  "access_timestamp_utc": "2026-10-20T23:47:22.441620+00:00",
+  "timestamp_limitation": "Timestamp borrowed from immediately subsequent successful fetch; exact rejected-response time not captured."
+}

@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2024:18898</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-21T18:04:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-11-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2024-11-13</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">C/09/24/20 S</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#bodemzaak">Bodemzaak</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Den Haag</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht_insolventierecht">Civiel recht; Insolventierecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>INS-Updates.nl 2024-0281</rdf:li>
+          <rdf:li>RI 2025/19</rdf:li>
+          <rdf:li>JOR 2025/71 met annotatie van Mr. R.J. van Galen</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2024:18898">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2024:18898</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2024-11-20T07:58:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2024-11-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2024:18898 Rechtbank Den Haag , 13-11-2024 / C/09/24/20 S</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2024:18898:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Homologatie akkoord in surseance. Geen toets aan WHOA. Geen schending paritas creditorum of absolute priority rule.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2024:18898:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>
+      <inlinemediaobject>
+        <imageobject>
+          <imagedata align="center" scale="100" fileref="45bb0db3-dbc1-4274-b367-f910c3f8b36c" depth="2" width="13" format="image/png" />
+        </imageobject>
+      </inlinemediaobject>
+      <inlinemediaobject>
+        <imageobject>
+          <imagedata align="center" scale="100" fileref="d6f57c26-7440-4782-bdbd-390ec6c7173c" depth="2" width="523" format="image/png" />
+        </imageobject>
+      </inlinemediaobject>beschikking</para>
+    <para>
+      <emphasis role="bold">RECHTBANK </emphasis>
+      <emphasis role="bold smallcaps">DEN HAAG</emphasis>
+    </para>
+    <para />
+    <parablock>
+      <para>Team Insolventies – enkelvoudige kamer</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>insolventienummer:  C/09/24/20 S</para>
+      <para>uitspraakdatum      :  13 november 2024</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In de surseance van betaling van:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de besloten vennootschap met beperkte aansprakelijkheid</para>
+      <para>
+        <emphasis role="bold">
+          [schuldenaar] B.V.,</emphasis>
+      </para>
+      <para>ingeschreven bij de Kamer van Koophandel onder nummer [kvk-nummer] ,</para>
+      <para>statutair gevestigd te [vestigingsplaats 1] ,</para>
+      <para>vestigingsadres: [postcode] [vestigingsplaats 2] , [adres] ,</para>
+      <para>hierna: schuldenaar,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>is de volgende beschikking gegeven.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>De procedure</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Schuldenaar heeft op 2 september 2024 een verzoek tot verlening van surseance ingediend. Op dezelfde dag heeft de rechtbank aan schuldenaar de voorlopige surseance van betaling per die datum verleend. Mr. D. de Loor is tot rechter-commissaris benoemd en mr. M.J.H. Vermeeren, advocaat te Den Haag, is tot bewindvoerder benoemd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <parablock>
+        <para>Op 15 oktober 2024 is ter terechtzitting van mr. D. de Loor, rechter-commissaris, bijgestaan door R. Becker als griffier, een crediteurenvergadering gehouden. Daarin heeft ook de behandeling van het akkoord plaatsgevonden dat schuldenaar aan zijn schuldeisers heeft aangeboden. </para>
+        <para>Het akkoord is met de bij de wet vereiste meerderheid aangenomen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Het verloop van de procedure blijkt voorts uit:</para>
+      <para>- het verzoek tot verlening van de surseance van betaling van [schuldenaar] B.V. gedateerd 29 augustus 2024;</para>
+      <para>- de beschikking van de rechtbank van 2 september 2024;</para>
+      <para>- het verslag van de bewindvoerder van 1 oktober 2024;</para>
+      <para>- het proces-verbaal van de schuldeisersvergadering van 15 oktober 2024 met schuldenlijst en akkoord;</para>
+      <para>- de brief van mr. Van de Klundert van 23 oktober 2024;</para>
+      <para>- twee brieven van de bewindvoerder van 25 oktober 2024,</para>
+      <para>- de brief van mr. L.J.W. Godding van 28 oktober 2024;</para>
+      <para>- de salarisberekening van de bewindvoerder van 28 oktober 2024;</para>
+      <para>- het bericht van mr. I.M. Tan-Beulen van 28 oktober 2024;</para>
+      <para>- het verslag van de rechter-commissaris ingevolge artikel 271 lid 1 van de Faillissementswet van 28 oktober 2024.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>De homologatie van het akkoord is op 29 oktober 2024 ter openbare terechtzitting behandeld. Daarbij zijn verschenen:</para>
+      <para>- de heer [naam 1] en de heer [naam 2] , indirect bestuurders van schuldenaar;</para>
+      <para>- mr. W.J.B. Berendsen, advocaat van schuldenaar, met kantoorgenoten mr. L.J.W. Godding en S.C.A. van Beek;</para>
+      <para>- mr. L.S.E. Prickartz namens de bewindvoerder mr. M.J.H. Vermeeren, met kantoorgenoot </para>
+      <para>mr. C. Streelder;</para>
+      <para>- de heer [naam 3] namens Stichting [stichting] (hierna: [stichting] ), alsmede haar advocaat mr. I.C.J.C. van de Klundert;</para>
+      <para>- mevrouw [naam 4] en mevrouw [naam 5] namens [bankinstelling] ,</para>
+      <para>- de heer [naam 6] en mevrouw [naam 7] namens RvO.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>De feiten</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Het ontwerp-akkoord </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Bij het surseanceverzoek heeft schuldenaar een ontwerp-akkoord gevoegd, dat inhoudt:</para>
+      <para />
+      <parablock>
+        <para>“[…]</para>
+        <para>
+          <emphasis role="italic">Aangeboden in de surseance van betaling van [schuldenaar] B.V. ( [schuldenaar]</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic"> ”) zoals verzocht aan de rechtbank Den Haag op 28 augustus 2024.</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">In het akkoord wordt onderscheid gemaakt tussen de volgende schuldeisers:</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">• art. 1 Boedelschuldeisers;</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">• art. 2 Preferente Schuldeisers</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">• art. 3 Concurrente schuldeisers 		Concurrente Investeerders;</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">					Ongedekte Preferente Financiers;</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Art. 1. Boedelschuldeisers</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Boedelschuldeisers worden volledig voldaan. [schuldenaar] heeft (externe) financiering</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">beschikbaar voor de volledige boedelkosten van de surseance van betaling met inbegrip van het</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">door de rechtbank Den Haag vast te stellen salaris van de bewindvoerder.</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Art. 2. Preferente schuldeisers</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Alhoewel de surseance in beginsel niet werkt ten aanzien van vorderingen waaraan voorrang is</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">verbonden betaalt [schuldenaar] aan de erkende schuldeisers met voorrangsrechten</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">(“Preferente Schuldeisers”) een gedeelte van hun vordering tegen algehele en finale kwijting voor</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">het onvoldaan gebleven gedeelte van hun vorderingen. Het percentage van de vordering dat betaald wordt aan Preferente Schuldeisers bedraagt 20% (zegge: twintig procent) en is het dubbele van het percentage dat wordt uitgekeerd aan de concurrente schuldeisers.</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Art. 3. Concurrente schuldeisers</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>
+        <emphasis role="italic">1. Tot de concurrente schuldeisers behoren investeerders met een concurrente vordering</emphasis>
+      </para>
+      <parablock>
+        <para>
+          <emphasis role="italic">(“Concurrente Investeerders”). Het gaat hier om schuldeisers van [schuldenaar]</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">waarvan de vordering voortvloeit uit een overeenkomst van geldlening (in de breedste zin</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">des woords) die niet is gedekt door een zekerheidsrecht zoals een pandrecht of een recht</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">van hypotheek. Tot de Concurrente Investeerders behoren niet de handelsschuldeisers. </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">De handelsschuldeisers hebben geen vordering uit hoofde van een overeenkomst van geldlening</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">en zijn volledig voldaan.</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>
+        <emphasis role="italic">2. Tot de concurrente schuldeisers behoren ook de preferente schuldeisers van Conference</emphasis>
+      </para>
+      <parablock>
+        <para>
+          <emphasis role="italic">Compass met een zekerheidsrecht (pandrecht of hypotheekrecht), doch slechts voor zover</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">hun vordering niet is gedekt door dat zekerheidsrecht (“Ongedekte Preferente Financiers”).</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>
+        <emphasis role="italic">3. Ten aanzien van de hoogte van de concurrente vordering van de Ongedekte Preferente</emphasis>
+      </para>
+      <parablock>
+        <para>
+          <emphasis role="italic">Financiers proberen partijen voorafgaand aan de stemming over het akkoord onderling</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">overeenstemming te bereiken.</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>
+        <emphasis role="italic">4. [schuldenaar] betaalt aan haar concurrente schuldeisers (Concurrente Investeerders</emphasis>
+      </para>
+      <parablock>
+        <para>
+          <emphasis role="italic">en Ongedekte Preferente Financiers) een gedeelte (percentage) van 10% (zegge tien</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">procent) van het concurrente gedeelte van hun vordering tegen algehele en finale kwijting</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">voor het onvoldaan gebleven gedeelte van hun vorderingen alsmede tegen algehele en</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">finale kwijting voor eventueel opgekomen rente vanaf de datum der surseance.</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Art. 4. Opschortende voorwaarden</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het akkoord wordt aangeboden onder de opschortende voorwaarden:</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>
+        <emphasis role="italic">1. dat er een akkoord wordt bereikt met de Ongedekte Preferente Financiers over de hoogte</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">van hun concurrente vordering.</emphasis>
+      </para>
+      <para />
+      <para>
+        <emphasis role="italic">2. dat er een akkoord wordt bereikt met de Preferente Schuldeisers.</emphasis>
+      </para>
+      <parablock>
+        <para>
+          <emphasis role="italic">Het staat [schuldenaar] vrij om op ieder moment eenzijdig afstand te doen van één of</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">meerdere van de hiervoor vermelde opschortende voorwaarden.</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Art. 5. Waarborg voor nakoming van het akkoord</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De voor de nakoming van het akkoord vereiste gelden worden vóór de homologatie van het akkoord gestort op de derdenrekening van Stichting derdengelden LXA en worden na homologatie van het akkoord uitgekeerd aan de rechthebbende(n).</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">’s-Hertogenbosch, 11 september 2024</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">
+            [schuldenaar]
+          </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">[…]”</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Het verslag van de bewindvoerder</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Op 2 oktober 2024 is het verslag ex artikel 265 Fw van de bewindvoerder van 1 oktober 2024 bij de rechtbank gedeponeerd. In dat verslag staat onder andere het volgende vermeld:</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">“[…]</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>
+        <emphasis role="italic">
+          [schuldenaar] is op 6 januari 2011 opgericht. [schuldenaar] heeft twee  bestuurders: [bedrijfsnaam 1] B.V. (uitvoerend bestuurder) en de heer [naam 2] ( [naam 2] ). Bestuurder van [bedrijfsnaam 1] BV. is de heer [naam 1] ( [naam 1] ). [naam 2] is niet uitvoerend bestuurder.</emphasis>
+      </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>
+        <emphasis role="italic">De aandeelhouders van [schuldenaar] zijn: [bedrijfsnaam 1] B.V. ( [bedrijfsnaam 1] ) (60%), [bedrijfsnaam 2] B.V. ( [bedrijfsnaam 2] ) (12,07%) en [bedrijfsnaam 3] B.V. ( [bedrijfsnaam 3] ) (27,93%). Een organogram van [schuldenaar] is aangehecht als </emphasis>
+        <emphasis role="underline italic">bijlage 2</emphasis>
+        <emphasis role="italic">.</emphasis>
+      </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>
+        <emphasis role="italic">
+          [schuldenaar] exploiteert een onderneming die zich met name bezighoudt met het ontwikkelen en op de markt brengen van software voor organisatoren van evenementen en congressen. De klanten bestaan onder andere uit partijen die medische en wetenschappelijke congressen organiseren. Via bijvoorbeeld een app kan een congres meer interactiever worden beleefd. Daarbij kunnen de klanten ook nog andere online aspecten aankopen voor het evenement, zoals het real time ondertitelen van het congres of het verzorgen van een live stream.</emphasis>
+      </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Oorzaak van de financiële problemen bij [schuldenaar]</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <parablock>
+        <para>
+          <emphasis role="italic">Volgens [naam 1] is de belangrijkste oorzaak van de financiële situatie waarin [schuldenaar] verkeert de coronapandemie. Vanwege de coronapandemie konden fysieke congressen geen doorgang meer vinden en werd [schuldenaar] gedwongen om een platform te ontwerpen dat geschikt is voor onlinecongressen. Dit maakte dat [schuldenaar] aanzienlijke investeringen moest maken in een markt waar al veel aanbieders actief waren. Nadat de coronapandemie ten einde was, bleek dat alles snel weer terug keerde naar het oude en ging men weer naar fysieke congressen. Het animo voor onlinecongressen verdween onverwacht snel. </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Aldus werd de focus in hoofdzaak weer gelegd op de ontwikkeling van de app voor de fysieke congressen maar waren de grote investeringen voor de onlinecongressen reeds gedaan. </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Daarnaast zijn er in de coronaperiode belastingschulden opgebouwd. Een extra toelichting van [schuldenaar] op de oorzaken van de financiële situatie en de getroffen maatregelen treft</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">u aan als </emphasis>
+          <emphasis role="underline italic">bijlage 3</emphasis>. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>
+        <emphasis role="italic">
+          [schuldenaar] wordt gefinancierd door middel van (rentedragende) leningen bij [bedrijfsnaam 3] , [bedrijfsnaam 2] , [bedrijfsnaam 4] BV. ( [bedrijfsnaam 4] ), Rijksdienst voor Ondernemend Nederland (RvO), Stichting [stichting] ( [stichting] ), [bankinstelling] U.A. ( [bankinstelling] ) en [bedrijfsnaam 5] B.V. ( [bedrijfsnaam 5] ). Een aantal hiervoor genoemde geldverstrekkers is eveneens de (indirecte) aandeelhouder van [schuldenaar] (zie bijlage 2 voor het organogram).</emphasis>
+      </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.6</nr>
+      <para>
+        <emphasis role="italic">Het is voor [schuldenaar] onmogelijk om de lasten uit hoofde van de voornoemde financieringen, bestaande uit rente en aflossingen, en de belastingschulden nog langer (volledig) te voldoen uit de beschikbare cashflow. </emphasis>
+      </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Activa en passiva</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.7</nr>
+      <para>
+        <emphasis role="italic">Tot de activa van [schuldenaar] behoren voornamelijk intellectuele eigendomsrechten, waaronder de door [schuldenaar] ontwikkelde software. Deze zijn op 4 juli 2024 door het NTAB getaxeerd op een marktwaarde van EUR 750.000 en een liquidatiewaarde van EUR 35.000. De taxatierapporten zijn in het bezit van de bewindvoerder. Deze intellectuele eigendomsrechten zijn verpand aan de RvO. Daarnaast is er sprake van (kantoor)inventaris met een marktwaarde van EUR 57.385 en liquidatiewaarde van EUR 25.000 die aan [bankinstelling] verpand is. Bedragen zijn exclusief btw.</emphasis>
+      </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.8</nr>
+      <parablock>
+        <para>
+          <emphasis role="italic">Ook heeft [schuldenaar] vlottende activa, bestaande uit vorderingen op klanten. </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Deze vorderingen zijn eveneens verpand aan [bankinstelling] . </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Kredietovereenkomst</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.9</nr>
+      <para>
+        <emphasis role="italic">Bij aanvang van de voorlopige surseance van betaling is met twee financiers, eveneens (indirecte) aandeelhouders van [schuldenaar] , een boedelkredietovereenkomst gesloten. [schuldenaar] beschikt daardoor over financiële middelen om haar lopende kosten en het salaris van de bewindvoerder gedurende de voorlopige surseance van betaling te kunnen voldoen.</emphasis>
+      </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Crediteuren</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.10</nr>
+      <para>
+        <emphasis role="italic">
+          [schuldenaar] heeft de volgende crediteuren:</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">- Belastingdienst</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">- RvO</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">- [bankinstelling]</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">- [stichting]</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">- [bedrijfsnaam 3]</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">- [bedrijfsnaam 2]</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">- [bedrijfsnaam 4]</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">- [bedrijfsnaam 5]</emphasis>
+      </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.11</nr>
+      <parablock>
+        <para>
+          <emphasis role="italic">Voor RvO en [bankinstelling] geldt dat hun vorderingen deels gedekt zijn door pandrechten op activa van [schuldenaar] . Zie paragraaf 2.7en 2.8 van dit advies. Zij zijn voor het gedeelte dat gedekt is door het pandrecht preferente crediteuren. Voor het gedeelte dat hun vordering niet gedekt is door het pandrecht, geldt dat dit gedeelte een concurrente vordering is en in de surseance van betaling als vordering kan worden ingediend. Zij hebben dat ook gedaan. </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Daarmee zijn RvO en [bankinstelling] voor een deel concurrente crediteuren. Voor dat deel wordt ook aan hen het akkoord aangeboden. Voor het gedeelte van de vordering dat wel gedekt is door het pandrecht (conform de marktwaarde) zal RVO de huidige financiering onder de gewijzigde (voor de onderneming gunstigere) voorwaarden voortzetten. </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Crediteuren met een vordering ten aanzien waarvan de voorlopige surseance van betaling niet werkt, komen voor indiening niet in aanmerking waarbij de bewindvoerder hierbij alle crediteuren expliciet heeft gewezen op het bepaalde in artikel 257 lid 2 Fw mochten dergelijke vorderingen toch ter verificatie worden aangemeld.</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.12</nr>
+      <para>
+        <emphasis role="italic">Ten aanzien van de Belastingdienst als preferente crediteur zal het ontwerpakkoord eveneens geen werking hebben. [schuldenaar] heeft in dit kader conform de Leidraad Invordering een separaat voorstel gedaan waarbij de Belastingdienst betaling van een percentage van 20% van de openstaande belastingschulden voldaan krijgt. Het aangeboden ontwerpakkoord is derhalve onder voorbehoud van instemming van de Belastingdienst met het gedane voorstel.</emphasis>
+      </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.13</nr>
+      <para>
+        <emphasis role="italic">De handelsschuldeisers van [schuldenaar] worden niet betrokken in het akkoord, nu deze zijn voldaan tot aan de datum van de voorlopige surseance van betaling en vanaf die datum ook voldaan zullen worden.</emphasis>
+      </para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>3</nr>HET AKKOORD</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Samenvatting</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>3.1</nr>
+      <para>
+        <emphasis role="italic">De bewindvoerder gaat ervan uit dat de crediteuren van [schuldenaar] kennis hebben genomen van het ontwerpakkoord. Het akkoord houdt in dat de concurrente crediteuren een percentage van 10% van de openstaande vorderingen zal worden voldaan tegen finale kwijting. RVO en [bankinstelling] hebben ter zake het ongedekte deel een vordering (derhalve het gedeelte van de vordering waaraan geen voorrang is verbonden) ter verificatie ingediend. Aan de preferente crediteur, de Belastingdienst, zal een percentage van 20% van de openstaande vordering worden voldaan tegen finale kwijting (zie paragraaf 2.12 van dit advies). Het akkoord wordt gefinancierd door de (indirecte) aandeelhouders en tevens geldverstekkers (rechtbank: lees: geldverstrekkers) van [schuldenaar] , te weten [bedrijfsnaam 4] en [bedrijfsnaam 5] .</emphasis>
+      </para>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Alternatief scenario</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <parablock>
+        <para>
+          <emphasis role="italic">Indien het akkoord niet wordt aangenomen en gehomologeerd, ligt het voor de hand dat [schuldenaar] in staat van faillissement wordt verklaard. In dat geval zal een curator worden aangesteld die als wettelijke taak heeft om alle bezittingen van [schuldenaar] te verkopen en de verkoopopbrengst volgens de wettelijke rangorde te verdelen onder alle schuldeisers. Zoals in paragraaf 2.7 van dit advies al benoemd, zijn de intellectuele  eigendomsrechten van [schuldenaar] verpand aan RvO. De marktwaarde van de intellectuele eigendomsrechten is onvoldoende om de vorderingen van RvO te dekken. </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">De inventaris en vorderingen op klanten zijn verpand aan [bankinstelling] . De waarde van de inventaris en de nominale waarde van de vorderingen op klanten is onvoldoende om de vorderingen van</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">
+            [bankinstelling] te dekken. Daarbij is rekening gehouden dat de opbrengst van de stil verpande inventaris vermoedelijk de Belastingdienst toekomt.</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <parablock>
+        <para>
+          <emphasis role="italic">Concluderend, de volledige opbrengst van de activa van [schuldenaar] is onvoldoende om de pandhouders te voldoen. Van een eventueel overschot zullen in faillissement eerst de boedelkosten moeten worden voldaan, waaronder het salaris van de aan te stellen curator. Als na voldoening van de boedelkosten al een bedrag resteert, is dat onvoldoende om de Belastingdienst volledig te voldoen. Er zullen in het alternatief scenario van een faillissement geen middelen aanwezig zijn om aan (andere) preferente crediteuren en concurrente crediteuren uit te keren. </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Uit het ontwerpakkoord volgt dat aan de concurrente crediteuren betaling van een percentage van 10% van de vordering zal worden aangeboden tegen finale kwijting hetgeen vergeleken met een faillissementsscenario — waarbij dus geen uitkering zal plaatsvinden — een beter resultaat is.</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>TOETSING AAN WEIGERINGSGRONDEN EX ARTIKEL 272 LID 2 FW</title>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <para>
+        <emphasis role="italic">Als het akkoord wordt aangenomen door de meerderheid van de crediteuren, moet het om werking te verkrijgen gehomologeerd worden door de rechtbank. De rechtbank zal het akkoord ambtshalve toetsen aan de gronden voor weigering van de homologatie zoals vermeld in artikel 272 lid 2 Fw. De bewindvoerder geeft hieronder zijn huidige visie op deze weigeringsgronden.</emphasis>
+      </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Indien de baten van de boedel bij het akkoord bedongen som te boven gaan </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <parablock>
+        <para>
+          <emphasis role="italic">In dit vereiste ligt besloten dat met elkaar wordt vergeleken enerzijds het bedrag dat de concurrente crediteuren als gevolg van het akkoord zullen ontvangen en anderzijds het bedrag dat de concurrente crediteuren, buiten het akkoord, bij voortzetting van de surseance gevolgd door liquidatie ten gevolge van een faillissement naar verwachting zouden ontvangen.1 [schuldenaar] zal onder het akkoord haar concurrente crediteuren een percentage van 10% van de</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">openstaande vorderingen voldoen tegen finale kwijting. Aan de preferente crediteur, de Belastingdienst, zal worden gevraagd om akkoord te gaan met 20% tegen finale kwijting. </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">De bewindvoerder acht het aannemelijk dat de crediteuren van [schuldenaar] bij een akkoord uiteindelijk niet minder zullen ontvangen dan in geval van een faillissement van [schuldenaar] . De bewindvoerder verwijst hiervoor naar de toelichting die in paragraaf 3.2 is gegeven. </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Indien de nakoming van het akkoord niet voldoende is gewaarborgd</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <parablock>
+        <para>
+          <emphasis role="italic">Wat ‘voldoende waarborg’ is, staat ter vrije beoordeling van de rechter.2 De wetgever</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">heeft er bewust voor gekozen om geen concrete invulling te geven aan dit vereiste, nu de haalbaarheid van de nakoming sterk afhankelijk is van het type akkoord. De rechter zal uiteindelijk op basis van de feiten moeten beoordelen of de nakoming van het akkoord voldoende is gewaarborgd. De relevante feiten op basis waarvan geconcludeerd kan worden dat de weigeringsgrond niet van toepassing is, is in dit geval volgens de bewindvoerder onder meer het feit dat het uit te keren bedrag door [schuldenaar] aan de crediteuren op de derdengeldenrekening van de advocaat van [schuldenaar] is gestort.</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Indien het akkoord door bedrog, begunstiging van één of meer schuldeisers of met  behulp van andere oneerlijke middelen tot stand is gekomen, onverschillig of de schuldenaar dan wel een ander daartoe heeft medegewerkt.</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>
+        <emphasis role="italic">De ratio van deze weigeringsgrond is dat schuldeisers niet opgezadeld mogen worden met een akkoord dat door het vervalsen van een gekwalificeerde meerderheid tot stand is gekomen. Voor de weigering op deze grond is een causaal verband vereist tussen de begunstiging en het verkrijgen van de vereiste stemmenmeerderheid.3 De bewindvoerders hebben geen aanwijzing waaruit blijkt dat er sprake zou zijn van een dergelijke situatie.</emphasis>
+      </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Indien het loon en de verschotten van de deskundigen en de bewindvoerders niet in de handen van de bewindvoerder zijn gestort of daarvoor zekerheid is gesteld </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <para>
+        <emphasis role="italic">De bewindvoerder heeft geconstateerd dat er voldoende middelen beschikbaar zijn voor het salaris van de bewindvoerder. Deze middelen zullen voor een eventuele homologatie aan de bewindvoerder ter beschikking worden gesteld.</emphasis>
+      </para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>5</nr>ADVIES</title>
+    <para />
+    <paragroup>
+      <nr>5.1</nr>
+      <parablock>
+        <para>
+          <emphasis role="italic">Gelet op het voorgaande adviseert de bewindvoerder de concurrente crediteuren om</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">vóór het door [schuldenaar] aangeboden ontwerpakkoord te stemmen. </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Martijn Vermeeren</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">bewindvoerder</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>
+        <emphasis role="italic">1 Hof Leeuwarden 21 juli 2006, ECLI:NL:GHLEE:2006:AY4796.</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">2 Hoge Raad 30 augustus 1907, W 8587.</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">3 Hof ’s-Hertogenbosch 29 oktober 1997, ECLI:NL:GHSHE:1997:AD2797.”</emphasis>
+      </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <para>Op 15 oktober 2024 is het akkoord behandeld. Van de acht concurrente schuldeisers heeft uitsluitend (de gevolmachtigde mr. I.C.J.C. van de Klundert namens) [stichting] , met een vordering die 41,02% van het totaalbedrag aan erkende concurrente schuldvorderingen uitmaakt, tegen het akkoord gestemd.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Bezwaren van [stichting] tegen homologatie </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <para>Als hiervoor aangegeven heeft [stichting] tegen het akkoord gestemd. Mr. Van de Klundert heeft namens [stichting] in haar brief van 23 oktober 2024 kort samengevat de volgende bezwaren tegen homologatie van het akkoord aangevoerd:</para>
+      <para />
+      <para>- [schuldenaar] heeft onvoldoende transparantie betracht over het akkoord en de omstandigheden die daaraan ten grondslag liggen (art. 272 lid 3 Fw). [stichting] heeft hierbij aangegeven dat aan een akkoord dat wordt aangeboden vanuit een surseance van betaling qua inhoud en totstandkoming dezelfde eisen worden gesteld als aan een reorganisatieakkoord in de WHOA;</para>
+      <para>- De paritas creditorum wordt geschonden ten gunste van een van de schuldeisers, terwijl daarvoor geen rechtvaardiging is (art. 272 lid 2 sub 3 en lid 3 Fw);</para>
+      <para>- De rangorde tussen schuldeisers en aandeelhouders wordt geschonden doordat de aandeelhouders  niet in hun rechten worden gekort, terwijl deze aandeelhouders als schuldeisers doorslaggevend zijn geweest voor de positieve stemuitslag (art. 272 lid 2 sub 3 en lid 3 Fw).</para>
+      <para />
+      <parablock>
+        <para>
+          [stichting] heeft toegelicht dat zij met afstand de grootste concurrente schuldeiser is die bij het akkoord is betrokken, en bovendien de enige schuldeiser die uitsluitend concurrent schuldeiser is: voor de andere in het akkoord betrokken schuldeisers geldt dat zij een vordering hebben die gesecureerd is en daarom gedeeltelijk buiten het akkoord blijft, en/of naast schuldeiser ook (indirect) aandeelhouder van [schuldenaar] zijn, of een aandeelhouder hebben gefinancierd.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <para>Schuldenaar en de bewindvoerder hebben daarop gereageerd in de brieven vermeld onder 1.3. [stichting] , schuldenaar en de bewindvoerder hebben ter zitting hun standpunten nader toegelicht en op elkaar standpunten gereageerd. De rechtbank zal daarop, voor zover van belang, bij de beoordeling nader ingaan.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>De beoordeling</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Toetsingskader</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Bij de beoordeling van het verzoek staat voorop dat op de procedure over de homologatie van een akkoord in surseance het regime van <emphasis role="italic">Titel II Van surseance van betaling</emphasis> van de Faillissementswet (hierna: Fw) van toepassing is. [stichting] heeft onder andere het standpunt ingenomen dat het logischer was geweest als schuldenaar een reorganisatieakkoord in een WHOA-traject had ingediend. Nu lijkt het erop dat schuldenaar heeft willen ontkomen aan de eisen die de WHOA, het betreffende verzoekschriftreglement en de jurisprudentie erover stellen aan de inhoud van het akkoord, alsmede aan de informatievoorziening over het akkoord, aldus [stichting] . </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>De rechtbank is van oordeel dat de wetgever bij de invoering van de WHOA er bewust voor heeft gekozen geen onderdelen uit <emphasis role="italic">Titel IV, Tweede afdeling Homologatie van een onderhands akkoord</emphasis> ook toe te passen op procedures inzake surseance van betaling. De wetgever heeft Titel II bij de invoering van Titel IV immers niet gewijzigd. Het staat een schuldenaar vrij een keuze te maken uit de mogelijkheden die de wet hem biedt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <parablock>
+        <para>Aangezien schuldenaar heeft gekozen voor de surseance van betaling, zal de rechtbank het homologatieverzoek (uitsluitend) toetsen aan de bepalingen daarover in artikel 272 Fw. </para>
+        <para>Ingevolge het bepaalde in lid 2 van dat artikel moet de homologatie van het akkoord worden geweigerd (verplichte weigeringsgronden):</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>1: indien de baten van de boedel de bij het akkoord bedongen som te boven gaan;</para>
+        <para>2: indien de nakoming van het akkoord niet voldoende is gewaarborgd;</para>
+        <para>3: indien het akkoord door bedrog, door begunstiging van één of meer schuldeisers of met behulp van andere oneerlijke middelen is tot stand gekomen, onverschillig of de schuldenaar dan wel een ander daartoe heeft medegewerkt;</para>
+        <para>4: indien het loon en de verschotten van de deskundigen en de bewindvoerder niet in handen van de bewindvoerders zijn gestort of daarvoor zekerheid is gesteld.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Gelet op het bepaalde in artikel 272 lid 3 Fw kan homologatie ook op andere gronden en ambtshalve worden geweigerd (de zogenaamde facultatieve weigeringsgronden).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Ten aanzien van de toetsing aan artikel 272 Fw overweegt de rechtbank als volgt.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Artikel 272 lid 2 onder 1° Fw: de baten van de boedel versus de som van het akkoord </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <para>Onder het begrip 'baten van de boedel' als bedoeld in artikel 272 lid 2 onder 1° Fw moet worden verstaan: de gezamenlijke waarde of opbrengst van de onbezwaarde activa van de onderneming als ook de baten die nog te verwachten zouden zijn gedurende maximaal de periode waarvoor de surseance is verleend. Het wettelijke vereiste dat de baten van de boedel niet de bij het akkoord bedongen som te boven mogen gaan is gebaseerd op het uitgangspunt dat een akkoord de crediteuren niet (aanmerkelijk) minder mag opleveren dan zij door liquidatie van het vermogen van de schuldenaar kunnen ontvangen, dan wel dat de omvang van het eigen vermogen van de schuldenaar door een akkoord niet aanmerkelijk ten koste gaat van de crediteuren. De baten die tijdens de surseance te verwachten zijn, moeten daarbij worden meegerekend om te voorkomen dat alleen de schuldenaar profiteert van de opgaande lijn die door het akkoord wordt bewerkstelligd,  en niet de schuldeisers die, al dan niet gedwongen, (een deel van) hun vordering hebben opgegeven voor de sanering van de onderneming.<footnote-ref linkend="_75b30dd1-611b-49de-a9c7-90f1dafd2a82" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5.</nr>
+      <para>Bij de toetsing aan voormeld vereiste moeten naar het oordeel van de rechtbank met elkaar worden vergeleken: enerzijds het bedrag dat ieder van de concurrente crediteuren ingevolge het akkoord zal ontvangen, en anderzijds het bedrag dat zij, buiten het akkoord, bij voortzetting van de surseance gevolgd door liquidatie ten gevolge van een faillissement naar verwachting zouden ontvangen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6.</nr>
+      <parablock>
+        <para>Naar het oordeel van de rechtbank zijn er geen aanwijzingen dat de baten van de boedel de bij het akkoord aangeboden som te boven gaan. De bewindvoerder acht het aannemelijk dat de concurrente crediteuren bij een akkoord niet minder zullen ontvangen dan in geval van een faillissement. De rechtbank volgt de bewindvoerder. Schuldenaar zal onder het akkoord haar concurrente crediteuren 10% van de openstaande vorderingen betalen tegen finale kwijting.</para>
+        <para>De Belastingdienst heeft als preferente crediteur ingestemd met 20%-uitkering tegen finale kwijting. Het is voorzienbaar dat in een faillissementsscenario geen uitkering aan de concurrente crediteuren zal plaatsvinden. Als de preferente crediteuren volledig aanspraak maken op de aan hen verstrekte zekerheden, de pandrechten, zullen zij geen volledige betaling krijgen, noch op basis van de markwaardes, noch op basis van de liquidatiewaardes van de activa. [stichting] heeft de getaxeerde waardes van de activa waar zekerheden op zijn gevestigd niet weersproken. </para>
+        <para>De intellectuele eigendomsrechten, die verpand zijn aan RvO, zullen naar verwachting bij uitwinning onvoldoende opbrengen om de vorderingen van RvO te dekken. </para>
+        <para>De inventaris en debiteuren zijn verpand aan de [bankinstelling] , en ook de waarde van de inventaris en debiteuren in geval van faillissement zal naar verwachting onvoldoende zijn om de vorderingen van de [bankinstelling] volledig te dekken. Er blijft daarna niets meer over voor de concurrente schuldeisers. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Artikel 272 lid 2 onder 2° Fw: nakoming van het akkoord voldoende gewaarborgd</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.7.</nr>
+      <para>Ook de tweede weigeringsgrond is niet aan de orde, omdat de nakoming van het akkoord voldoende is gewaarborgd. De financiers van het akkoord hebben een boedelkrediet verstrekt dat voldoende is om de verplichtingen gedurende de surseance te kunnen nakomen, inclusief de kosten van de bewindvoerder en de ingeschakelde deskundige. Voorts staat het bedrag dat na homologatie moet worden uitgekeerd op de derdengeldenrekening van de advocaat van schuldenaar. Tot slot zijn afspraken gemaakt over de betaling van de overeengekomen uitkeringen inzake de vorderingen van de Belastingdienst en [bankinstelling] waarvoor de surseance niet werkt.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Artikel 272 lid 2 onder 3° Fw: bedrog, begunstiging of oneerlijke middelen </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.8.</nr>
+      <para>Naar het oordeel van de rechtbank is niet gebleken dat het akkoord tot stand is gekomen door bedrog, begunstiging of oneerlijke middelen. De bewindvoerder heeft verklaard dat geen sprake is van een sluipakkoord of geheime afspraken. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Artikel 272 lid 2 onder 4° Fw: storting van of zekerheidstelling voor loon en verschotten van deskundigen en bewindvoerder </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.9</nr>
+      <para>De rechtbank overweegt dat de vierde weigeringsgrond van artikel 272 lid 2 Fw zich ook niet voordoet. De bewindvoerder heeft ten overstaan van de rechter-commissaris verklaard dat voldoende middelen beschikbaar zijn voor het salaris van de bewindvoerder. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Artikel 272 lid 3 Fw: andere (facultatieve) weigeringsgronden</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.10.</nr>
+      <para>
+        [stichting] heeft het standpunt ingenomen dat het akkoord de toets aan artikel 272 lid 3 Fw niet kan doorstaan. De rechtbank is van oordeel dat de bezwaren die [stichting] kenbaar heeft gemaakt niet tot en ander oordeel leiden. Zij licht dit als volgt toe.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Akkoord transparant?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.11.</nr>
+      <para>Volgens [stichting] is het akkoord niet transparant, omdat de volgende informatie ontbreekt: </para>
+      <para>a. Een kasstroomprognose en prognose van de balans en winst- en verliesrekening over een periode van twee jaar na totstandkoming van het akkoord;</para>
+      <para>b. Een gemotiveerde waardering van de onderneming na totstandkoming van het akkoord (de reorganisatiewaarde);</para>
+      <para>c. Een lijst van de betrokken schuldeisers, inclusief de omvang van hun vordering;</para>
+      <para>d. Een complete lijst van de schuldeisers die buiten het akkoord blijven, inclusief de</para>
+      <para>omvang van hun vordering;</para>
+      <para>e. Een toelichting op de oorzaak van de financiële situatie van de onderneming en de maatregelen die worden getroffen om deze problemen onder controle te krijgen; en</para>
+      <para>f. De identiteit van de externe financier, de voorwaarden waaronder de financiering wordt verstrekt en de omvang van de financiering die wordt aangetrokken.</para>
+      <para />
+      <parablock>
+        <para>Daarnaast stelt [stichting] zich op het standpunt dat schuldenaar in het voorstel essentiële informatie niet heeft vermeld. [bedrijfsnaam 3] B.V., [bedrijfsnaam 2] B.V., [bedrijfsnaam 4] B.V. en [bedrijfsnaam 5] B.V. zijn concurrente schuldeisers. Niet is vermeld dat zij, naast schuldeiser, ook direct of indirect aandeelhouder van schuldenaar zijn. Er is voorts geen inzicht gegeven in de totale vorderingen van de schuldeisers met een zekerheidsrecht, welk deel van de vordering wordt geacht te zijn gedekt door de zekerheden, en welke afspraken over het door zekerheden gedekte deel zijn gemaakt. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.12.</nr>
+      <parablock>
+        <para>Naar het oordeel van de rechtbank kunnen de bezwaren van [stichting] haar niet baten. </para>
+        <para>Zij overweegt daartoe als volgt.</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.13.</nr>
+      <para>Schuldenaar heeft onweersproken gesteld dat zij bij haar verzoekschrift alle stukken heeft gevoegd die zij op grond van artikel 214 Fw j° artikel 96 Fw en de artikelen 3.2.7 en 3.2.8 van het Landelijk procesreglement verzoekschriftprocedures insolventiezaken rechtbanken (achtste versie, 1 juli 2024) moet meesturen. Daarnaast bevat het akkoord een uitgebreide toelichting met aanvullende financiële en bedrijfseconomische informatie, zoals een liquiditeitsprognose tot en met december 2025. [stichting] heeft niet weersproken dat zij deze informatie heeft ontvangen, net als alle andere partijen die bij het surseanceakkoord betrokken zijn, alsmede de Belastingdienst. [stichting] heeft voorts gebruik gemaakt van haar bevoegdheid om maandelijkse rapportages en voortgangscalls in te zien. </para>
+      <para />
+      <parablock>
+        <para>Tot slot heeft [stichting] het uitgebreide verslag van de bewindvoerder ex artikel 265 Fw van </para>
+        <para>1 oktober 2024 dat bij de rechtbank is gedeponeerd kunnen inzien. Daarin staat onder andere de relevante informatie over de aandeelhouders, schuldeisers, schuldenlast, activa en passiva en getaxeerde markt- en liquidatiewaardes van aan RvO en [bankinstelling] verpande activa.</para>
+        <para>Op schuldenaar rusten geen verdergaande informatieverplichtingen. De andere voormelde informatie die [stichting] stelt te missen, is gebaseerd op de vereisten vermeld in artikel 375 Fw, welk artikel echter niet van toepassing is op een surseanceakkoord, maar op een WHOA-akkoord. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.14.</nr>
+      <para>De hoedanigheid van een concurrente schuldeiser speelt geen rol in deze akkoordprocedure in surseance. Dat diverse schuldeisers ook aandeelhouder zijn, maakt niet dat sprake is van onredelijke bevoordeling. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Schending paritas creditorum zonder redelijke grond</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.15.</nr>
+      <para>
+        [stichting] heeft het standpunt ingenomen dat het akkoord tot stand is gekomen door begunstiging van schuldeisers omdat RvO bij de bepaling van haar vordering is uitgegaan van de marktwaarde als waarde van de zaken waarop het pandrecht rust.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.16.</nr>
+      <para>De rechtbank oordeelt hierover als volgt.</para>
+      <para />
+      <parablock>
+        <para>De rechtbank is bovenal van oordeel dat de crediteurenvergadering het aangewezen moment is om eventuele bezwaren tegen de vaststelling van de hoogte van de vordering in het kader van de stemverhouding en de homologatie in te brengen. [stichting] heeft toen van die gelegenheid geen gebruik gemaakt. Maar ook als haar bezwaren in het kader van de homologatie worden betrokken, kunnen die haar niet baten. De rechtbank licht dat toe.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Als sprake is van onderdekking bij een gesecureerde vordering, moet de schuldeiser inschatten wat de omvang is van het concurrente deel en het gedekte deel. Hierbij moet de schuldeiser rekening houden met artikel 257 lid 2 Fw. Daarin staat dat een schuldeiser zijn aan de vordering verbonden pandrecht verliest als het door pandrecht gedekte deel van de vordering wordt ingediend bij de bewindvoerder en de vordering niet teruggenomen wordt voorafgaand aan de stemming over het akkoord. </para>
+        <para>De rechtbank volgt de schuldenaar in zijn standpunt dat het aan RvO is om te beslissen dat zij uit gaat van de marktwaarde in plaats van de liquidatiewaarde, zodat zij haar eventuele preferentie niet verliest als later blijkt dat het onderpand meer waard is dan de liquidatiewaarde. Gezien het uitgangspunt in surseance van ‘going concern’ ligt overigens de toepassing van de marktwaarde ook voor de hand. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Overigens zou de uitkering voor [stichting] niet hoger zijn geweest als wordt uitgegaan van de liquidatiewaarde bij de bepaling van het gesecureerde deel van de vordering, dat buiten het akkoord worden gehouden. In dat geval zou immers een hogere concurrente restvordering onder de werking van het akkoord vallen, waardoor de totaalsom van het bedrag van de concurrente schuldeisers hoger zou zijn geweest. De concurrente schuldeisers, waaronder [stichting] , zouden dan een lager percentage uitgekeerd krijgen (‘de spoeling wordt dunner’).</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.17.</nr>
+      <para>Er is evenmin sprake van oneerlijke begunstiging omdat RvO afwijkende afspraken met schuldenaar heeft gemaakt. Het staat een schuldeiser die over zekerheidsrechten beschikt vrij om met de schuldenaar in overleg te treden en nieuwe afspraken te maken. Dat is inherent aan haar bevoorrechte positie. Dat [stichting] niet over een zekerheidsrecht beschikt en daardoor anders wordt behandeld, kan RvO of schuldenaar niet worden verweten.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Schending rangorde tussen schuldeisers en kapitaalverschaffers (absolute priority)?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.18.</nr>
+      <para>
+        [stichting] geeft aan dat de homologatie moet worden geweigerd omdat wordt afgeweken van de absolute priority rule. Die regel is evenwel uitsluitend opgenomen in de wetgeving inzake de WHOA, in Titel IV. Zoals reeds vermeld is dat onderdeel van de Faillissementswet niet van toepassing op de surseance van betaling. Dat de aandeelhouders hun aandeelhouderspositie behouden is geen relevante factor in de vergelijking die bij surseance moet worden gemaakt, want het aanbod wordt alleen vergeleken met het liquidatiescenario voor de concurrente schuldeisers.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Andere gronden voor afwijzing?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.19.</nr>
+      <para>Ter zitting heeft [stichting] aan haar bezwaren vermeld in haar brief van 23 oktober 2024 toegevoegd dat een akkoord tegen een hoger bedrag (en daarmee hoger percentage uitkering voor de schuldeisers) kan en moet worden aangeboden dan nu is aangeboden. Volgens haar moet, naast het aangeboden bedrag, nog een extra bedrag van € 708.000,- aan de schuldeisers ten goede komen binnen het akkoord. </para>
+      <para />
+      <parablock>
+        <para>
+          [stichting] baseert zich hierbij op het uitgangspunt dat RvO voor haar vordering een dekking heeft voor 120% van de executiewaarde en dat een bedrag van € 708.000 extra aan de concurrente schuldeisers ten goede zou moeten komen, welk bedrag, zo begrijpt de rechtbank, door de onderneming dan wel haar financiers ter beschikking zou moeten worden gesteld. [stichting] gaf daarbij aan dat ook conversie (naar de rechtbank begrijpt: uitgifte van aandelen aan schuldeisers) plaats zou kunnen vinden. Hetgeen [stichting] hier voorstelt, is evenwel niet het akkoord dat is aangeboden, waarover is gestemd, dat is aangenomen, en waarvan thans de beslissing omtrent homologatie voorligt. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Daarnaast heeft [stichting] aangegeven dat rekening moet worden gehouden met verwachte toekomstige verdiensten. Ook deze stelling gaat naar het oordeel van de rechtbank niet op. </para>
+        <para>Zoals hiervoor aangegeven onder 3.4 en 3.5 dient de uitkering aan concurrente schuldeisers te worden vergeleken met het bedrag dat de concurrente schuldeisers bij voortzetting van de surseance gevolgd door liquidatie ten gevolge van een faillissement naar verwachting zouden ontvangen, waarbij gekeken dient te worden naar de gezamenlijke waarde of opbrengst van de onbezwaarde activa van de onderneming als ook de baten die dan nog te verwachten zouden zijn. Gesteld noch gebleken is dat  sprake is van onbezwaarde activa of dat sprake zal zijn van toekomstige verdiensten tijdens de (rest)duur van de surseance en van een daaropvolgend faillissement. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond hiervan gaan de verweren van [stichting] niet op. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.20.</nr>
+      <para>Gelet op hetgeen hiervoor is overwogen is de rechtbank van oordeel dat niet is gebleken van gronden voor weigering van de homologatie. De rechtbank zal daarom het aangenomen akkoord homologeren.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>De beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <para>- homologeert het akkoord;</para>
+    <para />
+    <para>- stelt het salaris van de bewindvoerder, mr. M.J.H. Vermeeren, vast op € 68.260,07 (exclusief de verschuldigde omzetbelasting);</para>
+    <para />
+    <para>- stelt het bedrag van de kosten vast op € 2.730,40 (exclusief de verschuldigde omzetbelasting).</para>
+    <para />
+    <parablock>
+      <para>Gegeven door mr. drs. J.C.A.T. Frima en uitgesproken ter openbare terechtzitting van </para>
+      <para>13 november 2024 in aanwezigheid van R. Becker, griffier.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Tegen deze uitspraak kan degene, aan wie de Faillissementswet dat recht toekent, uitsluitend via een advocaat binnen acht dagen na de dag van deze uitspraak hoger beroep instellen bij een verzoekschrift, in te dienen ter griffie van het gerechtshof te Den Haag.</para>
+    </parablock>
+  </section>
+  <footnote id="_75b30dd1-611b-49de-a9c7-90f1dafd2a82" label="1">
+    <para>Hof Arnhem-Leeuwarden 21 juli 2015, ECLI:NL:GHARL:2015:5413</para>
+    <para />
+  </footnote>
+</uitspraak>
+</open-rechtspraak>
