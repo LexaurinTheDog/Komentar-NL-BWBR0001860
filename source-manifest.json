@@ -1,6 +1,6 @@
 {
   "created_at_utc": "2026-10-20T21:47:05.474183+00:00",
-  "scope": "Preserved source and review evidence through assigned articles213abis–213ap; whole book incomplete.",
+  "scope": "Preserved source and review evidence through assigned articles213aq–213md; whole book incomplete.",
   "files": [
     {
       "path": "sources/author-art-212j-212l-build.txt",
@@ -336,6 +336,81 @@
       "path": "sources/author-art-213abis-213ap-wti.xml.headers",
       "bytes": 261,
       "sha256": "241199dc61a16df86aa03a3a83b406931d3c0868a865b60ee053449b9fbfcf8a"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-build.txt",
+      "bytes": 172,
+      "sha256": "47f1cf0bed2578eb7d106ad915e3bad96f95ac90e55b2b87327a6ab7a6983751"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-coverage.json",
+      "bytes": 20797,
+      "sha256": "b0dc66e2cf6895464e6ec4cf060dea7b0ceae0795be608ca7ade71b38a37c784"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-current.html",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-current.html.headers",
+      "bytes": 532,
+      "sha256": "d366e3e6e2505edd3ef5e00dede408e3984873540ea10db9046496429bac455b"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-fetch.json",
+      "bytes": 3212,
+      "sha256": "98a0dec52f908e2ed1b3bddea52a0c267ed9a9fa95e4b052e9952bce3beb7b53"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-preflight-result.json",
+      "bytes": 2633,
+      "sha256": "284c433f6d671054bfa074ed606ca174d337bd9d3b4245d1aa349b7876aa835c"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-result.json",
+      "bytes": 2398,
+      "sha256": "8edeb4689c6183358e8b7570e66e1ff08fe056222c9570047b2850ee043fd8dd"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-search-log.json",
+      "bytes": 652,
+      "sha256": "3abff2aa97b44a372444d53c39ca7ded5f3f95312552a855dfd38571f71277e4"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-selected.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-selected.xml.headers",
+      "bytes": 261,
+      "sha256": "77fc37b1426f3f4ec597ae553629b1b3ab98fb0eb328d9f5926d67eec5849388"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-validation.json",
+      "bytes": 378,
+      "sha256": "d59307569a6cdddd4e61c77547ddee0926aac6b6028dc7c714c737690b4e7a85"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-wft.html",
+      "bytes": 14851480,
+      "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-wft.html.headers",
+      "bytes": 532,
+      "sha256": "779564a9efa342df1f346771d8d642b35f2a70523e1530b5073cf390ded95940"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-wti.xml",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67"
+    },
+    {
+      "path": "sources/author-art-213aq-213md-wti.xml.headers",
+      "bytes": 261,
+      "sha256": "57c372b238bf9a22a76f85464df99d1adee9db3ac91051a263e7c8d4224b30cd"
     },
     {
       "path": "sources/author-date-xml.headers",
@@ -1928,6 +2003,96 @@
       "sha256": "002875d6215c982755e9d86f76774a496b4ba89aec139cb59d0ace8536655f3a"
     },
     {
+      "path": "sources/review-art-213aq-213md-before-hashes.json",
+      "bytes": 30897,
+      "sha256": "4010f8904e6e4b11ec461f0f587ae362485428d7bd6606ce4c178d770692a311"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-build.txt",
+      "bytes": 172,
+      "sha256": "47f1cf0bed2578eb7d106ad915e3bad96f95ac90e55b2b87327a6ab7a6983751"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-checks.json",
+      "bytes": 1053,
+      "sha256": "a00220e57e5c694f67bd224cae1017a7dba7d6e182f661758ee30f80934bcd31"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-current.html",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-current.html.headers",
+      "bytes": 532,
+      "sha256": "9ac9dd918a4e81f316917334524da56614b2a2c149d9e064c4295de6884e47ec"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-fetch.json",
+      "bytes": 3212,
+      "sha256": "2a384ea418f4a0f7a30a34d5761b6ad4551ac5b24867ff919e482024168b0027"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-parser-check.json",
+      "bytes": 32754,
+      "sha256": "3a81addec0761fbbb58a69895e2fc5c8ddf00b17c871b3cc5c369aa5211f0d75"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-preflight-result.json",
+      "bytes": 2808,
+      "sha256": "6a2b8321d301a8d478b4e500ef1d97bcc97a2fb128f2c0d1ddc0b76ef22f7104"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-result.json",
+      "bytes": 16032,
+      "sha256": "3dde86266dc7909dd5f26d1f999bf15bde766cd439b0f9ffe0825bbfe88e5df7"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-search-log.json",
+      "bytes": 555,
+      "sha256": "fc8198ecd5826423dba99e8c7b0bbe05c6e03043dd248027eb169b5d30f51efb"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-selected.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-selected.xml.headers",
+      "bytes": 261,
+      "sha256": "ef9716d118c4f68efa610b94f3c90ef5a3768e1d1911409ad9a51e3378f7a045"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-validation.json",
+      "bytes": 378,
+      "sha256": "73ed23a93586aa753f2c81d064e1a1d6bfea00ed283250e2a2b0dfc2af1146d8"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-validation.txt",
+      "bytes": 354,
+      "sha256": "e01396c46e628880bc6bd130a913c625439b0d085fbd14ba52da51ac2c183b28"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-wft.html",
+      "bytes": 14851480,
+      "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-wft.html.headers",
+      "bytes": 532,
+      "sha256": "9ad49a73b0a9edbafa138dfac99503872eb3b756c2e30c3ba6705be802a4509f"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-wti.xml",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67"
+    },
+    {
+      "path": "sources/review-art-213aq-213md-wti.xml.headers",
+      "bytes": 261,
+      "sha256": "4bd7afe44d94576946974a7d1126d63438d24453028ca96ef0c8eb4a9c243b40"
+    },
+    {
       "path": "sources/review-art-28-40-before-hashes.json",
       "bytes": 24031,
       "sha256": "20c9a461cd35905580e6e7e626c1f09b3302d148d0c3c122bfbd0e3e86105da4"
@@ -2749,8 +2914,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 93847,
-      "sha256": "78851c2b74794e1f78ca7118d898566a6e21f08e055116acd83219b2dc34baa9"
+      "bytes": 101184,
+      "sha256": "154cf6f882d6054b78d6c5a9d332c98db46829e25a90e3f550ff08338f2abccd"
     },
     {
       "path": "sources/version-evidence.json",

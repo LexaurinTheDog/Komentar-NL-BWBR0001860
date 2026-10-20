@@ -1,6 +1,6 @@
-# Artikelen 213aq–213md — auteurscheckpoint
+# Artikelen 213aq–213md — beoordeeld checkpoint
 
-Twintig toegewezen eenheden van het onvoltooide commentaar. Wettekst: 1 september 2026; actuele bron opnieuw gecontroleerd op 21 oktober 2026 (lokale tijd). [Broncontrole](sources/author-art-213aq-213md-preflight-result.json). [Selectief rechtspraakonderzoek](sources/author-art-213aq-213md-search-log.json): geen voldoende relevante geverifieerde uitspraak gevonden met de vastgelegde zoekacties. Tekst commentaar © 2026 Vojtěch Říha; Apache-2.0. Concept, nog geen onafhankelijke tweede beoordeling.
+Twintig toegewezen plaatsen van een onvoltooid commentaar. Wettekst: 1 september 2026. Projectinterne tweede lezing: 21 oktober 2026; vier toelichtingen gecorrigeerd of aangescherpt, zestien aanvaard. [Exacte beoordeling](sources/review-art-213aq-213md-result.json). [Bronpreflight](sources/review-art-213aq-213md-preflight-result.json). Tekst commentaar © 2026 Vojtěch Říha; Apache-2.0. Concept; geen externe professionele goedkeuring.
 
 ### Artikel 213aq
 
@@ -8,9 +8,7 @@ Twintig toegewezen eenheden van het onvoltooide commentaar. Wettekst: 1 septembe
 
 > Vervallen
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Dit artikel is in de geselecteerde toestand vervallen. Het biedt dus geen zelfstandige bevoegdheid voor een handeling in een faillissement waarop het huidige recht van toepassing is. De bronaantekening verwijst echter uitdrukkelijk naar artikel XIV, vierde lid, van Stb. 2018/489. Daarom moet bij een oud verzekeraarsfaillissement eerst worden vastgesteld welk temporeel regime geldt; het woord ‘vervallen’ bewijst niet dat een vroegere bepaling ook voor iedere reeds lopende afwikkeling betekenisloos is.
@@ -37,7 +35,7 @@ Bijvoorbeeld: een dossier bevat een beschikking die vóór de hervorming op arti
 
 Artikel 213ar maakt een afzonderlijk faillissementsverzoek tegen een Nederlandse moedermaatschappij mogelijk ter ondersteuning van de afwikkeling van een verzekeraar of diens groep. Het faillissement van de verzekeraar trekt de moeder dus niet automatisch mee. Lid 1 verlangt zowel de situatie van artikel 213abis bij de verzekeraar als het oordeel van DNB over de twee cumulatieve voorwaarden bij de moeder: een gevaarlijke financiële ontwikkeling zonder voldoende of tijdig herstelperspectief, én noodzaak van haar faillissement voor de afwikkeling. De verwijzing naar artikel 3a:77 Wft bepaalt het groepsbegrip; economisch verbonden zijn alleen volstaat niet om iedere groepsvennootschap onder deze bevoegdheid te brengen.
 
-Lid 2 sluit aanvragen door anderen uit wanneer de genoemde situaties bij verzekeraar en moeder zich voordoen. Buiten die exclusieve route blijft de aanhef ‘onverminderd artikel 1’ relevant. Lid 4 verlangt dat de rechtbank DNB gelegenheid geeft te worden gehoord wanneer een ander het faillissement van de bedoelde moeder verzoekt; een gewone aanvraag kan dus niet zonder die toezichtsbetrokkenheid worden afgehandeld. Lid 3 concentreert het DNB-verzoek in Amsterdam, in afwijking van de gewone territoriale regel. Lid 5 importeert de procedurele waarborgen van artikelen 213ac–213ah en past de wettelijke verwijzingen bij de rechterlijke beoordeling en rechtsmiddelen aan. Dat is geen algemene toepassing van alle verzekeringsregels op de holding.
+Lid 2 sluit aanvragen door anderen uit wanneer de genoemde situaties bij verzekeraar en moeder zich voordoen. Buiten die exclusieve route blijft de aanhef ‘onverminderd artikel 1’ relevant. Lid 4 verlangt dat de rechtbank DNB gelegenheid geeft te worden gehoord wanneer een ander het faillissement van de bedoelde moeder verzoekt; een gewone aanvraag kan dus niet zonder die toezichtsbetrokkenheid worden afgehandeld. Lid 3 concentreert het DNB-verzoek in Amsterdam, in afwijking van de gewone territoriale regel. Lid 5 importeert de procedurele waarborgen van artikelen 213ac–213ah en past de wettelijke verwijzingen bij de rechterlijke beoordeling en bekendmaking aan. Dat is geen algemene toepassing van alle verzekeringsregels op de holding.
 
 Denk aan een moeder die de financiering van een noodlijdende verzekeraar verzorgt. Een liquiditeitstekort van de moeder en de noodzaak haar mee af te wikkelen moeten afzonderlijk worden onderbouwd. Een louter organisatorisch voordeel of de wens alle groepsschulden in één procedure te behandelen vervangt de wettelijke toets niet.
 
@@ -97,9 +95,7 @@ Bijvoorbeeld: een oud intern draaiboek schrijft een handeling ‘op grond van ar
 
 > Vervallen
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Deze plaats is vervallen vanaf 1 januari 2019. De bron bewaart bovendien een verwijzing naar het overgangsrecht van artikel XIV, vierde lid, Stb. 2018/489. Het huidige nummer bevat dus geen regel die zelfstandig kan worden toegepast, terwijl bij faillissementen van vóór de stelselwijziging onderzoek naar het toepasselijke oude regime nodig kan blijven.
@@ -154,13 +150,11 @@ Verzekeringsschuldeisers moeten daarnaast worden geïnformeerd over de belangrij
 >
 > 3 Elke schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat kan zijn vordering en schriftelijke opmerkingen betreffende zijn vordering indienen in een officiële taal van die lidstaat met een verklaring met als opschrift in de Nederlandse taal «Indiening van een vordering», onderscheidenlijk «Indiening van opmerkingen betreffende een vordering».
 
-**Redactionele bronaantekeningen:**
-
-Tekstplaatsing met aanpassing van de spelling.
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
 
 De taalregeling maakt onderscheid naar de aard van de vordering. Een bekende schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat die een verzekeringsvordering heeft, ontvangt de kennisgeving van artikel 213i, eerste lid, in een officiële taal van die lidstaat. Lid 1 verlangt dus meer dan een meertalig opschrift op een verder Nederlandse brief. De aanknoping is verblijfplaats of woonplaats, niet nationaliteit.
 
-Voor andere vorderingen staat lid 2 een Nederlandse kennisgeving toe, voorzien van het voorgeschreven opschrift in alle officiële Unietalen. Lid 3 regelt de omgekeerde communicatierichting: iedere schuldeiser met de genoemde Europese woon- of verblijfplaats mag de vordering en schriftelijke opmerkingen indienen in een officiële taal van die lidstaat. Daarbij hoort een Nederlandse verklaring met het toepasselijke opschrift. Dat maakt de stukken als indiening of opmerkingen herkenbaar. De bepaling verandert niet de inhoudelijke vereisten, termijnen of rang van de vordering.
+Voor andere vorderingen schrijft lid 2 een Nederlandse kennisgeving voor met een formulier dat het voorgeschreven opschrift in alle officiële Unietalen draagt. Lid 3 regelt de omgekeerde communicatierichting: iedere schuldeiser met de genoemde Europese woon- of verblijfplaats mag de vordering en schriftelijke opmerkingen indienen in een officiële taal van die lidstaat. Daarbij hoort een Nederlandse verklaring met het toepasselijke opschrift. Dat maakt de stukken als indiening of opmerkingen herkenbaar. De bepaling verandert niet de inhoudelijke vereisten, termijnen of rang van de vordering.
 
 Bijvoorbeeld: een in Frankrijk wonende polishouder en een daar wonende leverancier zijn beiden bekende schuldeisers. Voor de eerste moet de kennisgeving in een officiële taal van Frankrijk plaatsvinden; voor de tweede geldt het Nederlandse bericht met het meertalige formulier. Beiden kunnen hun vordering in een officiële Franse taal indienen met het Nederlandse opschrift. De curator mag hun brieven niet uitsluitend wegens het ontbreken van een volledig Nederlandse formulering als niet-ingediend behandelen.
 
@@ -190,9 +184,7 @@ Bijvoorbeeld: na de openingsbrief duurt een portefeuilleoverdracht langer dan ve
 >
 > 4 De rechter-commissaris kan de toestemming, bedoeld in het eerste lid, zowel per overeenkomst als voor een groep overeenkomsten geven.
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Deze regeling behandelt nog niet volledig betaalde termijnpremieverzekeringen wanneer het verzekerde onzekere voorval zich bij faillietverklaring nog kan voordoen. Beide voorwaarden moeten aanwezig zijn. De curator kan zelf of na schriftelijk verzoek van de wederpartij, met toestemming van de rechter-commissaris, verklaren of wordt nagekomen. Bij nakoming moet hij ook duidelijk maken of premiebetaling mag worden opgeschort of moet doorgaan. Artikel 37 is uitdrukkelijk uitgesloten; de gewone regeling voor wederkerige overeenkomsten kan dus niet als parallelle beslisroute worden gebruikt.
@@ -215,9 +207,7 @@ Lid 4 maakt toestemming per overeenkomst of voor een groep mogelijk. Een groepsb
 >
 > 2 Artikel 213ka, vierde lid, is van overeenkomstige toepassing.
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Een reeds volledig betaalde verzekering kan niet worden behandeld alsof nog termijnpremies openstaan. Artikel 213kaa geeft de curator een eigen beëindigingsbevoegdheid met toestemming van de rechter-commissaris en een termijn van drie maanden. Hij kan eigener beweging handelen of op schriftelijk verzoek van de wederpartij. Een verzoek van de wederpartij beëindigt de verzekering dus niet vanzelf.
@@ -238,12 +228,10 @@ Door lid 2 kan toestemming, net als in artikel 213ka, vierde lid, individueel of
 >
 > 4 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de waardering van activa en passiva in geval van een faillietverklaring op grond van deze afdeling.
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
-Voor verzekeringsvorderingen bepaalt artikel 213l bijzondere waarderingsdata. Het algemene uitgangspunt van lid 1 is de waarde op de dag waarop het faillissement aanvangt, ook voor vorderingen die later vervallen. Dit wijkt af van artikel 131, tweede lid. De curator moet de toekomstige aanspraak dus waarderen en niet automatisch het nominale totaal van alle toekomstige betalingen als verificatiebedrag nemen.
+Voor verzekeringsvorderingen bepaalt artikel 213l bijzondere waarderingsdata. Voor de in lid 1 bedoelde verzekeringsvorderingen die na de aanvangsdag vervallen, geldt de waarde op de dag waarop het faillissement aanvangt. Dit wijkt af van artikel 131, tweede lid. De curator moet de toekomstige aanspraak dus waarderen en niet automatisch het nominale totaal van alle toekomstige betalingen als verificatiebedrag nemen.
 
 Lid 2 verschuift het waarderingsmoment naar de dag van verificatie wanneer termijnpremies zijn overeengekomen en op de faillissementsdatum de laatste termijn nog niet is betaald. De latere waarde kan samenhangen met de verdere behandeling van de verzekering, maar de bepaling geeft geen vrijbrief om de gekozen datum administratief naar believen te verschuiven. Lid 3 noemt weer een eigen peildatum voor een risico dat zich na de faillietverklaring verwezenlijkt: de waarde op de dag van die verwezenlijking. Men moet dus eerst bepalen welk type aanspraak wordt gewaardeerd voordat een rekenmodel wordt toegepast.
 
@@ -325,9 +313,7 @@ Bijvoorbeeld: bij een schadeverzekeraar concurreren een periodieke letseluitkeri
 >
 > 6 De curator vraagt tevens toestemming met betrekking tot de hoogte, en, in geval van periodieke uitkeringen, de frequentie daarvan.
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Deze bepaling verplicht de curator toestemming te vragen voor bepaalde tussentijdse uitkeringen vóór de slotuitdeling. Zij verleent geen onvoorwaardelijk recht op volledige betaling. Lid 1 begint bij opeisbare vorderingen en onderscheidt levensverzekeringsuitkeringen, persoonsuitkeringen uit schadeverzekering en vervallen werknemerspensioentermijnen. Voor de overige verzekeringsuitkeringen onder d gelden twee aanvullende grenzen: het bedrag moet € 12.500 te boven gaan en het risico moet zich vóór de negentigste dag na faillietverklaring hebben verwezenlijkt. ‘Te boven’ omvat niet een vordering van precies € 12.500.
@@ -368,14 +354,12 @@ Bijvoorbeeld: een benadeelde kan voor dezelfde verkeersschade de in c bedoelde a
 >
 > 2 De rechter-commissaris geeft toestemming tenzij hij oordeelt dat de curator het bepaalde in het eerste lid niet aannemelijk heeft gemaakt.
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Toestemming voor tussentijdse uitkeringen berust op een prudente prognose van de latere uitdeling. De curator moet aannemelijk maken dat het uitkeringspercentage gebaseerd is op een voorzichtige schatting van wat schuldeisers na de verificatievergadering zouden ontvangen als de tussentijdse uitkeringen niet waren gedaan of gewijzigd. Die vergelijking voorkomt dat een vroeg betaalde groep het resultaat voor andere aanspraken ongemerkt uitholt. Ook een wijziging van een bestaande tussentijdse regeling valt onder de toets.
 
-De raming moet aansluiten op het werkelijk beschikbare vermogen, boedelkosten en de toepasselijke rangorde van artikel 213m. Onzekere baten en nog niet definitief vastgestelde verzekeringsverplichtingen mogen niet als zekere meevallers worden behandeld. De bepaling schrijft geen universeel percentage voor en gelijkstelt een liquiditeitsoverschot niet met uitdeelbare waarde. Volgens lid 2 geeft de rechter-commissaris toestemming tenzij de curator de vereiste basis onvoldoende aannemelijk heeft gemaakt. Zijn oordeel betreft dus een onderbouwde prognose; het vervangt de uiteindelijke verificatie niet.
+De raming moet aansluiten op het werkelijk beschikbare vermogen, boedelkosten en de toepasselijke rangorde van artikel 213m. Onzekere baten en nog niet definitief vastgestelde verzekeringsverplichtingen mogen niet als zekere meevallers worden behandeld. De bepaling schrijft geen universeel percentage voor en stelt een liquiditeitsoverschot niet gelijk aan uitdeelbare waarde. Volgens lid 2 geeft de rechter-commissaris toestemming tenzij de curator de vereiste basis onvoldoende aannemelijk heeft gemaakt. Zijn oordeel betreft dus een onderbouwde prognose; het vervangt de uiteindelijke verificatie niet.
 
 Bijvoorbeeld: de curator verwacht voor een categorie uiteindelijk zestig procent te kunnen betalen, maar een belangrijke verhaalsopbrengst is betwist. Een verzoek om onmiddellijk zestig procent uit te keren vraagt meer dan de optimistische eindraming. Het dossier moet zichtbaar maken hoe risico's, kosten en concurrerende aanspraken in de voorzichtige schatting zijn verwerkt. Een eerdere toestemming rechtvaardigt ook niet automatisch een verhoging wanneer nieuwe gegevens tegenvallen.
 
@@ -387,9 +371,7 @@ Bijvoorbeeld: de curator verwacht voor een categorie uiteindelijk zestig procent
 >
 > 2 In afwijking van het eerste lid doet de curator, indien tot aan de faillietverklaring op vorderingen, bedoeld in artikel 213ma, eerste lid, aanhef en onderdeel a tot en met d, een of meer periodieke uitkeringen zijn gedaan, zonder toestemming van de rechter-commissaris tussentijdse uitkeringen totdat de rechter-commissaris heeft beslist op een verzoek om toestemming dat is gedaan gedurende de eerste negentig dagen na de dag van de faillietverklaring, per periode voor hetzelfde bedrag als het bedrag dat de schuldeiser voorafgaand aan de faillietverklaring in eenzelfde periode ontving.
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Lid 1 legt de uitvoering bij de curator: verleende toestemming voor tussentijdse uitkeringen moet in betalingen worden omgezet. De curator kan dus niet zonder nadere grond een toegestane regeling als vrijblijvende mogelijkheid behandelen. De bedragen en periodiciteit volgen uit de toestemming die volgens artikel 213ma, zesde lid, wordt gevraagd. Een toestemming voor periodieke bedragen is geen machtiging om het hele kapitaal ineens te betalen.

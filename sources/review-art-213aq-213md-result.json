@@ -1,0 +1,294 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-213aq",
+    "art-213ar",
+    "art-213b",
+    "art-213c",
+    "art-213d",
+    "art-213e",
+    "art-213f",
+    "art-213g",
+    "art-213h",
+    "art-213i",
+    "art-213j",
+    "art-213k",
+    "art-213ka",
+    "art-213kaa",
+    "art-213l",
+    "art-213m",
+    "art-213ma",
+    "art-213mb",
+    "art-213mc",
+    "art-213md"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "art-213aq",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213aq",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Vervallen slot, bronnoot en overgangsrecht XIV(4) gelezen; geen actuele bevoegdheid of gereconstrueerde vroegere inhoud.",
+      "result": "accepted_without_change",
+      "before_sha256": "3d7b13ec8c1f13e39b63883fc7ce9b58ac9d3738a369157e55b71c91d8b5df1a",
+      "after_sha256": "3d7b13ec8c1f13e39b63883fc7ce9b58ac9d3738a369157e55b71c91d8b5df1a",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "art-213ar",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ar",
+      "effective_from": "2024-01-01",
+      "source_notes_checked": [],
+      "finding": "Alle vijf leden gelezen; cumulatieve financiële en afwikkelingsvoorwaarden, DNB-exclusiviteit, Amsterdam en hoorplicht onderscheiden. Rechtsmiddelen vervangen door bekendmaking bij verwijzing naar213ag; Wft3a:77 groepsdefinitie gecontroleerd.",
+      "result": "corrected",
+      "before_sha256": "b8709259a9b4e57c209a38a094dfbd9060e7c95ff241eeb3f23d4a40464c7087",
+      "after_sha256": "e0383b4686cc9e0a0822dcd7ec3cf86df9f88eabbd32baaef982030db675c85a",
+      "statutory_sha256": "8184efc3f6738d1274e0e8dc10dd8d5ade3a6a49e1815d1e2eaefe9e2fb10501"
+    },
+    {
+      "id": "art-213b",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213b",
+      "effective_from": "2012-01-01",
+      "source_notes_checked": [],
+      "finding": "Procesvrijstelling alleen DNB voor verzekeraar; moedermaatschappij en ontbrekende verwijzing in213ar(5) correct begrensd.",
+      "result": "accepted_without_change",
+      "before_sha256": "4d32db3c02f36723e041b923cc1f863535e8c567ee3f4d2fcec26092282000d6",
+      "after_sha256": "4d32db3c02f36723e041b923cc1f863535e8c567ee3f4d2fcec26092282000d6",
+      "statutory_sha256": "731591631c0c8489a93b2739c12c8e9db1d4c2c762e7a02dd2009f04528135a8"
+    },
+    {
+      "id": "art-213c",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213c",
+      "effective_from": "2007-01-01",
+      "source_notes_checked": [],
+      "finding": "Afschrift voor verzekeraar onderscheiden van kennisgeving autoriteiten; onderdelen a/b, grensoverschrijdende diensten en solvabiliteitstoezichthouder gecontroleerd.",
+      "result": "accepted_without_change",
+      "before_sha256": "831a4400f9ce1a48fd56be490171ad9efed152562db231df8150eddf1eb0659f",
+      "after_sha256": "831a4400f9ce1a48fd56be490171ad9efed152562db231df8150eddf1eb0659f",
+      "statutory_sha256": "9c43cae01cf1cda175f492e5ae75f740dc1bc303a0c441cb7400c8966c1e2d26"
+    },
+    {
+      "id": "art-213d",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213d",
+      "effective_from": "2024-01-01",
+      "source_notes_checked": [],
+      "finding": "Intrekkingsplicht bij nog bestaande vergunning; geen verval van rechtswege of automatisch polis-einde. Gewijzigde2024-tekst gecontroleerd.",
+      "result": "accepted_without_change",
+      "before_sha256": "06530a1a6af3a710a5c3dd03d34fdeb9b0a852c7348d82a6a194a63a9db5e496",
+      "after_sha256": "06530a1a6af3a710a5c3dd03d34fdeb9b0a852c7348d82a6a194a63a9db5e496",
+      "statutory_sha256": "23a9a280c04b9c7ad32ed6c89da3bea079e092742732299d780b74ec576f24c3"
+    },
+    {
+      "id": "art-213e",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213e",
+      "effective_from": "2024-01-01",
+      "source_notes_checked": [],
+      "finding": "Vervallen per2024; geen actuele informatieplicht uit historisch draaiboek afgeleid. Wijzigingswet gelezen.",
+      "result": "accepted_without_change",
+      "before_sha256": "e7e4b4f6c6aeaca637eb7a52ac95a8e262034cc673d525e22d2ed82e3330da19",
+      "after_sha256": "e7e4b4f6c6aeaca637eb7a52ac95a8e262034cc673d525e22d2ed82e3330da19",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "art-213f",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213f",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Vervallen2019 met expliciete overgangsnoot; historische beoordeling gescheiden van huidig slot.",
+      "result": "accepted_without_change",
+      "before_sha256": "bbd5ca26a3d584715e23ad8023a03f3f7afa9fc411378b9df4b4dbb40149d370",
+      "after_sha256": "bbd5ca26a3d584715e23ad8023a03f3f7afa9fc411378b9df4b4dbb40149d370",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "art-213g",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213g",
+      "effective_from": "2024-01-01",
+      "source_notes_checked": [],
+      "finding": "Beide leden: griffier/DNB-keten, onverwijld, alle andere lidstaten en mogelijke gevolgen. Machtiging versus uitgevoerde overgang juist onderscheiden.",
+      "result": "accepted_without_change",
+      "before_sha256": "2409b8c83968335208fb67c4e1a0b8a4b89fe0b962f61f868bdf660e5d988e21",
+      "after_sha256": "2409b8c83968335208fb67c4e1a0b8a4b89fe0b962f61f868bdf660e5d988e21",
+      "statutory_sha256": "50d09bd2f30b9eabf0628b37aa88b91c4c194f004c5c68a42e3a0abbc89fc89a"
+    },
+    {
+      "id": "art-213h",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213h",
+      "effective_from": "2024-01-01",
+      "source_notes_checked": [],
+      "finding": "Vervallen2024 en wijzigingswet gecontroleerd; geen oude bekendmakingsplicht als actueel recht.",
+      "result": "accepted_without_change",
+      "before_sha256": "1e7c1bc247c7b7f2ab26a0930912516cceb8fd223ebf8e2035e3b2b6fd6ef121",
+      "after_sha256": "1e7c1bc247c7b7f2ab26a0930912516cceb8fd223ebf8e2035e3b2b6fd6ef121",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "art-213i",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213i",
+      "effective_from": "2024-01-01",
+      "source_notes_checked": [],
+      "finding": "Beide leden: onmiddellijk schriftelijk, overgang versus machtiging; artikel109/127, indiening zekerheidscrediteuren en verzekeringseffecten besproken.",
+      "result": "accepted_without_change",
+      "before_sha256": "f5efc43d8e5ba354755921f5acd366914536996cf17fe889feb6351ea552574e",
+      "after_sha256": "f5efc43d8e5ba354755921f5acd366914536996cf17fe889feb6351ea552574e",
+      "statutory_sha256": "ca33c3f859fa16c7d4f7cdc093acc40d99b41bb145ca5a92408b8eb2ca79beed"
+    },
+    {
+      "id": "art-213j",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213j",
+      "effective_from": "2005-12-01",
+      "source_notes_checked": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "finding": "Alle drie leden: verzekering/andere vorderingen, woonplaats en indieningstaal onderscheiden. Verplicht Nederlands bericht en meertalig formulier verduidelijkt; geen facultatieve taalkeuze van curator.",
+      "result": "corrected",
+      "before_sha256": "4e4e57b2af93c17294e3ae9f3cb2baf75df762562f1f2a61c973df3556c6835b",
+      "after_sha256": "23a0e9540b13b496f710b64feaf159557511484085e4c2e0088eb08428f3830e",
+      "statutory_sha256": "4baaf5aea55b8fd5cdd6af24440e13d73c0643602eec523f64f8215134fbef60"
+    },
+    {
+      "id": "art-213k",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213k",
+      "effective_from": "2007-01-01",
+      "source_notes_checked": [],
+      "finding": "Beide leden: regelmatige passende curatorinformatie en verzoekafhankelijke DNB-informatie onderscheiden van213g.",
+      "result": "accepted_without_change",
+      "before_sha256": "0c201bfec6d9f39b23e5f55b6f1ce210105fd8a62e6ae1a6a35426cad99a031e",
+      "after_sha256": "0c201bfec6d9f39b23e5f55b6f1ce210105fd8a62e6ae1a6a35426cad99a031e",
+      "statutory_sha256": "006595552d57b5caf31b0ae650a824ea9327c574559f158f09cc1f49f5a66492"
+    },
+    {
+      "id": "art-213ka",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ka",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Alle vier leden: cumulatieve termijnpremie/risicovoorwaarden, RC-toestemming, uitsluiting37, spaarelement en beperkte boedelschulden per premiecomponent gecontroleerd.",
+      "result": "accepted_without_change",
+      "before_sha256": "1ad1999b777874a28f53b5ec96eca14ab2334005fcf665daa2aa56fbe3bc0867",
+      "after_sha256": "1ad1999b777874a28f53b5ec96eca14ab2334005fcf665daa2aa56fbe3bc0867",
+      "statutory_sha256": "cc64ce6839de1f56d7f2ed9cf3ffedf96bc5aef8940c94609e7a7dc72d6a629b"
+    },
+    {
+      "id": "art-213kaa",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213kaa",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Beide leden en drie cumulatieve voorwaarden: volledige premie, tijdelijke risicodekking, nog mogelijk voorval, drie maanden en groepstoestemming.",
+      "result": "accepted_without_change",
+      "before_sha256": "28eeb3d914a969c82c468d8e91dbc941654692ffc45fee868a1b32539498fe76",
+      "after_sha256": "28eeb3d914a969c82c468d8e91dbc941654692ffc45fee868a1b32539498fe76",
+      "statutory_sha256": "ba297437b4f5a9c5cacea071a8e5001c4ec43e2e11c48ba7f6c72298d5485296"
+    },
+    {
+      "id": "art-213l",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213l",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Alle vier leden: bereik lid1 aangescherpt tot na aanvang vervallende vorderingen; verificatiedatum lid2 en risicodatum lid3 onderscheiden. Geen ongelezen discontovoet verzonnen.",
+      "result": "corrected",
+      "before_sha256": "c6712b5339387a07c60db31dd278fb0e8e8e5f72f2086a3f201c441fc3f93ef5",
+      "after_sha256": "8d702929268a4492016169c9e3a551ed906ff792b77e39893d063017b8612582",
+      "statutory_sha256": "de6c33bb61e852b3905cbde47402d30c304a79d3a5ca50b00ad166246c27b8b6"
+    },
+    {
+      "id": "art-213m",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213m",
+      "effective_from": "2023-07-01",
+      "source_notes_checked": [],
+      "finding": "Alle vijf leden en onderdelen2a-h/3a-f: boedelkosten, zekerheden, persoonsuitkeringen, pensioen/loonperioden, onverschuldigde premie en aanvullende schade onderscheiden; restgroep en gelijke Europese voorrang gecontroleerd.",
+      "result": "accepted_without_change",
+      "before_sha256": "ff5aa52d7e6a87793e898916bdc5cf96170fe79262f41662d90e9f6484b8dc9c",
+      "after_sha256": "ff5aa52d7e6a87793e898916bdc5cf96170fe79262f41662d90e9f6484b8dc9c",
+      "statutory_sha256": "31f08a711e0f741c0686406dfde46d3a5dfa5362718509b8d02dd9db6a3150d8"
+    },
+    {
+      "id": "art-213ma",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ma",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Alle zes leden: opeisbaarheid, categorieën a-d, strikte12500-grens, risicodatum, afkoop voor/na opening, verzoektermijn, indiening en hoogte/frequentie gecontroleerd.",
+      "result": "accepted_without_change",
+      "before_sha256": "7a1d30ec59b49eb056a786de6b7ffc27dff11a51121364782fc193fa3278bd46",
+      "after_sha256": "7a1d30ec59b49eb056a786de6b7ffc27dff11a51121364782fc193fa3278bd46",
+      "statutory_sha256": "765004d28b70a2489f1f49e0442d2ac15edcef53b12073d16825fe0ea6527145"
+    },
+    {
+      "id": "art-213mb",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mb",
+      "effective_from": "2024-07-10",
+      "source_notes_checked": [],
+      "finding": "Alle zes onderdelen: Zorginstituut/Waarborgfonds, aanvraaggebonden ontstaan en vereiste na-opening wilsuiting onderscheiden; geen ongefundeerde ruimere externe garantieregels.",
+      "result": "accepted_without_change",
+      "before_sha256": "4a3d716b7e8dbaaa583e468b40f876725ccb33d60350ff07cfa4573858859a89",
+      "after_sha256": "4a3d716b7e8dbaaa583e468b40f876725ccb33d60350ff07cfa4573858859a89",
+      "statutory_sha256": "13117a0a6d0da40a8b2facdce10bf20e3b0bd1ba5e8b74b0fb78c1b3a69163fd"
+    },
+    {
+      "id": "art-213mc",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mc",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Beide leden: prudente tegenfeitelijke raming, wijziging en toestemming-tenzij getoetst; grammatica gecorrigeerd zonder inhoudelijke wijziging.",
+      "result": "corrected",
+      "before_sha256": "4c87ecfeb3adfec5fa8828843837ba2850ee3bfe7e74a97584b98adaa12baf67",
+      "after_sha256": "731e3f25e9acc4fa318c13b98ebcb966cab48687a2c4242c1db751a022f1700d",
+      "statutory_sha256": "7f6bdf10af17e3bb5d7ee67872deb23837a4d002dc72d4a6384acdfe4d1af77f"
+    },
+    {
+      "id": "art-213md",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213md",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Beide leden: uitvoering toestemming en continuering bestaande periodieke uitkeringen, zelfde bedrag en tijdig verzoek; geen automatische stop dag90. Checklist als thematische hulp, geen werkelijk afdelingsslot geclaimd.",
+      "result": "accepted_without_change",
+      "before_sha256": "fe6a036957af92461c4005c903021f9b6a737fc025742522f5646caddd2c3e7a",
+      "after_sha256": "fe6a036957af92461c4005c903021f9b6a737fc025742522f5646caddd2c3e7a",
+      "statutory_sha256": "e1c465e0b0de17d3dffb7fd3a2e5b4f724f6ca420f61e8830c24ca427f457900"
+    }
+  ],
+  "changed_units": [
+    "art-213ar",
+    "art-213j",
+    "art-213l",
+    "art-213mc"
+  ],
+  "checked_at_utc": "2026-10-20T22:59:43.881722+00:00",
+  "whole_book_complete": false,
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 639,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 534055,
+    "errors": [
+      "krátký/chybějící komentář u 259 jednotek: ['art-213me(0<400)', 'art-213mf(0<400)', 'art-213mg(0<400)', 'art-213mh(0<400)', 'art-213mi(0<400)', 'art-213mj(0<120)', 'art-213mk(0<400)', 'art-213n(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "limitations": [
+    "Only the assigned twenty units reviewed; project-internal review, no external professional approval.",
+    "Selective unsuccessful judicial searches; no new verified judgment or claim of exhaustive case-law coverage.",
+    "Former repealed text not reconstructed; transitional applicability separately acknowledged.",
+    "External guarantee regimes not independently expounded; no unverified implementing valuation rule asserted.",
+    "259 unassigned commentaries absent; whole-book build and strict validation remain unsuccessful."
+  ]
+}

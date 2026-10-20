@@ -1,0 +1,12 @@
+{
+  "searched_at": "2026-10-20T22:59:43.881722+00:00",
+  "web_queries": [
+    "site:uitspraken.rechtspraak.nl \"213ma\" \"213mc\"",
+    "site:uitspraken.rechtspraak.nl \"213ka\" verzekeraar"
+  ],
+  "web_result": "No results returned.",
+  "local_search": "rg -l 213ma|213mc|213ka /Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr --glob *.md",
+  "local_result": "No matches; exit 1.",
+  "verified_full_text": [],
+  "limits": "Selective search repeated during review; no sufficiently relevant verified judgment located. No case citations or holdings added."
+}

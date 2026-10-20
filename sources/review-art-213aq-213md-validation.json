@@ -1,0 +1,11 @@
+{
+  "repo": "Komentar-NL-BWBR0001860",
+  "units": 639,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 534055,
+  "errors": [
+    "krátký/chybějící komentář u 259 jednotek: ['art-213me(0<400)', 'art-213mf(0<400)', 'art-213mg(0<400)', 'art-213mh(0<400)', 'art-213mi(0<400)', 'art-213mj(0<120)', 'art-213mk(0<400)', 'art-213n(0<400)']"
+  ],
+  "warnings": [],
+  "ok": false
+}

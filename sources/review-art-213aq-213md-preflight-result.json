@@ -1,0 +1,80 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "batch_date_local": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "verified_at": "2026-10-20T22:59:43.881722+00:00",
+  "ids": [
+    "art-213aq",
+    "art-213ar",
+    "art-213b",
+    "art-213c",
+    "art-213d",
+    "art-213e",
+    "art-213f",
+    "art-213g",
+    "art-213h",
+    "art-213i",
+    "art-213j",
+    "art-213k",
+    "art-213ka",
+    "art-213kaa",
+    "art-213l",
+    "art-213m",
+    "art-213ma",
+    "art-213mb",
+    "art-213mc",
+    "art-213md"
+  ],
+  "version_evidence": {
+    "effective_from": "2026-09-01",
+    "current_html_explicit": "Geldend van 01-09-2026 t/m heden; displayed consultation date 20-10-2026, distinguished from fetch timestamp.",
+    "fresh_xml_matches_canonical": true,
+    "fresh_wti_matches_previous": true,
+    "records": "sources/review-art-213aq-213md-fetch.json",
+    "changes_since_intake": [],
+    "future_dates_excluded": [
+      "2027-11-15"
+    ]
+  },
+  "historical_versions_checked": [
+    {
+      "path": "sources/version-register.xml",
+      "sha256": "763e7ee5229eb9d24e14bfa85b9614ed1a757880954b662958b69fb77e64417f",
+      "root": "toestand",
+      "effective_from": "2002-01-01",
+      "disposition": "Historical snapshot excluded from selected parser; article labels enumerated separately.",
+      "article_count": 414
+    },
+    {
+      "path": "sources/review-art-212z-213a-historical-2025.xml",
+      "sha256": "51ef559220c00e2a608c328cf1254c0bfa4bf2620acd431a766d8c2694ac2202",
+      "root": "toestand",
+      "effective_from": "2025-11-19",
+      "disposition": "Historical snapshot excluded from selected parser; article labels enumerated separately.",
+      "article_count": 635
+    }
+  ],
+  "annexes_checked": [
+    "Fresh full statutory XML has no annex/bijlage elements; unnumbered opening and closing text remain separately inventoried in sources/non-article-text.json."
+  ],
+  "transition_evidence": {
+    "path": "sources/review-art-207-212hf-stb-2018-489.txt",
+    "sha256": "30032835c8d2a7b6797b3d809ef8b0b768dfd184ef5bc740aa118a2ef1bf35ef",
+    "finding": "Article XIV(4) preserves previous Faillissementswet for insurer bankruptcies pronounced before Article IV commencement."
+  },
+  "amendment_evidence": {
+    "path": "sources/author-art-213abis-213ap-stb-2023-306.txt",
+    "sha256": "c558d66b2e56563752ecbcfbace11772e582964cd84bf590c1b4f3234fc136e0",
+    "finding": "Articles 213e and 213h repealed; 213d, 213g, 213i and 213ar amended. Current selected XML used, not historical wording."
+  },
+  "coverage": {
+    "official_unique": 639,
+    "parsed": 639,
+    "missing": [],
+    "extra": []
+  },
+  "unresolved_blockers": [],
+  "review_date_local": "2026-10-21",
+  "parser_evidence": "sources/review-art-213aq-213md-parser-check.json"
+}
