@@ -1,0 +1,12 @@
+{
+  "searched_at": "2026-10-20T22:57:45.843029+00:00",
+  "web_queries": [
+    "site:uitspraken.rechtspraak.nl \"213ma\" \"213mc\"",
+    "site:uitspraken.rechtspraak.nl \"213ka\" verzekeraar"
+  ],
+  "web_result": "No results returned for these targeted queries.",
+  "local_search": "rg -l 213ma|213mc|213ka /Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr --glob *.md",
+  "local_result": "No matches (exit 1).",
+  "verified_full_text": [],
+  "limits": "Selective research only. No sufficiently relevant verified case found by these searches; no holding or case citation added. Technical and repealed units explained from the selected official statute."
+}
