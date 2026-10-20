@@ -17,5 +17,18 @@
   "whole_build_limitation": "Whole book still incomplete; builder refuses missing unassigned commentary. Bounded checkpoint exported without placeholders.",
   "independent_review": false,
   "stage": "bounded_batch_authored",
-  "updated_at": "2026-10-20T22:26:35.817339+00:00"
+  "updated_at": "2026-10-20T22:26:35.817339+00:00",
+  "strict_validation": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 639,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 408267,
+    "errors": [
+      "krátký/chybějící komentář u 339 jednotek: ['art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)', 'art-212q(0<400)', 'art-212r(0<400)', 'art-212ra(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "bounded_batch_ok": true,
+  "quality_check": "All three commentary blocks read against statutory wording; distinct elements, consequences and fictional examples; no case holding asserted; no repeated paragraphs."
 }
