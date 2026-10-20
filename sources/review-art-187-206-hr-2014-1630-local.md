@@ -1,0 +1,135 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Hoge Raad
+ecli: ECLI:NL:HR:2014:1630
+date: '2014-07-11'
+date_published: '2014-07-09'
+case_number:
+- 13/03015
+procedure:
+- Cassatie
+subject:
+- Civiel recht; Insolventierecht
+relations:
+- 'Conclusie: ECLI:NL:PHR:2014:344, Gevolgd'
+references:
+- Faillissementswet
+- Faillissementswet 203
+- Burgerlijk Wetboek Boek 3
+- Burgerlijk Wetboek Boek 3 277
+- Burgerlijk Wetboek Boek 3 278
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2014:1630
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2014:1630
+chars: 8339
+license: Public Domain Mark
+retrieved_at: '2026-10-04T00:21:03Z'
+---
+
+# ECLI:NL:HR:2014:1630 – Hoge Raad, 2014-07-11
+
+- **Instantie:** Hoge Raad
+- **Datum:** 2014-07-11
+- **Zaaknummer:** 13/03015
+- **Rechtsgebied:** Civiel recht; Insolventierecht
+
+## Inhoudsindicatie
+
+Faillissementsrecht. Art. 203 Fw. Schuldeiser verhaalt zich na faillietverklaring op buitenlands vermogen op basis van voor faillietverklaring in New York verkregen beslagverlof. Voorrang? Kan voorrangspositie naar inhoud en strekking worden gelijkgesteld met een Nederlands voorrangsrecht? HR 14 december 2001, ECLI:NL:HR:2001:AD4933, NJ 2002/241.
+
+## Uitspraak
+
+1 Het geding in feitelijke instanties
+
+Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar de navolgende stukken:
+
+a. de vonnissen in de zaak 345980/HA ZA 10-68 van de rechtbank Rotterdam van 21 juli 2010 en 17 augustus 2011;
+
+b. het arrest in de zaak 200.097.180/01 van het gerechtshof Den Haag van 12 maart 2013.
+
+Het arrest van het hof is aan dit arrest gehecht.
+
+2 Het geding in cassatie
+
+Tegen het arrest van het hof heeft Seacastle beroep in cassatie ingesteld. De cassatiedagvaarding is aan dit arrest gehecht en maakt daarvan deel uit.
+
+De curator heeft geconcludeerd tot verwerping van het beroep.
+
+De zaak is voor partijen toegelicht door hun advocaten en voor de curator mede door mr. R.L.M.M. Tan, advocaat te Amsterdam.
+
+De conclusie van de Advocaat-Generaal P. Vlas strekt tot verwerping van het beroep.
+
+De advocaten van Seacastle hebben bij brief van 9 mei 2014 op die conclusie gereageerd.
+
+3 Beoordeling van het middel
+
+3.1
+
+In cassatie kan van het volgende worden uitgegaan.
+
+(i) In 2006 heeft een rechtsvoorganger van Seacastle een leaseovereenkomst gesloten met (onder meer) Europa West-Indië Lijnen B.V. (hierna: EWL) met betrekking tot een aantal zeecontainers.
+
+(ii) EWL heeft niet voldaan aan haar betalings-verplichtingen uit hoofde van de leaseovereenkomst.
+
+(iii) Op 24 juni 2008 heeft Seacastle van de rechter te New York verlof gekregen om beslag te leggen in de Verenigde Staten ten laste van EWL door middel van een zogeheten “Rule B Attachment” naar het toenmalige recht van de staat New York (hierna: RBA).
+
+(iv) Op 9 juli 2008 heeft de rechtbank Rotterdam aan EWL voorlopige surseance van betaling verleend. Bij vonnis van 14 juli 2008 heeft de rechtbank EWL in staat van faillissement verklaard, onder gelijktijdige intrekking van de surseance, en met benoeming van de curator.
+
+(v) Bij beslissing van 18 augustus 2008 heeft de rechter te New York het door middel van het RBA onder twee banken in de Verenigde Staten in beslag genomen bedrag van US$ 472.592,79 toegewezen aan Seacastle, waarna dit bedrag aan laatstgenoemde is uitbetaald.
+
+3.2
+
+In dit geding vordert de curator op grond van art. 203 Fw de veroordeling van Seacastle om aan de boedel € 298.222,24 te betalen (zijnde het in euro’s omgerekende bedrag van US$ 472.592,79). De rechtbank heeft de vordering toegewezen. Het hof heeft het vonnis van de rechtbank bekrachtigd. Het heeft daartoe onder meer het volgende overwogen.
+
+Op de vordering van de curator is naar Nederlands internationaal privaatrecht Nederlands recht van toepassing omdat het faillissement van EWL in Nederland is uitgesproken. Op grond van art. 4 van Verordening (EG) nr. 1346/2000 betreffende insolventieprocedures (hierna: IVO) worden de insolventieprocedure en de gevolgen daarvan beheerst door het Nederlandse recht. Dat de verordening slechts regels geeft voor de Europese Unie – en dus niet ook voor de Verenigde Staten van Amerika – doet aan de gelding van het Nederlandse recht in deze zaak niet af. (rov. 4)
+
+Ingevolge art. 20 Fw omvat het faillissement van een schuldenaar diens gehele vermogen. Het faillissement strekt zich ook uit tot goederen van de schuldenaar die zich niet in Nederland bevinden. Art. 203 Fw onderkent de mogelijkheid dat een buitenlands rechtsstelsel toelaat dat een schuldeiser zich verhaalt op aldaar aanwezige goederen van de schuldenaar die – naar Nederlands recht – tot de failliete boedel behoren. Indien daarvan sprake is, zal de schuldeiser het door hem verhaalde aan de boedel moeten vergoeden. (rov. 5)
+
+Het hof heeft vervolgens overwogen:
+
+“6. (…) artikel 203 F kent als uitzondering op de vergoedingsplicht van een schuldeiser het geval dat de goederen, waarop hij zich verhaald heeft, “bij voorrang aan hem zijn verbonden”. Seacastle voert aan dat dit vanwege het RBA het geval was, waarbij zij zich tevens op het standpunt stelt dat Amerikaans recht (mede) van toepassing is op de vraag of inderdaad van voorrang sprake is.
+
+Het hof overweegt als volgt.
+
+Het faillissement van EWL moet, nu het in Nederland is uitgesproken, naar Nederlandse rechtsregels worden afgewikkeld. Deze bij het van kracht worden van de IVO al geldende regel is gecodificeerd in artikel 4 van deze verordening. Het voorgaande brengt mee dat, zoals trouwens in artikel 4 lid 2 aanhef en onder i IVO uitdrukkelijk is bepaald, de vraag of van voorrang sprake is naar Nederlands recht dient te worden beoordeeld.
+
+“Voorrang” kan, naar blijkt uit artikel 3:278 BW, voortvloeien uit een zakelijk zekerheidsrecht, zoals pand of hypotheek of op grond van andere specifiek in de wet genoemde gevallen, waaronder de (wettelijke) voorrechten.
+
+Het hof constateert dat het RBA een beslagmaatregel is en dat zodanige maatregel naar Nederlands recht geen voorrang schept. Het beslag roept immers volgens dit recht geen zakelijk recht in het leven, noch schept het een ander specifiek in de wet geregelde voorrang of voorrecht.
+
+Uit het voorgaande vloeit voort dat de in artikel 203 omschreven uitzondering, waarop Seacastle zich beroept, in deze zaak niet aanwezig is.
+
+Het hof tekent hierbij nog aan dat Seacastle weliswaar aanvoert dat het RBA naar Amerikaans recht een “priority” in het leven roept, maar dat uit haar stellingen niet blijkt dat deze priority de vorm en/of inhoud heeft van een zakelijk zekerheidsrecht als pand of hypotheek. Daarom kan van de door haar bepleite (analoge) toepassing van artikel 5 IVO – die het verhaal van Seacastle ongemoeid zou laten – geen sprake zijn.”
+
+3.3.1
+
+De onderdelen 1 en 3 klagen naar de kern genomen dat het hof in rov. 6 heeft miskend dat van voorrang in de zin van art. 203 Fw (ook) sprake is indien buitenlands recht de schuldeiser voorrang geeft boven concurrente schuldeisers.
+
+3.3.2
+
+Op de vordering van de curator is Nederlands recht van toepassing, zoals ook door het hof in rov. 4, in cassatie terecht niet bestreden, is geoordeeld.
+
+3.3.3
+
+Ingevolge art. 203 Fw dienen schuldeisers die na de faillietverklaring hun vordering geheel of gedeeltelijk afzonderlijk verhaald hebben op zich in het buitenland bevindende, aan hen niet bij voorrang verbonden, goederen van de in Nederland gefailleerde schuldenaar, het aldus verhaalde aan de boedel te vergoeden. Blijkens de parlementaire geschiedenis, weergegeven in de conclusie van de Advocaat-Generaal onder 2.3, is de rechtsgrond van de in art. 203 Fw bedoelde vergoedingsplicht gelegen in de omstandigheid dat de schuldeiser die zich verhaalt op in het buitenland gelegen goederen van de gefailleerde, inbreuk maakt op het uitgangspunt van gelijkheid van schuldeisers (art. 3:277 lid 1 BW).
+
+3.3.4
+
+In het onderhavige geding staat de vraag centraal of van voorrang als bedoeld in art. 203 Fw sprake is indien de schuldeiser zich beroept op een voorrangsrecht naar buitenlands recht. Voor de beantwoording van deze vraag moet, gelet op doel en strekking van art. 203 Fw, worden beoordeeld of dat recht naar dat buitenlandse recht een voorrangspositie oplevert en de aan dat recht te ontlenen voorrangspositie naar inhoud of strekking kan worden gelijkgesteld met een Nederlands voorrangsrecht (vgl. HR 14 december 2001, ECLI:NL:HR:2001:AD4933, NJ 2002/241).
+
+De onderdelen 1 en 3 berusten op een ander uitgangspunt en falen dus.
+
+3.4
+
+Het oordeel van het hof komt erop neer dat het RBA een beslagmaatregel is, dat beslag naar Nederlands recht geen voorrang schept en dat uit de stellingen van Seacastle niet volgt dat de aan het RBA te ontlenen voorrangspositie kan worden gelijkgesteld met een voorrangspositie als bedoeld in art. 3:278 BW. Het hof heeft hieraan terecht de gevolgtrekking verbonden dat het recht waarop Seacastle zich beroept, niet kan worden beschouwd als een recht van voorrang in de zin van art. 203 Fw. De overige klachten van het middel stuiten hierop af voor zover zij niet reeds falen omdat zij voortbouwen op onderdeel 1.
+
+4 Beslissing
+
+De Hoge Raad:
+
+verwerpt het beroep;
+
+veroordeelt Seacastle in de kosten van het geding in cassatie, tot op deze uitspraak aan de zijde van de curator begroot op € 1.933,34 aan verschotten en € 2.200,-- voor salaris.
+
+Dit arrest is gewezen door de vice-president E.J. Numann als voorzitter en de raadsheren A.M.J. van Buchem-Spapens, A.H.T. Heisterkamp, C.E. Drion en G. de Groot en in het openbaar uitgesproken door de raadsheer G. de Groot op 11 juli 2014.

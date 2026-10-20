@@ -1,0 +1,24 @@
+{
+  "queries": [
+    "site.rechtspraak.nl \"203\" \"Faillissementswet\" \"Hoge Raad\"",
+    "site.rechtspraak.nl \"192\" \"187\" \"uitdelingslijst\" cassatie",
+    "\"artikel 192\" \"cassatie\" \"uitkering\" curator",
+    "site.rechtspraak.nl \"187\" \"192\" \"onherroepelijk\"",
+    "site.rechtspraak.nl \"196\" \"197\" \"Hoge Raad\" betwist"
+  ],
+  "full_decisions_read": [
+    "ECLI:NL:HR:2014:1630",
+    "ECLI:NL:HR:2016:759",
+    "ECLI:NL:HR:2016:202"
+  ],
+  "used_decisions": [
+    "ECLI:NL:HR:2014:1630",
+    "ECLI:NL:HR:2016:759"
+  ],
+  "not_used": {
+    "ECLI:NL:HR:2016:202": "Actual decision rejects appeal under art81; no reasoned holding on procedural standing. PHR inadmissibility recommendation is not the court decision.",
+    "PHR:2022:540 and PHR:2022:37": "Search leads only, not cited as judicial holdings."
+  },
+  "local_corpus": "Read preserved snapshots sources/review-art-187-206-hr-*-local.md alongside full official XML.",
+  "limitations": "Selective search; no exhaustive later-treatment review. No additional sufficiently relevant verified judgment used for the remaining technical or repealed places."
+}

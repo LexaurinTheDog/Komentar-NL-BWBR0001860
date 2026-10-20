@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2016:759</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-21T21:27:19</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-04-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2016-04-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">15/00217</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht_insolventierecht">Civiel recht; Insolventierecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2016:51" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2016:51, Gevolgd</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHAMS:2014:4231" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#bekrachtiging/bevestiging">In cassatie op : ECLI:NL:GHAMS:2014:4231, Bekrachtiging/bevestiging</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860">Faillissementswet</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=36">Faillissementswet 36</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=196">Faillissementswet 196</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=197">Faillissementswet 197</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005291">Burgerlijk Wetboek Boek 3</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005291&amp;artikel=319">Burgerlijk Wetboek Boek 3 319</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005291&amp;artikel=324">Burgerlijk Wetboek Boek 3 324</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2016/953</rdf:li>
+          <rdf:li>AR 2016/1236</rdf:li>
+          <rdf:li>JWB 2016/179</rdf:li>
+          <rdf:li>RvdW 2016/585</rdf:li>
+          <rdf:li>NJ 2016/278</rdf:li>
+          <rdf:li>RI 2016/64</rdf:li>
+          <rdf:li>JOR 2016/177 met annotatie van Prof. Mr. J.J. van Hees</rdf:li>
+          <rdf:li>TvPP 2016, afl. 4, p. 98</rdf:li>
+          <rdf:li>INS-Updates.nl 2016-0188</rdf:li>
+          <rdf:li>UDH:TvCu/13150 met annotatie van prof. mr. A.W. Jongbloed</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:759">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:759</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2016-04-28T11:31:14</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-04-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2016:759 Hoge Raad , 29-04-2016 / 15/00217</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2016:759:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Faillissementsrecht. Verjaring van de bevoegdheid tot tenuitvoerlegging van in proces-verbaal van verificatievergadering opgenomen erkende, en niet door de gefailleerde betwiste, vordering (art. 196-197 Fw). Toepasselijkheid van verjaringstermijn van twintig jaar (art. 3:324 lid 1 BW).</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2016:759:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>29 april 2016</para>
+    <para>Eerste Kamer</para>
+    <para>15/00217</para>
+    <para>RM/RB</para>
+    <para />
+    <para> </para>
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Arrest</para>
+    <para> </para>
+    <para>in de zaak van:</para>
+    <para />
+    <parablock>
+      <para>
+        [eiser],<?linebreak?>wonende te [woonplaats], België,</para>
+      <para>EISER tot cassatie,</para>
+      <para>advocaat: mr. A.E.H. van der Voort         Maarschalk,</para>
+      <para />
+    </parablock>
+    <parablock>
+      <para>t e g e n</para>
+      <para />
+    </parablock>
+    <parablock>
+      <para>ABN AMRO BANK N.V.,<?linebreak?>gevestigd te Amsterdam,</para>
+      <para>VERWEERSTER in cassatie,</para>
+      <para>advocaat: mr. F.E. Vermeulen.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Partijen zullen hierna ook worden aangeduid als [eiser] en de Bank.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Het geding in feitelijke instanties</title>
+    <para>Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar de navolgende stukken: </para>
+    <para>a.	de vonnissen in de zaak 2060837 \ HA EXPL 13-593 van de kantonrechter te Amsterdam van 4 september 2013 en 18 december 2013;</para>
+    <para>b.	het arrest in de zaak 200.141.819/01 van het gerechtshof Amsterdam van 30 september 2014. </para>
+    <para>	Het arrest van het hof is aan dit arrest gehecht.</para>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Het geding in cassatie</title>
+    <parablock>
+      <para> Tegen het arrest van het hof heeft [eiser] beroep in cassatie ingesteld. De cassatiedagvaarding is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para> De Bank heeft geconcludeerd tot verwerping van het beroep.</para>
+      <para> De zaak is voor partijen toegelicht door hun advocaten en voor de Bank mede namens mr. B.F.L.M. Schim.</para>
+      <para> De conclusie van de Advocaat-Generaal G.R.B. van Peursem strekt tot verwerping.</para>
+      <para>	De advocaat van [eiser] heeft bij brief van 24 februari 2016 op die conclusie gereageerd.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het middel</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>In cassatie kan van het volgende worden uitgegaan.</para>
+      <para>(i)	De rechtsvoorganger van de Bank heeft op of omstreeks 15 oktober 1981 een krediet in rekening-courant van ƒ 20.000,-- verstrekt aan [eiser]. Nadat het krediet al meerdere malen was verhoogd, heeft de Bank bij brief van 19 januari 1990 een krediet van ƒ 200.000,-- en een extra krediet van ƒ 100.000,-- aan [eiser] verleend.</para>
+      <parablock>
+        <para>(ii)	Bij brief van 2 juli 1993 heeft de Bank het aan [eiser] in rekening-courant verstrekte krediet met onmiddellijke ingang opgezegd en [eiser] verzocht zijn schuld bij de Bank uiterlijk 15 juli 1993 integraal af te lossen of een aflossingsregeling voor te stellen. [eiser] heeft niet aan dat verzoek voldaan.</para>
+        <para>(iii)	[eiser] is bij vonnis van de rechtbank Zutphen van 16 september 1993 in staat van faillissement verklaard.</para>
+        <para>(iv)	Bij brief van 8 oktober 1993 heeft de Bank aan de curator in het faillissement van [eiser] meegedeeld dat zij tot aan de faillissementsdatum uit hoofde van het aan [eiser] verstrekt krediet in rekening-courant een bedrag van ƒ 206.703,88 (inclusief rente en kosten) van [eiser] te vorderen heeft. De Bank heeft verzocht om dat bedrag op te nemen op de lijst van voorlopig erkende schuldvorderingen.</para>
+      </parablock>
+      <para>(v)	De curator heeft de Bank bij brief van 12 januari 1994 bericht dat de vordering van ƒ 206.703,88 op de lijst van voorlopig erkende crediteuren is geplaatst.</para>
+      <parablock>
+        <para>(vi)	Op 20 september 2005 is de verificatievergadering in het faillissement van [eiser] gehouden. Het proces-verbaal van de verificatievergadering houdt, voor zover relevant, het volgende in:</para>
+        <para>“(…)</para>
+        <para>Na uitroeping van de vergadering is niemand verschenen.</para>
+        <para>(…)</para>
+        <para>De plv. rechter-commissaris leest voor de lijst van de door de curator voorlopig erkende schuldvorderingen.</para>
+        <para>In dit faillissement is geen lijst van betwiste schuldvorderingen neergelegd.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Daar niemand bezwaar maakt tegen de verificatie van de door de curator voorgedragen vorderingen, brengt vervolgens de plv. rechter-commissaris deze vorderingen over op de navolgende lijst van erkende schuldeisers:</para>
+        <para>(…)</para>
+        <para>Concurrent:</para>
+      </parablock>
+      <informaltable>
+        <tgroup cols="5">
+          <colspec colname="colA" />
+          <colspec colname="colB" />
+          <colspec colname="colC" />
+          <colspec colname="colD" />
+          <colspec colname="colE" />
+          <tbody>
+            <row>
+              <entry>
+                <para>Bedrijf</para>
+              </entry>
+              <entry>
+                <para>Adres 1</para>
+              </entry>
+              <entry>
+                <para>Plaats</para>
+              </entry>
+              <entry>
+                <para>Bedrag in gulden</para>
+              </entry>
+              <entry>
+                <para>Bedrag in euro</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>(…)</para>
+              </entry>
+              <entry>
+                <para />
+              </entry>
+              <entry>
+                <para />
+              </entry>
+              <entry>
+                <para />
+              </entry>
+              <entry>
+                <para />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>ABN-AMRO Bank</para>
+              </entry>
+              <entry>
+                <para>(…)</para>
+              </entry>
+              <entry>
+                <para>(…)</para>
+              </entry>
+              <entry>
+                <para>206.703.88</para>
+              </entry>
+              <entry>
+                <para>93.797,79</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>(…)</para>
+              </entry>
+              <entry>
+                <para />
+              </entry>
+              <entry>
+                <para />
+              </entry>
+              <entry>
+                <para />
+              </entry>
+              <entry>
+                <para />
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>	(…)”</para>
+      <para />
+      <parablock>
+        <para>(vii)	Bij brief van 12 december 2006 heeft de curator, voor zover relevant, het volgende aan de Bank geschreven:</para>
+        <para>“(…)</para>
+        <para>Bovengenoemd faillissement is op 13 januari jl. geëindigd als gevolg van het verbindend worden van de slotuitdelingslijst. (…) van uw vordering ad € 93.797,79 (zal) een bedrag van € 23.042,55 worden voldaan. (…) </para>
+        <para>Voor het onbetaald gebleven deel van uw vordering kunt u zich weer rechtstreeks wenden tot de heer [eiser].</para>
+        <para>(…)”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(viii) De Bank heeft onder meer op 4 november 2008, 10 november 2008, 5 maart 2009, 25 september 2009 en 10 maart 2011 sommatiebrieven ter zake van haar vordering naar [eiser] doen sturen. Daarover is tussen de gemachtigden van [eiser] en van de Bank gecorrespondeerd.</para>
+        <para>(ix)	Bij exploot van 27 februari 2009 heeft de Bank de grosse van het proces-verbaal van de verificatievergadering aan [eiser] doen betekenen, met bevel tot betaling.</para>
+      </parablock>
+      <para>(x)	Bij exploot van 22 juli 2011 heeft de Bank uit hoofde van de grosse van het proces-verbaal van de verificatievergadering ten laste van [eiser] executoriaal derdenbeslag doen leggen onder Nationale-Nederlanden Levensverzekering Maatschappij N.V. (hierna: Nationale Nederlanden) op, kort gezegd, de door [eiser] te ontvangen pensioenuitkering.</para>
+      <para>(xi)	Bij e-mailbericht van 31 juli 2011 heeft de gemachtigde van [eiser] de Bank verzocht, en voor zover nodig gesommeerd, het gelegde beslag op te heffen. Daaraan is geen gevolg gegeven.</para>
+      <para />
+      <paragroup>
+        <nr>3.2.1</nr>
+        <para>In de onderhavige procedure heeft [eiser] gevorderd, voor zover in cassatie van belang, dat het onder Nationale Nederlanden gelegde beslag wordt opgeheven, en dat de Bank wordt veroordeeld tot betaling aan [eiser] van € 15.488,21 te vermeerderen met wettelijke rente, en tot terugbetaling aan [eiser] van de door Nationale Nederlanden vanaf 1 maart 2013 ingehouden pensioenuitkeringen. [eiser] heeft aan zijn vorderingen ten grondslag gelegd dat de vordering van de Bank ingevolge art. 36 Fw is verjaard.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2</nr>
+        <para>De kantonrechter heeft de vorderingen van [eiser] afgewezen. Naar het oordeel van de kantonrechter moet bij gebreke van een wettelijke bepaling worden aangenomen dat de executoriale titel die het proces-verbaal van de verificatievergadering op basis van art. 196 Fw oplevert, niet verjaart. Indien aansluiting zou moeten worden gezocht bij een wettelijke bepaling, zou overeenkomstige toepassing van art. 3:324 BW het meest voor de hand liggen, gezien de overeenkomsten tussen de in dat artikel genoemde en in het onderhavige geval aan de orde zijnde titels.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.3</nr>
+        <parablock>
+          <para>Het hof heeft het vonnis van de kantonrechter bekrachtigd, zij het op andere gronden. Met betrekking tot het beroep van [eiser] op verjaring heeft het hof als volgt overwogen:</para>
+          <para>“3.4. (…)</para>
+          <para>Ingevolge artikel 196 Faillissementswet (hierna: Fw) heeft de erkenning van een vordering, die blijkt uit het proces-verbaal van de verificatievergadering, kracht van gewijsde zaak tegen de schuldenaar en het proces-verbaal levert een executoriale titel op tegen de schuldenaar. Daarmee staat de vordering na afloop van het faillissement vast. Dit is anders indien de gefailleerde op de verificatievergadering de vordering heeft betwist (artikel 197 Fw), maar dat is hier niet aan de orde.</para>
+          <para>In de parlementaire geschiedenis is artikel 196 Fw, voor zover van belang, als volgt toegelicht: <?linebreak?>“De verificatie eener vordering is authentieke vaststelling en erkenning van het vorderingsrecht. Zij bezit dus geheel het karakter van een rechterlijk vonnis en het is slechts het trekken van eene natuurlijke consequentie, wanneer bepaald wordt dat het proces-verbaal der verificatie-vergadering voor den erkenden schuldeiser een executoriale titel oplevert, ook tegenover den schuldenaar, daar deze door de bepaling van artikel 126 tot partij bij de verificatie wordt gemaakt. Door de hem verleende bevoegdheid tot betwisting worden zijne belangen afdoende gewaarborgd. Indien hij niet betwist, heeft het geen zin de schuldeisers na afloop van ’t faillissement nog eens tot een proces te noodzaken, alleen om een executoriale titel machtig te worden.” (Van der Feltz, II, p. 267).</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.5.</nr>
+      <para>Uit het voorgaande volgt dat het indienen van een vordering ter verificatie, gevolgd door de opname op de lijst van erkende schuldeisers in het proces-verbaal van de verificatievergadering en zonder aantekening van een betwisting door de gefailleerde, waardoor de vordering kracht van gewijsde zaak heeft tegen de schuldenaar, dient te worden aangemerkt als, of op een lijn gesteld kan worden met het instellen van een eis die door toewijzing wordt gevolgd als bedoeld in artikel 3:319 BW (vgl. HR 28 juni 2002, NJ 2003, 676). Dit brengt met zich dat artikel 3:324 BW op een ter verificatie ingediende en erkende vordering van toepassing is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6.</nr>
+      <para>Deze situatie doet zich hier voor. Het beroep van [eiser] op het (…) arrest van de Hoge Raad uit 1928 [2 november 1928, NJ 1928, p. 1682; toevoeging Hoge Raad] kan hem niet baten. In dit arrest is beslist dat een in het proces-verbaal van de verificatievergadering opgetekende erkenning van een vordering weliswaar kracht van gewijsde zaak heeft tegen de schuldenaar, maar dat daarmee aan die erkenning nog niet het gezag toekomt dat artikel 1953 onder 3 BW (oud) aan een rechterlijk gewijsde geeft. In deze bepaling is “(h)et gezag hetwelke de wet aan een regterlijk gewijsde toekent” als wettelijk vermoeden gekwalificeerd en is in artikel 1954 BW (oud) het gezag van gewijsde van een rechterlijk vonnis geregeld. In voormeld arrest is beslist, kort samengevat, dat artikel 196 Fw slechts de strekking heeft de erkenning bij de verificatie gezag van gewijsde te verlenen tegenover de schuldenaar maar niet tegenover de betrokken schuldeiser. In het onderhavige geval is deze beperking van het gezag van gewijsde van een erkenning van een vordering in faillissement echter niet aan de orde.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.7.</nr>
+      <para>Het hof concludeert als volgt. Grief II slaagt. Met deze grief betoogt [eiser] terecht dat het oordeel van de kantonrechter dat de executoriale titel die het proces-verbaal van de verificatievergadering oplevert niet kan verjaren, onjuist is. Het slagen van deze grief leidt echter niet tot vernietiging van het vonnis. Gezien artikel 3:324 BW, is de vordering van de bank immers nog niet verjaard. Nu ook de overige grieven falen, zal het vonnis waarvan beroep worden bekrachtigd. (…)”</para>
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Het middel betoogt dat de oordelen van het hof in de rov. 3.5 en 3.7 onjuist zijn, en voert daartoe aan dat het opnemen van een ter verificatie ingediende vordering op de lijst van erkende schuldeisers in het proces-verbaal van de verificatievergadering, zonder aantekening van betwisting door de gefailleerde, weliswaar een executoriale titel oplevert, maar dat het proces-verbaal (daarmee) nog niet een rechterlijke uitspraak is in de zin van art. 3:324 BW, en voor de toepassing van die bepaling evenmin met een rechterlijke uitspraak op een lijn te stellen is.</para>
+      <para />
+      <paragroup>
+        <nr>3.4.1</nr>
+        <para>Ingevolge art. 196 Fw heeft de in art. 121 lid 4 Fw bedoelde erkenning van een vordering kracht van gewijsde tegen de schuldenaar en levert het proces-verbaal van de verificatievergadering voor de daarin als erkend vermelde vorderingen de voor tenuitvoerlegging tegen de schuldenaar vatbare titel op. Op grond van art. 197 Fw geldt het in art. 196 Fw bepaalde niet voor zover de vordering door de gefailleerde overeenkomstig art. 126 Fw is betwist.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.4.2</nr>
+        <parablock>
+          <para>In de parlementaire geschiedenis van de art. 196 en 197 Fw – door het hof aangehaald in rov. 3.4 – is opgemerkt dat de verificatie van een vordering “authentieke vaststelling en erkenning van het vorderingsrecht” is, en dat deze verificatie dus “geheel het karakter van een rechterlijk vonnis” bezit. Daaraan verbindt de toelichting de gevolgtrekking dat het proces-verbaal van de verificatievergadering voor de erkende schuldeiser een executoriale titel oplevert, ook jegens de schuldenaar, aangezien laatstgenoemde door de in art. 126 Fw aan hem verleende bevoegdheid tot betwisting, tot partij bij de verificatie wordt gemaakt. Door deze bevoegdheid tot betwisting worden de belangen van de schuldenaar afdoende gewaarborgd. Indien de schuldenaar niet betwist, heeft het geen zin de schuldeisers na afloop van het faillissement nog eens tot een proces te noodzaken, alleen om een executoriale titel te verkrijgen, aldus de parlementaire geschiedenis. (Van der Feltz, II, p. 267)</para>
+          <para>In de toelichting op art. 121 Fw is opgemerkt dat de erkenning van een vordering op de verificatievergadering “met een rechterlijk gewijsde gelijk gesteld wordt” (Van der Feltz, II, p. 97).</para>
+          <para>Uit de hiervoor weergegeven passages kan worden afgeleid dat art. 196 Fw ertoe strekt de in het proces-verbaal van de verificatievergadering vastgelegde erkenning van een vordering op een lijn te stellen met de toewijzing van een vordering in een rechterlijk vonnis, mits de schuldenaar die vordering niet heeft betwist. Opmerking verdient dat uit die passages niet blijkt dat is beoogd om de gelijkstelling van het proces-verbaal van de verificatievergadering met een rechterlijk vonnis te beperken tot de executoriale kracht van deze titels.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.4.3</nr>
+        <parablock>
+          <para>Voorts is van belang dat de verificatie van vorderingen, waarvan het resultaat wordt vastgelegd in het proces-verbaal van de verificatievergadering, met de nodige waarborgen is omkleed.</para>
+          <para>De curator is gehouden de bij hem ingediende vorderingen te onderzoeken (art. 111 Fw), waarna hij de door hem goedgekeurde vorderingen op een lijst van voorlopig erkende vorderingen plaatst (art. 112 Fw). Vervolgens vindt een verificatievergadering plaats, onder leiding van de rechter-commissaris. De gefailleerde woont de verificatievergadering in persoon bij (art. 116 Fw). De vorderingen die tijdens de verificatievergadering niet worden betwist, worden overgebracht op een in het proces-verbaal op te nemen lijst van erkende schuldeisers (art. 121 lid 1 Fw). Het proces-verbaal van de verificatievergadering wordt ondertekend door de rechter-commissaris en de griffier (art. 121 lid 3 Fw). De in het proces-verbaal opgetekende erkenning van een vordering heeft in het faillissement kracht van gewijsde (art. 121 lid 4 Fw).</para>
+          <para>De gefailleerde is bevoegd om bij gelegenheid van de verificatievergadering, onder summiere opgave van zijn gronden, zich te verzetten tegen de toelating van een vordering, hetzij voor het geheel, hetzij voor een gedeelte, of tegen de erkenning van de beweerde voorrang; een en ander wordt aangetekend in het proces-verbaal van de verificatievergadering (art. 126 lid 1 Fw). Zoals hiervoor in 3.4.1 is overwogen, verbindt art. 197 Fw aan een betwisting op de voet van art. 126 Fw het gevolg dat het proces-verbaal van de verificatievergadering niet de op de voet van art. 196 Fw voor tenuitvoerlegging tegen de schuldenaar vatbare titel oplevert.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.4.4</nr>
+        <parablock>
+          <para>De hiervoor in 3.4.2 vermelde strekking van art. 196 Fw en de hiervoor in 3.4.3 genoemde waarborgen waarmee de verificatie van vorderingen is omkleed, rechtvaardigen dat het proces-verbaal van de verificatievergadering – voor zover het betreft de vorderingen die blijkens dat proces-verbaal op de voet van art. 121 lid 1 Fw zijn erkend en niet door de gefailleerde op de voet van art. 126 Fw zijn betwist – ook op het punt van de verjaring van de bevoegdheid tot tenuitvoerlegging daarvan op een lijn wordt gesteld met een rechterlijk vonnis.</para>
+          <para>In dit verband is van belang dat de bestaansgrond van de in art. 3:324 lid 1 BW op twintig jaar gestelde verjaringstermijn van de bevoegdheid tot tenuitvoerlegging van een rechterlijke uitspraak, daarin is gelegen dat door die uitspraak het bestaan van de desbetreffende verplichting dwingend is vastgesteld en de eisende partij heeft doen blijken nakoming te wensen (vgl. Parl. Gesch. Boek 3, p. 941). Deze bestaansgrond doet ook opgeld in het geval dat de schuldeiser zijn vordering ter verificatie heeft ingediend, en deze vordering vervolgens op de verificatievergadering is erkend en door de gefailleerde niet is betwist.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.4.5</nr>
+        <para>Aan het vorenstaande doet niet af dat de verjaringstermijn van art. 3:324 BW niet van toepassing is op een proces-verbaal dat op verzoek van een partij wordt opgemaakt indien tijdens een comparitie van partijen een schikking tot stand komt, in welk proces-verbaal wordt vastgelegd welke verbintenissen partijen als gevolg van die schikking op zich nemen (vgl. HR 27 november 2015, ECLI:NL:HR:2015:3423, NJ 2016/3). Weliswaar geschiedt de uitgifte van een dergelijk proces-verbaal in executoriale vorm (art. 87 lid 3 Rv) en vindt de afgifte plaats door het gerecht, maar de rechter is niet noodzakelijkerwijs betrokken bij de totstandkoming van de in het proces-verbaal vastgelegde schikking. Op overeenkomstige grond geldt de verjaringstermijn van art. 3:324 BW evenmin voor een in een (andere) authentieke akte vastgelegde overeenkomst, waarvan de grosse eveneens <?linebreak?>een voor tenuitvoerlegging vatbare titel oplevert (art. 430 lid 1 Rv). Daarentegen behelst het proces-verbaal van de verificatievergadering de vastlegging van het resultaat van de verificatie van vorderingen, die geschiedt na een inhoudelijke beoordeling van die vorderingen onder toezicht van de rechter-commissaris.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.4.6</nr>
+        <para>Opmerking verdient nog dat de indiening ter verificatie is aan te merken als het instellen van een eis (Parl. Gesch. Boek 3, p. 934). In een geval van toepasselijkheid van art. 196 Fw als hier aan de orde, is sprake van een situatie die, gelet op hetgeen hiervoor is overwogen, op een lijn moet worden gesteld met “het instellen van een eis die door toewijzing wordt gevolgd” als bedoeld in art. 3:319 lid 1, eerste volzin, BW, zodat door de indiening ter verificatie geen nieuwe verjaringstermijn gaat lopen. Art. 36 Fw is in een zodanig geval dus niet van toepassing.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.4.7</nr>
+        <para>De slotsom van het vorenstaande is dat de bevoegdheid tot tenuitvoerlegging van het in art. 196 Fw bedoelde proces-verbaal van de verificatievergadering ingevolge art. 3:324 lid 1 BW verjaart door verloop van twintig jaren na de aanvang van de dag, volgende op die waarop dat proces-verbaal op de voet van art. 121 lid 3 Fw door de rechter-commissaris en de griffier is ondertekend.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>De klacht van het middel stuit op het vorenstaande af.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>verwerpt het beroep; </para>
+      <para>veroordeelt [eiser] in de kosten van het geding in cassatie, tot op deze uitspraak aan de zijde van de Bank begroot op € 2.629,34 aan verschotten en € 2.200,-- voor salaris.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vice-president E.J. Numann als voorzitter en de raadsheren C.A. Streefkerk, A.H.T. Heisterkamp, G. Snijders en M.V. Polak, en in het openbaar uitgesproken door de raadsheer G. de Groot op <emphasis role="underline">29 april 2016</emphasis>.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

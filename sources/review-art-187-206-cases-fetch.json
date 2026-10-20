@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:759",
+    "access_timestamp_utc": "2026-10-20T22:15:18.704386+00:00",
+    "raw_path": "sources/review-art-187-206-case-hr-2016-759.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:759",
+    "bytes": 30259,
+    "sha256": "6ab449b3e86e53df85dadcdd8cd3f73da18a7d9fc820b992fdea94dce10a5e82",
+    "headers_path": "sources/review-art-187-206-case-hr-2016-759.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 20543
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:202",
+    "access_timestamp_utc": "2026-10-20T22:15:18.704824+00:00",
+    "raw_path": "sources/review-art-187-206-case-hr-2016-202.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:202",
+    "bytes": 7315,
+    "sha256": "e8ad2fd07c87b31f38f435861d2233286680dd2396df4c3f3e69ed065cf150c7",
+    "headers_path": "sources/review-art-187-206-case-hr-2016-202.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 2001
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2014:1630",
+    "access_timestamp_utc": "2026-10-20T22:15:18.705169+00:00",
+    "raw_path": "sources/review-art-187-206-case-hr-2014-1630.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2014:1630",
+    "bytes": 16853,
+    "sha256": "b71acadc5abb3332d140f272b39233d9e0a59be74df181c47cb1fff106415186",
+    "headers_path": "sources/review-art-187-206-case-hr-2014-1630.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 9742
+  }
+]

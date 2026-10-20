@@ -1,0 +1,61 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2014:1630",
+    "official_sha256": "b71acadc5abb3332d140f272b39233d9e0a59be74df181c47cb1fff106415186",
+    "corpus_sha256": "e5eada3b87b479d08de43751e8e09ecdca949bb7bddf997e4800fb98eabb905e",
+    "paragraphs": 72,
+    "not_matched": [
+      "EersteKamer",
+      "nr.13/03015",
+      "EV/LH",
+      "HogeRaadderNederlanden",
+      "Arrest",
+      "indezaakvan:",
+      "CONTAINERLEASINGINTERNATIONALLLC,h.o.d.n.SeacubeContainers,voorheenh.o.d.n.SeacastleContainerLeasing,gevestigdteNewYork,VerenigdeS",
+      "EISEREStotcassatie,",
+      "advocaten:mr.B.T.M.vanderWielenmr.J.Mencke,",
+      "tegen",
+      "Mr.PaulJohanPETERS,inzijnhoedanigheidvancuratorinhetfaillissementvanEuropaWest-IndiëLijnenB.V.,kantoorhoudendeteRotterdam,",
+      "VERWEERDERincassatie,",
+      "advocaat:mr.B.Winters.",
+      "PartijenzullenhiernaookwordenaangeduidalsSeacastleendecurator."
+    ]
+  },
+  {
+    "ecli": "ECLI:NL:HR:2016:759",
+    "official_sha256": "6ab449b3e86e53df85dadcdd8cd3f73da18a7d9fc820b992fdea94dce10a5e82",
+    "corpus_sha256": "8c0e648fb19b7137cffb4521f4a03e942990e2f790b8bd5f102f0203c3c3ae68",
+    "paragraphs": 127,
+    "not_matched": [
+      "EersteKamer",
+      "RM/RB",
+      "HogeRaadderNederlanden",
+      "Arrest",
+      "indezaakvan:",
+      "[eiser],wonendete[woonplaats],België,",
+      "EISERtotcassatie,",
+      "advocaat:mr.A.E.H.vanderVoortMaarschalk,",
+      "ABNAMROBANKN.V.,gevestigdteAmsterdam,",
+      "VERWEERSTERincassatie,",
+      "advocaat:mr.F.E.Vermeulen.",
+      "Partijenzullenhiernaookwordenaangeduidals[eiser]endeBank."
+    ]
+  },
+  {
+    "ecli": "ECLI:NL:HR:2016:202",
+    "official_sha256": "e8ad2fd07c87b31f38f435861d2233286680dd2396df4c3f3e69ed065cf150c7",
+    "corpus_sha256": "2db6bf9b74a4caf8052722276a43a67560e234b2ec15d3d3b43625714673901b",
+    "paragraphs": 34,
+    "not_matched": [
+      "EersteKamer",
+      "LZ/AS",
+      "HogeRaadderNederlanden",
+      "indezaakvan:",
+      "1.TYRENETMIDDEN-ZEELANDB.V.,gevestigdteHeinkenszand,",
+      "2.[verzoeker2],wonendete[woonplaats],",
+      "VERZOEKERStotcassatie,",
+      "advocaat:mr.P.J.Ph.DietzdeLoos.",
+      "VerzoekerszullenhiernaookwordenaangeduidalsTyreneten[verzoeker2]."
+    ]
+  }
+]
