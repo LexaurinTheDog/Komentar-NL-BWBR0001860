@@ -57,8 +57,7 @@
     "verbatim_ratio": 1.0,
     "commentary_chars": 445786,
     "errors": [
-      "krátký/chybějící komentář u 319 jednotek: ['art-212z(0<400)', 'art-212aa(0<400)', 'art-212bb(0<400)', 'art-212cc(0<400)', 'art-212dd(0<400)', 'art-212ee(0<400)', 'art-212ff(0<400)', 'art-212gg(0<400)']",
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 319 jednotek: ['art-212z(0<400)', 'art-212aa(0<400)', 'art-212bb(0<400)', 'art-212cc(0<400)', 'art-212dd(0<400)', 'art-212ee(0<400)', 'art-212ff(0<400)', 'art-212gg(0<400)']"
     ],
     "warnings": [],
     "ok": false
