@@ -1,0 +1,45 @@
+{
+  "assigned_ids": [
+    "art-213abis",
+    "art-213ab",
+    "art-213ac",
+    "art-213ad",
+    "art-213ad1",
+    "art-213ae",
+    "art-213af",
+    "art-213ag",
+    "art-213aga",
+    "art-213agb",
+    "art-213agc",
+    "art-213ah",
+    "art-213ai",
+    "art-213aj",
+    "art-213ak",
+    "art-213al",
+    "art-213am",
+    "art-213an",
+    "art-213ao",
+    "art-213ap"
+  ],
+  "assigned_units": 20,
+  "commented_units": 20,
+  "assigned_duplicate_delimiters": [],
+  "repeated_identical_paragraphs": [],
+  "bounded_quoted_statute_agreement": true,
+  "assigned_minimum_lengths_pass": true,
+  "length_check_is_not_legal_quality_proof": true,
+  "local_checkpoint_and_case_links_checked": true,
+  "full_title_validation": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 639,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 504021,
+    "errors": [
+      "krátký/chybějící komentář u 279 jednotek: ['art-213aq(0<120)', 'art-213ar(0<400)', 'art-213b(0<120)', 'art-213c(0<400)', 'art-213d(0<120)', 'art-213e(0<120)', 'art-213f(0<120)', 'art-213g(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "whole_title_blocker": "279 unassigned units still lack commentary; this bounded assignment does not complete the book.",
+  "second_pass_pending": true
+}
