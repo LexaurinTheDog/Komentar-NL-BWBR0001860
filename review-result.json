@@ -229,6 +229,15 @@
   "limitations": [
     "Only twenty assigned units reviewed; no external professional approval.",
     "Existing selective judicial research verified; no exhaustive case-law search claimed.",
-    "Whole-book authoring remains incomplete; full strict validation failure outside this scope is preserved."
-  ]
+    "199 unassigned commentaries absent; whole-book strict validation fails only for these outside-scope units."
+  ],
+  "bounded_validation_result": {
+    "repo": "Komentar-NL-BWBR0001860-batch-art-215-228",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 36221,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  }
 }

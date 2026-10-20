@@ -1570,6 +1570,15 @@
     ],
     "corrected": 4,
     "whole_book_complete": false,
-    "evidence": "sources/review-art-215-228-result.json"
+    "evidence": "sources/review-art-215-228-result.json",
+    "bounded_validation_result": {
+      "repo": "Komentar-NL-BWBR0001860-batch-art-215-228",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 36221,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   }
 }
