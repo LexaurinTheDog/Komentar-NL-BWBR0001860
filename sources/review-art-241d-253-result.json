@@ -223,5 +223,27 @@
     "Whole-book authoring remains incomplete.",
     "Separate transitional statutes in editorial notes not independently analysed for historical proceedings.",
     "EU substantive conversion criteria and Wft compensation entitlement conditions are not independently analysed; national procedural references verified. EUR-Lex HTTP202 empty body rejected."
-  ]
+  ],
+  "validation_result": {
+    "bounded": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 34164,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "whole_book": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 639,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 705065,
+      "errors": [
+        "krátký/chybějící komentář u 159 jednotek: ['art-254(0<400)', 'art-255(0<400)', 'art-256(0<400)', 'art-257(0<400)', 'art-257a(0<120)', 'art-258(0<400)', 'art-259(0<400)', 'art-260(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  }
 }

@@ -47,5 +47,7 @@
     "art-253": 1506
   },
   "source_agreement": 1.0,
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "local_links_checked": 30,
+  "broken_local_links": []
 }
