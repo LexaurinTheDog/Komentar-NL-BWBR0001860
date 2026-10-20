@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-20T18:53:14.745393+00:00",
+  "updated_at_utc": "2026-10-20T19:00:37.697419+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -27,11 +27,13 @@
     "editorial_notes_accounted": 481,
     "structural_editorial_notes": 21,
     "unaccounted_legal_text_nodes": 0,
-    "version_evidence": "sources/version-evidence.json"
+    "version_evidence": "sources/version-evidence.json",
+    "bounded_review_reverified_at_utc": "2026-10-20T19:00:37.697419+00:00",
+    "bounded_review_evidence": "review-checks.json"
   },
   "total_units": 639,
   "completed_units": 297,
-  "commentary_characters": 311121,
+  "commentary_characters": 317821,
   "complete_chapters": 22,
   "planned_chapters": 49,
   "completed_scope": "Every official article slot from article 1 through article 212i in selected XML order, including repealed slots and both article 212hgd* and article 212hgd.",
@@ -388,7 +390,8 @@
   ],
   "case_law_sources": [
     "ECLI:NL:HR:2018:774",
-    "ECLI:NL:HR:2013:BY6108"
+    "ECLI:NL:HR:2013:BY6108",
+    "ECLI:NL:HR:2018:1100"
   ],
   "case_law_scope": "Selective primary full-text verification for opening conditions and contract/boedel claims, not exhaustive.",
   "full_build": {
@@ -397,8 +400,8 @@
     "stdout": "",
     "stderr": "CHYBÍ komentář k 342 jednotkám, např.: ['art-212j', 'art-212k', 'art-212l', 'art-212m', 'art-212ma', 'art-212n', 'art-212o', 'art-212p', 'art-212q', 'art-212r']\n",
     "ok": false,
-    "scope": "Full-book builder attempted for the required checkpoint; incomplete commentary is an expected out-of-scope failure.",
-    "reason": "342 official article slots remain without commentary; no fallback prose created."
+    "scope": "Full-book builder invoked after bounded 20-unit review; expected incomplete-commentary failure outside the assigned scope.",
+    "reason": "342 official article slots remain without commentary. No source or unit list was narrowed and no fallback prose was created."
   },
   "validation": {
     "repo": "Komentar-NL-BWBR0001860",
@@ -414,15 +417,41 @@
   "quality_report": "quality-report.json",
   "coverage_evidence": "coverage-evidence.json",
   "independent_second_pass": {
-    "performed": false,
-    "units_reviewed_independently": 0
+    "performed": true,
+    "complete_for_assigned_batch": true,
+    "whole_book_review_complete": false,
+    "units_reviewed_independently": 20,
+    "reviewed_ids": [
+      "art-1",
+      "art-2",
+      "art-3",
+      "art-3a",
+      "art-3b",
+      "art-3d",
+      "art-4",
+      "art-5",
+      "art-5a",
+      "art-6",
+      "art-7",
+      "art-8",
+      "art-9",
+      "art-10",
+      "art-11",
+      "art-12",
+      "art-13",
+      "art-13a",
+      "art-14",
+      "art-14b"
+    ],
+    "result_path": "review-result.json",
+    "scope": "Only assigned art-1 through art-14b in official order; no whole-book approval."
   },
   "remaining_limitations": [
     "342 commentaries are unwritten; manuscript is not complete.",
     "Full shared build and strict validation cannot pass until every official unit has real commentary.",
     "Case-law research remains selective and must be extended where relevant.",
     "Referenced external European instruments have not been independently researched in full for the financial chapters; no unsupported reconstruction of their conditions has been supplied.",
-    "No fresh independent substantive review has occurred."
+    "Independent substantive second reading covers exactly 20 assigned units, not the other 619 official places."
   ],
   "output_mode": "Honest incomplete checkpoint with twenty-two fully authored chapters; no fabricated fallback prose.",
   "publication_performed": false,

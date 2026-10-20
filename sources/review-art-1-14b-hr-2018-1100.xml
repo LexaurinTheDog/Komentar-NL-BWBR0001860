@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2018:1100</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T20:40:47</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2018-07-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2018-07-06</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">17/04480</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#beschikking">Beschikking</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht_insolventierecht">Civiel recht; Insolventierecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2018:417" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2018:417, Gevolgd</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHSHE:2016:2735" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#niet ontvankelijk">In cassatie op : ECLI:NL:GHSHE:2016:2735, Niet ontvankelijk</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2018/1437</rdf:li>
+          <rdf:li>RvdW 2018/894</rdf:li>
+          <rdf:li>RI 2018/74</rdf:li>
+          <rdf:li>JIN 2018/133 met annotatie van E.S. Ebels</rdf:li>
+          <rdf:li>JOR 2018/262 met annotatie van M.C. van Genugten</rdf:li>
+          <rdf:li>INS-Updates.nl 2018-0184</rdf:li>
+          <rdf:li>TvI 2019/6 met annotatie van B.J. Engberts</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2018:1100">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2018:1100</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2018-07-06T09:30:35</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2018-07-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2018:1100 Hoge Raad , 06-07-2018 / 17/04480</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2018:1100:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Faillissementsrecht. Procesrecht. Verzet van belanghebbende tegen faillietverklaring van vennootschap afgewezen. Tijdens hoger beroep van belanghebbende wordt zij zelf failliet verklaard; curatoren nemen geding over (art. 27 lid 3 Fw). Oordeel hof dienaangaande is einduitspraak ten opzichte van failliet; toepasselijkheid art. 12 Fw op cassatieberoep daartegen. Overschrijding termijn art. 12 Fw niet verschoonbaar.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2018:1100:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>6 juli 2018</para>
+    <para>Eerste Kamer</para>
+    <para>17/04480</para>
+    <para>LZ/AR</para>
+    <para />
+    <para> </para>
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Beschikking</para>
+    <para />
+    <para> </para>
+    <para>in de zaak van:</para>
+    <para />
+    <parablock>
+      <para>
+        [verzoekster] ,<?linebreak?>gevestigd te [vestigingsplaats] , <?linebreak?></para>
+      <para>VERZOEKSTER tot cassatie,</para>
+      <para>advocaat: mr. J. van Weerden,</para>
+      <para />
+      <para />
+    </parablock>
+    <parablock>
+      <para>		t e g e n</para>
+      <para />
+      <para />
+    </parablock>
+    <parablock>
+      <para>1. mr. Pieter Rudolf DEKKER, in zijn hoedanigheid van curator van [A] B.V.,<?linebreak?><?linebreak?>kantoorhoudende te Rosmalen, </para>
+      <para>2. [verweerder 2] , in zijn hoedanigheid van voormalig (interim-) bestuurder van [A] B.V.,<?linebreak?>kantoorhoudende te [plaats] ,</para>
+      <para />
+      <para>3. mr. Pieter Rudolf DEKKER en mr. Geurt TE BIESEBEEK, beiden in hun hoedanigheid van curator in het faillissement van [verzoekster] , <?linebreak?><?linebreak?>kantoorhoudende respectievelijk te Rosmalen en Helmond.</para>
+      <para>VERWEERDERS in cassatie,</para>
+      <para>advocaten: mr. A.C. van Schaick en mr. N.E. Groeneveld-Tijssens.<?linebreak?>           </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen zullen hierna ook worden aangeduid als [verzoekster] respectievelijk de Curator, [verweerder 2] en de Curatoren [verzoekster] , gezamenlijk de Curator c.s.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Het geding in feitelijke instanties</title>
+    <para>	Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar:</para>
+    <para>a.	de vonnissen in de zaak C/01/286989/FT RK 14/1861 faillissementsnummer C/01/14/892 F van de rechtbank Oost-Brabant van 11 november 2014 en 19 december 2014;<?linebreak?></para>
+    <para>b.	de (tussen)arresten in de zaak 200.162.139/01 van het gerechtshof ’s-Hertogenbosch van 7 juli 2016 en 24 augustus 2017.<?linebreak?><?linebreak?></para>
+    <para>	De (tussen)arresten van het hof zijn aan deze beschikking gehecht.</para>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Het geding in cassatie</title>
+    <parablock>
+      <para>	Tegen het arrest van het hof van 24 augustus 2017 heeft [verzoekster] beroep in cassatie ingesteld. <?linebreak?>Het cassatierekest is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>	De Curator c.s. hebben verzocht het beroep niet-ontvankelijk te verklaren, althans te verwerpen.</para>
+      <para>De conclusie van de Advocaat-Generaal E.B. Rank-Berenschot strekt tot niet-ontvankelijkverklaring van [verzoekster] in haar cassatieberoep.</para>
+      <para>	De advocaat van de Curator c.s. heeft bij brief van 3 mei 2018 op die conclusie gereageerd.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van de ontvankelijkheid van het beroep</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>In cassatie kan van het volgende worden uitgegaan.</para>
+      <para>(i)	Crescendo Leisure Concepts Holding B.V. (hierna: Crescendo) was tot 22 februari 2013 enig aandeelhouder van [A] B.V. (hierna: [A] ).</para>
+      <parablock>
+        <para>(ii)	Bij akte van 22 februari 2013 heeft Crescendo haar aandelen in [A] overgedragen aan [verzoekster] voor de koopsom van € 1,--.</para>
+        <para>(iii)	Crescendo is bij vonnis van 26 augustus 2014 failliet verklaard met benoeming van mr. P.R. Dekker (hierna: mr. Dekker) tot curator. <?linebreak?></para>
+        <para>(iv)	Bij brief van 4 september 2014 aan [verzoekster] en [A] is namens mr. Dekker in zijn hoedanigheid van curator van Crescendo op grond van art. 42 Fw de vernietiging ingeroepen van de hiervoor onder (ii) genoemde aandelentransactie en alle daarmee samenhangende rechtshandelingen. <?linebreak?></para>
+      </parablock>
+      <para>(v)	Op 23 oktober 2014 heeft mr. Dekker in zijn hoedanigheid van curator van Crescendo de vernietiging van de verkoop en levering van de aandelen aan [verzoekster] ingeschreven in het aandeelhoudersregister van [A] en in dit aandeelhoudersregister de vermelding van [verzoekster] als aandeelhouder van [A] doorgehaald.</para>
+      <parablock>
+        <para>(vi)	Tijdens de buitengewone algemene vergadering van aandeelhouders van [A] van 27 oktober 2014 is [verzoekster] als bestuurder van [A] geschorst en is [verweerder 2] benoemd tot interim-bestuurder van [A] .</para>
+        <para>(vii)	Tijdens de buitengewone algemene vergadering van aandeelhouders van [A] van 31 oktober 2014 is [verzoekster] als bestuurder van [A] ontslagen.</para>
+        <para>(viii) Tijdens de buitengewone algemene vergadering van aandeelhouders van [A] van 7 november 2014 is besloten tot het geven van opdracht aan het bestuur van [A] tot het doen van eigen aangifte tot faillietverklaring van [A] .</para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>3.2.1</nr>
+        <para>De rechtbank heeft [A] op eigen aangifte in staat van faillissement verklaard, met benoeming van de Curator als zodanig.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2</nr>
+        <para>
+          [verzoekster] is als belanghebbende in verzet gekomen tegen het vonnis van de rechtbank. De rechtbank heeft het verzet van [verzoekster] afgewezen.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.3</nr>
+        <para>Nadat [verzoekster] hoger beroep had ingesteld tegen deze afwijzing, is zij in staat van faillissement verklaard met benoeming van de Curatoren [verzoekster] als zodanig.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.4</nr>
+        <para>De Curatoren [verzoekster] hebben het hof meegedeeld dat zij het geding overnemen op de voet van art. 27 lid 3 Fw. [verzoekster] heeft zich tegen deze overname van het geding verzet.<?linebreak?></para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.5</nr>
+        <para>Het hof heeft, voor zover in cassatie van belang, geoordeeld dat de Curatoren [verzoekster] de procedure kunnen overnemen en dat het verzet van [verzoekster] daartegen dient te worden afgewezen. Het hof heeft tussentijds cassatieberoep opengesteld van zijn uitspraak.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.1</nr>
+        <para>
+          [verzoekster] kan in haar cassatieberoep tegen deze uitspraak niet worden ontvangen. Daartoe wordt het volgende overwogen.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.2</nr>
+        <para>Indien de curator van zijn in art. 27 lid 3 Fw neergelegde bevoegdheid tot overneming van het geding gebruik maakt, wordt hij van rechtswege partij in plaats van de gefailleerde. Het oordeel van het hof dat de Curatoren [verzoekster] op de voet van art. 27 lid 3 Fw het geding in hoger beroep van [verzoekster] hebben overgenomen, houdt tevens de vaststelling in dat [verzoekster] buiten het geding is gesteld. Dat is een beslissing die, omdat zij ingrijpt in de rechten en belangen van [verzoekster] , dient te worden aangemerkt als een uitspraak waartegen voor haar in beginsel een rechtsmiddel openstaat (vgl. onder meer HR 10 februari 2006, ECLI:NL:HR:2006:AU6519, NJ 2006/405 en HR 6 oktober 2017, ECLI:NL:HR:2017:2568, NJ 2017/396). <?linebreak?></para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.3</nr>
+        <para>De uitspraak van het hof houdt voor [verzoekster] het einde in van het door haar ingestelde hoger beroep tegen de faillietverklaring van [A] . De uitspraak heeft ten opzichte van [verzoekster] dan ook te gelden als een einduitspraak. Deze einduitspraak moet ten opzichte van [verzoekster] op een lijn worden gesteld met een uitspraak zoals bedoeld in art. 12 lid 1 Fw waarbij een hoger beroep van [verzoekster] ongegrond is geoordeeld (vgl. HR 19 mei 1978, ECLI:NL:HR:1978:AC6256, NJ 1978/528). Tegen die uitspraak staat dan ook cassatieberoep open. <?linebreak?><?linebreak?><?linebreak?>Dat cassatieberoep kan [verzoekster] zelf, ook al is zij inmiddels in staat van faillissement verklaard, buiten bezwaar van de boedel (in haar eigen faillissement) instellen.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.4</nr>
+        <para>Ingevolge art. 12 Fw kan gedurende acht dagen na de dag van de uitspraak beroep in cassatie worden ingesteld. Nu de uitspraak van het hof was gedaan op 24 augustus 2017, verstreek de cassatietermijn in het onderhavige geval op 1 september 2017. Het verzoekschrift is op 20 september 2017 ter griffie van de Hoge Raad ingekomen, zodat het cassatieberoep te laat is ingesteld. <?linebreak?></para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.5</nr>
+        <para>Volgens vaste rechtspraak is een termijnoverschrijding verschoonbaar indien degene die beroep instelt, ten gevolge van een door (de griffie van) de rechtbank of het hof begane fout of begaan verzuim, niet tijdig wist en redelijkerwijs ook niet kon weten dat de rechter uitspraak heeft gedaan en de uitspraak hem als gevolg van een niet aan hem toe te rekenen fout of verzuim pas na afloop van de termijn voor het instellen van hoger beroep of cassatie is toegezonden of verstrekt. Hetgeen [verzoekster] heeft aangevoerd kan, op de gronden zoals uiteengezet in de conclusie van de Advocaat-Generaal onder 2.23, niet tot het oordeel leiden dat in dit geval van een verschoonbare termijnoverschrijding sprake is.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>verklaart [verzoekster] niet-ontvankelijk in haar beroep; </para>
+      <para>veroordeelt [verzoekster] in de kosten van het geding in cassatie, tot op deze uitspraak aan de zijde van de Curator c.s. begroot op € 392,07 aan verschotten en € 1.800,-- voor salaris, vermeerderd met de wettelijke rente over deze kosten indien [verzoekster] deze niet binnen veertien dagen na heden heeft voldaan.<?linebreak?></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	Deze beschikking is gegeven door de vice-president C.A. Streefkerk als voorzitter en de raadsheren A.H.T. Heisterkamp, M.V. Polak, M.J. Kroeze en H.M. Wattendorff, en in het openbaar uitgesproken door de raadsheer T.H. Tanja-van den Broek op <emphasis role="underline">6 juli 2018</emphasis>.<?linebreak?><?linebreak?></para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

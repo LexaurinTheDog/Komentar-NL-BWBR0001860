@@ -1,5 +1,5 @@
 {
-  "checked_at_utc": "2026-10-20T18:52:42.117412+00:00",
+  "checked_at_utc": "2026-10-20T19:01:32.065637+00:00",
   "total_statutory_units": 639,
   "commented_units": 297,
   "missing_commentary_ids": [
@@ -348,16 +348,16 @@
   ],
   "duplicate_commentary_ids": [],
   "unmatched_commentary_ids": [],
-  "commentary_characters": 311121,
+  "commentary_characters": 317821,
   "short_authored_commentaries": [],
   "exact_repeated_paragraphs": [],
   "long_repeated_sentences": [],
-  "local_output_links_checked": 73,
+  "local_output_links_checked": 93,
   "broken_local_output_links": [],
   "limitations": [
     "No automatic metric certifies legal quality or a complete semantic cross-reference review.",
     "Minimum length is a format check only.",
-    "No independent second-pass review has occurred.",
+    "Automated checks are not independent legal review; see review-result.json for the exact separately reviewed scope.",
     "No claim of exhaustive case-law research."
   ],
   "complete_manuscript": false

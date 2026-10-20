@@ -33,5 +33,24 @@
     "full_decision_text_equal_after_whitespace_normalization": true,
     "accepted": true,
     "comparison_limit": "The local 2018 decision omits the party caption; official XML is retained in full and controls. Local 2013 text matches after whitespace normalization."
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:1100",
+    "access_timestamp_utc": "2026-10-20T18:56:57+00:00",
+    "timestamp_method": "response-body file mtime immediately after completed request; HTTP server date retained in headers",
+    "raw_path": "sources/review-art-1-14b-hr-2018-1100.xml",
+    "http_status": 200,
+    "bytes": 16113,
+    "sha256": "404ea02cdaf934360dd383d887c46ee2daf3638539306b70d6975740d94dee36",
+    "headers_path": "sources/review-art-1-14b-hr-2018-1100.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "accepted": true,
+    "full_text_path": "sources/review-art-1-14b-hr-2018-1100.txt",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-1100.md",
+    "local_snapshot_path": "sources/review-art-1-14b-hr-2018-1100-local.md",
+    "local_sha256": "a24bfe9471a29809e8fbf4e3f9ce13ed2a91070fa4fc227337d1628a263a2205",
+    "ecli": "ECLI:NL:HR:2018:1100",
+    "local_core_equal_after_whitespace_removal": true,
+    "comparison_limit": "Local corpus omits party caption; complete official XML controls. Core decision from section 1 onward matches."
   }
 ]

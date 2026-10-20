@@ -18,7 +18,7 @@ Controle- en redactiedatum: 19 oktober 2026. De volledige reikwijdte blijft BWBR
 
 De mislukte route voor de exacte datum 19 oktober en de historische XML uit 2002 zijn geen bewijs van huidig recht. HTTP-succes alleen is niet als inhoudsvalidatie gebruikt. Een lege respons en een foutpagina zijn afgewezen. De huidige versie wordt gedragen door de geaccepteerde toestand en de uitdrukkelijke geldigheidsinformatie van de officiële website.
 
-De XML bevat redactionele notities die als zodanig naast het citaat staan. Die zijn geen eigen commentaar en hun externe wetsverwijzingen zijn niet automatisch afzonderlijk als overgangsrecht geverifieerd. De twee [rechtspraakkaarten](cases/HR-2018-774.md) en [contractenkaart](cases/HR-2013-BY6108.md) bevatten precieze rechtsoverwegingen en toepassingsbeperkingen. Er is geen claim van uitputtende rechtspraakrecherche.
+De XML bevat redactionele notities die als zodanig naast het citaat staan. Die zijn geen eigen commentaar en hun externe wetsverwijzingen zijn niet automatisch afzonderlijk als overgangsrecht geverifieerd. De [pluraliteitskaart](cases/HR-2018-774.md), [contractenkaart](cases/HR-2013-BY6108.md) en [cassatiekaart](cases/HR-2018-1100.md) bevatten precieze rechtsoverwegingen en toepassingsbeperkingen. Er is geen claim van uitputtende rechtspraakrecherche.
 
 ## Aanvullend bewijs: 20 oktober 2026
 
@@ -27,3 +27,7 @@ De XML bevat redactionele notities die als zodanig naast het citaat staan. Die z
 De [oorspronkelijke verificatie](sources/verification-2026-10-19.json) blijft behouden. De [niet-genummerde tekstinventaris](sources/non-article-text.json) verantwoordt ook het intitulé en de volledige aanhef en sluiting. De [structurele bronnotities](sources/structural-editorial-notes.json) zijn vanaf deze checkpoint zichtbaar in de uitvoer. Er zijn 460 artikelnotities en 21 structurele notities, samen 481; de XML bevat geen afzonderlijke `noot`-elementen.
 
 Reproduceren zonder nieuwe netwerkverzoeken: `python3 -I _parse.py`, `python3 -I _coverage.py`, `python3 -I _preflight_audit.py`. De laatste stap toetst de bewaarde verse captures; de netwerkaanvragen zelf staan in `_preflight_fetch.py`. Voor de volledige boekbuild blijft het gedeelde bouwscript vereist zodra alle commentaren geschreven zijn.
+
+## Bewijs van de afgebakende tweede lezing
+
+[Review-resultaat](review-result.json), [reproduceerbare controles](review-checks.json) en [HTTP-bronlog](sources/review-art-1-14b-fetch.json) behoren uitsluitend bij de twintig toegewezen plaatsen. De extra uitspraak van 6 juli 2018 is volledig bewaard en met het nationale corpus vergeleken. De officiële XML bevat ook de in het corpus ontbrekende partijcaption. `_review_audit.py` herhaalt bron- en integriteitschecks; de concrete juridische beoordelingen zijn afzonderlijk per eenheid genoteerd en worden niet door de scriptuitslag bewezen. Firecrawl had bij de hercontrole nul beschikbare credits; de bewijsstukken zijn rechtstreeks van de officiële servers opgehaald.

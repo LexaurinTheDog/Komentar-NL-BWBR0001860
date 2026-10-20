@@ -1,0 +1,474 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-1",
+    "art-2",
+    "art-3",
+    "art-3a",
+    "art-3b",
+    "art-3d",
+    "art-4",
+    "art-5",
+    "art-5a",
+    "art-6",
+    "art-7",
+    "art-8",
+    "art-9",
+    "art-10",
+    "art-11",
+    "art-12",
+    "art-13",
+    "art-13a",
+    "art-14",
+    "art-14b"
+  ],
+  "max_units": 20,
+  "checked_at_utc": "2026-10-20T19:01:31.626640+00:00",
+  "decisive_date": "2026-10-19",
+  "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "whole_book_complete": false,
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "art-1",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel1",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "f474828b12179f9d48fb37003094232f980634a297b3b78a54ca471131df2679",
+      "commentary_before_sha256": "a64c5cbe69fc1b34eccf93214e0e49c207ad89f27c3686bead592341855a9843",
+      "commentary_after_sha256": "bfd703a51b03515b51bc5ad1bdfcb634cd29eeee5e3fc3a1088d1f27116a800b",
+      "result": "corrected",
+      "assessment": "Steunvordering hoeft niet opeisbaar of in omvang vastgesteld te zijn; voorwaardelijke schenking verduidelijkt. Verwijzingsopdracht van HR onderscheiden van een definitieve faillietverklaring.",
+      "internal_cross_references_checked": [
+        "art-6"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:HR:2018:774"
+      ],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-2",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel2",
+      "source_paragraphs_reviewed": "1–5",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "bdaaa48e3fb51cbc7914b361949dc5b21782b2005daae0a3d6470b75e5c4cdd8",
+      "commentary_before_sha256": "22a763642dd5516a9f5c2658566176e39d2299f87b9c95dc43cee61406c8cf67",
+      "commentary_after_sha256": "3eb9a156b65ee1c07be31d915e66afe0e63834f98b65a95c5e3af6270f24b21c",
+      "result": "corrected",
+      "assessment": "Laatste woonplaats, firma-kantoor, cumulatieve voorwaarden van lid 4 en beperking van lid 5 expliciet gemaakt. Internationale rechtsmacht blijft afzonderlijk.",
+      "internal_cross_references_checked": [
+        "art-4",
+        "art-5"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-3",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel3",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "source_effective_from": "2017-09-01",
+      "statutory_text_sha256": "c16440693ea5200b8a983206e92d79ef9ccc391d1a19fe8c9c74660c01e2ec30",
+      "commentary_before_sha256": "95e8bf7a5c9ff624de7ee662466d9ea47911c13dd3bd38789cf1dc529a619d13",
+      "commentary_after_sha256": "95e8bf7a5c9ff624de7ee662466d9ea47911c13dd3bd38789cf1dc529a619d13",
+      "result": "accepted_without_change",
+      "assessment": "Geen inhoudelijke wijziging nodig: natuurlijke persoon, ontbreken saneringsverzoek, verzending plus veertien dagen en schorsing correct. Voorbeeld claimt geen toelating.",
+      "internal_cross_references_checked": [
+        "art-3a",
+        "art-3b",
+        "art-284"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-3a",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel3a",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "67866a37c8f887857949930ec5e9d46cd777b6588dd36186aeb7f932e9c320d8",
+      "commentary_before_sha256": "65d924c1f5af7b5b1bd773da1b8da2ec95d96a00a13174b8bb98b37e75dd83bc",
+      "commentary_after_sha256": "cb94a7cf3f6931135a751f4c68557f3f303b6ad5272f52c36ad6357b89fccbb8",
+      "result": "corrected",
+      "assessment": "Verschil tussen kracht van gewijsde in lid 2 en uitspraak tot definitieve toepassing in lid 3 verduidelijkt; geen extra onherroepelijkheidseis voor verval toegevoegd.",
+      "internal_cross_references_checked": [
+        "art-1",
+        "art-6"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-3b",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel3b",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "d84f76c203a85364f9ffda95012935ac1498668b05f4e11c5c75c21539fda009",
+      "commentary_before_sha256": "739196952bca8bd74ed04f400cb6e0bfd248737e8045db91f552dce4ecafc2ea",
+      "commentary_after_sha256": "739196952bca8bd74ed04f400cb6e0bfd248737e8045db91f552dce4ecafc2ea",
+      "result": "accepted_without_change",
+      "assessment": "Geen wijziging nodig: daadwerkelijk lopende regeling sluit 3/3a uit; een beëindigde regeling is niet gelijkgesteld en geen zelfstandige faillissementsgrond verzonnen.",
+      "internal_cross_references_checked": [
+        "art-3",
+        "art-3a"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-3d",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel3d",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [],
+      "source_effective_from": "2021-01-01",
+      "statutory_text_sha256": "d80c6ea3da2a2dcabf0d70ba5ca82b587f80db784891603b34dba5f62d879486",
+      "commentary_before_sha256": "6ff0ac8a1c96080a35bc0c8bf418b3a6ed908009085a81116ba368f168e59a6a",
+      "commentary_after_sha256": "6ff0ac8a1c96080a35bc0c8bf418b3a6ed908009085a81116ba368f168e59a6a",
+      "result": "accepted_without_change",
+      "assessment": "Geen wijziging nodig: eigen aangifte en schuldeisersverzoek, prioriteit deskundigenverzoek, schorsing tot beslissing en bij toewijzing gedurende afkoelingsperiode afzonderlijk behandeld.",
+      "internal_cross_references_checked": [
+        "art-3a",
+        "art-371",
+        "art-376"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-4",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel4",
+      "source_paragraphs_reviewed": "1–5",
+      "source_notes_reviewed": [
+        "Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "source_effective_from": "2017-09-01",
+      "statutory_text_sha256": "7b29395e2f2aaa2e00e34fc217cbe5e9aec54350fb98108d46601be23ea26416",
+      "commentary_before_sha256": "ded37333595a9b2449eee97b0480449a2e5f799c2ec8f2f9bdd5d8f7cfc55b7e",
+      "commentary_after_sha256": "3bcf9933958bf17c5f706144290db5e1eaadf0b38b823b5790d235d7987bcec2",
+      "result": "corrected",
+      "assessment": "Griffie-indiening, horen OM en voorbehoud van 15b toegevoegd. Partneruitzondering, vennotengegevens, rechtsmachtinformatie en uitvoerbaarheid blijven onderscheiden.",
+      "internal_cross_references_checked": [
+        "art-13",
+        "art-15b",
+        "art-284"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-5",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel5",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [],
+      "source_effective_from": "2021-01-01",
+      "statutory_text_sha256": "4edecda0b625d12a891e04bbe2d68809abe5e05c3a55cfa2ba07bfd59eb01cc4",
+      "commentary_before_sha256": "e56f9bfeb6c320926db45b9768fa564c948bd11130064d171418e818bd3b4ac8",
+      "commentary_after_sha256": "544daf6a8a053dc5fc8004db7ae0ae0b7d1efa8876e7a1d03ff039483b1de284",
+      "result": "corrected",
+      "assessment": "Eigen aangifte onderscheiden van verzoeken met advocaatplicht. Europese opsomming en de al in artikel 67 lid 2 verifieerbare bijzondere werknemersberoepstermijn verduidelijkt.",
+      "internal_cross_references_checked": [
+        "art-4",
+        "art-5a",
+        "art-67"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-5a",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel5a",
+      "source_paragraphs_reviewed": "1–5",
+      "source_notes_reviewed": [],
+      "source_effective_from": "2017-12-23",
+      "statutory_text_sha256": "5a62891bc4aa2bafa93ffb166b2f4d0897bcae55b5c4c28b92328eaf7c647db3",
+      "commentary_before_sha256": "4e485b03db5450fd245f0f44eb3ebe8e38b7baab0b9773941ca761c837e9215c",
+      "commentary_after_sha256": "59abd1c7de39c0655fca4d8e5e19760fd8abc77a74af24a2a5a381b98cbdd2a7",
+      "result": "corrected",
+      "assessment": "Beroep beperkt tot beslissing krachtens de aangewezen Europese artikelplaats; lid 3 regelt indiening en geen tweede termijn. Procespartijen en griffiebericht uitgewerkt, geen fusie van boedels gesuggereerd.",
+      "internal_cross_references_checked": [
+        "art-2",
+        "art-5"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-6",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel6",
+      "source_paragraphs_reviewed": "1–4",
+      "source_notes_reviewed": [],
+      "source_effective_from": "2017-12-23",
+      "statutory_text_sha256": "44f361ce88b99b73cc901dfb2da5b5c8031a995fb45830f812575cc280aced9c",
+      "commentary_before_sha256": "a1e93ecd9f92c511047d515aa055392a4bb1bb4fb51f3f221d6d44100f845d8d",
+      "commentary_after_sha256": "fa2921335a01300beef257797eb6bbc4fe7c6816a8422c4755882027251aa30e",
+      "result": "corrected",
+      "assessment": "Bij buitenlandse hoofdprocedure ook de schriftelijke zienswijzegelegenheid binnen rechterlijke termijn en de afzonderlijke verschijningsbevoegdheid van de partner beschreven. Summiere toets blijft onderscheiden van automatisme.",
+      "internal_cross_references_checked": [
+        "art-1",
+        "art-5"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:HR:2018:774"
+      ],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-7",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel7",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "894e921f8430b024ccd60ea95fee71a96e60ca2c610c52151298b7ca9e766e6b",
+      "commentary_before_sha256": "ca4f57436b3e74e7dff8f9cb783c3e4a63b01e5447df8857b9f30eca1251dc76",
+      "commentary_after_sha256": "ca4f57436b3e74e7dff8f9cb783c3e4a63b01e5447df8857b9f30eca1251dc76",
+      "result": "accepted_without_change",
+      "assessment": "Geen wijziging nodig: discretionair verlof op verzoek, facultatieve zekerheid, aangewezen notaris en uitsluiting/beschrijving van artikel-21-zaken correct; voorbeeld schept geen eigen beslagrecht.",
+      "internal_cross_references_checked": [
+        "art-21"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-8",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel8",
+      "source_paragraphs_reviewed": "1–6",
+      "source_notes_reviewed": [
+        "Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "source_effective_from": "2019-01-01",
+      "statutory_text_sha256": "37c6dcf14fa9d2bf82055fb62f49a3cc09d1f78ab50592b051979bbfad2d20fb",
+      "commentary_before_sha256": "a2e32a2bee256f3e3fb160c6df3a04426aaa1f3cbfc8810fcf09fd14871c0a86",
+      "commentary_after_sha256": "496f84742c3e402c2cad6af4700fc3d4c256a4f5474a270e301798927cb34611",
+      "result": "corrected",
+      "assessment": "Oproepings- en behandelingsleden explicieter verwerkt. Wettelijk aanvangspunt niet als absolute uitsluiting van kennisgevingsfouten behandeld; verwijzing naar de bij artikel 12 besproken rechtspraak.",
+      "internal_cross_references_checked": [
+        "art-4",
+        "art-12"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-9",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel9",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "956a3b359bdc0e84a39beee98204b393afab99adfc04c68b1061e14a3c83d7cd",
+      "commentary_before_sha256": "5b87a04360f2a8104f92c13ac8fcef09be393bb79f500dcdb324a76921c43aaa",
+      "commentary_after_sha256": "f3431bbd23c9a77fb9805b18915c3e11e845d06bad612f8fd1f964287637596d",
+      "result": "corrected",
+      "assessment": "Aangever/aanvrager, griffies en wettelijke termijnankering uitgewerkt; derdenverzet verwezen naar 11 lid 2. Betaling als relevante herbeoordelingsomstandigheid, geen automatische toewijzing.",
+      "internal_cross_references_checked": [
+        "art-4",
+        "art-5",
+        "art-6",
+        "art-8",
+        "art-10",
+        "art-11"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-10",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel10",
+      "source_paragraphs_reviewed": "1–5",
+      "source_notes_reviewed": [
+        "Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "source_effective_from": "2019-01-01",
+      "statutory_text_sha256": "bd46a46155690dadcceb431bd95344e4a623fc83e6bf9a65dc8ed3f4f588348a",
+      "commentary_before_sha256": "34b479efe158d2bec0d3cd1dfa3176c2b6df60e5bca40fffa2ab4a06a5517074",
+      "commentary_after_sha256": "27e5fdda1e7f2bfa4977c71bc3076ea8bf5aec1ea9abb6dcc05fa8cb079631d7",
+      "result": "corrected",
+      "assessment": "Onduidelijk curatorloos-afwikkelingsvoorbeeld vervangen door toets aan actuele betalingstoestand; indiening, oproeping en advocaatplicht expliciet, geen schorsende werking aan verzet toegekend.",
+      "internal_cross_references_checked": [
+        "art-4",
+        "art-5",
+        "art-13",
+        "art-15"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-11",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel11",
+      "source_paragraphs_reviewed": "1–4",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "f0e14c3fddbf1e51bfc7e757a71e8f3ee3565679d2cee456bae9f6ece8b90324",
+      "commentary_before_sha256": "98560aa322ca10c1f510276b0777dee6603f51047545bc44b73befb35e32c97f",
+      "commentary_after_sha256": "2861a02fb8305c3c930907a719cb99d614f1157dacac8bc49d7053dcd03f3763",
+      "result": "corrected",
+      "assessment": "Beroepsgerechtigden bij vernietiging en verwijzing van lid 3 uitgeschreven; andere crediteuren niet automatisch cassatie- of beroepsgerechtigd verklaard.",
+      "internal_cross_references_checked": [
+        "art-4",
+        "art-5",
+        "art-6",
+        "art-9",
+        "art-10",
+        "art-12"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-12",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel12",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [
+        "Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "source_effective_from": "2019-01-01",
+      "statutory_text_sha256": "f3121b66b1604c59eeb96ae942f3986c50593991688609dc6fc9ef5a266874c3",
+      "commentary_before_sha256": "4dac10531aaf247245ffe418becc7527d798a504ebb1a281c10101f68481af3a",
+      "commentary_after_sha256": "d3c2860a722563df51492c832d2bb11e4bd43679e7bf4fa23a94f24d4a651505",
+      "result": "corrected",
+      "assessment": "Termijnankering na de dag van uitspraak toegevoegd. HR 2018:1100 volledig gelezen: relatieve einduitspraak, beperkte rechterlijke-foutuitzondering en daadwerkelijke niet-ontvankelijkheid verantwoord.",
+      "internal_cross_references_checked": [
+        "art-10"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:HR:2018:1100"
+      ],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-13",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel13",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "1ac818787f31508109ed7c73056036e9f64e14f13c1c271a4a1de60dc856005c",
+      "commentary_before_sha256": "5985a3ff64d4d91ae1f77d54c0a2746f2269e48e50be9d03dedcbdebdfabebfe",
+      "commentary_after_sha256": "0af0d2ad1e91247b036d5524f1b08fc8f3bd913db084b54551298268f750997a",
+      "result": "corrected",
+      "assessment": "Materiële correctie: geen openbare aankondiging als grens; verwijzing naar kennisgeving artikel 15. Verbod op akkoordraadpleging onderscheiden van vereffening met toestemming.",
+      "internal_cross_references_checked": [
+        "art-4",
+        "art-13a",
+        "art-14",
+        "art-15"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-13a",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel13a",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [],
+      "source_effective_from": "2015-07-01",
+      "statutory_text_sha256": "824bc3008006c81aea68b30611b9a41338f9c3a5fa1a49f57ebd74ad33e2e2fd",
+      "commentary_before_sha256": "ffec5283b71f317836dc593f410289608c89351d0af579a46c87b6c193cf47c3",
+      "commentary_after_sha256": "9ea7046ec45351555099fb62145db0d73e77fa03215fe65c9a226cc340a0b9f0",
+      "result": "corrected",
+      "assessment": "Ook overeengekomen regels expliciet opgenomen; vernietiging zelf als wettelijk aanvangsmoment, zonder nieuwe termijnduur of automatische ongeldigheid te poneren.",
+      "internal_cross_references_checked": [
+        "art-13"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-14",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel14",
+      "source_paragraphs_reviewed": "1–5, 5a–b",
+      "source_notes_reviewed": [
+        "Artikel IV van Stb. 2022/491 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "source_effective_from": "2023-01-01",
+      "statutory_text_sha256": "a716b0cd7bd18bfc081183d9dd788b41acec58d5395aba8baff34f5475c08ae5",
+      "commentary_before_sha256": "1f8555ee4c7799908648370f40cdcc1231d12d710b139d7878a1c6bdbd8680e9",
+      "commentary_after_sha256": "f170e4d2701d60a58fd101967ea5bcbb00a88c9be4457b450770c40cf92a6879",
+      "result": "corrected",
+      "assessment": "Meervoudige benoeming, inhoud publicatie, Nederlandse vestiging, vier toegelaten talen en afzonderlijke onderdelen van de aanstellingscriteria uitgewerkt. Minuutregistratie wijzigt dagwerking artikel 23 niet.",
+      "internal_cross_references_checked": [
+        "art-5",
+        "art-23"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-14b",
+      "official_path": "/TiteldeelI/AfdelingEerste/Artikel14b",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "source_effective_from": "2019-01-01",
+      "statutory_text_sha256": "9921a8f4e2ffb81d3c1acb843d458893581c4b001b2e433db6e4e082973215da",
+      "commentary_before_sha256": "e0fcfed4311ffded506d71a71b3dc29e7d89285171810d743c85b88391c39a55",
+      "commentary_after_sha256": "e0fcfed4311ffded506d71a71b3dc29e7d89285171810d743c85b88391c39a55",
+      "result": "accepted_without_change",
+      "assessment": "Geen wijziging nodig: afzonderlijk en gezamenlijk optreden correct onderscheiden van een uitbreiding van de wettelijke bevoegdheden; voorbeeld blijft binnen toezichtstaak.",
+      "internal_cross_references_checked": [],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    }
+  ],
+  "limitations": [
+    "Only the exact 20 assigned article places were substantively reviewed; no conclusion about the other 619 places.",
+    "The 342 unwritten commentaries remain out of scope; shared full-book build and validator are expected to fail for that reason.",
+    "Case-law research is selective: the 2018:774 judgment was reread and 2018:1100 was newly read in full against official XML and the national corpus. No exhaustive later-case search.",
+    "External Rv, BW and EU provisions are only referred to within the scope expressly stated by the reviewed Faillissementswet text; this review does not certify their complete independent treatment.",
+    "Official editorial references to external transitional acts are preserved but no general review of legacy proceedings under those acts is claimed.",
+    "This is a fresh-process substantive second reading, not external professional approval."
+  ],
+  "technical_evidence": "review-checks.json",
+  "commentary_before_snapshot": "sources/review-art-1-14b-commentary-before.txt",
+  "changed_units": [
+    "art-1",
+    "art-2",
+    "art-3a",
+    "art-4",
+    "art-5",
+    "art-5a",
+    "art-6",
+    "art-8",
+    "art-9",
+    "art-10",
+    "art-11",
+    "art-12",
+    "art-13",
+    "art-13a",
+    "art-14"
+  ],
+  "accepted_without_change": [
+    "art-3",
+    "art-3b",
+    "art-3d",
+    "art-7",
+    "art-14b"
+  ]
+}
