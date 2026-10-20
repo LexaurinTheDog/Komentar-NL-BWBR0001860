@@ -1764,5 +1764,34 @@
       "Independent second pass pending."
     ],
     "at": "2026-10-20T23:41:04.703377+00:00"
+  },
+  "bounded_review_art_241d_253": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "art-241d",
+      "art-241e",
+      "art-242",
+      "art-243",
+      "art-244",
+      "art-245",
+      "art-246",
+      "art-247",
+      "art-247a",
+      "art-247b",
+      "art-247c",
+      "art-247d",
+      "art-248",
+      "art-249",
+      "art-249a",
+      "art-250",
+      "art-250a",
+      "art-251",
+      "art-252",
+      "art-253"
+    ],
+    "corrected": 6,
+    "whole_book_complete": false,
+    "evidence": "sources/review-art-241d-253-result.json"
   }
 }

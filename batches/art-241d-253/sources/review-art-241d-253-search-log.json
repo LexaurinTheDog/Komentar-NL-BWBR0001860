@@ -1,0 +1,24 @@
+{
+  "at": "2026-10-20T23:41:04.703377+00:00",
+  "queries": [
+    "site.rechtspraak.nl \"242\" \"surseance\" \"Hoge Raad\"",
+    "site.rechtspraak.nl \"249\" \"surseance\" \"Hoge Raad\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+  "local_versions": [
+    "ecli-nl-hr-2017-1280.md",
+    "ecli-nl-hr-2018-424.md"
+  ],
+  "verified_case_sources": [
+    "ECLI:NL:HR:2017:1280",
+    "ECLI:NL:HR:2018:424"
+  ],
+  "disposition": "Full official judgments and local versions read; selective search, no exhaustive coverage. No separately verified case sufficiently specific to the other technical provisions was added.",
+  "second_pass": {
+    "checked_at": "2026-10-20T23:45:58.722064+00:00",
+    "scope": "Existing selective research independently reviewed, no additional case asserted. Both complete official judgments freshly fetched and read; corpus snapshots compared.",
+    "holdings": "2017:3.4.2 minimum hearing circle;3.5.2 and3.6.2 anticipated prejudice and knowledge;3.7.2–3.7.3,3.10.2 discretion and group interests;3.8.2 personal composition offer versus estate-bound act. 2018:3.5.4–3.5.6 restrict broad previous formulations;3.9 fixation at surseance opening;3.12 answers, no estate rank from verifiability.",
+    "external_law": "Current official BW7:51 read; goods and transfer/pledge distinction verified. EUR-Lex consolidated endpoint returned HTTP202 with empty body and is rejected; no EU substantive conditions added from memory. Article247d remains a national procedural commentary and expressly refers substantive EU conditions to the Regulation.",
+    "limitations": "No exhaustive new case-law search or universal later-treatment audit. EU consolidated response unavailable; no claim to review EU substantive conversion criteria."
+  }
+}

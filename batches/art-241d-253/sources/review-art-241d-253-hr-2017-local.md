@@ -1,0 +1,207 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Hoge Raad
+ecli: ECLI:NL:HR:2017:1280
+date: '2017-07-07'
+date_published: '2017-07-07'
+case_number:
+- 17/02153
+procedure:
+- Cassatie
+- Beschikking
+subject:
+- Civiel recht; Insolventierecht
+relations:
+- 'Conclusie: ECLI:NL:PHR:2017:528, Gevolgd'
+- 'Conclusie: ECLI:NL:PHR:2017:529, Gevolgd'
+- 'In cassatie op : ECLI:NL:GHAMS:2017:1325, Bekrachtiging/bevestiging'
+references: null
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2017:1280
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2017:1280
+chars: 24454
+license: Public Domain Mark
+retrieved_at: '2026-10-03T20:24:21Z'
+---
+
+# ECLI:NL:HR:2017:1280 – Hoge Raad, 2017-07-07
+
+- **Instantie:** Hoge Raad
+- **Datum:** 2017-07-07
+- **Zaaknummer:** 17/02153
+- **Rechtsgebied:** Civiel recht; Insolventierecht
+
+## Inhoudsindicatie
+
+Insolventierecht. Intrekking surseance van betaling en faillietverklaring o.g.v. art. 242 Fw. Internationaal concern met de Nederlandse financieringsmaatschappijen. Uitzondering op toepasselijkheid Nederlands recht i.v.m. herstructurering groep in buitenland? Oproepen belanghebbenden in procedure. Benadelend handelen als grond voor intrekking surseance; vereisten. Is instemming met aanbod akkoord van groep een daad van beheer of beschikking? Informatieplicht schuldenaar jegens bewindvoerder. Belangenafweging bij toepassing art. 242 Fw. Samenhang met 17/02165.
+
+## Uitspraak
+
+1 Het geding in feitelijke instanties
+
+Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar de navolgende stukken:
+
+a. de beschikking in de zaak C/13/16/41 S van de rechtbank Amsterdam van 2 februari 2017;
+
+b. de beschikking in de zaak 200.209.207/01 van het gerechtshof Amsterdam van 19 april 2017.
+
+De beschikking van het hof is aan deze beschikking gehecht.
+
+2 Het geding in cassatie
+
+Tegen de beschikking van het hof heeft Oi Coop beroep in cassatie ingesteld. Het cassatierekest is aan deze beschikking gehecht en maakt daarvan deel uit.
+
+De Advocaat-Generaal L. Timmerman heeft schriftelijk geconcludeerd voor de mondelinge behandeling van het cassatieberoep op te roepen: Citadel c.s., de curator van Oi Coop, (de curator van) PTIF, BNYM en Monarch.
+
+De Hoge Raad heeft Citadel c.s., de curator van Oi Coop, de curator van PTIF, PTIF, BNYM en Monarch voor de mondelinge behandeling van het cassatieberoep doen oproepen, op de grond dat zij zijn aan te merken als in vorige instantie verschenen belanghebbenden.
+
+Citadel c.s. en de curator van Oi Coop hebben een verweerschrift ingediend.
+
+Het beroep is mondeling behandeld, tezamen met het cassatieberoep in de zaak 17/02165, waarbij alle opgeroepen partijen en belanghebbenden zijn gehoord. De behandeling heeft plaatsgevonden met gesloten deuren. De Hoge Raad heeft in verband met de aard van deze faillissementszaak bij aanvang van de behandeling medegedeeld dat het op de voet van art. 29 lid 1, aanhef en onder a, Rv verboden is aan derden mededelingen te doen omtrent het verhandelde tijdens die mondelinge behandeling en heeft voorts op de voet van art. 29 lid 1, aanhef en onder b, Rv bepaald dat het eveneens verboden is aan derden mededelingen te doen omtrent de inhoud van de processtukken.
+
+De curator van PTIF heeft ter zitting bezwaar gemaakt tegen het feit dat PTIF wordt gehoord, hoewel zij in staat van faillissement verkeert. Dit bezwaar is verworpen op de grond dat de Hoge Raad PTIF als belanghebbende heeft aangemerkt, ook los van haar vordering op Oi Coop.
+
+De conclusie van de Advocaat-Generaal L. Timmerman strekt tot verwerping van het beroep.
+
+Op deze conclusie heeft de advocaat van Oi Coop bij brief van 27 juni 2017 op de voet van art. 44 lid 3 Rv gereageerd.
+
+3 Beoordeling van het middel
+
+3.1
+
+In cassatie kan van het volgende worden uitgegaan.
+
+(i) Bij beschikking van 9 augustus 2016 heeft de rechtbank voorlopig surseance van betaling verleend aan Oi Coop.
+
+(ii) Oi Coop maakt onderdeel uit van een groep vennootschappen (hierna: de Oi Groep). Enig lid van Oi Coop is Oi S.A., de Braziliaanse moedervennootschap van de Oi Groep.
+
+(iii) De Oi Groep is een van de grootste geïntegreerde serviceproviders in de telecommunicatiesector ter wereld. De activiteiten van de Oi Groep vinden voornamelijk in Brazilië plaats, maar de Oi Groep is ook actief (geweest) in Portugal en diverse Afrikaanse landen.
+
+(iv) De aandelen in Oi S.A. worden verhandeld op de beurs van São Paulo en op de New York Stock Exchange. Een groot deel van de financiering van de Oi Groep loopt via haar twee Nederlandse financieringsmaatschappijen, Oi Coop en PTIF. Aan PTIF is op 3 oktober 2016 voorlopig surseance van betaling verleend.
+
+(v) De activiteiten van Oi Coop bestaan meer in het bijzonder in (i) het aantrekken van financiering uit de internationale kapitaalmarkten, voornamelijk door het uitgeven van beursgenoteerde obligaties (hierna ook: notes), (ii) het ontvangen van gelden van PTIF via een kredietovereenkomst die Oi Coop en PTIF op 2 juni 2015 zijn aangegaan en die van tijd tot tijd is aangepast (hierna: de PTIF-lening) en (iii) het doorlenen van gelden die Oi Coop door middel van de notes heeft aangetrokken of van PTIF (door middel van de PTIF-lening) heeft ontvangen.
+
+(vi) Oi Coop heeft twee series obligaties uitgegeven, per 20 juni 2016 voor in totaal circa € 1,9 miljard. De notes worden niet door een zekerheidsrecht gedekt. De notes zijn wel gegarandeerd door Oi S.A. Oi Coop heeft zelf geen operationele activiteiten en de noteholders kunnen uitsluitend worden betaald uit de inkomsten en opbrengsten gegenereerd door de operationele ondernemingen van de Oi Groep. Op grond van de garantie van Oi S.A. hebben de noteholders een directe vordering op Oi S.A.
+
+(vii) Onder de PTIF-lening heeft Oi Coop een schuld aan PTIF van circa € 3,8 miljard. Oi Coop heeft in totaal circa € 5,6 miljard uitgeleend aan Oi S.A. en Oi Móvel S.A. (hierna: Oi Móvel), te weten circa € 4 miljard aan Oi S.A. in de periode van juni 2015 tot maart 2016 en circa € 1,6 miljard aan Oi Móvel in maart 2016 (deze leningen worden hierna samen ook aangeduid als de Oi Coop transacties).
+
+(viii) Oi Coop heeft op 20 juni 2016, tezamen met Oi S.A. en vijf andere groepsvennootschappen, waaronder PTIF en Oi Móvel, een verzoekschrift ingediend voor de opening van een geconsolideerde gerechtelijke herstructureringsprocedure in Brazilië (recuperaçaõ judicial, hierna: de RJ-procedure). De Braziliaanse rechter heeft dit verzoek op 29 juni 2016 ingewilligd. Het doel van de RJ-procedure is om de Oi Groep going concern te herstructureren door een met de schuldeisers onderhandeld en door de schuldeisers en de Braziliaanse rechter goed te keuren akkoord (RJ-akkoord), en zodoende liquidatie te voorkomen. Op 5 september 2016 is een geconsolideerd (ontwerp-)RJ-akkoord gedeponeerd bij de rechtbank te Rio de Janeiro, Brazilië. Bij persbericht heeft Oi S.A. op 22 maart 2017 aangekondigd dat het (ontwerp-)RJ-akkoord zal worden aangepast. De aangepaste tekst is als bijlage bij dat persbericht gevoegd.
+
+(ix) Citadel c.s. vormen samen de Steering Committee van een groep obligatiehouders, aangeduid als de ‘International Bondholder Groep’. Het doel van deze groep is het nastreven van een herstructurering van de schulden van de Oi Groep in alle relevante jurisdicties met als uitgangspunt een eerlijke en billijke behandeling van houders van obligaties door Oi Coop met inachtneming van en overeenkomstig hun rechten.
+
+3.2
+
+Citadel c.s. verzoeken in deze procedure op de voet van art. 242 Fw op verschillende gronden intrekking van de voorlopig verleende surseance van betaling alsmede faillietverklaring van Oi Coop. De bewindvoerder in die surseance, thans de curator van Oi Coop, heeft in eerste aanleg hetzelfde verzoek gedaan.
+
+3.3
+
+De rechtbank heeft de verzoeken afgewezen, waartegen alleen Citadel c.s. hoger beroep hebben ingesteld. Het hof heeft de beschikking van de rechtbank vernietigd, de voorlopige surseance van betaling ingetrokken en Oi Coop in staat van faillissement verklaard. Hiertoe heeft het hof onder meer, samengevat weergegeven, als volgt overwogen.
+
+Er doen zich drie gronden voor de intrekking van de surseance voor als bedoeld in art. 242 lid 1 Fw (rov. 4.14).
+
+Voldoende aannemelijk is dat in ieder geval de hiervoor in 3.1 onder (vii) genoemde lening van circa € 1,6 miljard aan Oi Móvel een benadelingshandeling oplevert als bedoeld in art. 242 lid 1, aanhef en onder 2°, Fw. Deze lening is kort voor de aankondiging van de herstructurering van de schulden van de Oi Groep verstrekt. Een herstructurering van schulden leidt in beginsel ertoe dat schuldeisers niet meer geheel, althans niet tijdig worden voldaan, en Oi Coop wist of behoorde redelijkerwijze te begrijpen dat Oi Móvel respectievelijk Oi S.A. niet, of niet binnen een redelijke termijn, aan haar terugbetalingsverplichting jegens Oi Coop respectievelijk haar garantieverplichting jegens de noteholders zou kunnen voldoen. (rov. 4.4-4.5)
+
+Voorts is sprake van een daad van beheer of beschikking van Oi Coop betreffende de boedel als bedoeld in art. 228 lid 1 Fw en art. 242 lid 1, aanhef en onder 3°, Fw, doordat Oi Coop, blijkens het in de Braziliaanse RJ-procedure aangeboden (ontwerp-)akkoord en het aangepaste (ontwerp-)akkoord, heeft ingestemd met geconsolideerde herstructurering van de schulden van de Oi Groep waarbij op haar vorderingen op Oi S.A. en Oi Móvel op grond van de Oi Coop transacties geen uitkering zal plaatsvinden (rov. 4.5 en 4.6).
+
+Tot slot doet zich de in art. 242 lid 1, aanhef en onder 4°, Fw bedoelde grond voor doordat (het bestuur van) Oi Coop de bewindvoerder geen, althans onvoldoende informatie verschaft, waardoor de bewindvoerder onvoldoende inzicht krijgt in de Braziliaanse akkoordonderhandelingen en daardoor niet kan beoordelen of het aanvaarden van geconsolideerde herstructurering van de schulden in het kader van de RJ-procedure in het belang is van de boedel (rov. 4.7-4.13).
+
+De door het hof gemaakte afweging van de betrokken belangen leidt ertoe dat de surseance moet worden ingetrokken en het faillissement moet worden uitgesproken. Het hof acht de door Oi Coop voor een andere uitkomst aangevoerde argumenten onvoldoende dan wel ongegrond. (rov. 4.14)
+
+3.4.1
+
+Onderdeel 1 keert zich tegen de beslissing van het hof om ook andere partijen en belanghebbenden te horen dan in art. 243 lid 3 Fw genoemd, waarvoor het hof heeft verwezen naar een analoge toepassing van art. 220 Fw (rov. 2.1). Volgens het onderdeel mogen enkel de in art. 243 lid 3 Fw genoemde verzoeker, schuldenaar en bewindvoerder worden gehoord op het verzoek tot intrekking en is geen plaats voor een analoge toepassing van art. 220 Fw, welke bepaling volgens het onderdeel is geschreven met het oog op de stemming van de schuldeisers over de definitieve verlening van de surseance van betaling. Althans had het hof volgens het onderdeel alle schuldeisers moeten oproepen om te worden gehoord en had het andere belanghebbenden dan schuldeisers niet mogen horen.
+
+3.4.2
+
+Het onderdeel is ongegrond. Art. 242 lid 3 Fw en het daarmee overeenstemmende, door het onderdeel ingeroepen art. 243 lid 3 Fw bevatten slechts een verplichting om (ten minste) de verzoeker, de schuldenaar en de bewindvoerder op te roepen. Deze bepalingen staan niet eraan in de weg dat de rechter, indien hij daartoe aanleiding ziet, ook andere belanghebbenden, zoals (andere) schuldeisers of met de schuldenaar verbonden vennootschappen, oproept en hoort. Het staat de rechter in beginsel vrij daartoe over te gaan. Hij is niet gehouden om, indien hij bepaalde schuldeisers oproept, ook de overige schuldeisers op te roepen en te horen. Dat zou ook niet te verenigen zijn met de voortvarendheid waarmee insolventieprocedures dienen te worden gevoerd.
+
+3.5.1
+
+Onderdeel 2 heeft betrekking op de uitleg die het hof in rov. 4.3-4.4 heeft gegeven aan de intrekkingsgrond van art. 242 lid 1, aanhef en onder 2°, Fw, dat de schuldenaar tracht zijn schuldeisers te benadelen. Volgens het onderdeel ziet deze grond slechts op de periode na de verlening van de surseance, terwijl het hof deze grond, anders dan de rechtbank, mede toepasselijk heeft geoordeeld op de daaraan voorafgaande periode en in rov. 4.5 op laatstgenoemde periode heeft toegepast, namelijk op de lening van circa € 1,6 miljard die Oi Coop in maart 2016 aan Oi Móvel heeft gegeven.
+
+3.5.2
+
+Het hof heeft terecht geoordeeld dat art. 242 lid 1, aanhef en onder 2°, Fw mede moet worden uitgelegd in samenhang met art. 218 lid 4 Fw, dat bepaalt dat de definitieve verlening van de surseance moet worden geweigerd als gegronde vrees bestaat dat de schuldenaar de schuldeisers zal trachten te benadelen. Die vrees kan onder meer worden gebaseerd op het feit dat de schuldenaar voorafgaand aan de verlening van de voorlopige surseance, de schuldeisers heeft benadeeld of heeft gepoogd te benadelen. In dat feit kan de rechter eventueel ook buiten het in art. 218 lid 4 Fw bedoelde geval aanleiding vinden om niet de definitieve surseance te weigeren; art. 218 lid 2 Fw laat de rechter hierin vrij.
+
+De voorlopige surseance wordt ingevolge art. 215 lid 2 Fw dadelijk verleend, dus zonder enig voorafgaand onderzoek of voor de verlening van surseance grond bestaat, in afwachting van de beslissing over de definitieve verlening van surseance, die wel na een dergelijk onderzoek plaatsvindt. Indien, zoals in dit geval, de surseance uitsluitend voorlopig wordt verleend omdat bij het verzoek om de verlening van surseance een ontwerp van een akkoord is gevoegd, vindt geen definitieve verlening van surseance plaats indien de rechtbank bepaalt dat over dat akkoord wordt gestemd (vgl. art. 255 e.v. Fw). Of er grond bestaat voor de verlening van surseance wordt in dat geval dus niet onderzocht. Ook in het geval dat uitsluitend voorlopig surseance is verleend, kan echter intrekking van de surseance worden verzocht op de voet van art. 242 Fw (HR 14 februari 1986, ECLI:NL:HR:1986:AG5194, NJ 1986/517), zoals in dit geval is gebeurd.
+
+In het licht van een en ander valt art. 242 lid 1, aanhef en onder 2°, Fw aldus te verstaan dat de daar genoemde grond mede ziet op het geval dat de gegronde vrees dat de schuldenaar de schuldeisers zal trachten te benadelen, daarop is gebaseerd dat de schuldenaar voorafgaande aan de (voorlopige) surseance de schuldeisers reeds heeft benadeeld of heeft gepoogd te benadelen. Dit geldt ook voor de definitief verleende surseance. Deze uitleg strookt met het karakter van de surseance van betaling als middel om te komen tot (financieel) herstel en afwending van een faillissement, mede in het belang van de schuldeisers. Met dat karakter is niet te verenigen dat de schuldenaar de schuldeisers heeft benadeeld, benadeelt of mogelijk zal benadelen, zoals zowel in art. 218 lid 4 Fw als in art. 242 lid 1, aanhef en onder 2°, Fw tot uitdrukking komt.
+
+3.5.3
+
+In het licht van het vorenstaande geeft het oordeel van het hof geen blijk van een onjuiste rechtsopvatting. Ook onderdeel 2 faalt derhalve.
+
+3.6.1
+
+Onderdeel 3 keert zich tegen het oordeel van het hof in rov. 4.5 dat de hiervoor in 3.1 onder (vii) genoemde lening van Oi Coop aan Oi Móvel een benadelingshandeling oplevert als bedoeld in art. 242 lid 1, aanhef en onder 2°, Fw. Volgens het onderdeel is het hof uitgegaan van een onjuiste maatstaf bij de beoordeling van de vraag of sprake is van benadeling. Het onderdeel voert aan dat bij de toepassing van art. 242 lid 1, aanhef en onder 2°, Fw aansluiting moet worden gezocht bij art. 3:45 BW en art. 42 Fw. Voorts betoogt het onderdeel dat voor toepassing van art. 242 lid 1, aanhef en onder 2°, Fw is vereist dat de schuldenaar het oogmerk had van benadeling en dat, anders dan bij art. 3:45 BW en art. 42 Fw, dus niet voldoende is dat hij behoorde te weten dat zijn handelen tot benadeling van de schuldeisers zou leiden.
+
+3.6.2
+
+Voldoende voor toepassing van art. 242 lid 1, aanhef en onder 2°, Fw is dat de schuldenaar de schuldeisers heeft getracht te benadelen. Daarbij gaat het om benadeling in dezelfde zin als in art. 3:45 BW en art. 42 Fw, dus een vermindering van de mogelijkheden tot verhaal. Die benadeling behoeft echter – nu voldoende is dat de schuldenaar de schuldeisers heeft getracht te benadelen – niet daadwerkelijk te zijn ingetreden. Toereikend is dat de schuldenaar zich aldus heeft gedragen dat benadeling van de schuldeisers met een voldoende mate van waarschijnlijkheid was te verwachten, en het voortduren van de surseance van betaling zich daarom niet verdraagt met het hiervoor in 3.5.2 genoemde karakter daarvan.
+
+Wat betreft de vereiste wetenschap van benadeling is, anders dan het onderdeel betoogt, het oogmerk van benadeling niet vereist. Voldoende is dat de schuldenaar begreep of behoorde te begrijpen dat benadeling van de schuldeisers het van zijn gedraging te verwachten gevolg was.
+
+3.6.3
+
+Het oordeel van het hof in rov. 4.5, dat hiervoor in de derde alinea van 3.3 kort is weergegeven, geeft in het licht van het hiervoor in 3.6.2 overwogene geen blijk van een onjuiste rechtsopvatting en is niet onbegrijpelijk of onvoldoende gemotiveerd. Ook onderdeel 3 faalt daarom.
+
+3.7.1
+
+De onderdelen 4-7 stellen mede de verhouding aan de orde tussen de Nederlandse surseance van betaling van Oi Coop (en PTIF) en de herstructureringsprocedure in Brazilië (de RJ-procedure). De Oi Groep is een internationale groep van met elkaar verbonden vennootschappen, waarvan sommige vennootschappen naar Nederlands recht zijn opgericht en in Nederland zijn gevestigd (Oi Coop en PTIF) en andere, waaronder de moedermaatschappij Oi S.A., in andere landen, voor een belangrijk deel in Brazilië. De Oi Groep streeft in de RJ-procedure in Brazilië naar een geconsolideerde herstructurering van de groep in verband met de financiële moeilijkheden waarin deze verkeert (zie hiervoor in 3.1 onder (viii)). Hetgeen Oi Coop en PTIF in deze procedures betogen, komt onder meer erop neer dat de aan hen in Nederland verleende surseance ondergeschikt dient te zijn aan de herstructureringsprocedure in Brazilië – in het belang van het welslagen van die procedure en daarmee in het belang van de groep als geheel – en dat de bewindvoerders mede daarom niet of slechts beperkt door Oi Coop en PTIF betrokken behoeven te worden bij hetgeen door hen in het overleg in de RJ-procedure wordt ingebracht.
+
+3.7.2
+
+Deze opvatting kan niet worden aanvaard. Vast staat in deze procedure dat op Oi Coop en PTIF als in Nederland gevestigde vennootschappen het Nederlandse faillissementsrecht van toepassing is. Dat betekent dat de regels van de Faillissementswet in beginsel onverkort op hen van toepassing zijn, waaronder in het geval van surseance art. 228 Fw, dat inhoudt dat de schuldenaar nog slechts het beheer en de beschikking over zijn vermogen heeft tezamen met de bewindvoerder en daarbij dus niet kan handelen zonder diens medewerking, machtiging of bijstand. Bij gebreke van een (toepasselijke) internationale of een bijzondere nationale regeling in andere zin, is er geen grond om hierop een uitzondering te maken in verband met het feit dat Oi Coop en PTIF behoren tot een internationale groep van met elkaar verbonden vennootschappen die het centrum van zijn voornaamste belangen in het buitenland heeft en ten aanzien waarvan in dat buitenland een herstructureringsprocedure loopt, zoals de RJ-procedure.
+
+3.7.3
+
+Met laatstgenoemd feit kan wel rekening worden gehouden waar de wet daarvoor ruimte laat, zoals bij de belangenafweging die op grond van art. 242 lid 1 Fw in het kader van de intrekking van de surseance van betaling dient plaats te vinden. Voorts kunnen de bewindvoerder en de curator in een geval zoals dit bij hun beleid wel mede rekening houden met de belangen van de groep als geheel en van de schuldeiseres van de groep als geheel. Als uitgangspunt geldt evenwel ook in insolventieprocedures de afzonderlijke rechtspersoonlijkheid van de leden van een groep.
+
+Het hof heeft het vorenstaande, blijkens hetgeen het in rov. 4.14 heeft overwogen, niet miskend.
+
+3.7.4
+
+De onderdelen 4-7 dienen mede tegen de achtergrond van het vorenstaande te worden beoordeeld.
+
+3.8.1
+
+Onderdeel 4 richt zich tegen het oordeel van het hof in rov. 4.6 dat de instemming van Oi Coop met het in de Braziliaanse RJ-procedure aangeboden (ontwerp-)akkoord en het aangepaste (ontwerp-)akkoord, en dus met de geconsolideerde herstructurering van de schulden van de Oi Groep waarbij op haar vorderingen op Oi S.A. en Oi Móvel geen uitkering zal plaatsvinden, een daad van beheer of beschikking oplevert als bedoeld in art. 228 lid 1 Fw en art. 242 lid 1, aanhef en onder 3°, Fw. Het onderdeel klaagt dat de schuldenaar bevoegd is om gedurende de surseance een akkoord aan te bieden en dat de instemming van de bewindvoerder daarvoor niet is vereist (art. 252 Fw).
+
+3.8.2
+
+Het oordeel van het hof komt erop neer dat Oi Coop zich met genoemde instemming heeft gebonden aan het namens de groep in de RJ-procedure gedane aanbod voor een akkoord. Dit oordeel berust op een uitleg van het aanbod en van de betrokkenheid daarbij van Oi Coop, welke uitleg in verband met zijn feitelijke karakter in cassatie niet op juistheid kan worden onderzocht. Onbegrijpelijk is die uitleg niet. Uitgaande van die uitleg is het oordeel van het hof dat sprake is van een daad van beheer of beschikking, juist. Bij die uitleg heeft Oi Coop immers met het aanbod mede de boedel willen binden (ten opzichte van in elk geval de andere vennootschappen van de groep), anders dan bij een aanbod als bedoeld in art. 252 Fw het geval is, met welk aanbod de schuldenaar uitsluitend zichzelf en niet de boedel bindt.
+
+3.9.1
+
+Onderdeel 5 keert zich tegen het oordeel van het hof in rov. 4.12 en 4.13 dat zich de in art. 242 lid 1, aanhef en onder 4°, Fw bedoelde grond voor intrekking van de surseance voordoet nu (het bestuur van) Oi Coop de bewindvoerder geen althans onvoldoende informatie verschaft waardoor de bewindvoerder onvoldoende inzicht krijgt in de Braziliaanse akkoordonderhandelingen en daardoor niet kan beoordelen of het aanvaarden van geconsolideerde herstructurering van de schulden in het kader van de RJ-procedure in het belang is van de boedel.
+
+3.9.2
+
+Anders dan de onderdelen 5a en 5b veronderstellen, berust het oordeel van het hof niet daarop dat Oi Coop zich niet heeft gehouden aan de aanbeveling van de rechtbank om de bewindvoerder in staat te stellen behoorlijk zijn taak te vervullen (rov. 8.20 van haar beschikking in eerste aanleg), maar op het nalaten van hetgeen naar het oordeel van de bewindvoerder door Oi Coop in het belang van de boedel moest worden gedaan in de zin van art. 242 lid 1, aanhef en onder 4°, Fw. Het hof verwijst in rov. 4.13 en 4.14 slechts naar de aanbeveling van de rechtbank ter nadere motivering van de verwijtbaarheid van het handelen van Oi Coop. De klachten van de onderdelen kunnen dus bij gebrek aan feitelijke grondslag niet tot cassatie leiden.
+
+3.9.3
+
+Het oordeel van het hof dat Oi Coop de bewindvoerder voldoende inzicht behoorde te verschaffen in de Braziliaanse akkoordonderhandelingen en de geconsolideerde herstructurering van de schulden in het kader van de RJ-procedure, is juist. Het voorschrift van art. 228 lid 1 Fw dat de schuldenaar tijdens de surseance de medewerking van de bewindvoerder nodig heeft bij het beheer en de beschikking over zijn vermogen (de boedel), brengt immers mee dat de schuldenaar de bewindvoerder naar behoren zal moeten informeren omtrent hetgeen daarvoor van belang is. Zoals reeds volgt uit het hiervoor in 3.8.2 overwogene, zijn zowel de Braziliaanse akkoordonderhandelingen als de geconsolideerde herstructurering aangelegenheden die naar de vaststelling van het hof de boedel betreffen. Het oordeel van het hof dat Oi Coop de bewindvoerder over beide onvoldoende heeft geïnformeerd, is feitelijk van aard en niet onbegrijpelijk. Ook onderdeel 5c faalt daarom.
+
+3.10.1
+
+Onderdeel 6 bestrijdt de belangenafweging die het hof in rov. 4.14 heeft gemaakt in het kader van art. 242 lid 1 Fw. Het hof heeft in dit verband de door Oi Coop voor een andere uitkomst aangevoerde argumenten onderzocht en deze onvoldoende dan wel ongegrond geoordeeld. Volgens het onderdeel heeft het hof hierbij onder meer ten onrechte niet of onvoldoende betrokken het belang van een geconsolideerde herstructurering in de RJ-procedure in Brazilië en de belangen van de schuldeisers van de Oi Groep als geheel.
+
+3.10.2
+
+Ook dit onderdeel faalt. Het hof heeft de door Oi Coop aangevoerde argumenten om de surseance niet in te trekken, met zoveel woorden in rov. 4.14 onderzocht, waarbij het, blijkens zijn overwegingen, ook de door het onderdeel genoemde belangen heeft betrokken en heeft meegewogen (zie ook hiervoor in 3.7.3). Zijn oordeel dat een en ander onvoldoende is om het verzoek om intrekking af te wijzen, berust op waarderingen van feitelijke aard en kan in cassatie dus niet op juistheid worden onderzocht. Onbegrijpelijk of onvoldoende gemotiveerd is dat oordeel niet.
+
+3.11
+
+Onderdeel 7, dat eveneens is gericht tegen de belangenafweging van het hof in rov. 4.14, faalt omdat het hof, anders dan het onderdeel aanvoert, niet heeft miskend dat bij die afweging gewicht kan toekomen aan het feit dat de meerderheid van de schuldeisers voortzetting van de surseance wenst. Zijn oordeel berust erop (rov. 4.14, derde alinea) dat Oi Coop niet heeft onderbouwd dat dit feit zich voordoet en dat daarom geen beslissend belang kan worden toegekend aan het feit dat Citadel c.s. slechts een relatief kleine groep van noteholders vertegenwoordigen.
+
+3.12
+
+Onderdeel 8 bouwt voort op de voorgaande onderdelen en moet het lot daarvan delen.
+
+4 Beslissing
+
+De Hoge Raad verwerpt het beroep.
+
+Deze beschikking is gegeven door de vice-president E.J. Numann als voorzitter en de raadsheren G. Snijders, G. de Groot, C.E. du Perron en M.J. Kroeze, en in het openbaar uitgesproken door de raadsheer G. de Groot op 7 juli 2017.

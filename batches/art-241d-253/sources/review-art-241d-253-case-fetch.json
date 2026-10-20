@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2017:1280",
+    "access_timestamp_utc": "2026-10-20T23:42:14.168435+00:00",
+    "raw_path": "sources/review-art-241d-253-hr-2017.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2017:1280",
+    "bytes": 36642,
+    "sha256": "60802881453b2373a98f81f0d7220c6cbbfe7ba235250d0db912b6a4e8e3fa0f",
+    "headers_path": "sources/review-art-241d-253-hr-2017.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 27718
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:424",
+    "access_timestamp_utc": "2026-10-20T23:42:14.168836+00:00",
+    "raw_path": "sources/review-art-241d-253-hr-2018.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:424",
+    "bytes": 38463,
+    "sha256": "85fbaf24e9d674642fc87558f1d1a918a2cc4548f5e39005325d2139b5d9e0e7",
+    "headers_path": "sources/review-art-241d-253-hr-2018.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 28919
+  }
+]

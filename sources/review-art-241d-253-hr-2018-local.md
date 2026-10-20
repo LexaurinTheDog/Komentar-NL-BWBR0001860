@@ -1,0 +1,229 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Hoge Raad
+ecli: ECLI:NL:HR:2018:424
+date: '2018-03-23'
+date_published: '2018-03-22'
+case_number:
+- 17/01478
+procedure:
+- Prejudiciële beslissing
+subject:
+- Civiel recht; Insolventierecht
+relations:
+- 'Conclusie: ECLI:NL:PHR:2017:1593'
+- 'Prejudiciële beslissing op vraag van: ECLI:NL:RBAMS:2017:1971'
+references: null
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2018:424
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:424
+chars: 26189
+license: Public Domain Mark
+retrieved_at: '2026-10-04T05:38:40Z'
+---
+
+# ECLI:NL:HR:2018:424 – Hoge Raad, 2018-03-23
+
+- **Instantie:** Hoge Raad
+- **Datum:** 2018-03-23
+- **Zaaknummer:** 17/01478
+- **Rechtsgebied:** Civiel recht; Insolventierecht
+
+## Inhoudsindicatie
+
+Prejudiciële vragen (art. 392 Rv). Faillissementsrecht. Invloed faillissement op wederkerige overeenkomsten, art. 37-40 Fw. Fixatiebeginsel, art. 24 Fw. Mogelijkheid tot verificatie van vorderingen uit overeenkomst of andere rechtsverhouding die na ingaan van het faillissement zijn ontstaan; precisering van HR 19 april 2013, ECLI:NL:HR:2013:BY6108, NJ 2013/291 (Koot/Tideman). Vorderingen uit duurovereenkomsten. Vorderingen tot schadevergoeding. Beding dat aanspraak geeft op schadevergoeding of boete, art. 6:94 BW en 6:248 BW. Beding tot vergoeding juridische kosten, waaronder proceskosten, art. 6:96 BW en art. 242 Rv. Waardering vorderingen, art. 131 Fw en art. 133 Fw. Moment van verificatie, art. 108 lid 1 Fw. Surseance gevolgd door faillissement, art. 249 Fw.
+
+## Uitspraak
+
+1 Het geding in feitelijke instantie
+
+Voor het verloop van het geding in feitelijke instantie verwijst de Hoge Raad naar de vonnissen in de zaak C/13/600537/HA ZA 16-37 van de rechtbank Amsterdam van 28 december 2016 en 22 maart 2017.
+
+De vonnissen van de rechtbank zijn aan deze beslissing gehecht.
+
+2 De prejudiciële procedure
+
+Bij het hiervoor genoemde vonnis heeft de rechtbank de Hoge Raad op de voet van art. 392 Rv de hierna in 3.3 te vermelden vragen gesteld.
+
+Er zijn geen schriftelijke opmerkingen ingediend.
+
+De conclusie van de Advocaat-Generaal L. Timmerman strekt tot beantwoording van de prejudiciële vragen zoals voorgesteld onder 5 van de conclusie.
+
+De advocaat van CS heeft bij brief van 31 oktober 2017 op die conclusie gereageerd.
+
+3 Beantwoording van de prejudiciële vragen
+
+3.1
+
+Bij de beantwoording van de prejudiciële vragen gaat de Hoge Raad uit van de volgende feiten:
+
+( i) CS heeft twee kredieten verstrekt aan OSX Leasing Group B.V. (hierna: OSX). De twee hierop betrekking hebbende overeenkomsten bevatten een bepaling die onder meer inhoudt dat OSX in geval van een ‘Event of Default’ gehouden is tot vergoeding van de kosten van advocaten die CS naar aanleiding daarvan maakt.
+
+(ii) Op 28 april 2015 is aan OSX voorlopig surseance verleend. Voor deze datum was al sprake van default aan de zijde van OSX.
+
+(iii) Bij beschikking van 15 juli 2015 is de voorlopige surseance van betaling ingetrokken en is OSX in staat van faillissement verklaard, met benoeming van de curator als zodanig.
+
+(iv) Ter verificatievergadering van 5 november 2015 heeft de curator, voor zover thans van belang, de door CS ingediende vorderingen voor de door haar na 28 april 2015 gemaakte kosten van rechtsbijstand betwist.
+
+( v) De rechter-commissaris heeft partijen hiervoor naar de onderhavige renvooiprocedure verwezen.
+
+3.2
+
+CS vordert in deze procedure – kort weergegeven – dat de rechtbank een aantal vorderingen ter zake van voor en in het faillissement van OSX gemaakte en nog te maken kosten van advocaten en van een expert erkent (zie de in de conclusie van de Advocaat-Generaal onder 2.5 genoemde vorderingen), en wel voor de door CS genoemde bedragen, althans voor de bedragen die de rechtbank in goede justitie rechtvaardig acht. Daaraan heeft CS ten grondslag gelegd dat zij op grond van de hiervoor in 3.1 onder (i) genoemde overeenkomsten recht heeft op betaling van deze bedragen, en dat de vorderingen in faillissement voor erkenning in aanmerking komen, ongeacht of de kosten tijdens de surseance of het faillissement zijn of zullen worden gemaakt.
+
+3.3
+
+De rechtbank heeft de volgende prejudiciële vragen aan de Hoge Raad gesteld:
+
+“(I) dienen, mede gelet op het fixatiebeginsel en artikel 249 Fw, vorderingen die zijn ontstaan op of na de dag waarop aan de schuldenaar surseance van betaling is verleend (maar vóór de dag waarop de schuldenaar in staat van faillissement is verklaard) in het faillissement te worden erkend?
+
+(II) dienen, mede gelet op de in rechtsoverweging 3.7.2 van het arrest van de Hoge Raad der Nederlanden van 19 april 2013, ECLI:NL:HR:2013:BY6108 (Koot Beheer/Tideman q.q.) geformuleerde rechtsregel, de vorderingen van een schuldeiser die voortvloeien uit een op de dag waarop aan de schuldenaar surseance van betaling is verleend reeds met de schuldenaar bestaande rechtsverhouding maar die zijn ontstaan op of na die dag, althans op of na de dag waarop de schuldenaar in staat van faillissement is verklaard, maar steeds vóór de dag waarop het faillissement eindigt, in het faillissement te worden erkend?
+
+(III) maakt het voor het antwoord op vraag (II) uit of op de dag waarop aan de schuldenaar surseance van betaling is verleend, althans op de dag waarop de schuldenaar in staat van faillissement is verklaard, het ontstaan, althans de omvang, van de bedoelde vordering niet zeker was?
+
+(IV) maakt het voor het antwoord op vraag (II) uit of het ontstaan en/of de omvang van de bedoelde vorderingen het gevolg was van handelingen van de schuldeiser (dan wel van handelingen aan diens zijde) tijdens de surseance van betaling, althans het faillissement?
+
+(V) hoe en wanneer dienen, mede gelet op de belangen van de overige schuldeisers en de schuldenaar, na de verificatievergadering ontstane vorderingen te worden geverifieerd?”
+
+3.4
+
+Bij de beantwoording van deze vragen dient hetgeen hierna in 3.5.1-3.10 wordt overwogen, tot uitgangspunt.
+
+Inleiding
+
+3.5.1
+
+Het faillissement heeft geen invloed op bestaande wederkerige overeenkomsten en leidt dan ook niet tot wijziging van de daaruit voortvloeiende verbintenissen (Van der Feltz I, p. 409). Dit uitgangspunt is bij de invoering van de Boeken 3, 5 en 6 BW bevestigd (Parl. Gesch. Wijziging Rv e.a.w., p. 387-390). Het ligt mede ten grondslag aan de regeling van de art. 37-40 Fw. Met dit uitgangspunt is echter nog niet beslist hoe deze verbintenissen in faillissement moeten worden behandeld. Het antwoord op die vraag hangt mede af van het fixatiebeginsel, dat inhoudt dat door de intrede van het faillissement de rechtspositie van alle bij de boedel betrokkenen onveranderlijk wordt (o.m. HR 18 december 1987, ECLI:NL:HR:1987:AD0106, NJ 1988/340 en Van der Feltz II, p. 126). Het fixatiebeginsel vindt zijn uitdrukking onder meer in art. 24 Fw, waarin is bepaald dat de boedel niet aansprakelijk is voor verbintenissen van de schuldenaar die na faillietverklaring ontstaan, tenzij de boedel ten gevolge daarvan is gebaat.
+
+Bestaande verbintenissen
+
+3.5.2
+
+De curator heeft, zoals blijkt uit art. 37 lid 1 Fw, in beginsel de mogelijkheid om wederkerige overeenkomsten niet gestand te doen en dus de daaruit voortvloeiende verbintenissen (‘passief’) niet na te komen. Indien een verbintenis uit de boedel moet worden voldaan, dient de daarop betrekking hebbende vordering in dat geval op grond van art. 26 Fw ter verificatie in het faillissement te worden ingediend, waarbij in voorkomend geval art. 133 Fw moet worden toegepast. Indien de curator de overeenkomst niet gestand doet, kan de wederpartij deze ook ontbinden, na de weg van art. 37 lid 1 Fw te hebben gevolgd, en heeft zij daarnaast een vordering wegens het tekortschieten in de nakoming van de overeenkomst, die zij op grond van art. 37a Fw ter verificatie in het faillissement kan indienen.
+
+3.5.3
+
+De faillissementstoestand geeft de curator niet de bevoegdheid om een door de schuldenaar voor het faillissement verrichte prestatie (‘actief’) ongedaan te maken of een voortdurende prestatie voor zover deze bestaat uit een dulden of nalaten, te beëindigen, zoals door intrekking van een verleende licentie of opeising van een verhuurde zaak. Dit zou immers in strijd komen met het hiervoor in 3.5.1 vermelde uitgangspunt (vgl. HR 11 juli 2014, ECLI:NL:HR:2014:1681, NJ 2014/407 (Berzona), rov. 3.6.4).
+
+Verbintenissen die tijdens het faillissement ontstaan
+
+3.5.4
+
+Het hiervoor in 3.5.2 en 3.5.3 overwogene geldt in beginsel ook voor verbintenissen die eerst tijdens faillissement ontstaan, maar voortvloeien uit een bestaande overeenkomst. Zoals hiervoor in 3.5.1 is vooropgesteld, geldt immers als uitgangspunt dat het faillissement geen verandering brengt in bestaande wederkerige overeenkomsten en de daaruit voortvloeiende verbintenissen. Het verifiëren van vorderingen die tijdens het faillissement ontstaan, mag echter niet in strijd komen met het fixatiebeginsel. Dat beginsel staat niet zonder meer eraan in de weg dat tijdens faillissement uit een bestaande overeenkomst nog nieuwe vorderingen ontstaan die voor verificatie in aanmerking komen. Dat beginsel brengt echter wel mee dat verificatie van dergelijke nieuwe vorderingen uitsluitend mogelijk is indien en voor zover zij reeds besloten lagen in de rechtspositie van de schuldeiser zoals die bij het intreden van het faillissement bestond. Dat laatste is het geval indien de nieuwe vorderingen geen uitbreiding opleveren van de aanspraken die deze schuldeiser op grond van die rechtspositie op dat tijdstip al had. Het fixatiebeginsel houdt immers in dat de rechtspositie van een schuldeiser na het intreden van het faillissement niet te zijnen gunste mag worden gewijzigd. Voor zover wel sprake is van een dergelijke uitbreiding, komen de desbetreffende vorderingen niet voor verificatie in aanmerking, behoudens voor zover de boedel ten gevolge van het ontstaan ervan is gebaat.
+
+3.5.5
+
+Er is onvoldoende grond om het hiervoor in 3.5.4 overwogene te beperken tot vorderingen die voortvloeien uit een ten tijde van het intreden van het faillissement bestaande wederkerige overeenkomst. Weliswaar is in de parlementaire geschiedenis uitsluitend voor die overeenkomst uitgesproken dat deze geen invloed ondergaat van het faillissement, maar niet valt in te zien dat dit niet evenzeer heeft te gelden voor andere ten tijde van het intreden van het faillissement bestaande rechtsverhoudingen (zoals rechtsverhoudingen die zijn ontstaan uit een vóór het faillissement gepleegde onrechtmatige daad van de schuldenaar). Ook de rechtspositie die op grond van die rechtsverhoudingen bestaat, dient derhalve in het faillissement gerespecteerd te worden. Een ander oordeel zou, evenals het geval is bij een wederkerige overeenkomst, een ongerechtvaardigde aantasting zijn van de rechtspositie die de wederpartij van de failliet bij het ingaan van het faillissement al heeft op grond van de bestaande rechtsverhouding.
+
+3.5.6
+
+In HR 19 april 2013, ECLI:NL:HR:2013:BY6108, NJ 2013/291 (Koot/Tideman) is niet bedoeld in andere zin te oordelen dan hiervoor in 3.5.4 is overwogen. De overweging in 3.6.1 van dat arrest, dat indien de curator in verband met het belang van de boedel besluit om een overeenkomst niet gestand te doen, voor de wederpartij steeds, kort gezegd, een concurrente vordering resteert, is te ruim geformuleerd en dient dan ook met inachtneming van de hiervoor in 3.5.4 genoemde beperking te worden gelezen. Hetzelfde geldt voor de overweging in 3.7.2 van het arrest, dat vorderingen die voortvloeien uit een ten tijde van de faillietverklaring bestaande rechtsverhouding met de schuldenaar en die geen boedelschuld opleveren, behoren tot de vorderingen op de schuldenaar die voor verificatie in aanmerking komen, ook als ze pas tijdens het faillissement ontstaan. De genoemde overwegingen hebben dus geen betrekking op een vordering die eerst tijdens faillissement ontstaat en waarvan de toelating in het faillissement in strijd zou komen met het fixatiebeginsel.
+
+3.6
+
+Ten behoeve van de praktijk gaat de Hoge Raad hierna nader in op de betekenis van het hiervoor in 3.5.4 overwogene voor duurovereenkomsten en vorderingen tot betaling van schadevergoeding.
+
+Duurovereenkomsten
+
+3.7.1
+
+Uit duurovereenkomsten kunnen tijdens het faillissement nog verplichtingen ontstaan. Het antwoord op de vraag of de daarmee verband houdende vorderingen voor verificatie in aanmerking komen, wordt bepaald door het hiervoor in 3.5.4 genoemde uitgangspunt en het daar genoemde beginsel. De uitkomsten waartoe dit leidt, kunnen worden toegelicht aan de hand van de volgende voorbeelden van soorten van verbintenissen die bij duurovereenkomsten kunnen worden onderscheiden:
+
+( a) een duurverplichting van de schuldenaar (bijvoorbeeld het verschaffen van huurgenot of de verplichting die voortvloeit uit een door hem verleende licentie);
+
+( b) een periodieke verplichting van de schuldenaar waarvoor de wederpartij geen tegenprestatie (meer) is verschuldigd (bijvoorbeeld een maandelijks door de schuldenaar te leveren dienst waarvoor de wederpartij bij jaarabonnement heeft vooruitbetaald);
+
+( c) een periodieke verplichting van de schuldenaar die de tegenprestatie vormt van de uitvoering van een duurverplichting door de wederpartij (bijvoorbeeld betaling van huur of een licentievergoeding);
+
+( d) een (al dan niet periodieke) verplichting van de schuldenaar die de tegenprestatie vormt van en telkens eerst verschuldigd wordt na en door een (al dan niet periodiek) door de wederpartij te verrichten prestatie (bijvoorbeeld de verplichting te betalen voor periodiek uit te voeren onderhoudswerkzaamheden die de wederpartij in het kader van een raamovereenkomst verricht).
+
+Met betrekking tot deze verschillende soorten verbintenissen wordt als volgt overwogen.
+
+3.7.2
+
+De wet gaat ervan uit dat de ten tijde van de faillietverklaring bestaande duurverplichting – dus de hiervoor in 3.7.1 onder (a) genoemde verplichting – blijft doorlopen in het faillissement (zie in deze zin ook HR 22 december 1989, ECLI:NL:HR:1989:AD0995, NJ 1990/661 (Tiethoff/NMB), en het hiervoor in 3.5.3 genoemde Berzona-arrest). Dat is in overeenstemming met het hiervoor in 3.5.1 genoemde uitgangspunt en komt niet in strijd met het fixatiebeginsel, nu het hier gaat om een verplichting die bij het intreden van het faillissement reeds bestaat. De curator heeft in het hiervoor in 3.5.3 genoemde geval (dat de door de schuldenaar verhuurde zaak ten tijde van het intreden van het faillissement al ter beschikking stond van de huurder of op dat tijdstip de licentie al door de schuldenaar was verleend) niet de mogelijkheid om deze verplichting niet na te komen. Hij kan wel gebruik maken van een eventueel in de overeenkomst of de wet geregelde mogelijkheid tot beëindiging.
+
+3.7.3
+
+De vordering die berust op de hiervoor in 3.7.1 onder (b) genoemde verplichting, is eveneens een bij het ingaan van het faillissement reeds bestaande vordering. Zij is overeenkomstig art. 131 lid 1 Fw voor verificatie vatbaar.
+
+3.7.4
+
+Zoals hiervoor in 3.7.2 is overwogen, gaat de wet ervan uit dat een ten tijde van het ingaan van het faillissement bestaande duurverplichting blijft doorlopen gedurende faillissement. Dat geldt ook voor de duurverplichting van de wederpartij die de grond vormt van de hiervoor in 3.7.1 onder (c) genoemde verplichting van de schuldenaar om periodiek de tegenprestatie daarvoor te voldoen. Zolang de wederpartij die duurverplichting blijft nakomen, blijft daarom telkens de tegenprestatie door de schuldenaar verschuldigd. Omdat de vordering tot het verrichten van de tegenprestatie aldus voortspruit uit het verrichten van een prestatie waartoe de wederpartij zich al voor het ingaan van het faillissement had verplicht, kan deze vordering ter verificatie in het faillissement worden ingediend. Indien voortzetting van de overeenkomst niet in het belang is van de boedel, dient de curator deze dan ook zo spoedig als volgens de betrokken overeenkomst of de wet (waaronder ook de art. 38a-40 Fw) mogelijk is te beëindigen, teneinde de vordering van de wederpartij niet te doen oplopen.
+
+Het vorenstaande komt niet in strijd met het fixatiebeginsel. Het recht van de wederpartij op de tegenprestatie ligt immers reeds besloten in de rechtspositie zoals deze bij het intreden van het faillissement bestond. Omdat de wederpartij slechts een duurverplichting nakomt waartoe zij zich al vóór het ingaan van het faillissement had verbonden, kan niet worden gezegd dat zij haar aanspraken tijdens faillissement uitbreidt door die verplichting te blijven nakomen, ook niet als pas door die nakoming de vordering tot het betalen van de tegenprestatie ontstaat, en deze vordering bij het ingaan van het faillissement dus als zodanig nog toekomstig was.
+
+3.7.5
+
+Bij de hiervoor in 3.7.1 onder (d) genoemde verplichtingen moet onderscheid worden gemaakt. Als een ten tijde van het ingaan van het faillissement bestaande overeenkomst voor de wederpartij de verplichting inhoudt in de toekomst (al dan niet periodiek) prestaties te verrichten, duurt deze verplichting voort tijdens het faillissement. De vordering van de wederpartij tot het verrichten van de tegenprestatie(s) die de schuldenaar voor deze prestaties moet verrichten, spruit aldus voort uit een ten tijde van het ingaan van het faillissement al bestaande rechtspositie, en kan ter verificatie in het faillissement worden ingediend. In dit opzicht onderscheidt dit geval zich niet van dat van de duurverplichting van de wederpartij als bedoeld hiervoor in 3.7.1 onder (c). Daarbij is, zoals in 3.7.4 is overwogen, niet van belang of de vorderingen van de wederpartij tot het verrichten van de prestatie of de tegenprestatie ten tijde van het ingaan van het faillissement als zodanig nog toekomstig waren.
+
+Voor zover de hiervoor in 3.7.1 onder (d) genoemde verplichting van de schuldenaar ontstaat als gevolg van een na het intreden van het faillissement door de wederpartij verrichte prestatie, terwijl in de overeenkomst ten tijde van het intreden van het faillissement voor de wederpartij wel de mogelijkheid, maar niet de verplichting tot het verrichten van die prestatie besloten lag, komt de vordering van de wederpartij tot voldoening van de tegenprestatie echter niet voor verificatie in aanmerking. De wederpartij breidt dan immers haar aanspraken tijdens het faillissement uit door na het intreden daarvan, zonder daartoe gehouden te zijn, nadere prestaties te verrichten die nieuwe vorderingen opleveren, hetgeen in strijd komt met het fixatiebeginsel.
+
+Schadevergoeding
+
+3.8.1
+
+Overeenkomstig het hiervoor in 3.5.4 en 3.5.5 overwogene kunnen ook vorderingen tot betaling van schadevergoeding die tijdens het faillissement ontstaan, voor verificatie in aanmerking komen indien deze voortvloeien uit een reeds bestaande rechtsverhouding en verificatie niet in strijd komt met het fixatiebeginsel zoals hiervoor in 3.5.4 omschreven. In een dergelijk geval is niet van belang of de schade pas ontstaat, of de omvang daarvan pas duidelijk wordt, tijdens het faillissement.
+
+3.8.2
+
+Met betrekking tot de schadevergoeding wegens niet-nakoming van een verbintenis uit overeenkomst, komt het voorgaande tot uitdrukking in art. 37a Fw, dat onder meer bepaalt dat voor verificatie in aanmerking komen vorderingen die strekken tot schadevergoeding ter zake van tekortschieten in de nakoming van een vóór de faillietverklaring op de schuldenaar verkregen vordering. Deze bepaling omvat, zoals uit de bewoordingen daarvan volgt, ook het geval dat de vordering tot schadevergoeding eerst tijdens het faillissement ontstaat. De gedachte hierachter leent zich, overeenkomstig het hiervoor in 3.5.4 en 3.5.5 overwogene, voor uitbreiding tot vorderingen die strekken tot schadevergoeding ter zake van tekortschieten in de nakoming van een verbintenis die pas tijdens het faillissement ontstaat, indien deze verbintenis voortvloeit uit een reeds bestaande rechtsverhouding en geen uitbreiding van aanspraken oplevert zoals hiervoor in 3.5.4 omschreven. Dit strookt met art. 37a Fw, waaruit volgt dat indien tijdens het faillissement grond bestaat voor vernietiging of ontbinding van de overeenkomst, de daaruit voortvloeiende vorderingen ter verificatie kunnen worden ingediend, ook voor zover deze betrekking hebben op de nakoming van de overeenkomst na het intreden van het faillissement.
+
+3.8.3
+
+Een voor verificatie in aanmerking komende vordering tot schadevergoeding kan als zodanig zijn neergelegd in een bij het ingaan van het faillissement bestaande overeenkomst tussen partijen (zie HR 13 mei 2005, ECLI:NL:HR:2005:AT2650, NJ 2005/406 (BaByXL)). Een dergelijke vordering kan ook direct uit de wet voortvloeien. Daarvan was sprake in het hiervoor in 3.5.6 genoemde arrest Koot/Tideman. Aan de orde was in dat arrest de verplichting van de huurder om op grond van de bepalingen van de huurovereenkomst dan wel art. 7:224 BW de schade aan het gehuurde bij het einde van de huur te herstellen dan wel te vergoeden. Deze verplichting vloeit voort uit de ten tijde van het ingaan van het faillissement al bestaande huurovereenkomst en ligt daarin op dat tijdstip al besloten. De daarop betrekking hebbende vordering van de verhuurder levert geen uitbreiding tijdens faillissement van diens aanspraken op. Daarom is in het arrest Koot/Tideman geoordeeld dat deze vordering voor verificatie in aanmerking komt, ook als deze pas tijdens het faillissement ontstaat.
+
+3.8.4
+
+Het voorgaande laat onverlet dat een contractueel beding dat een partij (in geval van faillissement van haar wederpartij) aanspraak geeft op schadevergoeding of een boete, onder omstandigheden niet jegens de boedel kan worden ingeroepen op de grond dat het een onaanvaardbare inbreuk vormt op bepalingen of het stelsel van de Faillissementswet (vgl. o.m. HR 12 april 2013, ECLI:NL:HR:2013:BY9087, NJ 2013/224 (Megapool), HR 15 november 2013, ECLI:NL:HR:2013:1244, NJ 2014/68 (Romania), en HR 12 januari 1990, ECLI:NL:HR:1990:AC2325, NJ 1990/662 (Papierfabrieken Van Gelder)). Daarnaast staan de curator de algemene middelen ten dienste die het burgerlijk recht de schuldenaar ten aanzien van dergelijke bedingen biedt, zoals een beroep op matiging van een bedongen boete (art. 6:94 lid 1 BW) of op de beperkende werking van de redelijkheid en billijkheid (art. 6:248 lid 2 BW).
+
+Voorafgaande surseance
+
+3.9
+
+Als ingevolge een van de bepalingen van Titel II van de Faillissementswet of binnen een maand na het einde van de surseance het faillissement wordt uitgesproken, gelden de regels van art. 249 lid 1 Fw. Art. 249 Fw strekt ertoe dat (onder de in dat artikel genoemde omstandigheden) de surseance en het daarop volgende faillissement als een geheel worden behandeld (HR 27 mei 1988, ECLI:NL:HR:1988:AD0343, NJ 1988/964; HR 24 november 2017, ECLI:NL:HR:2017:2991). Art. 249 lid 1, onder 4°, Fw bepaalt in dat verband dat de boedel ook na de faillietverklaring niet aansprakelijk is voor verbintenissen van de schuldenaar die zonder medewerking, machtiging of bijstand van de bewindvoerders gedurende de surseance zijn ontstaan, tenzij de boedel hierbij is gebaat (zie ook art. 228 lid 2 Fw). Voor vorderingen ten aanzien waarvan de surseance werking heeft, geldt in de gevallen als bedoeld in art. 249 Fw het hiervoor in 3.5.4 overwogene dan ook vanaf het moment van het ingaan van de surseance.
+
+Indiening en waardering van vorderingen
+
+3.10
+
+Voor zover de waarde van de na de faillietverklaring ontstane vorderingen waarvoor de schuldeiser in het faillissement kan opkomen, onzeker is, dienen deze vorderingen te worden geverifieerd naar de geschatte waarde die deze op de dag van de faillietverklaring hebben. De uit art. 131 Fw en art. 133 Fw voortvloeiende regels zijn hierbij van overeenkomstige toepassing. De vorderingen dienen op het overeenkomstig art. 108 lid 1, aanhef en onder 1, Fw bepaalde moment ter verificatie te worden ingediend, ook voor zover het gaat om vorderingen die naar verwachting nog tijdens het faillissement maar na de verificatievergadering zullen ontstaan.
+
+Het beding in deze zaak
+
+3.11.1
+
+Het gaat in deze zaak om een beding in kredietovereenkomsten dat inhoudt dat de schuldeiser (CS) recht heeft op vergoeding van zijn advocaatkosten in het geval van een Event of Default. Het gaat daarmee om een beding dat strekt tot schadevergoeding, zoals hiervoor in 3.8.1-3.8.4 is behandeld, en niet om vorderingen die tijdens het faillissement uit een duurovereenkomst ontstaan (zie hiervoor in 3.7.1-3.7.5). De curator betwist, onder verwijzing naar het fixatiebeginsel, de door CS ter verificatie ingediende vordering ter zake van de advocaatkosten voor zover deze betrekking heeft op kosten die na het intreden van de surseance zijn gemaakt. Over een dergelijk beding wordt nog het volgende overwogen.
+
+3.11.2
+
+Een vordering tot schadevergoeding wegens wanprestatie die voortvloeit uit een overeenkomst die al bestaat ten tijde van het ingaan van het faillissement of van een daaraan voorafgaande surseance, komt voor verificatie in aanmerking binnen de hiervoor in 3.8.1 en 3.8.2 genoemde grenzen. Daarbij is, zoals hiervoor in 3.8.1 is overwogen, niet van belang of de schade pas ontstaat, of de omvang daarvan pas duidelijk wordt, tijdens die surseance of het faillissement.
+
+3.11.3
+
+Hetgeen in 3.11.2 is overwogen doet niet eraan af dat het beding, of een vordering die daaruit in het concrete geval ontstaat, onder omstandigheden geheel of ten dele niet jegens de boedel kan worden ingeroepen op de grond dat het een onaanvaardbare inbreuk vormt op bepalingen of het stelsel van de Faillissementswet (zie hiervoor in 3.8.4). Wat betreft de middelen die het burgerlijk recht de schuldenaar ten aanzien van dergelijke bedingen biedt, kan daarbij nog worden gewezen op art. 6:96 BW en art. 242 Rv.
+
+Antwoorden op de vragen
+
+3.12.1
+
+Uit het voorgaande volgt dat de vragen I-III als volgt dienen te worden beantwoord. Vorderingen die zijn ontstaan tijdens een faillissement of een daaraan voorafgaande surseance (zie hiervoor in 3.9), komen in beginsel niet voor erkenning in aanmerking, omdat die erkenning in strijd zou zijn met het fixatiebeginsel. Zij moeten echter wel worden erkend indien en voor zover zij besloten lagen in een ten tijde van het ingaan van dat faillissement of die surseance reeds bestaande rechtspositie van de schuldeiser, zodat geen sprake is van een uitbreiding van aanspraken die in strijd komt met het fixatiebeginsel (zie hetgeen hiervoor in 3.5.4 is overwogen). In dat geval maakt niet uit of het ontstaan of de omvang van de vordering op het moment van het ingaan van de surseance nog niet zeker was.
+
+3.12.2
+
+Vraag IV dient, gelet op het voorgaande, als volgt te worden beantwoord. Als een vordering ontstaat of in omvang toeneemt als gevolg van handelingen (aan de zijde) van de schuldeiser, staat dit in de weg aan verificatie van de vordering (in deze omvang) indien dit ontstaan of deze toename van de omvang moet worden aangemerkt als een uitbreiding van de aanspraken zoals die ten tijde van het ingaan van de surseance (of van een niet op surseance aansluitend faillissement) al bestonden of in de rechtspositie van deze schuldeiser besloten lagen, zoals hiervoor in 3.5.4 overwogen.
+
+3.12.3
+
+Vraag V dient te worden beantwoord overeenkomstig het hiervoor in 3.10 overwogene.
+
+4 Beslissing
+
+De Hoge Raad:
+
+beantwoordt de prejudiciële vragen op de wijze als hiervoor in 3.12.1-3.12.3 vermeld;
+
+begroot de kosten van deze procedure op de voet van art. 393 lid 10 Rv voor beide partijen op nihil.
+
+Deze beslissing is gegeven door de vice-president C.A. Streefkerk als voorzitter en de raadsheren A.H.T. Heisterkamp, T.H. Tanja-van den Broek, C.E. du Perron en M.J. Kroeze, en in het openbaar uitgesproken door de raadsheer T.H. Tanja-van den Broek op 23 maart 2018.

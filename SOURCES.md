@@ -103,3 +103,5 @@ Tweede lezing 229–241c: [bevindingen](sources/review-art-229-241c-result.json)
 
 
 Auteursbatch 241d–253: twintig specifieke toelichtingen. [Broncontrole](sources/author-art-241d-253-preflight-result.json), [volledige brondekking](sources/author-art-241d-253-coverage.json), [selectieve rechtspraak](sources/author-art-241d-253-search-log.json). Onafhankelijke tweede lezing nog niet uitgevoerd; overige toelichtingen ongewijzigd.
+
+Tweede lezing 241d–253: [bevindingen](sources/review-art-241d-253-result.json), [broncontrole](sources/review-art-241d-253-preflight-result.json), [parsercontrole](sources/review-art-241d-253-parser-check.json), [selectief rechtspraakonderzoek](sources/review-art-241d-253-search-log.json).
