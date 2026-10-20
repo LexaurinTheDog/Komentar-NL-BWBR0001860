@@ -1,0 +1,9 @@
+{
+  "url": "https://zoek.officielebekendmakingen.nl/stb-2023-306.xml",
+  "http_status": 200,
+  "access_timestamp_utc": "2026-10-20T22:49:29.149630+00:00",
+  "raw_path": "sources/author-art-213abis-213ap-stb-2023-306.xml",
+  "sha256": "6ecc755fc8e75629dacc1e1b5efd882cc0672fd5ba677a685ed1a1bef10118db",
+  "xml_root": "officiele-publicatie",
+  "accepted": true
+}

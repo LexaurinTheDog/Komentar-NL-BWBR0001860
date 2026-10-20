@@ -1,0 +1,20 @@
+{
+  "searched_at": "2026-10-20T22:50:26.399909+00:00",
+  "web_queries": [
+    "site.rechtspraak.nl \"213aga\" verzekeraar",
+    "site:uitspraken.rechtspraak.nl \"213af\" \"213ag\"",
+    "site:uitspraken.rechtspraak.nl \"213abis\""
+  ],
+  "local_search": "rg -l -i 213aga|213agb|213abis|213af /Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr --glob *.md",
+  "local_matches": [
+    {
+      "path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-1968-ac2286.md",
+      "disposition": "Historical 1968 judgment; no current-regime holding used."
+    }
+  ],
+  "verified_full_text": [
+    "ECLI:NL:RBAMS:2022:7475"
+  ],
+  "rejected_route": "uitspraken.rechtspraak.nl/api/content/uitspraak returned HTML application shell; rejected as XML and replaced by official data.rechtspraak.nl full XML endpoint.",
+  "limits": "Selective research; no case-specific holding assigned to other technical or repealed units. No exhaustive case law coverage claimed."
+}

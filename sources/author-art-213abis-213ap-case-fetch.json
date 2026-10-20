@@ -1,0 +1,9 @@
+{
+  "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBAMS:2022:7475",
+  "http_status": 200,
+  "access_timestamp_utc": "2026-10-20T22:47:09.282972+00:00",
+  "sha256": "8d1c58a62be7e84aea7e6173f2fe3db2f655246b4897a4d01769ebfd712fa9d5",
+  "raw_path": "sources/author-art-213abis-213ap-rbams-2022-7475.xml",
+  "full_text_chars": 17493,
+  "accepted": true
+}

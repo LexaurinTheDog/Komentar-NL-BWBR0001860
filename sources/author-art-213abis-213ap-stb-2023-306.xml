@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2023-306/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 25 augustus 2023 tot wijziging van de Wet op het financieel toezicht, de Algemene wet bestuursrecht en de Faillissementswet in verband met de rechtsbescherming bij de afwikkeling van verzekeraars en enige andere verbeteringen in het kader voor herstel en afwikkeling van verzekeraars (Wijzigingswet herstel en afwikkeling van verzekeraars)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is het rechtsbeschermingsregime dat geldt bij de afwikkeling van verzekeraars te stroomlijnen met het bancaire kader en tevens een aantal kleinere verbeteringen in het kader voor herstel en afwikkeling van verzekeraars door te voeren;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten‑Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">De Wet op het financieel toezicht wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 1:1 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In de begripsomschrijving van «bewindvoerder» wordt «de in hoofdstuk 3A:2 bedoelde maatregelen» vervangen door «de in hoofdstuk 3a.2 bedoelde maatregelen».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In de alfabetische volgorde wordt de volgende definitie ingevoegd:</wat>
+              <artikeltekst>
+                <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                  <definitie-item>
+                    <term>richtlijn melding zeggenschap:</term>
+                    <definitie>
+                      <al>Richtlĳn 2001/34/EG van het Europees Parlement en de Raad van 28 mei 2001 betreffende de toelating van effecten tot de officiële notering aan een effectenbeurs en de informatie die over deze effecten moet worden gepubliceerd (PbEG 2001, L 184);</al>
+                    </definitie>
+                  </definitie-item>
+                </definitielijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 1:104a vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>In artikel 3:67, vierde lid, wordt «vorderingen als bedoeld in artikel 3:198, tweede lid, onderdelen b, c en d, derde lid, onderdelen a, b en c, dan wel vierde lid, onderdelen a, b en c» vervangen door «vorderingen, genoemd in artikel 213m, tweede lid, onderdelen b, c en d, derde lid, onderdelen a, b en c, dan wel artikel 213kk, tweede lid, onderdelen a, b en c, van de Faillissementswet».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>In artikel 3:68, derde lid, wordt «vorderingen als bedoeld in artikel 3:198, tweede lid, onderdelen b, c en d, dan wel derde lid, onderdelen a, b en c» vervangen door «vorderingen, genoemd in artikel 213m, tweede lid, onderdelen b, c en d, dan wel derde lid, onderdelen a, b en c, van de Faillissementswet».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Artikel 3:69, tweede lid, komt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De levensverzekeraar of schadeverzekeraar met beperkte risico-omvang dekt de verplichtingen uit vorderingen, genoemd in artikel 213m, tweede lid, onderdelen b, c en d, dan wel derde lid, onderdelen a, b en c, van de Faillissementswet, volledig door waarden. De natura-uitvaart<?xpp afbm?>verzekeraar dekt de verplichtingen uit vorderingen, genoemd in artikel 213kk, tweede lid, onderdelen a, b en c, van de Faillissementswet, volledig door waarden.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>In artikel 3A:80, tweede lid, wordt «het vennootschapsrecht of financieel toezichtsrecht» vervangen door «een ander wettelijk voorschrift».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>Aan artikel 3A:81, vijfde lid, wordt toegevoegd «of voorzienbaar is dat, indien de verzekeraar of de groep faalt of waarschijnlijk zal falen, zij niet zal voldoen aan de voorwaarde voor afwikkeling, bedoeld in artikel 3A:85, eerste lid, onderdeel c».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>In artikel 3A:93, eerste lid, onderdeel b, wordt «a, b en c» vervangen door «a tot en met d».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">Ha</lidnr>
+            <wat>In artikel 3A:95 vervallen het tweede lid alsmede de aanduiding «1.» voor het eerste lid.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>Artikel 3A:98, tweede lid, wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Onder verlettering van de onderdelen b tot en met d tot c tot en met e, wordt een onderdeel ingevoegd, luidende:</wat>
+              <artikeltekst>
+                <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>het uit de notering of uit de handel nemen van eigendomsinstrumenten of schuldinstrumenten;</al>
+                  </li>
+                </lijst>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In de onderdelen c (nieuw) en d (nieuw) wordt «toelating» telkens vervangen door «notering of toelating».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>Aan het slot van onderdeel d (nieuw) vervalt «of».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>Onder vervanging van de punt aan het slot van onderdeel e (nieuw) door «; of» wordt een onderdeel toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>f.</li.nr>
+                    <al>handelingen of diensten in verband met de afwikkeling van transacties in effecten en effectenafwikkelingssystemen.</al>
+                  </li>
+                </lijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">J</lidnr>
+            <wat>Artikel 3A:103 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Het eerste lid komt te luiden:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De Nederlandsche Bank verricht de beoordeling van de aanvraag van een verklaring van geen bezwaar met inachtneming van de doelstellingen, bedoeld in artikel 3A:84, indien een verwerving of een vergroting van een gekwalificeerde deelneming in een verzekeraar als bedoeld in artikel 3:95 het gevolg is van:</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>de uitoefening van een ingevolge artikel 3A:93, eerste lid, verworven recht op nieuw uit te geven eigendomsinstrumenten;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>een uitgifte als bedoeld in artikel 3A:96;</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>een besluit als bedoeld in artikel 3A:121.</al>
+                    </li>
+                  </lijst>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Onder vernummering van het tweede tot en met vierde lid tot derde tot en met vijfde lid wordt een lid ingevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Bij de beoordeling, bedoeld in het eerste lid, zijn de artikelen 1:106b tot en met 1:106e niet van toepassing.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">K</lidnr>
+            <wat>In artikel 3A:115 wordt «3A:104» vervangen door «3A:106».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">L</lidnr>
+            <wat>Na artikel 3A:120 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">3A:120a.</nr>
+                  <titel>Ontslag en benoeming bestuur en raad van commissarissen</titel>
+                </kop>
+                <al>De Nederlandsche Bank kan bij een entiteit in afwikkeling leden van het bestuur en het bestuur als geheel, alsook leden van de raad van commissarissen of leden van een orgaan dat een met die van de raad van commissarissen vergelijkbare taak heeft en de raad van commissarissen als geheel, of een orgaan als geheel dat een met die van de raad van commissarissen vergelijkbare taak heeft, ontslaan of benoemen.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">M</lidnr>
+            <wat>Artikel 3A:127 komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">3A:127.</nr>
+                  <titel>Ingrijpen in handel in financiële instrumenten</titel>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De Nederlandsche Bank kan degene die een handelsplatform exploiteert of een beleggingsonderneming met systematische interne afhandeling door middel van het geven van een aanwijzing verplichten om de toelating tot de handel op een gereglementeerde markt of de officiële notering van financiële instrumenten overeenkomstig de richtlijn melding medezeggenschap op te schorten of te onderbreken indien dit naar het oordeel van de Nederlandsche Bank passend is om ervoor te helpen zorgen dat een afwikkelingsmaatregel doeltreffend is of om een of meer afwikkelingsdoelstellingen te verwezenlijken.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Indien de Nederlandsche Bank een aanwijzing geeft als bedoeld in het eerste lid doet zij hetzelfde voor afgeleide financiële instrumenten als bedoeld in de onderdelen d tot en met j van de definitie van financieel instrument in artikel 1:1 die verband houden met dat financiële instrument of daarnaar verwijzen, indien dit naar het oordeel van de Nederlandsche Bank passend is ter ondersteuning van het bereiken van de doelstelling van de opschorting of onderbreking van de handel in het onderliggende financieel instrument.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>De Autoriteit Financiële Markten verricht op instructie van de Nederlandsche Bank de noodzakelijke feitelijke handelingen om uitvoering te geven aan een besluit als bedoeld in het eerste en tweede lid.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>In afwijking van artikel 1:97 maakt de Autoriteit Financiële Markten een besluit ten aanzien waarvan zij een instructie als bedoeld in het derde lid heeft gekregen onverwijld openbaar en stelt zij de toezichthoudende instanties van de overige lidstaten van dat besluit in kennis.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">N</lidnr>
+            <wat>In artikel 3A:128, eerste lid, wordt na «artikel 1:75, eerste lid» ingevoegd «of artikel 1:76, eerste lid».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">O</lidnr>
+            <wat>In artikel 3A:135, eerste lid, wordt «op grond van de artikelen 3A:85 en 3A:86» vervangen door «ingevolge de afdelingen 3A.2.3 en 3A.2.4».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <wat type="wijziging">De Algemene wet bestuursrecht wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In bijlage 1 wordt in de zinsnede met betrekking tot de Wet op het financieel toezicht, onderdeel a, «de afdelingen 3A.1.3, 3A.1.4 en 3A.1.5, 3A:85 en 3A:86» vervangen door «de afdelingen 3A.1.3, 3A.1.4, 3A.1.5, 3A.2.3 en 3A.2.4».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Bijlage 2 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>In artikel 1 wordt in de zinsnede met betrekking tot de Wet op het financieel toezicht, onderdeel c, «de afdelingen 3A.1.3, 3A.1.4 en 3A.1.5» vervangen door «de afdelingen 3A.1.3, 3A.1.4, 3A.1.5, 3A.2.3 en 3A.2.4».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In artikel 4 wordt in de zinsnede met betrekking tot de Wet op het financieel toezicht «de afdelingen 3A.1.3, 3A.1.4 en 3A.1.5 de artikelen 3A:85 en 3A:86» vervangen door «de afdelingen 3A.1.3, 3A.1.4, 3A.1.5, 3A.2.3 en 3A.2.4».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">3.</nr>
+              <wat>In artikel 7 wordt in de zinsnede met betrekking tot de Wet op het financieel toezicht, onderdeel a, «de afdelingen 3A.1.3, 3A.1.4 en 3A.1.5 en de artikelen 3A:85 en 3A:86» vervangen door «de afdelingen 3A.1.3, 3A.1.4, 3A.1.5, 3A.2.3 en 3A.2.4».</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">4.</nr>
+              <wat>In artikel 11 wordt in de zinsnede met betrekking tot de Wet op het financieel toezicht, onderdeel a, «de afdelingen 3A.1.3, 3A.1.4 en 3A.1.5 en de artikelen 3A:85 en 3A:86» vervangen door «de afdelingen 3A.1.3, 3A.1.4, 3A.1.5, 3A.2.3 en 3A.2.4».</wat>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III</nr>
+          </kop>
+          <wat type="wijziging">De Faillissementswet wordt als volgt gewijzigd:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>In artikel 212hgb, derde lid, wordt «niet openbare terechtzitting» vervangen door «niet openbare zitting».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Artikel 213 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Onderdeel a komt te luiden:</wat>
+              <artikeltekst>
+                <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                  <definitie-item>
+                    <li.nr>a.</li.nr>
+                    <term>verzekeraar:</term>
+                    <definitie>
+                      <al>een schadeverzekeraar of levensverzekeraar als bedoeld in onderdeel d, onderdeel e, onderscheidenlijk onderdeel f;</al>
+                    </definitie>
+                  </definitie-item>
+                </definitielijst>
+              </artikeltekst>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Onder verlettering van de onderdelen f tot en met q tot g tot en met r wordt een onderdeel ingevoegd, luidende:</wat>
+              <artikeltekst>
+                <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                  <definitie-item>
+                    <li.nr>f.</li.nr>
+                    <term>herverzekeraar:</term>
+                    <definitie>
+                      <al>een herverzekeraar als bedoeld in artikel 1:1 van de Wet op het financieel toezicht die onder het toepassingsgebied van de richtlijn solvabiliteit II valt;</al>
+                    </definitie>
+                  </definitie-item>
+                </definitielijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Artikel 213ad vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>Aan artikel 213aga worden drie leden toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Ingeval de curator na het uitspreken van het faillissement het verzoek doet, behandelt de rechtbank het verzoek met de meeste spoed op een niet openbare zitting op de voet van rechtspleging in burgerlijke zaken. De Nederlandsche Bank N.V. wordt gehoord.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Indien de rechtbank de machtiging verleent, bepaalt de rechtbank de duur van de machtiging op ten hoogste anderhalf jaar. Voor het verstrijken van de termijn kan de curator verlenging van de geldigheidsduur voor telkens ten hoogste anderhalf jaar verzoeken. Zolang bij het verstrijken van de geldigheidsduur van de machtiging op een verzoek tot verlenging niet is beschikt, wordt de machtiging gehandhaafd.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>Indien een curator voornemens is over te gaan tot overgang van rechten en verplichtingen krachtens overeenkomst van verzekering, vraagt hij daaromtrent advies van De Nederlandsche Bank N.V.. Indien de curator toestemming als bedoeld in artikel 176 vraagt, legt hij daarbij dit advies over.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Artikel 213agb, zesde lid, vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>In artikel 213ar, eerste lid, onderdeel b, wordt «bedoeld in artikel 3:159a, onderdeel d, van de Wet op het financieel toezicht» vervangen door «bedoeld in artikel 3a:77 van de Wet op het financieel toezicht».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>In artikel 213d vervalt het eerste lid, alsmede de aanduiding «2.» voor het tweede lid.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>Artikel 213e vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>Artikel 213g komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">213g</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De griffier stelt de Nederlandsche Bank N.V. onverwijld in kennis van het vonnis tot faillietverklaring en van de machtigingen, bedoeld in artikel 213aga, eerste lid, en artikel 213agb, eerste lid.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De Nederlandsche Bank N.V. stelt onverwijld daarna de toezichthoudende autoriteiten van alle andere lidstaten in kennis van het vonnis tot faillietverklaring en van de machtigingen, bedoeld in artikel 213aga, eerste lid en artikel 213agb, eerste lid alsmede van de mogelijke gevolgen daarvan in het desbetreffende geval.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">J</lidnr>
+            <wat>Artikel 213h vervalt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">K</lidnr>
+            <wat>Artikel 213i, eerste lid, komt te luiden:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De curator geeft van het vonnis tot faillietverklaring, van de overgang, bedoeld in artikel 213aga en van de wijziging bedoeld in artikel 213agb, onmiddellijk aan alle bekende schuldeisers schriftelijk kennis.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">L</lidnr>
+            <wat>Artikel 213gg komt te luiden:</wat>
+            <?xpp qa?>
+            <?xpp lead;-1?>
+            <wijziging>
+              <artikeltekst>
+                <al>De artikelen 213a, eerste lid, 213abis, derde lid, 213b, 213i en 213k, eerste lid zijn van overeenkomstige toepassing op verzekeraars met beperkte risico-omvang.</al>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">M</lidnr>
+            <wat>Artikel 213ll in Afdeling 11B wordt vernummerd tot 213kka.</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IV</nr>
+          </kop>
+          <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">V</nr>
+          </kop>
+          <al>Deze wet wordt aangehaald als: Wijzigingswet herstel en afwikkeling van verzekeraars.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk <dossierref dossier="36314">36 314</dossierref></al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2023-08-25">25 augustus 2023</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Financiën,</functie>
+          <naam>
+            <voornaam>S.A.M.</voornaam>
+            <achternaam>Kaag</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2023-09-25">Uitgegeven de <nadruk type="cur">vijfentwintigste</nadruk> september 2023</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.</voornaam>
+              <achternaam>Yeşilgöz-Zegerius</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>
