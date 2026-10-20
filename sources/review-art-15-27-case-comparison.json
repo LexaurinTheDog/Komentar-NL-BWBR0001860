@@ -1,0 +1,24 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2007:BA5197",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2007-ba5197.md",
+    "local_snapshot_path": "sources/review-art-15-27-hr-2007-BA5197-local.md",
+    "local_sha256": "dfddc7a61aa1b51a415ee74dcaf8523f8c738e93379e65d8a4e509ffbb890e4a",
+    "official_raw_path": "sources/review-art-15-27-hr-2007-BA5197.xml",
+    "official_sha256": "6c2241a89c23e83f72634fd10f7a0cdbd635eb6750612b8c8c5e863a2954486f",
+    "comparison_scope": "Full local uitspraak vs official text; for 2017 beginning at section 1 because local corpus omits party caption.",
+    "normalized_comparison_equal": true,
+    "full_official_uitspraak_chars": 9593
+  },
+  {
+    "ecli": "ECLI:NL:HR:2017:2564",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2017-2564.md",
+    "local_snapshot_path": "sources/review-art-15-27-hr-2017-2564-local.md",
+    "local_sha256": "86bc9eb268cad2a0a0b444d7989309e2686a32fa93bbbb0f2b2139df4066c43a",
+    "official_raw_path": "sources/review-art-15-27-hr-2017-2564.xml",
+    "official_sha256": "a510553e8df372a29c65beace5ccae0f36adb0d061d4eacfc56fc35338923272",
+    "comparison_scope": "Full local uitspraak vs official text; for 2017 beginning at section 1 because local corpus omits party caption.",
+    "normalized_comparison_equal": true,
+    "full_official_uitspraak_chars": 15295
+  }
+]

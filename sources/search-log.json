@@ -53,6 +53,27 @@
       "reread_existing_case": "ECLI:NL:HR:2018:774",
       "disposition": "2018:1100 verified in full; party-caption omission in local corpus recorded. Holdings 3.3.2–3.3.5 used for art-12 only. Other candidates not cited. Source bodies and exact fetch results retained.",
       "limitations": "Selective search; no inference that unselected technical units lack relevant case law."
+    },
+    {
+      "date": "2026-10-20",
+      "scope": "Assigned articles 15–27 only",
+      "source": "National HR corpus, official Rechtspraak search results and full-text API",
+      "method": "rg candidate search, official-site web queries, two selected decisions read in full in corpus and XML; BY6108 reread in full",
+      "queries": [
+        "15b|ontslag van (de )?instantie|22a",
+        "site.rechtspraak.nl 15b 2015 1401",
+        "site.rechtspraak.nl 27 ontslag van instantie belang Hoge Raad",
+        "site.rechtspraak.nl 22a onredelijk Hoge Raad",
+        "site:uitspraken.rechtspraak.nl 15b Hoge Raad 2015",
+        "site:uitspraken.rechtspraak.nl 22a Hoge Raad 2017 levensverzekering"
+      ],
+      "selected_new_cases": [
+        "ECLI:NL:HR:2007:BA5197",
+        "ECLI:NL:HR:2017:2564"
+      ],
+      "existing_case_reread": "ECLI:NL:HR:2013:BY6108",
+      "rejected_candidate": "ECLI:NL:HR:2015:1401 returned metadata only and is not cited. 2015:2496 corpus candidate is tax law and was rejected as irrelevant.",
+      "limits": "No exhaustive search or claim of a separately verified decision for every technical unit. Search snippets not used to establish holdings."
     }
   ],
   "negative_and_limits": "Geen afzonderlijke uitspraak voor iedere technische of vervallen artikelplaats gezocht of geclaimd. Voor de overige geschreven eenheden berust de toelichting primair op de gecontroleerde wettekst en interne samenhang. Ontbrekende rechtspraakdekking is niet gelijk aan het niet-bestaan van rechtspraak. Niet geschreven bijzondere financiële regimes, surseance, WSNP en WHOA hebben in deze checkpoint geen afgerond rechtspraakonderzoek."

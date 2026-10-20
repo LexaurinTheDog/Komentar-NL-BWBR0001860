@@ -1,0 +1,15 @@
+HTTP status: 200
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Transfer-Encoding: chunked
+Content-Type: application/xml
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: frame-ancestors 'none'
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Expect-CT: max-age=31536000,enforce
+X-Correlation-ID: 84451fad-f78c-422b-8ff8-e8d9eaebb832
+SERVER: Microsoft-IIS
+X-POWERED-BY: None
+Date: Tue, 20 Oct 2026 19:03:06 GMT
+Connection: close
+

@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "preflight_date": "2026-10-20",
   "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
-  "verified_at": "2026-10-20T19:00:37.697419+00:00",
+  "verified_at": "2026-10-20T19:03:51.970744+00:00",
   "version_evidence": {
     "path": "sources/version-evidence.json",
     "selected_toestand": "2026-09-01_0",
@@ -108,7 +108,7 @@
     "This task checks statutory sources and parser coverage only, not substantive correctness of the 297 existing commentaries.",
     "342 commentaries remain unwritten; whole-book build/strict validation failure on missing commentary is expected.",
     "External transitional provisions referenced by editorial notes remain annotations; no claim of a separate full analysis of those instruments.",
-    "The original source preflight did not review commentary; the subsequent bounded 20-unit second reading is separately recorded in review-result.json."
+    "The original preflight is source-only; subsequent bounded substantive reviews are recorded separately for 1–14b and 15–27."
   ],
   "whole_book_complete": false,
   "technical_checks": {
@@ -126,11 +126,22 @@
     "strict_failure_disposition": "Expected whole-book failure: 342 unwritten commentaries. Outside the bounded preflight task; does not block source/parser completeness.",
     "whole_book_complete": false
   },
-  "bounded_review_recheck": {
+  "previous_bounded_review_recheck": {
     "complete": true,
     "evidence": "review-checks.json",
     "fresh_source_records": "sources/review-art-1-14b-fetch.json",
     "decisive_date_unchanged": "2026-10-19",
+    "parser_idempotent": true,
+    "statutory_wording_changes": 0,
+    "unresolved_blockers": []
+  },
+  "bounded_review_recheck": {
+    "complete": true,
+    "evidence": "review-checks.json",
+    "fresh_source_records": "sources/review-art-15-27-fetch.json",
+    "decisive_date_unchanged": "2026-10-19",
+    "historical_versions_checked_again": true,
+    "annexes_checked_again": true,
     "parser_idempotent": true,
     "statutory_wording_changes": 0,
     "unresolved_blockers": []
