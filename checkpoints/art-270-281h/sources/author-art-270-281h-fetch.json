@@ -1,0 +1,33 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001860/",
+    "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+    "http_status": 200,
+    "access_timestamp": "2026-10-20T23:54:33.099065+00:00",
+    "path": "sources/author-art-270-281h-current.html",
+    "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+    "bytes": 4132921,
+    "accepted": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "http_status": 200,
+    "access_timestamp": "2026-10-20T23:54:33.903425+00:00",
+    "path": "sources/author-art-270-281h-selected.xml",
+    "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+    "bytes": 2557947,
+    "accepted": true
+  },
+  {
+    "url": "https://uitspraken.rechtspraak.nl/api/content/uitspraak?id=ECLI:NL:RBAMS:2021:3197",
+    "final_url": "https://uitspraken.rechtspraak.nl/api/content/uitspraak?id=ECLI:NL:RBAMS:2021:3197",
+    "http_status": 200,
+    "access_timestamp": "2026-10-20T23:54:34.056750+00:00",
+    "path": "sources/author-art-270-281h-case-3197.xml",
+    "sha256": "36069482a44139f041698d456792c914c8209e59d2671f8f167b9d5d61d9596e",
+    "bytes": 3892,
+    "accepted": false,
+    "reason": "HTML application shell, not judgment XML; rejected"
+  }
+]

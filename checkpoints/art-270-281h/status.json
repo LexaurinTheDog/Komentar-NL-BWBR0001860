@@ -1,0 +1,39 @@
+{
+  "stage": "batch_drafted_technical_validation",
+  "assigned_ids": [
+    "art-270",
+    "art-271",
+    "art-272",
+    "art-273",
+    "art-274",
+    "art-275",
+    "art-276",
+    "art-277",
+    "art-278",
+    "art-279",
+    "art-280",
+    "art-281",
+    "art-281a",
+    "art-281b",
+    "art-281c",
+    "art-281d",
+    "art-281e",
+    "art-281f",
+    "art-281g",
+    "art-281h"
+  ],
+  "total_units": 639,
+  "completed_assigned_units": 20,
+  "whole_book_complete": false,
+  "source_checks": "Current official route and identical selected XML verified; 639 unique official IDs equal parsed IDs; no annex nodes.",
+  "case_law_sources": [
+    "ECLI:NL:RBDHA:2024:18898",
+    "ECLI:NL:HR:2003:AI0369"
+  ],
+  "remaining_limitations": [
+    "Selective case research",
+    "Independent second pass pending",
+    "119 unassigned units remain without commentary; full build blocked"
+  ],
+  "validation_result": "Pending strict batch validation"
+}

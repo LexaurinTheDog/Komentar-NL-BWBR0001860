@@ -1,0 +1,14 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "batch_authored_local_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001860/",
+  "verified_at": "2026-10-20T23:54:33.099065+00:00",
+  "version_evidence": "Fresh current-route redirect to 2026-09-01 and explicit validity through present; selected XML byte-identical to canonical official XML. Existing sources/version-evidence.json: no effective change since intake; future 2027-11-15 and undated amendments excluded.",
+  "historical_versions_checked": "Only 2026-09-01_0 selected; historical 2002 endpoint previously rejected, see sources/verification.json.",
+  "annexes_checked": {
+    "official_annex_nodes": [],
+    "disposition": "No operative annex nodes in selected official XML; source notes and unnumbered promulgation material retained by existing parser."
+  },
+  "unresolved_blockers": []
+}
