@@ -3,310 +3,281 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "art-213me",
-    "art-213mf",
-    "art-213mg",
-    "art-213mh",
-    "art-213mi",
-    "art-213mj",
-    "art-213mk",
-    "art-213n",
-    "art-213o",
-    "art-213p",
-    "art-213q",
-    "art-213r",
-    "art-213s",
-    "art-213t",
-    "art-213u",
-    "art-213v",
-    "art-213w",
-    "art-213x",
-    "art-213ij",
-    "art-213z"
+    "art-213aa",
+    "art-213bb",
+    "art-213cc",
+    "art-213dd",
+    "art-213ee",
+    "art-213ff",
+    "art-213gg",
+    "art-213hh",
+    "art-213ii",
+    "art-213jj",
+    "art-213kk",
+    "art-213kka",
+    "art-213ll",
+    "art-213mm",
+    "art-213nn",
+    "art-213oo",
+    "art-213pp",
+    "art-213qq",
+    "art-213rr",
+    "art-214"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "art-213me",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213me",
-      "effective_from": "2025-01-01",
+      "id": "art-213aa",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213aa",
+      "effective_from": "2005-12-01",
       "source_notes_checked": [
-        "Abusievelijk is voor het eerste lid, onderdeel b, een\nwijzigingsopdracht geformuleerd die niet geheel juist is."
+        "Tekstplaatsing met aanpassing van de spelling."
       ],
-      "finding": "Beide leden en bronnoot gelezen: natuurlijke personen, ondernemingsgrootte bij opeisbaarheid, defecte richtlijnverwijzing behouden en uitzondering op verzoek met onaanvaardbaarheidstoets.",
+      "finding": "Beide leden: herkomstbevoegdheden versus Nederlandse uitoefeningswijze, dwang en rechtspraak uitgezonderd; vertegenwoordigers en bijstand afzonderlijk gecontroleerd.",
       "result": "accepted_without_change",
-      "before_sha256": "d78303996646bc5d7203f5f8d715e709eb331c7942e723ab03800f02dacdfd05",
-      "after_sha256": "d78303996646bc5d7203f5f8d715e709eb331c7942e723ab03800f02dacdfd05",
-      "statutory_sha256": "632e4883a20d11b4afbe3bad9b8648b7e61bf06f369055dbda4195dd71252cb3"
+      "before_sha256": "ea11a3ed459c631e20f8ff05bf6a274161525ef4fb74cfc8943f5c29c1b87a6d",
+      "after_sha256": "ea11a3ed459c631e20f8ff05bf6a274161525ef4fb74cfc8943f5c29c1b87a6d",
+      "statutory_sha256": "065899a4e3d69b2504794363912d61229176e61a224542f0873b794f6832486d"
     },
     {
-      "id": "art-213mf",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mf",
-      "effective_from": "2019-01-01",
+      "id": "art-213bb",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213bb",
+      "effective_from": "2005-12-01",
       "source_notes_checked": [
-        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+        "Tekstplaatsing met aanpassing van de spelling."
       ],
-      "finding": "Alle drie leden: aanvraagverzuim versus bevel tot betaling, curator horen, drie dagen, hoogte/frequentie. Overgangsrecht XIV(4) expliciet toegevoegd en tegen publicatie gecontroleerd.",
+      "finding": "Twee bewijsroutes onderscheiden; onbedoelde extra waarmerkingseis voor verklaring bevoegde instantie verwijderd. Vertaling alleen op verlangen en geen verzonnen beëdigingsvereiste.",
       "result": "corrected",
-      "before_sha256": "9d286409915e4779b45471c6e6245a6b4f42e1fbcf8557e9c4d14c087a79daa3",
-      "after_sha256": "4396e1136c7f6ace41e510e5b74f7e0b4662ff84be9ae9747c69e591e6e81040",
-      "statutory_sha256": "a9313b0a9dad52f21d237abba29c0bcd979589f497f09a64b94a619dac010c65"
+      "before_sha256": "4968abee5abb705992a4aeda74ea600eeeb27e5290b300929fb21b7d7b211e09",
+      "after_sha256": "721da97d119307ae9d5546f30b81e9b8ba25078f356fdb0a4ce4397b1db6c8e4",
+      "statutory_sha256": "09ede89eb32850bd76a674721f0186bfd3a3c008471e568478651bb069d6bbaf"
     },
     {
-      "id": "art-213mg",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mg",
-      "effective_from": "2019-01-01",
-      "source_notes_checked": [
-        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
-      ],
-      "finding": "Samenloop vereist twee aanspraken ter zake van dezelfde schade, geen betalingseis toegevoegd; aanspraak zelf blijft onderscheiden van voorschot.",
+      "id": "art-213cc",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213cc",
+      "effective_from": "2013-01-01",
+      "source_notes_checked": [],
+      "finding": "Verzoek curator, griffier Den Haag en register19(1) gecontroleerd; registratie niet als erkenningsvoorwaarde uitgelegd.",
       "result": "accepted_without_change",
-      "before_sha256": "6a1349449bb6fc78424522fdae666dcabf6c575360896f22a0f6c9876f2de9af",
-      "after_sha256": "6a1349449bb6fc78424522fdae666dcabf6c575360896f22a0f6c9876f2de9af",
-      "statutory_sha256": "707fd84a73656f312a680b5b18191102d82151c69d02f5a90350586158849f17"
+      "before_sha256": "566431e480a4258e9525b909e76efe030e4c0bb893b046f71eff8b6fa333d32a",
+      "after_sha256": "566431e480a4258e9525b909e76efe030e4c0bb893b046f71eff8b6fa333d32a",
+      "statutory_sha256": "3c758fced4551750b88ef0c42a3a731d7cd5b35384917ca4b212dd101bf68000"
     },
     {
-      "id": "art-213mh",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mh",
-      "effective_from": "2019-01-01",
-      "source_notes_checked": [
-        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
-      ],
-      "finding": "Beide leden: periodiek overschot, overdracht vóór verificatie, onverrekenbaar bedrag, afwijkende overeenkomst en daadwerkelijke betaling door overnemer gevolgd door termijnkorting.",
-      "result": "accepted_without_change",
-      "before_sha256": "66dd33d56d085e5930359d1d95f6094d1ad88bfd677395a650a76a9af4285f6a",
-      "after_sha256": "66dd33d56d085e5930359d1d95f6094d1ad88bfd677395a650a76a9af4285f6a",
-      "statutory_sha256": "0b6b0d82e349d0c55a148e2254297427f45abc2dbc60918b31815546db44aefa"
-    },
-    {
-      "id": "art-213mi",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mi",
-      "effective_from": "2019-01-01",
-      "source_notes_checked": [
-        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
-      ],
-      "finding": "Nihilstelling beperkt tot overbetaling wegens lagere verificatie, ontbreken goede trouw en causaal verband; verhouding tot213mh correct onderscheiden.",
-      "result": "accepted_without_change",
-      "before_sha256": "f1dcbbb5d5429f6090220ddf46ed4ff19d8ea3e24187f8572dcc3727ffd8022f",
-      "after_sha256": "f1dcbbb5d5429f6090220ddf46ed4ff19d8ea3e24187f8572dcc3727ffd8022f",
-      "statutory_sha256": "10dcecafa6e04f84c786779f72737d150ae3efb9c973f1fb98f635f256c7fa81"
-    },
-    {
-      "id": "art-213mj",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mj",
-      "effective_from": "2019-01-01",
-      "source_notes_checked": [
-        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
-      ],
-      "finding": "RC-toestemming voor beëindiging, hoogte en frequentie afzonderlijk gecontroleerd; geen eenzijdige stop of definitieve vaststelling voorgespiegeld.",
-      "result": "accepted_without_change",
-      "before_sha256": "a09b377a759f37ffb9499e82d2fb5f23998e2e4ad2fb755e07a9cc657b60ef52",
-      "after_sha256": "a09b377a759f37ffb9499e82d2fb5f23998e2e4ad2fb755e07a9cc657b60ef52",
-      "statutory_sha256": "17dcc8b8c2e95e55341cce65c17ff9c7c987644519d384c6f656fd743fc3cd68"
-    },
-    {
-      "id": "art-213mk",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213mk",
-      "effective_from": "2019-01-01",
-      "source_notes_checked": [
-        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
-      ],
-      "finding": "Alle onderdelen a–c en67 gelezen: drie beroepsgerechtigden, horen/oproepen, rechtbank hoogste ressort; geen ononderzochte cassatie-uitspraak toegevoegd.",
-      "result": "accepted_without_change",
-      "before_sha256": "8b46488f7834acbda1c888e47e1ed7a97f05cd11174bdb7b03bbbd4b614cc6b2",
-      "after_sha256": "8b46488f7834acbda1c888e47e1ed7a97f05cd11174bdb7b03bbbd4b614cc6b2",
-      "statutory_sha256": "412ddac78e6624d9fbd92e0f0e01860229af76e10e35da47459b3c2634864cac"
-    },
-    {
-      "id": "art-213n",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213n",
-      "effective_from": "2005-12-01",
-      "source_notes_checked": [
-        "Tekstplaatsing met aanpassing van de spelling.",
-        "Bij § 3 Bepalingen van internationaal privaatrecht: Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "finding": "Beide leden: van rechtswege erkenning en werkingstijdstip herkomststaat; geen Nederlandse publicatie als constitutieve eis.",
-      "result": "accepted_without_change",
-      "before_sha256": "ebe7d7478d87e899a2fdfc3eafe199297fea49e1c6e3847d9e37f287c895a3a6",
-      "after_sha256": "ebe7d7478d87e899a2fdfc3eafe199297fea49e1c6e3847d9e37f287c895a3a6",
-      "statutory_sha256": "51a3d418913ac81edb73751a3397376da0bb91a11ae1a978d7459f1e4e6a80dc"
-    },
-    {
-      "id": "art-213o",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213o",
-      "effective_from": "2005-12-01",
-      "source_notes_checked": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "finding": "Hoofdregel herkomstrecht en wettelijke uitzonderingen onderscheiden; erkenning en toepasselijk recht niet verward.",
-      "result": "accepted_without_change",
-      "before_sha256": "6925b2a31cc3f8e4ac5eaf3edd92cf65bde1b2f15dca61eaa70cc949654b432a",
-      "after_sha256": "6925b2a31cc3f8e4ac5eaf3edd92cf65bde1b2f15dca61eaa70cc949654b432a",
-      "statutory_sha256": "ca6f18bb03ecc5ef28c97f66f217d4998cc5a988f6f35189532d7d7b9967fe43"
-    },
-    {
-      "id": "art-213p",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213p",
-      "effective_from": "2005-12-01",
-      "source_notes_checked": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "finding": "Alle vier leden en onderdelen gelezen: bestaande rechten, niet-limitatieve categorieën, openbaar derdenwerkend verkrijgingsrecht, registers/ligging/zetel derde-schuldenaar en213s.",
-      "result": "accepted_without_change",
-      "before_sha256": "d7e9e2f2cabca7675a2376d4160d21dbbfe4cbbd53f19cae0e0b9b62a519b47f",
-      "after_sha256": "d7e9e2f2cabca7675a2376d4160d21dbbfe4cbbd53f19cae0e0b9b62a519b47f",
-      "statutory_sha256": "14f5b95e5740130fcd2f238eda2e787f01fcbcde264546f512f07e45605f113f"
-    },
-    {
-      "id": "art-213q",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213q",
+      "id": "art-213dd",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213dd",
       "effective_from": "2007-01-01",
       "source_notes_checked": [],
-      "finding": "Alle drie leden: koper versus verkoper verzekeraar, buitenlandse ligging op werkingstijdstip. Wft3:241(4) in verse officiële HTML gelezen en verwijzing klopt.",
+      "finding": "Zetel buiten EU, bijkantoren Nederland en andere lidstaat, vergunningstaten en passende autoriteiten gecontroleerd. Beide inspanningsplichten onderscheiden van bevoegdheidsoverdracht.",
       "result": "accepted_without_change",
-      "before_sha256": "571539b7c3a8273a171ee7277424cde842ffcdbef50f8aff19c0478a277a4090",
-      "after_sha256": "571539b7c3a8273a171ee7277424cde842ffcdbef50f8aff19c0478a277a4090",
-      "statutory_sha256": "b4182569fb41c37fc412197d627cff08295c90fe5c4edaa69383d86e651f1e07"
+      "before_sha256": "b5514b8dc0aa4d3e3df0463b590253b2dd4ef2cfa91aee31e395856553f6c6a9",
+      "after_sha256": "b5514b8dc0aa4d3e3df0463b590253b2dd4ef2cfa91aee31e395856553f6c6a9",
+      "statutory_sha256": "84999376cf1e7fc416beb09bb65aa474058fca27b8ddec44398510f62244a5b7"
     },
     {
-      "id": "art-213r",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213r",
-      "effective_from": "2005-12-01",
-      "source_notes_checked": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "finding": "Recht toepasselijk op vordering van verzekeraar als aanknoping gecontroleerd; geen nieuwe verrekeningsbevoegdheid of aantastingsimmuniteit.",
-      "result": "accepted_without_change",
-      "before_sha256": "6d1ee1db4fee5e9685d5d07207f370c975d0ec495534a4ac5ad13b22d26c739a",
-      "after_sha256": "6d1ee1db4fee5e9685d5d07207f370c975d0ec495534a4ac5ad13b22d26c739a",
-      "statutory_sha256": "f23d02220c9acc3f55b7580a35a4fef056cdf29d20892bd1711c04f9a2d234c9"
-    },
-    {
-      "id": "art-213s",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213s",
-      "effective_from": "2005-12-01",
-      "source_notes_checked": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "finding": "Nietigheid, vernietiging en niet-tegenwerpelijkheid wegens collectieve benadeling behouden; relatie213z correct. Grammaticale fout hersteld.",
-      "result": "corrected",
-      "before_sha256": "66044c7cc5a32b4ea9c0ae0b309f2867d6378972ff4fbef29de73bb4f025b00d",
-      "after_sha256": "2e4ef435e1a4d2e86952df09c433019e34db4b815ee4efaa3827f3ca980459a6",
-      "statutory_sha256": "3fa0022d22fe866130a95386e26bb2d90f0019fdef968191fcb0c7d1e59d6682"
-    },
-    {
-      "id": "art-213t",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213t",
-      "effective_from": "2005-12-01",
-      "source_notes_checked": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "finding": "Arbeidsovereenkomst en overige arbeidsverhouding, toepasselijk recht versus collectieve indiening/rang gescheiden; geen automatische woonplaatsaanknoping.",
-      "result": "accepted_without_change",
-      "before_sha256": "e54cbfeb74c51f06779f6ce30255773a96a1786a6d99c00e1c7d34625afbc7f3",
-      "after_sha256": "e54cbfeb74c51f06779f6ce30255773a96a1786a6d99c00e1c7d34625afbc7f3",
-      "statutory_sha256": "becfd335011557d6bd66aad44806b16f5ae194487720d03d6ba5ad45855d212b"
-    },
-    {
-      "id": "art-213u",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213u",
-      "effective_from": "2005-12-01",
-      "source_notes_checked": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "finding": "Genot en verkrijging onroerend goed, exclusieve lex situs voor liquidatiegevolgen en scheiding van213v/x gecontroleerd.",
-      "result": "accepted_without_change",
-      "before_sha256": "2d9e19e3cedf7c26cf1602c0287ca60816d13a4492cd497483c48b8a108be6bb",
-      "after_sha256": "2d9e19e3cedf7c26cf1602c0287ca60816d13a4492cd497483c48b8a108be6bb",
-      "statutory_sha256": "70d3319c0db758a312b137b4cf7582a2765fb28f9fa841832398374340a45bb9"
-    },
-    {
-      "id": "art-213v",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213v",
-      "effective_from": "2005-12-01",
-      "source_notes_checked": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "finding": "Rechten van verzekeraar op registergoed, registergezag versus fysieke gegevenslocatie en verschil met derdenrechten213p gecontroleerd.",
-      "result": "accepted_without_change",
-      "before_sha256": "1b42fe0723bc6b7a8137162d321c4cab7ec3f58aac86b01df1120420afd0319e",
-      "after_sha256": "1b42fe0723bc6b7a8137162d321c4cab7ec3f58aac86b01df1120420afd0319e",
-      "statutory_sha256": "8b7a27d2907673e8a24f896cc82406f0585483e05df91f15b4f6e0c24da2416a"
-    },
-    {
-      "id": "art-213w",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213w",
-      "effective_from": "2017-06-27",
+      "id": "art-213ee",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213ee",
+      "effective_from": "2007-01-01",
       "source_notes_checked": [],
-      "finding": "Alle drie leden en onderdelen: marktrecht, voorbehoud213p, benadelingsvordering, derde-landmarkt erkenning/aanwijzing en beide vergelijkbaarheidseisen.",
+      "finding": "Verslag73a en volledige kring van betrokken of voorheen betrokken derden gecontroleerd; geen algehele geheimhoudingsregel gemaakt.",
       "result": "accepted_without_change",
-      "before_sha256": "b7844081567c1d4bdfb403e016b26d7e057db7f8deefa49432064cb3d3bb7a6c",
-      "after_sha256": "b7844081567c1d4bdfb403e016b26d7e057db7f8deefa49432064cb3d3bb7a6c",
-      "statutory_sha256": "d98c8cf0938f24b4acf71ed2b704097e7ccf699441109321b8ea7a8a73899ec3"
+      "before_sha256": "0c29d7434b150c4fafffff7af7bc149505a9c2d7cde9d5d24a1d3c50f1aea527",
+      "after_sha256": "0c29d7434b150c4fafffff7af7bc149505a9c2d7cde9d5d24a1d3c50f1aea527",
+      "statutory_sha256": "e9db6f3904a792540e6ceb268a7a9972f900d946e9fbd5ef6705653d42598afd"
     },
     {
-      "id": "art-213x",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213x",
-      "effective_from": "2005-12-01",
-      "source_notes_checked": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "finding": "Bezwarende beschikking na opening, registergoed/effecten/rekening/depot en bijzondere situs onroerend goed; verwijzing beslist niet zelf geldigheid.",
+      "id": "art-213ff",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf4/Artikel213ff",
+      "effective_from": "2016-01-01",
+      "source_notes_checked": [],
+      "finding": "Wettelijke categorie1:1 Wft onderscheiden van feitelijke ondernemingsgrootte; geen ongeverifieerde kwantitatieve drempels toegevoegd.",
       "result": "accepted_without_change",
-      "before_sha256": "983cdf2783322debf6e1b3c415d2c40feaef6ebe74a5d80033ebc39ee48a39d0",
-      "after_sha256": "983cdf2783322debf6e1b3c415d2c40feaef6ebe74a5d80033ebc39ee48a39d0",
-      "statutory_sha256": "2e43e466599a34b5fa19e6de036de8c248537db3b31c5bf651f0ff640dac6dd7"
+      "before_sha256": "df4c0229b4caea4644a5af35d410f1f9f02db598fabee48c592bda42f0a6ad92",
+      "after_sha256": "df4c0229b4caea4644a5af35d410f1f9f02db598fabee48c592bda42f0a6ad92",
+      "statutory_sha256": "d331d38e44561b45c19941f0f85ea0dd299c7ba682b0541ec502605336fd64dc"
     },
     {
-      "id": "art-213ij",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213ij",
-      "effective_from": "2005-12-01",
-      "source_notes_checked": [
-        "Tekstplaatsing met aanpassing van de spelling."
-      ],
-      "finding": "Volledig arrest C-724/20 gelezen: verzekeringsclaim inbegrepen, forumrecht voor gedingseffecten, begrenzing liquidatiebevoegdheden. Uitsluiting individuele executie uit punten45–47 toegevoegd.",
+      "id": "art-213gg",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf4/Artikel213gg",
+      "effective_from": "2024-01-01",
+      "source_notes_checked": [],
+      "finding": "Alle vijf verwijzingen gelezen in huidige XML:213a(1),213abis(3),213b,213i,213k(1). Geen overname van niet-verwezen leden.",
+      "result": "accepted_without_change",
+      "before_sha256": "dd7120427752cbfb1694d0eb53905676d89fb45abee07ca8932986e89e416879",
+      "after_sha256": "dd7120427752cbfb1694d0eb53905676d89fb45abee07ca8932986e89e416879",
+      "statutory_sha256": "3b2289b45d7b326ca2303fabd1ffb666b3e1868f565180db9f07585d824e4081"
+    },
+    {
+      "id": "art-213hh",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf4/Artikel213hh",
+      "effective_from": "2016-01-01",
+      "source_notes_checked": [],
+      "finding": "Onderdelen a/b: afschrift verzekeraar versus kennis inhoud toezichthouders, zetel en dienstverlening vanuit relevante vestigingen gecontroleerd.",
+      "result": "accepted_without_change",
+      "before_sha256": "31e70039e73b07b315b667b033138196dd1607efa62887e53adf25e96bfcfe6a",
+      "after_sha256": "31e70039e73b07b315b667b033138196dd1607efa62887e53adf25e96bfcfe6a",
+      "statutory_sha256": "78ab69166a43b74915250eefb11f60f8b21873421a4821920a82ba81aa09c2e3"
+    },
+    {
+      "id": "art-213ii",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf4/Artikel213ii",
+      "effective_from": "2007-01-01",
+      "source_notes_checked": [],
+      "finding": "Beide leden: griffier naar DNB en DNB naar aangewezen buitenlandse toezichthouders, onverwijld en mogelijke gevolgen gecontroleerd.",
+      "result": "accepted_without_change",
+      "before_sha256": "1293f768f802f178dfda8539d2671b38de344400c5ed8b3613b0616314467c11",
+      "after_sha256": "1293f768f802f178dfda8539d2671b38de344400c5ed8b3613b0616314467c11",
+      "statutory_sha256": "b98c44a68c5118ad76e1251a0d9d8b8e0a9d155777a36162cc3b5c73da4ba595"
+    },
+    {
+      "id": "art-213jj",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf4/Artikel213jj",
+      "effective_from": "2007-01-01",
+      "source_notes_checked": [],
+      "finding": "Verzoek buitenlandse toezichthouder als aanleiding, procedureverloop als voorwerp; geen algemeen inzagerecht polishouders afgeleid.",
+      "result": "accepted_without_change",
+      "before_sha256": "83cdbd37624b765d05329e05b49eb83c3c4865c7cc14a13d7674af5f4519a877",
+      "after_sha256": "83cdbd37624b765d05329e05b49eb83c3c4865c7cc14a13d7674af5f4519a877",
+      "statutory_sha256": "d880674b93c741a2efffe869a73bf9049fda724b781817b26c17cf3be6044557"
+    },
+    {
+      "id": "art-213kk",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf4/Artikel213kk",
+      "effective_from": "2023-07-01",
+      "source_notes_checked": [],
+      "finding": "Alle vijf leden en a–e gecontroleerd. Onderdeel d aangescherpt tot vestiging in Nederland, niet alleen Nederland. Boedelkosten, zekerheden, jaarlijkse grenzen, toekomstige prestaties, achterstelling overige vorderingen en aparte levens-/schadeverwijzingen kloppen. Officieel defect artikel10 BW7 zichtbaar behouden.",
       "result": "corrected",
-      "before_sha256": "fa1110174f3aa822f12a2e890bd573a7c4db53ba00adb31118549759383b0c73",
-      "after_sha256": "e86a81405530601b2c8866c6230d6ade7f29e6d96515bef239b4edd816229ab9",
-      "statutory_sha256": "98981bff0b696041dd622c7b141b72d1e4863f15e718b92584628e0aef1cd09e"
+      "before_sha256": "851a54c937062dd49f83787cbc6fbe248a7eefcfd90480c88fc170d5886ce2b5",
+      "after_sha256": "7df9fb64fce59ff693c95236d8bea3391c828e8c91a1bcb5c7455e5de5857125",
+      "statutory_sha256": "2a0f47dcc87ddb8b345d3d0fef89db4785c8dc1bf3abad0d427acd7d7f1bcdfb"
     },
     {
-      "id": "art-213z",
-      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf3/Artikel213z",
-      "effective_from": "2005-12-01",
+      "id": "art-213kka",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf4/Artikel213kka",
+      "effective_from": "2024-01-01",
       "source_notes_checked": [
-        "Tekstplaatsing met aanpassing van de spelling."
+        "Voorheen art. 213ll."
       ],
-      "finding": "Beide cumulatieve bewijsthema’s: ander lidstaatrecht en concrete afwezigheid aantastingsmogelijkheid. Bewijslast begunstigde en verhouding213s/w gecontroleerd.",
+      "finding": "Volledige schakel213ma–mk en historische noot gelezen; geen verwarring huidig213ll. Voorschot onderscheiden van definitieve rang.",
       "result": "accepted_without_change",
-      "before_sha256": "7019fd01cf1d1fa1706678ce1cf198a4d3f0add354a06e2d9c112d14bf81a1fa",
-      "after_sha256": "7019fd01cf1d1fa1706678ce1cf198a4d3f0add354a06e2d9c112d14bf81a1fa",
-      "statutory_sha256": "a5e9521ace79e6620851e458466c71538ce93717cdf5350c8d71e23177e52d85"
+      "before_sha256": "a350024f08962f856f6cc5e5cf3e44cad16074cc5fc17d4938447416cc58fc8b",
+      "after_sha256": "a350024f08962f856f6cc5e5cf3e44cad16074cc5fc17d4938447416cc58fc8b",
+      "statutory_sha256": "c20fcf30501446c13cac1565d9e304a990c7874394b381cf8620efccbc3cfa26"
+    },
+    {
+      "id": "art-213ll",
+      "official_path": "/TiteldeelI/Afdeling11C/Artikel213ll",
+      "effective_from": "2022-11-04",
+      "source_notes_checked": [],
+      "finding": "Alle definities a–g gelezen, EU/EER-uitbreiding, verschillende colleges en drie typen afwikkelingsmaatregel gecontroleerd.",
+      "result": "accepted_without_change",
+      "before_sha256": "c884ca468f5f986b7d20f04a515c7c90c42de0d32591c922f2a58a42dbcb7e8a",
+      "after_sha256": "c884ca468f5f986b7d20f04a515c7c90c42de0d32591c922f2a58a42dbcb7e8a",
+      "statutory_sha256": "44e24e8c14ce724dec164ede2285035ace5cb60ac3e9fdf25fd4aca20cf53e84"
+    },
+    {
+      "id": "art-213mm",
+      "official_path": "/TiteldeelI/Afdeling11C/Artikel213mm",
+      "effective_from": "2022-11-04",
+      "source_notes_checked": [],
+      "finding": "Beide leden: Amsterdam voor Nederlandse vestiging en verbod bij buitenlandse lidstaatvestiging plus vergunning daar. Geen automatische bevoegdheid bij ontbreken vergunning afgeleid.",
+      "result": "accepted_without_change",
+      "before_sha256": "d4b94ea63f6a07d10c2a034f8c02c5440c3aca7c42fffd70ece8e458d084571c",
+      "after_sha256": "d4b94ea63f6a07d10c2a034f8c02c5440c3aca7c42fffd70ece8e458d084571c",
+      "statutory_sha256": "25344dd3f6e25db33b8e1584379c48de0f37b65258a765bcd16887c5acd6118e"
+    },
+    {
+      "id": "art-213nn",
+      "official_path": "/TiteldeelI/Afdeling11C/Artikel213nn",
+      "effective_from": "2022-11-04",
+      "source_notes_checked": [],
+      "finding": "Alle vier leden: Europese criteria a/b en negatieve algemeenbelangtoets, ontvangers afschrift, monopolie aanvraag en eigen aangifte met horen DNB en75(3) onderscheiden.",
+      "result": "accepted_without_change",
+      "before_sha256": "ce5fff80c9ada9bdc858f17ecfc50635ea5a23d5e609ae921e3fa2e052abe052",
+      "after_sha256": "ce5fff80c9ada9bdc858f17ecfc50635ea5a23d5e609ae921e3fa2e052abe052",
+      "statutory_sha256": "c2ba6d446bf5fd200423eb48c9719f7641c5957a5189392b2417e11c3da8fe62"
+    },
+    {
+      "id": "art-213oo",
+      "official_path": "/TiteldeelI/Afdeling11C/Artikel213oo",
+      "effective_from": "2022-11-04",
+      "source_notes_checked": [],
+      "finding": "Beide leden: gelegenheid verweer en redelijkheidstoets, geen volledige beleidssubstitutie. Afzonderlijke rechterlijke toets213pp behouden.",
+      "result": "accepted_without_change",
+      "before_sha256": "3b83339245b3bde3175e323997387c87a6df9e94f1ed6696df4da5a5e836707b",
+      "after_sha256": "3b83339245b3bde3175e323997387c87a6df9e94f1ed6696df4da5a5e836707b",
+      "statutory_sha256": "06a1a6a40235bafea21cab3887d7adbde7bc682943db997610287f7036bf74e6"
+    },
+    {
+      "id": "art-213pp",
+      "official_path": "/TiteldeelI/Afdeling11C/Artikel213pp",
+      "effective_from": "2022-11-04",
+      "source_notes_checked": [],
+      "finding": "Summierlijk blijken van22(1)a/b onderscheiden van afwikkelings- en procedurevoorwaarden213nn; geen gewone betalingsstaking als vervangende norm.",
+      "result": "accepted_without_change",
+      "before_sha256": "92ab5d0ebe074d4e34b2f9a5c33ed75df2f07e1df14053cff83b334f285cdb99",
+      "after_sha256": "92ab5d0ebe074d4e34b2f9a5c33ed75df2f07e1df14053cff83b334f285cdb99",
+      "statutory_sha256": "b5297d240aca5c6da4b2fa6177c918a8829afcfadf53f6e5f5964df98bab5907"
+    },
+    {
+      "id": "art-213qq",
+      "official_path": "/TiteldeelI/Afdeling11C/Artikel213qq",
+      "effective_from": "2022-11-04",
+      "source_notes_checked": [],
+      "finding": "212he,212hga(1),212i tegen huidige XML gelezen; alleen eerste machtigingslid overgenomen, geen automatische invoeging toestemmingsvrijstelling uit tweede lid.",
+      "result": "accepted_without_change",
+      "before_sha256": "7afafcaca3b36ef434e1700c7902ba56053fe0656d335a9a20ab0c85feca3cd5",
+      "after_sha256": "7afafcaca3b36ef434e1700c7902ba56053fe0656d335a9a20ab0c85feca3cd5",
+      "statutory_sha256": "330aa895c81ad1596f70a94b87480969fd839c95bb08408c1ad76e5b7c82213a"
+    },
+    {
+      "id": "art-213rr",
+      "official_path": "/TiteldeelI/Afdeling11C/Artikel213rr",
+      "effective_from": "2022-11-04",
+      "source_notes_checked": [],
+      "finding": "Uitsluitend10 uitgesloten, termijn en gerechtigden tegen artikel10 gecontroleerd. Geen algemene uitsluiting alle rechtsmiddelen geclaimd.",
+      "result": "accepted_without_change",
+      "before_sha256": "0dfc6072a0c04b0c6a967a3038754c143c218970de4ca8f58a71cdccb195bf74",
+      "after_sha256": "0dfc6072a0c04b0c6a967a3038754c143c218970de4ca8f58a71cdccb195bf74",
+      "statutory_sha256": "cf87161e676f4e06f937af9053aae710a59de69506f9b59b1e4bdde7729b1e1b"
+    },
+    {
+      "id": "art-214",
+      "official_path": "/TiteldeelII/AfdelingEerste/Artikel214",
+      "effective_from": "2022-11-04",
+      "source_notes_checked": [
+        "Bij Titel II Van surseance van betaling: Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "finding": "Alle vier leden: voorzien probleem, verzoek door schuldenaar met advocaat, staat96 nader gespecificeerd, relatieve bevoegdheid en EU-rechtsmacht gescheiden, akkoord facultatief en alle uitgesloten categorieën gecontroleerd.",
+      "result": "corrected",
+      "before_sha256": "ad58c103284780604c842ea4b94e127b92d7692f4a4f41abdbd7f206ddc7a17f",
+      "after_sha256": "10998259e2aa6626a526bae4215e265e6a002e1d917109816ef45fb90324572b",
+      "statutory_sha256": "6dc58bf8b6208995dbc8df7fe23ed6ae81822e8aa3dac5a3e0974e8b3a4942aa"
     }
   ],
   "changed_units": [
-    "art-213mf",
-    "art-213s",
-    "art-213ij"
+    "art-213bb",
+    "art-213kk",
+    "art-214"
   ],
-  "checked_at_utc": "2026-10-20T23:09:33.739382+00:00",
+  "checked_at_utc": "2026-10-20T23:16:06.244780+00:00",
   "whole_book_complete": false,
   "validation_result": {
     "repo": "Komentar-NL-BWBR0001860",
     "units": 639,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 569097,
+    "commentary_chars": 598846,
     "errors": [
-      "krátký/chybějící komentář u 239 jednotek: ['art-213aa(0<400)', 'art-213bb(0<400)', 'art-213cc(0<400)', 'art-213dd(0<400)', 'art-213ee(0<400)', 'art-213ff(0<120)', 'art-213gg(0<400)', 'art-213hh(0<400)']"
+      "krátký/chybějící komentář u 219 jednotek: ['art-215(0<400)', 'art-215a(0<400)', 'art-215b(0<400)', 'art-216(0<400)', 'art-217(0<120)', 'art-218(0<400)', 'art-219(0<400)', 'art-220(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
   "limitations": [
     "Only the assigned twenty units reviewed; project-internal review, no external professional approval.",
-    "Selective judicial search; existing C-724/20 full text reviewed, no claim of exhaustive coverage.",
-    "Historical versions excluded; transitional applicability explicitly checked.",
-    "Defective official directive reference in213me preserved; no quantitative enterprise thresholds invented.",
-    "239 unassigned commentaries absent; whole-book build and strict validation remain unsuccessful."
+    "Selective judicial search; no sufficiently relevant verified judgment added to these twenty units.",
+    "Historical versions excluded; current statutory text reviewed.",
+    "Defective official BW7 article10 reference in213kk preserved and expressly flagged; no corrected statutory wording invented.",
+    "219 unassigned commentaries absent; whole-book build and strict validation remain unsuccessful."
   ]
 }

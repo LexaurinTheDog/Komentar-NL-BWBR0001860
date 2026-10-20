@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-20T23:16:06.244780+00:00",
+  "queries": [
+    "site.uitspraken.rechtspraak.nl \"213nn\" \"213oo\""
+  ],
+  "web_result": "No directly relevant primary judgment returned; unrelated legislation and insolvency judgments excluded.",
+  "local_query": "rg -l --glob *.md 213nn|213oo|213kk|213bb /Volumes/LaCie/law-intake/eu/nl/rechtspraak",
+  "local_hits": [
+    "hr/ecli-nl-hr-1968-ac2286.md"
+  ],
+  "disposition": "Historical metadata hit excluded; no judicial holding added or relied on in these twenty units. Selective search only."
+}
