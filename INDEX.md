@@ -49,3 +49,5 @@ De 22 hieronder vermelde hoofdstukken bevatten 300 toegelichte plaatsen, van art
 - [22-wet-22.md](22-wet-22.md) — Titel I Van faillissement / Afdeling 11AA Van het faillissement van een bank; Artikel 212g t/m Artikel 212i
 
 [Afzonderlijk checkpoint: artikelen 212j–212l](23-art-212j-212l-checkpoint.md).
+
+[Auteurscheckpoint: artikelen 212m–212ij](23-art-212m-212ij-checkpoint.md).

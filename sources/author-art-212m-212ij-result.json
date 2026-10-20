@@ -1,0 +1,78 @@
+{
+  "ids": [
+    "art-212m",
+    "art-212ma",
+    "art-212n",
+    "art-212o",
+    "art-212p",
+    "art-212q",
+    "art-212r",
+    "art-212ra",
+    "art-212rb",
+    "art-212rc",
+    "art-212rd",
+    "art-212re",
+    "art-212rf",
+    "art-212s",
+    "art-212t",
+    "art-212u",
+    "art-212v",
+    "art-212w",
+    "art-212x",
+    "art-212ij"
+  ],
+  "completed_units": 20,
+  "commentary_chars": {
+    "art-212m": 694,
+    "art-212ma": 672,
+    "art-212n": 1363,
+    "art-212o": 1544,
+    "art-212p": 1585,
+    "art-212q": 1509,
+    "art-212r": 1447,
+    "art-212ra": 1655,
+    "art-212rb": 1545,
+    "art-212rc": 1516,
+    "art-212rd": 1605,
+    "art-212re": 1509,
+    "art-212rf": 1798,
+    "art-212s": 1570,
+    "art-212t": 1597,
+    "art-212u": 1720,
+    "art-212v": 1542,
+    "art-212w": 1581,
+    "art-212x": 1587,
+    "art-212ij": 1850
+  },
+  "coverage_ok": true,
+  "source_sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+  "whole_build_returncode": 1,
+  "whole_build_limitation": "Unassigned commentary remains missing; separate bounded checkpoint exported.",
+  "independent_review": false,
+  "stage": "bounded_batch_authored",
+  "updated_at": "2026-10-20T22:34:15.221443+00:00",
+  "validation": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 639,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 445786,
+    "errors": [
+      "krátký/chybějící komentář u 319 jednotek: ['art-212z(0<400)', 'art-212aa(0<400)', 'art-212bb(0<400)', 'art-212cc(0<400)', 'art-212dd(0<400)', 'art-212ee(0<400)', 'art-212ff(0<400)', 'art-212gg(0<400)']",
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "batch_checks": {
+    "exact_assigned_ids": true,
+    "all_20_commented": true,
+    "no_duplicate_paragraphs": true,
+    "placeholder_check": true,
+    "verbatim_ratio": 1.0
+  },
+  "limitations": [
+    "Whole book incomplete outside assigned batch.",
+    "Selective case-law search found no sufficiently relevant verified judgment.",
+    "Independent second pass remains pending."
+  ]
+}
