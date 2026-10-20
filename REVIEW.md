@@ -332,3 +332,6 @@ Beide geciteerde Hoge Raad-uitspraken zijn volledig gelezen en opnieuw officieel
 
 De volledige boekbouw en strikte validatie zijn uitgevoerd. De wettekstovereenkomst is 100%; 179 ontbrekende commentaren buiten deze batch verhinderen voltooiing van het boek. Het afzonderlijke checkpoint is met de ongewijzigde gedeelde bouwer samengesteld en apart gevalideerd. Lengte-, herhalings- en linkcontroles zijn technische controles en bewijzen geen juridische kwaliteit. Deze projectinterne tweede lezing geldt uitsluitend voor de genoemde twintig artikelen, zonder externe professionele goedkeuring. De afzonderlijke overgangswetten in bronnotities zijn niet integraal beoordeeld voor historische procedures.
 
+
+
+Auteursbatch 241d–253: twintig specifieke toelichtingen. [Broncontrole](sources/author-art-241d-253-preflight-result.json), [volledige brondekking](sources/author-art-241d-253-coverage.json), [selectieve rechtspraak](sources/author-art-241d-253-search-log.json). Onafhankelijke tweede lezing nog niet uitgevoerd; overige toelichtingen ongewijzigd.
