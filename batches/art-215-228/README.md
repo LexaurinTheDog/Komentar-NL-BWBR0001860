@@ -8,4 +8,4 @@ De wettekst is mechanisch geëxtraheerd en exact vergeleken met de officiële XM
 
 © 2026 Vojtěch Říha. Oorspronkelijk commentaar: Apache-2.0, zie LICENSE. Officiële Nederlandse wetgeving en rechterlijke uitspraken zijn afzonderlijk herkenbare bronmaterialen; zij worden niet als oorspronkelijk commentaar geclaimd. Geen commerciële annotaties overgenomen.
 
-Concept voor verdere juridische controle. Een onafhankelijke tweede lezing van deze auteursbatch is nog niet uitgevoerd. Technische tekstovereenstemming is geen professionele inhoudelijke goedkeuring.
+Concept voor verdere juridische controle. Een projectinterne tweede lezing van alle twintig artikelen is op 21 oktober 2026 uitgevoerd; vier commentaren zijn aangevuld. Zie REVIEW.md en de exacte reviewed_ids in sources/review-art-215-228-result.json. Technische tekstovereenstemming is geen professionele inhoudelijke goedkeuring.

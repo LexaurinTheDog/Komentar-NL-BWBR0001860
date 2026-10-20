@@ -1,0 +1,14 @@
+[
+  {
+    "year": "2017",
+    "sha256": "60802881453b2373a98f81f0d7220c6cbbfe7ba235250d0db912b6a4e8e3fa0f",
+    "full_text_chars": 27718,
+    "same_as_author_capture": true
+  },
+  {
+    "year": "2010",
+    "sha256": "942e842fd6b4016e7cb53b591750611ded04cd696faf70c60d3b29b909bffca8",
+    "full_text_chars": 18742,
+    "same_as_author_capture": true
+  }
+]

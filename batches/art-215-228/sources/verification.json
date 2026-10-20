@@ -1,0 +1,2482 @@
+{
+  "decisive_date": "2026-10-19",
+  "checked_at_utc": "2026-10-20T19:26:47.052513+00:00",
+  "selected_version": "2026-09-01_0",
+  "current_effectiveness_evidence": "Fresh official current-route redirect to 2026-09-01; both HTML pages explicitly valid 01-09-2026 through present on 20-10-2026. WTI dates independently enumerated in sources/version-evidence.json; latest effective amendment 2026-09-01, next dated amendment 2027-11-15. Original decisive date 2026-10-19 retained.",
+  "future_changes_excluded": [
+    "15-11-2027 amendment to article 106a",
+    "undated amendments listed in WTI"
+  ],
+  "records": [
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "access_timestamp_utc": "2026-10-19T18:12:06+00:00",
+      "http_status": 200,
+      "raw_path": "sources/official-2026-09-01.xml",
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+      "bytes": 2557947,
+      "xml_root": "toestand",
+      "accepted": true,
+      "finding": "toestand BWBR0001860 inwerkingtreding 2026-09-01; 639 articles",
+      "headers_path": "sources/official-xml.headers"
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "access_timestamp_utc": "2026-10-19T18:12:51+00:00",
+      "http_status": 200,
+      "raw_path": "sources/wti.xml",
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+      "bytes": 5581608,
+      "xml_root": "wetstechnische-informatie",
+      "accepted": true,
+      "finding": "wetstechnische-informatie; generated 2026-10-07; dated and undated future changes inspected",
+      "headers_path": "sources/wti.headers"
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.xml",
+      "access_timestamp_utc": "2026-10-19T18:12:24+00:00",
+      "http_status": 200,
+      "raw_path": "sources/version-register.xml",
+      "sha256": "763e7ee5229eb9d24e14bfa85b9614ed1a757880954b662958b69fb77e64417f",
+      "bytes": 1435239,
+      "xml_root": "toestand",
+      "accepted": false,
+      "finding": "Valid XML but 2002-01-01 historical toestand, not a version register; excluded",
+      "headers_path": "sources/version-register.headers"
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/metadata.xml",
+      "access_timestamp_utc": "2026-10-19T18:12:13+00:00",
+      "http_status": 204,
+      "raw_path": "sources/version-index.xml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "xml_root": null,
+      "accepted": false,
+      "finding": "204 empty response; no version evidence",
+      "headers_path": "sources/version-index.headers"
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860/2026-10-19",
+      "access_timestamp_utc": "2026-10-19T18:12:14+00:00",
+      "http_status": 404,
+      "raw_path": "sources/official-current.json",
+      "sha256": "9a1f6ab37ddf813ca2b4dbaad5a64ec87ecee2990aa04de2958cb8da3b8105f3",
+      "body_html_path": "sources/official-current.json.html",
+      "body_html_sha256": "bdfbc403295051db599ebac9486f8919befa5bd9c3d4ca25af33267d310b6889",
+      "accepted": false,
+      "finding": "404 error document rejected; exact author-date route not used as current-text evidence."
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01/informatie",
+      "access_timestamp_utc": "2026-10-19T18:12:51+00:00",
+      "http_status": 200,
+      "raw_path": "sources/official-information.json",
+      "sha256": "73e5fee1ddda84b79410dfc0a4e9ad65f6f75ff69262ff4f968517cd89b86a7a",
+      "body_html_path": "sources/official-information.json.html",
+      "body_html_sha256": "15953f3facffe0565c7520c901e5b8a8ea1a7155ea7f54a756218c7a653677c6",
+      "accepted": true,
+      "finding": "Information page explicitly: consulted 19-10-2026; valid 01-09-2026 through present; future 15-11-2027 and undated changes."
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860/2026-10-19",
+      "access_timestamp_utc": "2026-10-19T18:12:24+00:00",
+      "http_status": null,
+      "raw_path": null,
+      "sha256": null,
+      "accepted": false,
+      "finding": "Direct curl failed HTTP/2 protocol error (exit 92), no response body."
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-10-19_0/xml/BWBR0001860_2026-10-19_0.xml",
+      "access_timestamp_utc": "2026-10-19T18:12:43+00:00",
+      "http_status": 301,
+      "raw_path": null,
+      "sha256": null,
+      "accepted": false,
+      "finding": "Redirect loop exit 47; no valid XML; no toestand with this exact start date used."
+    },
+    {
+      "ecli": "ECLI:NL:HR:2018:774",
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:774",
+      "raw_path": "sources/case-2018-774.xml",
+      "http_status": 200,
+      "headers_path": "sources/case-2018-774.headers",
+      "access_timestamp_utc": "2026-10-19T18:14:49+00:00",
+      "sha256": "a61b1cd2bd8bc2e951365b319507c8bd0ed4d57c035c1916469d53617e1a02a1",
+      "xml_root": "open-rechtspraak",
+      "full_uitspraak_chars": 15331,
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-774.md",
+      "local_snapshot_path": "sources/case-2018-774-local.md",
+      "local_sha256": "1ce4792154d66181c4d1dc99353c15b2210878d2e4d77d3cfd0a7330e8891815",
+      "full_decision_text_equal_after_whitespace_normalization": false,
+      "accepted": true,
+      "comparison_limit": "The local 2018 decision omits the party caption; official XML is retained in full and controls. Local 2013 text matches after whitespace normalization.",
+      "cited_court_reasoning_3_3_1_to_decision_equal": true
+    },
+    {
+      "ecli": "ECLI:NL:HR:2013:BY6108",
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY6108",
+      "raw_path": "sources/case-2013-BY6108.xml",
+      "http_status": 200,
+      "headers_path": "sources/case-2013-BY6108.headers",
+      "access_timestamp_utc": "2026-10-19T18:16:40+00:00",
+      "sha256": "1946842ccb355f22d42845e092e0752ef96d7f20fe7b5e7ab7a94aa4f56e4191",
+      "xml_root": "open-rechtspraak",
+      "full_uitspraak_chars": 13315,
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2013-by6108.md",
+      "local_snapshot_path": "sources/case-2013-BY6108-local.md",
+      "local_sha256": "5686e9dfab883e2a8f05c972225090fbffffe907c40499514d0d2c051a46540b",
+      "full_decision_text_equal_after_whitespace_normalization": true,
+      "accepted": true,
+      "comparison_limit": "The local 2018 decision omits the party caption; official XML is retained in full and controls. Local 2013 text matches after whitespace normalization."
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "access_timestamp_utc": "2026-10-20T18:48:59.872131+00:00",
+      "raw_path": "sources/preflight-2026-10-20-selected.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+      "headers_path": "sources/preflight-2026-10-20-selected.xml.headers",
+      "xml_root": "toestand",
+      "xml_attributes": {
+        "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+        "bwb-id": "BWBR0001860",
+        "inwerkingtreding": "2026-09-01"
+      }
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "access_timestamp_utc": "2026-10-20T18:48:59.872396+00:00",
+      "raw_path": "sources/preflight-2026-10-20-wti.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+      "headers_path": "sources/preflight-2026-10-20-wti.xml.headers",
+      "xml_root": "wetstechnische-informatie",
+      "xml_attributes": {
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+        "bwb-id": "BWBR0001860"
+      }
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01/informatie",
+      "access_timestamp_utc": "2026-10-20T18:48:59.872517+00:00",
+      "raw_path": "sources/preflight-2026-10-20-information.html",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01/informatie",
+      "bytes": 605817,
+      "sha256": "6f9b0a4cc2a8d3c72a82e341662252af852659e7b5eca85c279115dd2ea06176",
+      "headers_path": "sources/preflight-2026-10-20-information.html.headers"
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860",
+      "access_timestamp_utc": "2026-10-20T18:48:59.872594+00:00",
+      "raw_path": "sources/preflight-2026-10-20-current.html",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+      "headers_path": "sources/preflight-2026-10-20-current.html.headers"
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860",
+      "access_timestamp_utc": "2026-10-20T18:54:24.634616+00:00",
+      "raw_path": "sources/review-art-1-14b-current.html",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+      "headers_path": "sources/review-art-1-14b-current.html.headers",
+      "validity_statements": [
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-09-2026 t/m heden.",
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-09-2026 t/m heden."
+      ]
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "access_timestamp_utc": "2026-10-20T18:54:24.634998+00:00",
+      "raw_path": "sources/review-art-1-14b-selected.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+      "headers_path": "sources/review-art-1-14b-selected.xml.headers",
+      "xml_root": "toestand",
+      "xml_attributes": {
+        "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+        "bwb-id": "BWBR0001860",
+        "inwerkingtreding": "2026-09-01"
+      }
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "access_timestamp_utc": "2026-10-20T18:54:24.635262+00:00",
+      "raw_path": "sources/review-art-1-14b-wti.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+      "headers_path": "sources/review-art-1-14b-wti.xml.headers",
+      "xml_root": "wetstechnische-informatie",
+      "xml_attributes": {
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+        "bwb-id": "BWBR0001860"
+      }
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:774",
+      "access_timestamp_utc": "2026-10-20T18:54:24.635336+00:00",
+      "raw_path": "sources/review-art-1-14b-hr-2018-774.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:774",
+      "bytes": 22929,
+      "sha256": "a61b1cd2bd8bc2e951365b319507c8bd0ed4d57c035c1916469d53617e1a02a1",
+      "headers_path": "sources/review-art-1-14b-hr-2018-774.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "xml_attributes": {}
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:1100",
+      "access_timestamp_utc": "2026-10-20T18:56:57+00:00",
+      "timestamp_method": "response-body file mtime immediately after completed request; HTTP server date retained in headers",
+      "raw_path": "sources/review-art-1-14b-hr-2018-1100.xml",
+      "http_status": 200,
+      "bytes": 16113,
+      "sha256": "404ea02cdaf934360dd383d887c46ee2daf3638539306b70d6975740d94dee36",
+      "headers_path": "sources/review-art-1-14b-hr-2018-1100.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "accepted": true,
+      "full_text_path": "sources/review-art-1-14b-hr-2018-1100.txt",
+      "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-1100.md",
+      "local_snapshot_path": "sources/review-art-1-14b-hr-2018-1100-local.md",
+      "local_sha256": "a24bfe9471a29809e8fbf4e3f9ce13ed2a91070fa4fc227337d1628a263a2205"
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860",
+      "access_timestamp_utc": "2026-10-20T19:03:51.970744+00:00",
+      "raw_path": "sources/review-art-15-27-current.html",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+      "headers_path": "sources/review-art-15-27-current.html.headers",
+      "validity_statements": [
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-09-2026 t/m heden.",
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-09-2026 t/m heden."
+      ]
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "access_timestamp_utc": "2026-10-20T19:03:51.971162+00:00",
+      "raw_path": "sources/review-art-15-27-selected.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+      "headers_path": "sources/review-art-15-27-selected.xml.headers",
+      "xml_root": "toestand",
+      "xml_attributes": {
+        "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+        "bwb-id": "BWBR0001860",
+        "inwerkingtreding": "2026-09-01"
+      }
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "access_timestamp_utc": "2026-10-20T19:03:51.971441+00:00",
+      "raw_path": "sources/review-art-15-27-wti.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+      "headers_path": "sources/review-art-15-27-wti.xml.headers",
+      "xml_root": "wetstechnische-informatie",
+      "xml_attributes": {
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+        "bwb-id": "BWBR0001860"
+      }
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2017:2564",
+      "access_timestamp_utc": "2026-10-20T19:03:51.971521+00:00",
+      "raw_path": "sources/review-art-15-27-hr-2017-2564.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2017:2564",
+      "bytes": 22551,
+      "sha256": "a510553e8df372a29c65beace5ccae0f36adb0d061d4eacfc56fc35338923272",
+      "headers_path": "sources/review-art-15-27-hr-2017-2564.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "xml_attributes": {},
+      "full_uitspraak_chars": 15295
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2007:BA5197",
+      "access_timestamp_utc": "2026-10-20T19:03:52.173598+00:00",
+      "raw_path": "sources/review-art-15-27-hr-2007-BA5197.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2007:BA5197",
+      "bytes": 15023,
+      "sha256": "6c2241a89c23e83f72634fd10f7a0cdbd635eb6750612b8c8c5e863a2954486f",
+      "headers_path": "sources/review-art-15-27-hr-2007-BA5197.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "xml_attributes": {},
+      "full_uitspraak_chars": 9593
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2015:1401",
+      "access_timestamp_utc": "2026-10-20T19:03:06.639007+00:00",
+      "raw_path": "sources/review-art-15-27-hr-2015-1401.xml",
+      "accepted": false,
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2015:1401",
+      "bytes": 2346,
+      "sha256": "05f539dee79bcb5c79b4abc80ed4f84315c5d42eefd235c724d20e1f4e5d6d62",
+      "headers_path": "sources/review-art-15-27-hr-2015-1401.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "xml_attributes": {},
+      "full_uitspraak_chars": 0,
+      "finding": "Metadata-only response rejected: no full uitspraak; not used as authority."
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860",
+      "access_timestamp_utc": "2026-10-20T19:11:58.283330+00:00",
+      "raw_path": "sources/review-art-28-40-current.html",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+      "headers_path": "sources/review-art-28-40-current.html.headers",
+      "validity_statements": [
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-09-2026 t/m heden.",
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-09-2026 t/m heden."
+      ]
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "access_timestamp_utc": "2026-10-20T19:11:58.283704+00:00",
+      "raw_path": "sources/review-art-28-40-selected.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+      "headers_path": "sources/review-art-28-40-selected.xml.headers",
+      "xml_root": "toestand",
+      "xml_attributes": {
+        "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+        "bwb-id": "BWBR0001860",
+        "inwerkingtreding": "2026-09-01"
+      }
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "access_timestamp_utc": "2026-10-20T19:11:58.283978+00:00",
+      "raw_path": "sources/review-art-28-40-wti.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+      "headers_path": "sources/review-art-28-40-wti.xml.headers",
+      "xml_root": "wetstechnische-informatie",
+      "xml_attributes": {
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+        "bwb-id": "BWBR0001860"
+      }
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2014:1681",
+      "access_timestamp_utc": "2026-10-20T19:11:58.284054+00:00",
+      "raw_path": "sources/review-art-28-40-hr-2014-1681.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2014:1681",
+      "bytes": 17961,
+      "sha256": "d376862e26723bc1fc04aee14cec82f70f669d7b3a32c3ce56a6af7f1f4e9ec3",
+      "headers_path": "sources/review-art-28-40-hr-2014-1681.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "xml_attributes": {},
+      "full_uitspraak_chars": 10136
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY6108",
+      "access_timestamp_utc": "2026-10-20T19:11:58.451714+00:00",
+      "raw_path": "sources/review-art-28-40-hr-2013-BY6108.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY6108",
+      "bytes": 19735,
+      "sha256": "1946842ccb355f22d42845e092e0752ef96d7f20fe7b5e7ab7a94aa4f56e4191",
+      "headers_path": "sources/review-art-28-40-hr-2013-BY6108.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "xml_attributes": {},
+      "full_uitspraak_chars": 13348
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:424",
+      "access_timestamp_utc": "2026-10-20T19:12:15.024634+00:00",
+      "raw_path": "sources/review-art-28-40-hr-2018-424.xml",
+      "http_status": 200,
+      "sha256": "85fbaf24e9d674642fc87558f1d1a918a2cc4548f5e39005325d2139b5d9e0e7",
+      "bytes": 38463,
+      "xml_root": "open-rechtspraak",
+      "full_uitspraak_chars": 28919,
+      "accepted": true,
+      "headers_path": "sources/review-art-28-40-hr-2018-424.xml.headers"
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:2067",
+      "access_timestamp_utc": "2026-10-20T19:12:15.508895+00:00",
+      "raw_path": "sources/review-art-28-40-hr-2018-2067.xml",
+      "http_status": 200,
+      "sha256": "23b80254bf2ac92867068f5ed1d0250ddc75b9ae414c802b9ac73b7187abb96f",
+      "bytes": 31461,
+      "xml_root": "open-rechtspraak",
+      "full_uitspraak_chars": 23167,
+      "accepted": true,
+      "headers_path": "sources/review-art-28-40-hr-2018-2067.xml.headers"
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:2729",
+      "access_timestamp_utc": "2026-10-20T19:14:15.790357+00:00",
+      "raw_path": "sources/review-art-28-40-hr-2016-2729.xml",
+      "http_status": 200,
+      "sha256": "ab73aa910e3e6ffae4369f9af7137ecc2f871168c89b5fdcdb6ad79dd1b6dc6d",
+      "bytes": 32048,
+      "xml_root": "open-rechtspraak",
+      "full_uitspraak_chars": 21839,
+      "accepted": true,
+      "headers_path": "sources/review-art-28-40-hr-2016-2729.xml.headers"
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860",
+      "access_timestamp_utc": "2026-10-20T19:18:48.941523+00:00",
+      "raw_path": "sources/review-art-41-60-current.html",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+      "headers_path": "sources/review-art-41-60-current.html.headers",
+      "validity_statements": [
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-09-2026 t/m heden.",
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-09-2026 t/m heden."
+      ]
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "access_timestamp_utc": "2026-10-20T19:18:48.941915+00:00",
+      "raw_path": "sources/review-art-41-60-selected.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+      "headers_path": "sources/review-art-41-60-selected.xml.headers",
+      "xml_root": "toestand",
+      "xml_attributes": {
+        "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+        "bwb-id": "BWBR0001860",
+        "inwerkingtreding": "2026-09-01"
+      }
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "access_timestamp_utc": "2026-10-20T19:18:48.942710+00:00",
+      "raw_path": "sources/review-art-41-60-wti.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+      "headers_path": "sources/review-art-41-60-wti.xml.headers",
+      "xml_root": "wetstechnische-informatie",
+      "xml_attributes": {
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+        "bwb-id": "BWBR0001860"
+      }
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2025:975",
+      "access_timestamp_utc": "2026-10-20T19:19:06.760592+00:00",
+      "raw_path": "sources/review-art-41-60-hr-2025-975.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2025:975",
+      "bytes": 31570,
+      "sha256": "e2a8948f2e9c29ed0cd23a8afdccefcff3b932393ceafce0e12d0b01d7233e3c",
+      "headers_path": "sources/review-art-41-60-hr-2025-975.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "xml_attributes": {},
+      "full_uitspraak_chars": 22168
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2023:1135",
+      "access_timestamp_utc": "2026-10-20T19:19:06.761344+00:00",
+      "raw_path": "sources/review-art-41-60-hr-2023-1135.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2023:1135",
+      "bytes": 38964,
+      "sha256": "21d85711e316a316bfe0e77968e2f3866acda2669ffb1d0518444520d89f632b",
+      "headers_path": "sources/review-art-41-60-hr-2023-1135.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "xml_attributes": {},
+      "full_uitspraak_chars": 29100
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2019:1789",
+      "access_timestamp_utc": "2026-10-20T19:19:06.761915+00:00",
+      "raw_path": "sources/review-art-41-60-hr-2019-1789.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2019:1789",
+      "bytes": 16083,
+      "sha256": "ef50e1e14f8080ef0b1a27fbf92184845e8d2dcb31b3067900b232bf872843d7",
+      "headers_path": "sources/review-art-41-60-hr-2019-1789.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "xml_attributes": {},
+      "full_uitspraak_chars": 8940
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:2189",
+      "access_timestamp_utc": "2026-10-20T19:19:06.762045+00:00",
+      "raw_path": "sources/review-art-41-60-hr-2018-2189.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:2189",
+      "bytes": 25235,
+      "sha256": "41b7b1a8af5aaa0f30858ff9fe3b3b5022605c64d3369fbf3641dc72160ab0bc",
+      "headers_path": "sources/review-art-41-60-hr-2018-2189.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "xml_attributes": {},
+      "full_uitspraak_chars": 17653
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2026:390",
+      "access_timestamp_utc": "2026-10-20T19:19:28.854386+00:00",
+      "raw_path": "sources/review-art-41-60-hr-2026-390.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2026:390",
+      "bytes": 27331,
+      "sha256": "75dd3cb035b7cdae9c57b2bf15a88cf9cf972906899ebbcb6ae9da90fd63c3f4",
+      "headers_path": "sources/review-art-41-60-hr-2026-390.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "xml_attributes": {},
+      "full_uitspraak_chars": 18492
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0003045",
+      "final_url": "https://wetten.overheid.nl/BWBR0003045/2026-07-01",
+      "http_status": 200,
+      "access_timestamp_utc": "2026-10-20T19:20:34.539198+00:00",
+      "raw_path": "sources/review-art-41-60-BWBR0003045.html",
+      "sha256": "5b9d87429d90f9d3eb4ac80814b37642d0730614f33764b38036d11cfe256f6a",
+      "bytes": 5522043,
+      "accepted": true,
+      "validity_statements": [
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-07-2026 t/m heden.",
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-07-2026 t/m heden."
+      ]
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0005291",
+      "final_url": "https://wetten.overheid.nl/BWBR0005291/2025-07-01",
+      "http_status": 200,
+      "access_timestamp_utc": "2026-10-20T19:20:39.340347+00:00",
+      "raw_path": "sources/review-art-41-60-BWBR0005291.html",
+      "sha256": "eb7e6b7b99e4fedd4d002c32277cd049af356b6046497bf5c321e3eb9d2d60d9",
+      "bytes": 1922723,
+      "accepted": true,
+      "validity_statements": [
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-07-2025 t/m heden.",
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-07-2025 t/m heden."
+      ]
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860",
+      "access_timestamp_utc": "2026-10-20T21:43:20.211577+00:00",
+      "raw_path": "sources/review-art-60a-72-current.html",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+      "headers_path": "sources/review-art-60a-72-current.html.headers",
+      "validity_statements": [
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-09-2026 t/m heden.",
+        "Geraadpleegd op 20-10-2026. ",
+        "Geldend van 01-09-2026 t/m heden."
+      ]
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "access_timestamp_utc": "2026-10-20T21:43:20.212032+00:00",
+      "raw_path": "sources/review-art-60a-72-selected.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+      "headers_path": "sources/review-art-60a-72-selected.xml.headers",
+      "xml_root": "toestand",
+      "xml_attributes": {
+        "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+        "bwb-id": "BWBR0001860",
+        "inwerkingtreding": "2026-09-01"
+      }
+    },
+    {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "access_timestamp_utc": "2026-10-20T21:43:20.212304+00:00",
+      "raw_path": "sources/review-art-60a-72-wti.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+      "headers_path": "sources/review-art-60a-72-wti.xml.headers",
+      "xml_root": "wetstechnische-informatie",
+      "xml_attributes": {
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+        "bwb-id": "BWBR0001860"
+      }
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:1799",
+      "access_timestamp_utc": "2026-10-20T21:43:50.855882+00:00",
+      "raw_path": "sources/review-art-60a-72-hr-2018-1799.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:1799",
+      "bytes": 16559,
+      "sha256": "be135cefd291725e3e403518d8b171a21fc2dd75b787b7c1d96ebf43897f18a6",
+      "headers_path": "sources/review-art-60a-72-hr-2018-1799.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "xml_attributes": {},
+      "full_uitspraak_chars": 9659
+    },
+    {
+      "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:2997",
+      "access_timestamp_utc": "2026-10-20T21:43:50.856349+00:00",
+      "raw_path": "sources/review-art-60a-72-hr-2016-2997.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:2997",
+      "bytes": 22270,
+      "sha256": "d9bb7e4ed4d7ccdfd3203afab829d53fbea80979ddfafd5bfbd224a843964956",
+      "headers_path": "sources/review-art-60a-72-hr-2016-2997.xml.headers",
+      "xml_root": "open-rechtspraak",
+      "xml_attributes": {},
+      "full_uitspraak_chars": 14277
+    }
+  ],
+  "original_intake_sha256": "92cc30ab97551cd6f82f34c040aead6eb5f4f90b7377518f862196d5e7dd13a7",
+  "canonical_sha256": "023fd6a56471dfedbe4256742e690cd4a74af80068e558af50a8b8045e3086a5",
+  "verification_date": "2026-10-20",
+  "original_verification_path": "sources/verification-2026-10-19.json",
+  "version_evidence_path": "sources/version-evidence.json",
+  "supplementary_attempts": [
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01/informatie",
+      "access_date": "2026-10-20",
+      "method": "Firecrawl CLI scrape",
+      "result": "Insufficient credits; no body, no HTTP response recorded; direct official fetch succeeded."
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01/informatie",
+      "access_date": "2026-10-20",
+      "method": "web open",
+      "result": "Tool returned inaccessible; direct official fetch succeeded."
+    },
+    {
+      "url": "https://wetten.overheid.nl/BWBR0001860",
+      "access_date": "2026-10-20",
+      "method": "Firecrawl CLI scrape",
+      "result": "Insufficient credits, exit 1; no successful response body. Direct official fetch used instead."
+    },
+    {
+      "method": "Firecrawl CLI status/scrape",
+      "access_date": "2026-10-20",
+      "url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01/informatie",
+      "result": "Status authenticated, 0 credits; no successful body from scrape. Direct official HTML/XML/WTI requests succeeded and supply evidence."
+    }
+  ],
+  "bounded_review_evidence": "sources/review-art-15-27-fetch.json",
+  "bounded_review_evidence_previous": "sources/review-art-1-14b-fetch.json",
+  "bounded_art_28_40_evidence": "sources/review-art-28-40-fetch.json",
+  "latest_bounded_review_evidence": "sources/review-art-41-60-preflight-result.json",
+  "bounded_review_art_60a_72": {
+    "verified_at": "2026-10-20T21:46:18.276024+00:00",
+    "preflight": "sources/review-art-60a-72-preflight-result.json"
+  },
+  "bounded_review_art_73_89": {
+    "verified_at": "2026-10-20T21:52:10.516257+00:00",
+    "preflight": "sources/review-art-73-89-preflight-result.json",
+    "actual_fetch_records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T21:48:01.524773+00:00",
+        "raw_path": "sources/review-art-73-89-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-73-89-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T21:48:01.526361+00:00",
+        "raw_path": "sources/review-art-73-89-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-73-89-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T21:48:01.526993+00:00",
+        "raw_path": "sources/review-art-73-89-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-73-89-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      }
+    ],
+    "case_fetch_records": "sources/review-art-73-89-cases-fetch.json"
+  },
+  "bounded_review_art_90_106": {
+    "preflight": "sources/review-art-90-106-preflight-result.json",
+    "actual_fetch_records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T21:53:00.673586+00:00",
+        "raw_path": "sources/review-art-90-106-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-90-106-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T21:53:00.673977+00:00",
+        "raw_path": "sources/review-art-90-106-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-90-106-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T21:53:00.674258+00:00",
+        "raw_path": "sources/review-art-90-106-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-90-106-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      }
+    ],
+    "case_fetch_records": "sources/review-art-90-106-cases-fetch.json"
+  },
+  "bounded_review_art_106a_120": {
+    "preflight": "sources/review-art-106a-120-preflight-result.json",
+    "actual_fetch_records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T21:56:42.201671+00:00",
+        "raw_path": "sources/review-art-106a-120-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-106a-120-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T21:56:42.202230+00:00",
+        "raw_path": "sources/review-art-106a-120-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-106a-120-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T21:56:42.202887+00:00",
+        "raw_path": "sources/review-art-106a-120-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-106a-120-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      }
+    ],
+    "case_fetch_records": "sources/review-art-106a-120-cases-fetch.json"
+  },
+  "bounded_review_art_121_137b": {
+    "preflight": "sources/review-art-121-137b-preflight-result.json",
+    "actual_fetch_records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:00:22.096759+00:00",
+        "raw_path": "sources/review-art-121-137b-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-121-137b-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:00:22.097944+00:00",
+        "raw_path": "sources/review-art-121-137b-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-121-137b-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:00:22.098286+00:00",
+        "raw_path": "sources/review-art-121-137b-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-121-137b-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      }
+    ],
+    "case_fetch_records": "sources/review-art-121-137b-cases-fetch.json"
+  },
+  "bounded_review_art_137c_152": {
+    "preflight": "sources/review-art-137c-152-preflight-result.json",
+    "actual_fetch_records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:04:05.984813+00:00",
+        "raw_path": "sources/review-art-137c-152-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-137c-152-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:04:05.985199+00:00",
+        "raw_path": "sources/review-art-137c-152-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-137c-152-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:04:05.985470+00:00",
+        "raw_path": "sources/review-art-137c-152-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-137c-152-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      }
+    ],
+    "case_fetch_records": "sources/review-art-137c-152-cases-fetch.json"
+  },
+  "bounded_review_art_153_171": {
+    "preflight": "sources/review-art-153-171-preflight-result.json",
+    "actual_fetch_records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:07:52.502217+00:00",
+        "raw_path": "sources/review-art-153-171-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-153-171-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:07:52.503086+00:00",
+        "raw_path": "sources/review-art-153-171-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-153-171-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:07:52.503514+00:00",
+        "raw_path": "sources/review-art-153-171-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-153-171-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      }
+    ],
+    "case_fetch_records": "sources/review-art-153-171-cases-fetch.json"
+  },
+  "bounded_review_art_172_186": {
+    "preflight": "sources/review-art-172-186-preflight-result.json",
+    "actual_fetch_records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:10:48.323036+00:00",
+        "raw_path": "sources/review-art-172-186-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-172-186-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:10:48.323478+00:00",
+        "raw_path": "sources/review-art-172-186-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-172-186-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:10:48.323759+00:00",
+        "raw_path": "sources/review-art-172-186-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-172-186-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      }
+    ],
+    "case_fetch_records": "sources/review-art-172-186-cases-fetch.json"
+  },
+  "bounded_review_art_187_206": {
+    "preflight": "sources/review-art-187-206-preflight-result.json",
+    "actual_fetch_records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:14:37.002007+00:00",
+        "raw_path": "sources/review-art-187-206-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-187-206-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:14:37.002404+00:00",
+        "raw_path": "sources/review-art-187-206-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-187-206-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:14:37.002729+00:00",
+        "raw_path": "sources/review-art-187-206-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-187-206-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      }
+    ],
+    "case_fetch_records": "sources/review-art-187-206-cases-fetch.json",
+    "historical_source": "sources/version-register.xml; official historical toestand 2002-01-01, excluded from current operative text and used solely for explicitly historical explanations of repealed198–202"
+  },
+  "bounded_review_art_207_212hf": {
+    "preflight": "sources/review-art-207-212hf-preflight-result.json",
+    "actual_fetch_records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:19:33.029360+00:00",
+        "raw_path": "sources/review-art-207-212hf-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-207-212hf-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:19:33.030087+00:00",
+        "raw_path": "sources/review-art-207-212hf-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-207-212hf-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:19:33.030776+00:00",
+        "raw_path": "sources/review-art-207-212hf-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-207-212hf-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      }
+    ],
+    "case_fetch_records": "sources/review-art-207-212hf-cases-fetch.json",
+    "transitional_records": "sources/review-art-207-212hf-transitional-fetch.json"
+  },
+  "bounded_author_art_212j_212l": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:24:46.415717+00:00",
+        "raw_path": "sources/author-art-212j-212l-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/author-art-212j-212l-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:24:46.416103+00:00",
+        "raw_path": "sources/author-art-212j-212l-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/author-art-212j-212l-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:24:46.416385+00:00",
+        "raw_path": "sources/author-art-212j-212l-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/author-art-212j-212l-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0020368",
+        "access_timestamp_utc": "2026-10-20T22:24:46.416464+00:00",
+        "raw_path": "sources/author-art-212j-212l-wft.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+        "bytes": 14851480,
+        "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+        "headers_path": "sources/author-art-212j-212l-wft.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden."
+        ]
+      }
+    ],
+    "changes_since_intake": []
+  },
+  "bounded_review_art_212hg_212l": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:27:21.184312+00:00",
+        "raw_path": "sources/review-art-212hg-212l-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-212hg-212l-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:27:21.184697+00:00",
+        "raw_path": "sources/review-art-212hg-212l-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-212hg-212l-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:27:21.184980+00:00",
+        "raw_path": "sources/review-art-212hg-212l-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-212hg-212l-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      }
+    ],
+    "historical": {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2018-01-01_0/xml/BWBR0001860_2018-01-01_0.xml",
+      "access_timestamp_utc": "2026-10-20T22:27:35.140989+00:00",
+      "http_status": 200,
+      "raw_path": "sources/review-art-212hg-212l-historical.xml",
+      "sha256": "573f52ec21173e846b7f99eeff3d9d69cfb07976e3761c901aaa02cb63ad7812",
+      "accepted": true
+    },
+    "preflight": "sources/review-art-212hg-212l-preflight-result.json",
+    "existing_transition_evidence": "sources/review-art-207-212hf-transitional-fetch.json",
+    "external_wft_evidence": "sources/author-art-212j-212l-wft.html"
+  },
+  "bounded_author_art_212m_212ij": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:31:00.882815+00:00",
+        "raw_path": "sources/author-art-212m-212ij-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/author-art-212m-212ij-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:31:00.883236+00:00",
+        "raw_path": "sources/author-art-212m-212ij-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/author-art-212m-212ij-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:31:00.883546+00:00",
+        "raw_path": "sources/author-art-212m-212ij-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/author-art-212m-212ij-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0020368",
+        "access_timestamp_utc": "2026-10-20T22:31:00.883634+00:00",
+        "raw_path": "sources/author-art-212m-212ij-wft.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+        "bytes": 14851480,
+        "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+        "headers_path": "sources/author-art-212m-212ij-wft.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden."
+        ]
+      }
+    ],
+    "changes_since_intake": []
+  },
+  "bounded_review_art_212m_212ij": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:35:03.450406+00:00",
+        "raw_path": "sources/review-art-212m-212ij-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-212m-212ij-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:35:03.450825+00:00",
+        "raw_path": "sources/review-art-212m-212ij-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-212m-212ij-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:35:03.451159+00:00",
+        "raw_path": "sources/review-art-212m-212ij-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-212m-212ij-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      }
+    ],
+    "preflight": "sources/review-art-212m-212ij-preflight-result.json",
+    "historical": {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2018-01-01_0/xml/BWBR0001860_2018-01-01_0.xml",
+      "access_timestamp_utc": "2026-10-20T22:27:35.140989+00:00",
+      "http_status": 200,
+      "raw_path": "sources/review-art-212hg-212l-historical.xml",
+      "sha256": "573f52ec21173e846b7f99eeff3d9d69cfb07976e3761c901aaa02cb63ad7812",
+      "accepted": true,
+      "headers_path": "sources/review-art-212hg-212l-historical.xml.headers"
+    },
+    "transition_evidence": "sources/review-art-212m-212ij-transition-fetch.json",
+    "transition_2018_489": "sources/review-art-207-212hf-stb-2018-489.xml"
+  },
+  "bounded_author_art_212z_213a": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:38:10.487039+00:00",
+        "raw_path": "sources/author-art-212z-213a-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/author-art-212z-213a-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:38:10.487646+00:00",
+        "raw_path": "sources/author-art-212z-213a-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/author-art-212z-213a-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:38:10.488055+00:00",
+        "raw_path": "sources/author-art-212z-213a-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/author-art-212z-213a-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0020368",
+        "access_timestamp_utc": "2026-10-20T22:38:10.488248+00:00",
+        "raw_path": "sources/author-art-212z-213a-wft.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+        "bytes": 14851480,
+        "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+        "headers_path": "sources/author-art-212z-213a-wft.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden."
+        ]
+      }
+    ],
+    "changes_since_intake": []
+  },
+  "bounded_review_art_212z_213a": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:42:06.527359+00:00",
+        "raw_path": "sources/review-art-212z-213a-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-212z-213a-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:42:06.528006+00:00",
+        "raw_path": "sources/review-art-212z-213a-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-212z-213a-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:42:06.528489+00:00",
+        "raw_path": "sources/review-art-212z-213a-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-212z-213a-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0020368",
+        "access_timestamp_utc": "2026-10-20T22:42:06.528592+00:00",
+        "raw_path": "sources/review-art-212z-213a-wft.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+        "bytes": 14851480,
+        "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+        "headers_path": "sources/review-art-212z-213a-wft.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden."
+        ]
+      }
+    ],
+    "historical": {
+      "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2025-11-19_0/xml/BWBR0001860_2025-11-19_0.xml",
+      "access_timestamp_utc": "2026-10-20T22:42:41.440481+00:00",
+      "raw_path": "sources/review-art-212z-213a-historical-2025.xml",
+      "accepted": true,
+      "http_status": 200,
+      "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2025-11-19_0/xml/BWBR0001860_2025-11-19_0.xml",
+      "bytes": 2502926,
+      "sha256": "51ef559220c00e2a608c328cf1254c0bfa4bf2620acd431a766d8c2694ac2202",
+      "headers_path": "sources/review-art-212z-213a-historical-2025.xml.headers",
+      "xml_root": "toestand",
+      "xml_attributes": {
+        "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2025-11-19/0",
+        "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+        "bwb-id": "BWBR0001860",
+        "inwerkingtreding": "2025-11-19"
+      }
+    },
+    "preflight": "sources/review-art-212z-213a-preflight-result.json",
+    "rejected_case_capture": "sources/review-art-212z-213a-case-fetch.json"
+  },
+  "bounded_author_art_213abis_213ap": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:46:16.651297+00:00",
+        "raw_path": "sources/author-art-213abis-213ap-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/author-art-213abis-213ap-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:46:16.651830+00:00",
+        "raw_path": "sources/author-art-213abis-213ap-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/author-art-213abis-213ap-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:46:16.652238+00:00",
+        "raw_path": "sources/author-art-213abis-213ap-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/author-art-213abis-213ap-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0020368",
+        "access_timestamp_utc": "2026-10-20T22:46:16.652366+00:00",
+        "raw_path": "sources/author-art-213abis-213ap-wft.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+        "bytes": 14851480,
+        "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+        "headers_path": "sources/author-art-213abis-213ap-wft.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden."
+        ]
+      }
+    ],
+    "changes_since_intake": [],
+    "case_record": "author-art-213abis-213ap-case-fetch.json",
+    "amendment_record": "author-art-213abis-213ap-amendment-fetch.json"
+  },
+  "bounded_review_art_213abis_213ap": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:51:35.432393+00:00",
+        "raw_path": "sources/review-art-213abis-213ap-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-213abis-213ap-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:51:35.432797+00:00",
+        "raw_path": "sources/review-art-213abis-213ap-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-213abis-213ap-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:51:35.433186+00:00",
+        "raw_path": "sources/review-art-213abis-213ap-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-213abis-213ap-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0020368",
+        "access_timestamp_utc": "2026-10-20T22:51:35.433295+00:00",
+        "raw_path": "sources/review-art-213abis-213ap-wft.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+        "bytes": 14851480,
+        "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+        "headers_path": "sources/review-art-213abis-213ap-wft.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden."
+        ]
+      }
+    ],
+    "preflight": "sources/review-art-213abis-213ap-preflight-result.json",
+    "case_verification": "sources/review-art-213abis-213ap-case-check.json"
+  },
+  "bounded_author_art_213aq_213md": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:54:07.163770+00:00",
+        "raw_path": "sources/author-art-213aq-213md-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/author-art-213aq-213md-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:54:07.164167+00:00",
+        "raw_path": "sources/author-art-213aq-213md-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/author-art-213aq-213md-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:54:07.164451+00:00",
+        "raw_path": "sources/author-art-213aq-213md-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/author-art-213aq-213md-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0020368",
+        "access_timestamp_utc": "2026-10-20T22:54:07.164536+00:00",
+        "raw_path": "sources/author-art-213aq-213md-wft.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+        "bytes": 14851480,
+        "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+        "headers_path": "sources/author-art-213aq-213md-wft.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden."
+        ]
+      }
+    ],
+    "changes_since_intake": [],
+    "preflight_record": "author-art-213aq-213md-preflight-result.json",
+    "case_search_record": "author-art-213aq-213md-search-log.json"
+  },
+  "bounded_review_art_213aq_213md": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T22:58:35.985379+00:00",
+        "raw_path": "sources/review-art-213aq-213md-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-213aq-213md-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T22:58:35.985773+00:00",
+        "raw_path": "sources/review-art-213aq-213md-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-213aq-213md-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T22:58:35.986069+00:00",
+        "raw_path": "sources/review-art-213aq-213md-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-213aq-213md-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0020368",
+        "access_timestamp_utc": "2026-10-20T22:58:35.986149+00:00",
+        "raw_path": "sources/review-art-213aq-213md-wft.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+        "bytes": 14851480,
+        "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+        "headers_path": "sources/review-art-213aq-213md-wft.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden."
+        ]
+      }
+    ],
+    "preflight": "sources/review-art-213aq-213md-preflight-result.json"
+  },
+  "bounded_author_art_213me_213z": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860/",
+        "access_timestamp_utc": "2026-10-20T23:01:39.191567+00:00",
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "raw_path": "sources/author-art-213me-213z-current.html",
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "bytes": 4132921,
+        "html_validated": true,
+        "accepted": true
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T23:01:43.979826+00:00",
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "raw_path": "sources/author-art-213me-213z-selected.xml",
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "bytes": 2557947,
+        "xml_root": "toestand",
+        "accepted": true
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T23:01:45.843371+00:00",
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "raw_path": "sources/author-art-213me-213z-wti.xml",
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "bytes": 5581608,
+        "xml_root": "wetstechnische-informatie",
+        "accepted": true
+      },
+      {
+        "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62020CJ0724",
+        "access_timestamp_utc": "2026-10-20T23:01:49.849317+00:00",
+        "http_status": 202,
+        "final_url": "https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:62020CJ0724",
+        "raw_path": "sources/author-art-213me-213z-paget.html",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0,
+        "html_validated": false,
+        "accepted": false,
+        "reason": "Empty HTTP 202 response is not a source document."
+      }
+    ],
+    "preflight_record": "sources/author-art-213me-213z-preflight-result.json",
+    "judicial_evidence": "sources/author-art-213me-213z-search-log.json"
+  },
+  "bounded_review_art_213me_213z": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T23:08:18.378630+00:00",
+        "raw_path": "sources/review-art-213me-213z-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-213me-213z-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T23:08:18.379004+00:00",
+        "raw_path": "sources/review-art-213me-213z-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-213me-213z-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T23:08:18.379287+00:00",
+        "raw_path": "sources/review-art-213me-213z-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-213me-213z-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0020368",
+        "access_timestamp_utc": "2026-10-20T23:08:18.379361+00:00",
+        "raw_path": "sources/review-art-213me-213z-wft.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+        "bytes": 14851480,
+        "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+        "headers_path": "sources/review-art-213me-213z-wft.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden."
+        ]
+      }
+    ],
+    "preflight": "sources/review-art-213me-213z-preflight-result.json"
+  },
+  "bounded_author_art_213aa_214": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T23:10:53.011330+00:00",
+        "raw_path": "sources/author-art-213aa-214-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/author-art-213aa-214-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T23:10:53.011728+00:00",
+        "raw_path": "sources/author-art-213aa-214-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/author-art-213aa-214-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T23:10:53.012020+00:00",
+        "raw_path": "sources/author-art-213aa-214-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/author-art-213aa-214-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0020368",
+        "access_timestamp_utc": "2026-10-20T23:10:53.012100+00:00",
+        "raw_path": "sources/author-art-213aa-214-wft.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+        "bytes": 14851480,
+        "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+        "headers_path": "sources/author-art-213aa-214-wft.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden."
+        ]
+      }
+    ],
+    "preflight": "sources/author-art-213aa-214-preflight-result.json"
+  },
+  "bounded_review_art_213aa_214": {
+    "records": [
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T23:14:59.289004+00:00",
+        "raw_path": "sources/review-art-213aa-214-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-213aa-214-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T23:14:59.289483+00:00",
+        "raw_path": "sources/review-art-213aa-214-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-213aa-214-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T23:14:59.289790+00:00",
+        "raw_path": "sources/review-art-213aa-214-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-213aa-214-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0020368",
+        "access_timestamp_utc": "2026-10-20T23:14:59.289882+00:00",
+        "raw_path": "sources/review-art-213aa-214-wft.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+        "bytes": 14851480,
+        "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+        "headers_path": "sources/review-art-213aa-214-wft.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden."
+        ]
+      }
+    ],
+    "preflight": "sources/review-art-213aa-214-preflight-result.json"
+  },
+  "bounded_author_art_215_228": {
+    "records": [
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2017:1280",
+        "access_timestamp_utc": "2026-10-20T23:17:19.859865+00:00",
+        "raw_path": "sources/author-art-215-228-hr-2017.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2017:1280",
+        "bytes": 36642,
+        "sha256": "60802881453b2373a98f81f0d7220c6cbbfe7ba235250d0db912b6a4e8e3fa0f",
+        "headers_path": "sources/author-art-215-228-hr-2017.xml.headers",
+        "xml_root": "open-rechtspraak",
+        "xml_attributes": {},
+        "full_uitspraak_chars": 27718,
+        "xml_validation": "open-rechtspraak root and full nonempty uitspraak verified; earlier root expectation corrected"
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2010:BN6123",
+        "access_timestamp_utc": "2026-10-20T23:17:19.860254+00:00",
+        "raw_path": "sources/author-art-215-228-hr-2010.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2010:BN6123",
+        "bytes": 25846,
+        "sha256": "942e842fd6b4016e7cb53b591750611ded04cd696faf70c60d3b29b909bffca8",
+        "headers_path": "sources/author-art-215-228-hr-2010.xml.headers",
+        "xml_root": "open-rechtspraak",
+        "xml_attributes": {},
+        "full_uitspraak_chars": 18742,
+        "xml_validation": "open-rechtspraak root and full nonempty uitspraak verified; earlier root expectation corrected"
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T23:17:19.860541+00:00",
+        "raw_path": "sources/author-art-215-228-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/author-art-215-228-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T23:17:19.860620+00:00",
+        "raw_path": "sources/author-art-215-228-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/author-art-215-228-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T23:17:20.057184+00:00",
+        "raw_path": "sources/author-art-215-228-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/author-art-215-228-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0020368",
+        "access_timestamp_utc": "2026-10-20T23:17:20.077196+00:00",
+        "raw_path": "sources/author-art-215-228-wft.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+        "bytes": 14851480,
+        "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+        "headers_path": "sources/author-art-215-228-wft.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden."
+        ]
+      }
+    ],
+    "preflight": "sources/author-art-215-228-preflight-result.json"
+  },
+  "bounded_review_art_215_228": {
+    "records": [
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2017:1280",
+        "access_timestamp_utc": "2026-10-20T23:23:16.753414+00:00",
+        "raw_path": "sources/review-art-215-228-hr-2017.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2017:1280",
+        "bytes": 36642,
+        "sha256": "60802881453b2373a98f81f0d7220c6cbbfe7ba235250d0db912b6a4e8e3fa0f",
+        "headers_path": "sources/review-art-215-228-hr-2017.xml.headers",
+        "xml_root": "open-rechtspraak",
+        "xml_attributes": {},
+        "full_uitspraak_chars": 27718
+      },
+      {
+        "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2010:BN6123",
+        "access_timestamp_utc": "2026-10-20T23:23:16.753828+00:00",
+        "raw_path": "sources/review-art-215-228-hr-2010.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2010:BN6123",
+        "bytes": 25846,
+        "sha256": "942e842fd6b4016e7cb53b591750611ded04cd696faf70c60d3b29b909bffca8",
+        "headers_path": "sources/review-art-215-228-hr-2010.xml.headers",
+        "xml_root": "open-rechtspraak",
+        "xml_attributes": {},
+        "full_uitspraak_chars": 18742
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0001860",
+        "access_timestamp_utc": "2026-10-20T23:23:16.754113+00:00",
+        "raw_path": "sources/review-art-215-228-current.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+        "bytes": 4132921,
+        "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+        "headers_path": "sources/review-art-215-228-current.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 01-09-2026 t/m heden."
+        ]
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "access_timestamp_utc": "2026-10-20T23:23:16.754194+00:00",
+        "raw_path": "sources/review-art-215-228-selected.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+        "bytes": 2557947,
+        "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+        "headers_path": "sources/review-art-215-228-selected.xml.headers",
+        "xml_root": "toestand",
+        "xml_attributes": {
+          "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+          "bwb-id": "BWBR0001860",
+          "inwerkingtreding": "2026-09-01"
+        }
+      },
+      {
+        "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "access_timestamp_utc": "2026-10-20T23:23:16.936385+00:00",
+        "raw_path": "sources/review-art-215-228-wti.xml",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+        "bytes": 5581608,
+        "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+        "headers_path": "sources/review-art-215-228-wti.xml.headers",
+        "xml_root": "wetstechnische-informatie",
+        "xml_attributes": {
+          "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+          "bwb-id": "BWBR0001860"
+        }
+      },
+      {
+        "url": "https://wetten.overheid.nl/BWBR0020368",
+        "access_timestamp_utc": "2026-10-20T23:23:16.938809+00:00",
+        "raw_path": "sources/review-art-215-228-wft.html",
+        "accepted": true,
+        "http_status": 200,
+        "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+        "bytes": 14851480,
+        "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+        "headers_path": "sources/review-art-215-228-wft.html.headers",
+        "validity_statements": [
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden.",
+          "Geraadpleegd op 20-10-2026. ",
+          "Geldend van 29-09-2026 t/m heden."
+        ]
+      }
+    ],
+    "preflight": "sources/review-art-215-228-preflight-result.json"
+  }
+}

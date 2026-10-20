@@ -1,0 +1,140 @@
+
+    
+      22 oktober 2010
+      Eerste Kamer
+      08/05119
+      DV/EE
+    
+    
+    Hoge Raad der Nederlanden
+    
+    Arrest
+    
+    in de zaak van:
+    
+    
+      1. mr. Rocco MULDER,
+      wonende te Heemstede,
+      2. mr. Norbert HIJMANS,
+      wonende te Almelo,
+      beiden in hun hoedanigheid van curator in het faillissement van InfraXS Energy B.V.,
+      EISERS tot cassatie, verweerders in het voorwaardelijk incidentele cassatieberoep, 
+      advocaat: mr. K.G.W. van Oven,
+    
+    
+    t e g e n
+    
+    
+      1. TENNET HOLDING B.V.,
+      2. TENNET TSO B.V.,
+      beide gevestigd te Arnhem,
+      VERWEERSTERS in cassatie, eiseressen in het voorwaardelijk incidentele cassatieberoep,
+      advocaat: mr. R.A.A. Duk.
+    
+    
+    Partijen zullen hierna ook worden aangeduid als de curatoren en TenneT, eisers afzonderlijk ook als Mulder en Hijmans. 
+    
+    1. Het geding in feitelijke instanties
+    
+    
+      Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar de navolgende stukken: 
+      a. het vonnis in de zaak 109757/ HA ZA 05-155 van de rechtbank Haarlem van 15 november 2006,
+      b. het arrest in de zaak 106.006.172/01 van het gerechtshof te Amsterdam van 21 augustus 2008. 
+      Het arrest van het hof is aan dit arrest gehecht.
+    
+    
+    2. Het geding in cassatie
+    
+    
+      Tegen het arrest van het hof van 21 augustus 2008 hebben de curatoren beroep in cassatie ingesteld. TenneT heeft voorwaardelijk incidenteel cassatieberoep ingesteld. De cassatiedagvaarding en de conclusie van antwoord tevens houdende incidenteel cassatieberoep zijn aan dit arrest gehecht en maken daarvan deel uit.
+      Partijen hebben over en weer geconcludeerd tot verwerping van het beroep.
+      De zaak is voor de curatoren toegelicht door mr. F.M.J. Verstijlen en mr. R.J. van Galen, beiden advocaat te Amsterdam. Mr. R.L.M. van Opstal, advocaat te Amsterdam, heeft voor TenneT schriftelijk toegelicht.
+      De conclusie van de Advocaat-Generaal L.A.D. Keus strekt tot verwerping van het principale cassatieberoep.
+      Bij brief van 16 september 2010 heeft mr. F.M.J. Verstijlen, advocaat te Amsterdam, namens de curatoren op die conclusie gereageerd. 
+    
+    
+    3. Uitgangspunten in cassatie 
+    
+    
+      3.1 In cassatie kan worden uitgegaan van het volgende. 
+      (i) TenneT is beheerder van het landelijk hoogspanningsnet als bedoeld in art. 10 lid 2 Elektriciteitswet 1998. InfraXS Energy B.V. (hierna: EnergyXS) is een elektriciteitsleverancier.
+      (ii) Op 25 oktober 2001 is tussen TenneT en EnergyXS een overeenkomst (hierna: de PV-overeenkomst) gesloten, waarin - onder verwijzing naar het bij en krachtens de Elektriciteitswet 1998 bepaalde - EnergyXS door TenneT is erkend als programmaverantwoordelijke met volledige erkenning als bedoeld in de Systeemcode Elektriciteit. 
+      In art. 6 lid 1 van de PV-overeenkomst is opgenomen dat TenneT dagelijks de zogenaamde onbalans bepaalt tussen programma en realisatie van invoeding en afname van energie op aansluitingen waarvoor EnergyXS programmaverantwoordelijke is. Art. 6 lid 2 van de PV-overeenkomst bepaalt dat EnergyXS aan TenneT een prijs voor onbalans is verschuldigd.
+      (iii) Op 15 augustus 2003 is aan EnergyXS (voorlopig) surseance van betaling verleend met benoeming van Mulder tot bewindvoerder. 
+      (iv) Op 17 augustus 2003 zijn onderhandelingen gevoerd tussen EnergyXS, de bewindvoerder en MainEnergy over een overname van EnergyXS door MainEnergy. Op diezelfde dag heeft MainEnergy een telefax aan TenneT gezonden waarin onder meer is vermeld:
+    
+    
+    "Hierbij geven wij de garantie voor een betaling van maximaal 600.000 Euro voor de levering van TenneT aan Energy XS tussen 00.00 uur en 24.00, 18 augustus 2003. De betaling met een maximaal van 600.000 Euro zal plaats vinden na de definitieve onbalansberekening."
+    
+    
+      (v) MainEnergy heeft een bedrag van € 600.000,-- aan TenneT voldaan.
+      (vi) Op 18 augustus 2003 is EnergyXS in staat van faillissement verklaard met benoeming van Mulder en Hijmans tot curatoren. Vervolgens is op 19 augustus 2003 de erkenning van EnergyXS als programmaverantwoordelijke door TenneT ingetrokken en is de elektriciteitslevering aan klanten van EnergyXS gestaakt.
+      (vii) In de periode van 15 tot en met 18 augustus 2003 is ten laste van EnergyXS een vordering uit onbalans ontstaan. Hiervoor heeft TenneT EnergyXS onbalansfacturen gezonden. Na aftrek van het door MainEnergy betaalde bedrag van € 600.000,-- bedraagt de totale vordering van TenneT op EnergyXS uit hoofde van de onbalans over de periode van 15 tot en met 18 augustus 2003 € 911.196,-- (inclusief omzetbelasting).
+    
+    
+    
+      3.2.1 De rechtbank en het hof hebben de vordering uit hoofde van onbalans over de periode van 15 augustus tot en met 18 augustus 2003 als boedelschuld toewijsbaar geacht. Daarmee is het verweer van curatoren verworpen, inhoudende dat geen sprake is van een boedelschuld maar van een schuld die eerst na de surseance is ontstaan en wel zonder medewerking, machtiging of bijstand van de bewindvoerder als bedoeld in art. 228 lid 2 F.
+      Het hof heeft in rov. 4.3 de inhoud van de leden 1 en 2 van art. 228 F. vooropgesteld, en daarna achtereenvolgens onderzocht of de onbalansschuld over de periode van 15 tot en met 17 augustus 2003 een boedelschuld is, en of dat ook het geval is met de over 18 augustus 2003 ontstane onbalansschuld. 
+    
+    
+    
+      3.2.2 Met betrekking tot de onbalansvordering over de dagen 15 tot en met 17 augustus 2003 overwoog het hof, met verwijzing naar rov. 4.4, in rov. 4.7 tot en met 4.9 dat sprake is van een boedelschuld. Het hof overwoog samengevat onder meer het volgende: 
+      a. De PV-overeenkomst, die voor onbepaalde tijd was aangegaan en waarin aan TenneT het recht is toegekend van dagelijkse berekening van de onbalans en de door EnergyXS aan TenneT verschuldigde onbalansprijs, was nog steeds van kracht toen op 15 augustus 2003 aan EnergyXS surseance werd verleend, en die overeenkomst is van kracht gebleven totdat zij op 19 augustus 2003, nadat EnergyXS in staat van faillissement was verklaard, door opzegging van de zijde van TenneT met onmiddellijke ingang is geëindigd. Voordat op 15 augustus 2003 de surseance werd uitgesproken, heeft EnergyXS bij TenneT voor de dagen 15, 16 en 17 augustus 2003 reeds energieprogramma's als bedoeld in de PV-overeenkomst ingediend, welke indiening nadien niet voor een of meer van die dagen alsnog ongedaan is gemaakt. Op 17 augustus 2003 zijn onderhandelingen gevoerd tussen EnergyXS, haar bewindvoerder en MainEnergy over een overname door MainEnergy van EnergyXS. (rov. 4.4)
+      b. Toen die onderhandelingen nog gaande waren is de hiervoor in 3.1 onder (iv) vermelde fax aan TenneT verzonden. (rov. 4.5) 
+      c. De onbalansvordering over de dagen 15 tot en met 17 augustus 2003 vindt haar oorsprong in door EnergyXS op basis van het bepaalde in de PV-overeenkomst reeds vóór het uitspreken der surseance bij TenneT ingediende energieprogramma's, welke indiening nadien niet, ook niet door de bewindvoerder, ongedaan is gemaakt. Aangezien ook de PV-overeenkomst zelf nog tot 19 augustus 2003 liep - deze is immers voordien noch door TenneT, noch door EnergyXS en haar bewindvoerder opgezegd - en vaststaat dat EnergyXS dienovereenkomstig in de dagen 15 tot en met 17 augustus 2003 als programmaverantwoordelijke als bedoeld in die overeenkomst van de diensten van TenneT gebruik is blijven maken, dient het over die dagen door TenneT berekende bedrag aan onbalansvordering - welke vordering geacht moet worden tijdens de surseance te zijn ontstaan en welk bedrag als zodanig niet door curatoren is betwist - als een boedelschuld van EnergyXS te worden aangemerkt. (rov. 4.7)
+      d. TenneT was niet gehouden om EnergyXS en de bewindvoerder op de voet van het bepaalde in art. 236 lid 1 F. een termijn te stellen om te bereiken dat als boedelvordering aanspraak zou kunnen worden gemaakt op de onbalansprijs over de dagen 15 tot en met 17 augustus 2003. (rov. 4.8)
+      e. Hoewel de PV-overeenkomst niet voorziet in onmiddellijke opzegging van de overeenkomst door EnergyXS, laat dat uiteraard onverlet dat EnergyXS en TenneT onderling een kortere opzegtermijn hadden kunnen overeenkomen. Als de bewindvoerder en EnergyXS dat hadden gewenst, had TenneT aanstonds voor vervanging van EnergyXS als programmaverantwoordelijke kunnen zorgdragen, waarmee ook de aflevering van elektriciteit aan de afnemers van EnergyXS zou zijn veiliggesteld. (rov. 4.9)
+    
+    
+    
+      3.2.3 Het hof oordeelde dat ook de over 18 augustus 2003 ontstane onbalansvordering een boedelschuld is, en overwoog daartoe (in rov. 4.10) het volgende.
+      Curatoren hebben niet (voldoende gemotiveerd) betwist dat, zoals TenneT heeft gesteld, de hiervoor in 3.1 (iv) genoemde garantie in overleg met de bewindvoerder door MainEnergy aan TenneT is afgegeven. Mede gelet op de inhoud van die garantie was de bewindvoerder ten tijde van het afgeven daarvan op 17 augustus 2003 derhalve ervan op de hoogte, althans had dat kunnen en behoren te zijn, dat TenneT op 18 augustus 2003 tussen 00.00 uur en 24.00 uur gelijk voorheen als netbeheerder conform de PV-overeenkomst met EnergyXS als wederpartij/programmaverantwoordelijke bleef optreden.
+      Daaraan was ingevolge die PV-overeenkomst onverbrekelijk verbonden dat EnergyXS een onbalansprijs terzake aan TenneT verschuldigd werd, waarvan - naar de bewindvoerder ook wist - de betaling (slechts) voor een bedrag van maximaal € 600.000,-- door MainEnergy werd gegarandeerd. Nu gesteld noch gebleken is dat de bewindvoerder aan TenneT heeft kenbaar gemaakt dat hij zijn goedkeuring aan deze gang van zaken onthield - hetgeen in dat geval op zijn weg had gelegen -, moet de slotsom zijn dat de verbintenis tot betaling van onbalans die voor EnergyXS uit de continuering van de PV-overeenkomst op 18 augustus 2003 is voortgevloeid met (stilzwijgende) medewerking, machtiging of bijstand van de bewindvoerder als bedoeld in art. 228 lid 1 F. is aangegaan. 
+    
+    
+    4. Beoordeling van de middelen in het principaal beroep 
+    
+    4.1 Middel 1 keert zich in drie onderdelen tegen rov. 4.7, hiervoor in 3.2.2 onder c weergegeven. 
+    
+    4.1.1 Onderdeel 1a kan bij gemis aan feitelijke grondslag niet tot cassatie leiden, omdat het hof na vooropstelling van de inhoud van art. 228 lid 2 F. onmiskenbaar de daarin vervatte maatstaf heeft toegepast bij de verwerping van het verweer van de curatoren dat de onbalansschuld geen boedelschuld is.
+    
+    4.1.2 Bij de beoordeling van onderdeel 1b, dat verschillende rechts- en motiveringsklachten richt tegen het oordeel dat de onbalansschuld is ontstaan met medewerking in de zin van art. 228 lid 2 F. van de bewindvoerder, wordt het volgende vooropgesteld. 
+    
+    
+      4.1.3 De medewerking, machtiging of bijstand in de zin van art. 228 lid 2 F. kan, afhankelijk van de omstandigheden van het geval, op verschillende wijzen blijken, waarbij niet is uitgesloten dat deze ligt besloten in een stilzwijgende toestemming van 
+      de bewindvoerder voor het laten ontstaan van een bepaalde verbintenis. Aan het enkele feit van een voortzetting van de bedrijfsactiviteiten na verlening van surseance zal in het algemeen niet de gevolgtrekking kunnen worden verbonden dat de bewindvoerder ook (stilzwijgend) toestemming verleent voor het laten ontstaan van alle daarmee samenhangende verbintenissen. Indien echter blijkt dat de bewindvoerder welbewust, bijvoorbeeld met het oog op het streven de onderneming gaande te houden om deze te verkopen of anderszins voort te zetten, toelaat dat de schuldenaar nieuwe verplichtingen aangaat of dat uit een bestaande rechtsverhouding voortvloeiende schulden blijven ontstaan hoewel dat op eenvoudige wijze kan worden voorkomen, zal sprake kunnen zijn van toestemming als hier bedoeld, ook al heeft de bewindvoerder zulks niet uitdrukkelijk laten blijken. Daarbij zal met name van belang zijn in hoeverre het gaat om verplichtingen en schulden die van wezenlijke betekenis zijn voor het openhouden van de mogelijkheid van voortzetting of overname van de bedrijfsactiviteiten. 
+    
+    
+    4.1.4 In het licht van het in 4.1.3 overwogene heeft het hof geen blijk gegeven van een onjuiste rechtsopvatting door te oordelen dat onder de omstandigheden van dit geval sprake is van medewerking, machtiging of bijstand als bedoeld in art. 228 lid 2 F. met betrekking tot het ontstaan van de onbalansschuld. Kennelijk heeft het hof aangenomen dat in het onderhavige geval stilzwijgend medewerking is verleend, waarbij in aanmerking is genomen dat de bedrijfsactiviteiten met toestemming van de bewindvoerder werden voortgezet om overname van de onderneming mogelijk te maken door MainEnergy, met wie onderhandelingen werden gevoerd en die een (beperkte) garantie heeft afgegeven voor de uit voortzetting van de bedrijfsactiviteiten voortvloeiende onbalansverplichtingen. Voorts is het hof daarbij kennelijk ervan uitgegaan dat de bewindvoerder (bij het ontbreken van verder perspectief op overname) op ieder moment het verder ontstaan van onbalansverplichtingen had kunnen voorkomen, maar welbewust daarvan heeft afgezien om de mogelijkheid van een overname op zeer korte termijn open te houden. 
+    
+    
+      4.1.5 De rechtsklachten van onderdeel 1b stuiten op het voorgaande af. Ook de motiveringsklachten zijn tevergeefs voorgesteld, omdat het oordeel van het hof, verweven als het is met waarderingen van feitelijke aard, verder niet op juistheid kan worden onderzocht, en niet ontoereikend is gemotiveerd. Het oordeel is in het licht van de gedingstukken ook niet onbegrijpelijk.
+      Het hof behoefde zich van zijn oordeel niet te laten weerhouden door de omstandigheid dat de bewindvoerder niet alleen (zonder medewerking van de schuldenaar) bevoegd zou zijn tot ongedaanmaking van de energieprogramma's of opzegging van de PV-overeenkomst, aangezien naar het kennelijke oordeel van het hof niet aan de orde was dat EnergyXS zich niet naar de aanwijzingen van de bewindvoerder zou willen gedragen. Voorts heeft het hof in dit verband kunnen aannemen dat ook TenneT in de gegeven situatie - naar aanleiding van door de bewindvoerder verschafte informatie - op ieder moment de PV-overeenkomst met onmiddellijke ingang kon doen eindigen, zoals reeds op 19 augustus 2003 is geschied. In het licht van de gedingstukken kon het hof ook voor het overige oordelen dat de bewindvoerder welbewust met het oog op de nagestreefde overname van EnergyXS heeft meegewerkt aan het voor een zeer korte periode doen ontstaan van onbalansverplichtingen (vgl. onder meer de hiervoor in 3.1 (iv) vermelde fax en de in de conclusie van de Advocaat-Generaal onder 3.8 aangehaalde mededeling van de bewindvoerder dat bij indiening op 17 augustus 2003 te 12.00 uur van een zogenaamd nul-programma de bedrijfsactiviteiten daadwerkelijk zouden moeten worden gestaakt en een overname niet meer aan de orde zou zijn). 
+    
+    
+    4.1.6 Onderdeel 1c faalt, omdat de omstandigheid dat TenneT uit hoofde van haar wettelijke taak in de onderhavige periode de door de voortgezette bedrijfsuitoefening van EnergyXS veroorzaakte onbalans op het elektriciteitsnet heeft gecorrigeerd, niet afdoet aan de aanspraken van TenneT jegens EnergyXS op een onbalansvergoeding op grond van de PV-overeenkomst.
+    
+    4.2.1 Middel 2 keert zich tegen rov. 4.8, hiervoor in 3.2.2 onder d weergegeven, waarin het hof oordeelde dat TenneT niet gehouden was om EnergyXS en de bewindvoerder op de voet van het bepaalde in art. 236 lid 1 F. een termijn te stellen om te bereiken dat aanspraak zou kunnen worden gemaakt op de onbalansprijs over de dagen 15 tot en met 17 augustus 2003 als boedelvordering.
+    
+    4.2.2 De klachten van het middel kunnen bij gebrek aan belang niet tot cassatie leiden, omdat (zoals in onderdeel 2b ook wordt onderkend) voor het antwoord op de vraag of de onbalansvordering een boedelschuld oplevert niet van belang is of door TenneT op de voet van het bepaalde in art. 236 lid 1 F. een termijn is gesteld. 
+    
+    4.3 Middel 3 is gericht tegen de hiervoor in 3.2.2 onder e weergegeven rov. 4.9. Voorzover het middel naast - het blijkens het vorenstaande tevergeefs voorgestelde - onderdeel 1b zelfstandige betekenis heeft, faalt het omdat het zich keert tegen een goeddeels feitelijk oordeel dat geen blijk geeft van een onjuiste rechtsopvatting, toereikend is gemotiveerd, en niet onbegrijpelijk is. 
+    
+    4.4.1 Middel 4, dat betrekking heeft op het hiervoor in 3.2.3 weergegeven oordeel van het hof betreffende de onbalansvordering over 18 augustus 2003, bestrijdt in onderdeel 4a als onbegrijpelijk dat de curatoren niet of niet voldoende gemotiveerd zouden hebben betwist dat de door MainEnergy gegeven garantie in overleg met de bewindvoerder aan TenneT is afgegeven. Gelet op hetgeen hiervoor in 4.1.4 en 4.1.5 is overwogen, is echter begrijpelijk dat het hof onvoldoende gemotiveerd betwist heeft geacht dat de op 17 augustus 2003 door MainEnergy met het oog op de overname van EnergyXS gegeven garantie in overleg met de bij de onderhandelingen betrokken bewindvoerder werd afgegeven, nu deze garantie werd gegeven voor vergoeding van de onbalansschuld over 18 augustus 2003 en het ontstaan van die schuld onverbrekelijk samenhing met voortzetting van het bedrijf op die dag. Dat oordeel behoefde geen nadere motivering om begrijpelijk te zijn, ook niet in het licht van de in het onderdeel vermelde stellingen. 
+    
+    4.4.2 Ook de overige klachten van het middel kunnen, voorzover zij zelfstandige betekenis hebben, niet tot cassatie leiden, omdat zij zich richten tegen feitelijke oordelen die niet onbegrijpelijk zijn en niet ontoereikend gemotiveerd. 
+    
+    4.5 De in middel 5 aangevoerde klachten kunnen niet tot cassatie leiden. Zulks behoeft, gezien art. 81 RO, geen nadere motivering nu de klachten niet nopen tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.
+    
+    4.6 Blijkens het vorenstaande is de voorwaarde waaronder het incidenteel beroep is ingesteld niet vervuld, zodat het geen behandeling behoeft. 
+    
+    5. Beslissing
+    
+    
+      De Hoge Raad:
+      verwerpt het principaal beroep;
+      veroordeelt de curatoren in de kosten van het geding in cassatie, tot op deze uitspraak aan de zijde van TenneT begroot op € 374,34 aan verschotten en € 2.200,-- voor salaris.
+    
+    
+    Dit arrest is gewezen door de vice-president D.H. Beukenhorst als voorzitter en de raadsheren E.J. Numann, A. Hammerstein, F.B. Bakels en C.A. Streefkerk, en in het openbaar uitgesproken door de raadsheer F.B. Bakels op 22 oktober 2010.
+  
