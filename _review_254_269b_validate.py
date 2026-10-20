@@ -26,7 +26,7 @@ r=json.loads((W/'review-result.json').read_text());r['validation_result']=v
 for p in [W/'review-result.json',S/(P+'-result.json')]:save(p,r)
 j=json.loads((W/'status.json').read_text());j['bounded_review_art_254_269b']['validation_result']=v;j['stage']='authoring_incomplete';save(W/'status.json',j)
 checked=0
-for p in [B/'README.md',T/'README.md',T/'REVIEW.md',T/'SOURCES.md']+list(T.glob('*wet*.md'))+list(O.glob('*art-254-269b-checkpoint*.md')):
+for p in [B/'README.md',B/'REVIEW.md',B/'SOURCES.md',T/'README.md',T/'REVIEW.md',T/'SOURCES.md',T/'sources'/(P+'-case-2017.md'),T/'sources'/(P+'-case-2024.md')]+list(T.glob('*wet*.md'))+list(O.glob('*art-254-269b-checkpoint*.md')):
  for link in re.findall(r'\]\(([^)]+)\)',p.read_text()):
   if re.match(r'(https?://|mailto:|#)',link):continue
   # Validation result is copied below; otherwise all target files must already exist.
