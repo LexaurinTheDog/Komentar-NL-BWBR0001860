@@ -350,3 +350,6 @@ De actuele officiële BW7:51 is rechtstreeks gelezen voor de begrippen in 241d/2
 
 Het afgebakende checkpoint is opnieuw met de ongewijzigde gedeelde bouwer samengesteld en strikt gevalideerd. De volledige boekbouw en validatie zijn daarnaast uitgevoerd; ontbrekende toelichtingen buiten deze batch verhinderen boekvoltooiing. [Validatieresultaten](sources/review-art-241d-253-validation.json). Dit is een projectinterne tweede lezing van uitsluitend twintig artikelen; geen externe professionele goedkeuring en geen voltooid boek.
 
+
+
+Auteursbatch 254–269b: twintig specifieke toelichtingen. [Broncontrole](sources/author-art-254-269b-preflight-result.json), [volledige brondekking](sources/author-art-254-269b-coverage.json), [selectieve rechtspraak](sources/author-art-254-269b-search-log.json). Onafhankelijke tweede lezing nog niet uitgevoerd; overige toelichtingen ongewijzigd.
