@@ -1,0 +1,424 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-90",
+    "art-91",
+    "art-92",
+    "art-93",
+    "art-93a",
+    "art-94",
+    "art-95",
+    "art-96",
+    "art-97",
+    "art-98",
+    "art-99",
+    "art-100",
+    "art-101",
+    "art-102",
+    "art-103",
+    "art-104",
+    "art-105",
+    "art-105a",
+    "art-105b",
+    "art-106"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "art-90",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel90",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "38ccc1b0d4e2db1f286302ed4afa838ab006881c2608ea5638388f3db4ab0825",
+      "commentary_before_sha256": "a29bf3f72511758dff4a5b279dad65ae74a2e3cb8fd836852a256a05cc311e36",
+      "commentary_after_sha256": "a29bf3f72511758dff4a5b279dad65ae74a2e3cb8fd836852a256a05cc311e36",
+      "result": "accepted_without_change",
+      "assessment": "Overbrenging op last RC en uitvoering OM onderscheiden van ontslag bewaring.",
+      "internal_cross_references_checked": [
+        "art-87",
+        "art-88"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-91",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel91",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "ea92e9ce0b572a39044b552dea2ded6afaee14def89a583bf218b2e8752202b6",
+      "commentary_before_sha256": "f6d27b10290d99a0453f0b3a8e9e201baea40ae51d9ce3ab5b4a432dce604f27",
+      "commentary_after_sha256": "f6d27b10290d99a0453f0b3a8e9e201baea40ae51d9ce3ab5b4a432dce604f27",
+      "result": "accepted_without_change",
+      "assessment": "Toestemming RC voor verlaten woonplaats; niet alleen landsgrens of curatorinstemming.",
+      "internal_cross_references_checked": [
+        "art-106"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-92",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel92",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "b96d30560a5f8fa51b40e93a1872e147aea701aaff502408c30d7bf68e91c342",
+      "commentary_before_sha256": "adef11582f8d91ac0ab905d889736ffa6fcd78519572aa51bf3882d57b2de8d4",
+      "commentary_after_sha256": "adef11582f8d91ac0ab905d889736ffa6fcd78519572aa51bf3882d57b2de8d4",
+      "result": "accepted_without_change",
+      "assessment": "Onmiddellijk veiligstellen, ontvangbewijs en facultatieve consignatie; digitale bewaring onderscheiden van publicatie.",
+      "internal_cross_references_checked": [
+        "art-94",
+        "art-105a",
+        "art-105b",
+        "art-68a"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-93",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel93",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "b86718ac5f536f421c232d6fe32ea794afa2c2d4602814bc691ede55c65fe4b0",
+      "commentary_before_sha256": "db00de09c74b2d57ca27298d9de1e8a169a023464ae4bc57c4ba50d9e01ef9cb",
+      "commentary_after_sha256": "0f0c812c146ee23769c1ea9e4ff421b519c22845769a3d6992493531ae84d129",
+      "result": "corrected_or_extended",
+      "assessment": "Noodzaak bij curator of RC, notaris en proces-verbaal; uitzonderingen precies afgebakend.",
+      "internal_cross_references_checked": [
+        "art-7",
+        "art-21",
+        "art-92"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-93a",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel93a",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "074e6a4df242c660c65ad6c9f531a895c9e15f872ca968f647106d56c88ca3e7",
+      "commentary_before_sha256": "a66bf374f147fa0bd471bf153b09750e20d6da534c6106406ada911ecc82d40b",
+      "commentary_after_sha256": "a66bf374f147fa0bd471bf153b09750e20d6da534c6106406ada911ecc82d40b",
+      "result": "accepted_without_change",
+      "assessment": "Redelijke taaknoodzaak en machtigingsbevoegdheid onderscheiden; toegang beslist niet over eigendom. Externe Awbi-procedure niet volledig uiteengezet.",
+      "internal_cross_references_checked": [],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-94",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel94",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [
+        "Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "f017c853c5f6e4e75486d96562afb85205dae2c89baacaf192a7f202febfd1da",
+      "commentary_before_sha256": "ce435297ad66e91d4fc77e3591084a25ecca396bdb838d0c648ae05694c71d9f",
+      "commentary_after_sha256": "ce435297ad66e91d4fc77e3591084a25ecca396bdb838d0c648ae05694c71d9f",
+      "result": "accepted_without_change",
+      "assessment": "Spoed, onderhandse beschrijving en curatorwaardering onder RC-goedkeuring; aanwezigheid voorlopige commissie.",
+      "internal_cross_references_checked": [
+        "art-96"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-95",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel95",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "991ece47d531b97d1f4e00ae5c555a7bbb4f8c59d532f9b26cdcaa0c20816455",
+      "commentary_before_sha256": "a29b80715eb7e207edaa9bda5652cfe7e0861953c39772d1aeae6706865f071a",
+      "commentary_after_sha256": "a29b80715eb7e207edaa9bda5652cfe7e0861953c39772d1aeae6706865f071a",
+      "result": "accepted_without_change",
+      "assessment": "Aangehechte staat beschermde goederen tegenover opname artikel 92; geen eigendomsbeslissing.",
+      "internal_cross_references_checked": [
+        "art-21",
+        "art-92",
+        "art-94",
+        "art-96"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-96",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel96",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "e23de0b06022b9e6e0fdf9d34060dc93f736bbd79843b801c5b1ecc964169bf1",
+      "commentary_before_sha256": "7d186055831c6e4063f1ab28f737cf686820aaab8f56146f55b579bc5f46bb63",
+      "commentary_after_sha256": "7d186055831c6e4063f1ab28f737cf686820aaab8f56146f55b579bc5f46bb63",
+      "result": "accepted_without_change",
+      "assessment": "Direct na inventaris, aard en bedragen baten/schulden en crediteuren; geen definitieve verificatie.",
+      "internal_cross_references_checked": [
+        "art-97",
+        "art-68a"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-97",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel97",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "bc600f9a99c3afffd3204e7705416e7c87accdb056a2745a8770662279da2814",
+      "commentary_before_sha256": "7b3de5e76d8877bd15344ed6b04f2df8f10de5bee32dc8f2c96fd7df1eaa2fdf",
+      "commentary_after_sha256": "7b3de5e76d8877bd15344ed6b04f2df8f10de5bee32dc8f2c96fd7df1eaa2fdf",
+      "result": "accepted_without_change",
+      "assessment": "Bevoegde griffie, gewaarmerkte kopieën, kosteloze inzage voor iedereen en neerlegging; afschriftkosten apart.",
+      "internal_cross_references_checked": [
+        "art-107"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-98",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel98",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "9caedcbe6ff25899f2ef9d44c75ee7b8308e08798489cafc8ff6d7b102d300ad",
+      "commentary_before_sha256": "4ae33e4ee9855a984cb62c7437fe92bd2bf6c85439c6233808551f5feda89e8a",
+      "commentary_after_sha256": "6278087c302b61451353801d42b82912ccda31203880b3b6ebb916043e15af36",
+      "result": "corrected_or_extended",
+      "assessment": "Machtiging zonder commissie; met commissie advies en afwijkingsprocedure; latere voortzetting apart.",
+      "internal_cross_references_checked": [
+        "art-39",
+        "art-40",
+        "art-78",
+        "art-79",
+        "art-173a"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-99",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel99",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [],
+      "statutory_text_sha256": "bfda46f3c1b64aa0219e3683203a71cdb3c4561391d932a0761f15acd6d1e616",
+      "commentary_before_sha256": "d3ef122f06e438db30f16fd321f0568a01013f1ff23c81e60218897060d88c11",
+      "commentary_after_sha256": "d3ef122f06e438db30f16fd321f0568a01013f1ff23c81e60218897060d88c11",
+      "result": "accepted_without_change",
+      "assessment": "Postlast en kennisgeving, directe terhandstelling niet-boedelpost, einde beide bevoegdheden; formele verklaringen via curator.",
+      "internal_cross_references_checked": [
+        "art-14",
+        "art-15",
+        "art-68a"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-100",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel100",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "7ec5999ad2f4cca88ce2e4752af64021348a3f3260cf5d6a44eb3782f0820389",
+      "commentary_before_sha256": "3284bf6c1d755b18dfb2c231c5fbd52067853ec45516e1db122951b9132d10b8",
+      "commentary_after_sha256": "99650f7036dc49ede1694a7d2168030af229e6d71ca3e0204ffe0dd554a3db6a",
+      "result": "corrected_or_extended",
+      "assessment": "Facultatieve uitkering, omstandigheden, vaststelling RC en verplicht commissieadvies.",
+      "internal_cross_references_checked": [
+        "art-21",
+        "art-78"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-101",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel101",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "8eab100d5f6060308b2a92c9f1e541b364e04b7ebafe56489581fd50780c106c",
+      "commentary_before_sha256": "0b79177c58e3e7ad751aad825f47b69fbfe7530df758020260a7b5fd67ff1ef1",
+      "commentary_after_sha256": "70e5fa635b4b095b3dc83356fbe43d3905ceca055925d3a21693174b443a2e17",
+      "result": "corrected_or_extended",
+      "assessment": "Openbare/onderhandse verkoop, cumulatieve 2000-eurogrens volgens inventaris en bijzondere baten; commissieadvies.",
+      "internal_cross_references_checked": [
+        "art-78",
+        "art-176"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-102",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel102",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "bbd59c0cb1923a0d4ca4dd97cb1a3ec24d441677974a26165554d090f66fce65",
+      "commentary_before_sha256": "cf3cd6b5f96bb5aeca4a3661a76fc4d6882f3d04ec4ff51e26250765ea2ad7cf",
+      "commentary_after_sha256": "cf3cd6b5f96bb5aeca4a3661a76fc4d6882f3d04ec4ff51e26250765ea2ad7cf",
+      "result": "accepted_without_change",
+      "assessment": "Onmiddellijke bewaring tenzij andere wijze RC; overliquiditeit belegd op boedelnaam met goedkeuring.",
+      "internal_cross_references_checked": [
+        "art-103"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-103",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel103",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "statutory_text_sha256": "dfe3fad62d386bb018876e81da2c69d7440fc000868331b85deb379b50468a1f",
+      "commentary_before_sha256": "2ee3b237b221c44f6de819e6ec545a957837449a7e7664058e710a94194788ed",
+      "commentary_after_sha256": "2ee3b237b221c44f6de819e6ec545a957837449a7e7664058e710a94194788ed",
+      "result": "accepted_without_change",
+      "assessment": "Derdenbewaring volgens RC en belegde gelden; voor gezien getekende stukken, geen zelfstandig uitdelingsrecht.",
+      "internal_cross_references_checked": [
+        "art-102"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-104",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel104",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "0a745008e618c3e56f5621671522668c1bbaee6f7e472f66cc98351feae841a8",
+      "commentary_before_sha256": "7d705df1c38771c22a84110bc25c19d5e3844c63c1ed0e07be17d1cdcd215352",
+      "commentary_after_sha256": "7d705df1c38771c22a84110bc25c19d5e3844c63c1ed0e07be17d1cdcd215352",
+      "result": "accepted_without_change",
+      "assessment": "Advies bestaande commissie en RC-goedkeuring cumulatief; inhoud finale kwijting en verhaalafweging.",
+      "internal_cross_references_checked": [
+        "art-72"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-105",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel105",
+      "source_paragraphs_reviewed": "1, 2a–b, 3",
+      "source_notes_reviewed": [
+        "Artikel II, eerste lid, van Stb. 2017/124 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "eb22daefb36adc3bb146c73a00668cf9d0b930d8a215e9ae431ec77aa69b4f19",
+      "commentary_before_sha256": "f511acd4a61455e9f915fcdb0bba4f30f6b97900fc382d70eccf0286b718529f",
+      "commentary_after_sha256": "504f74e01c418b609e637719dcd43e7c392ec886bed8db3f0f962eac56907aae",
+      "result": "corrected_or_extended",
+      "assessment": "Gevraagde en spontane informatie onderscheiden; buitenlands melden en meewerken; partners enkel gemeenschap; beperkte betekenis oudere HR-dwangwaarborg.",
+      "internal_cross_references_checked": [
+        "art-105a"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:HR:2014:161"
+      ]
+    },
+    {
+      "id": "art-105a",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel105a",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [
+        "Artikel II, eerste lid, van Stb. 2017/124 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "5c1c799cbcdd972e50a31962554959ca443543b83f34589b92659f0440d904d4",
+      "commentary_before_sha256": "f93e247aa5fce1edb5eef9a9e1d5ea34c4204608bb49463e4b2cce2afac9fcbc",
+      "commentary_after_sha256": "703ebc4bdbb884fde63c9d537eabf5d17dde08b627c4556515510d4649c39b4d",
+      "result": "corrected_or_extended",
+      "assessment": "Algemene medewerking, onmiddellijke volledige ongeschonden administratie en leesmiddelen; partnerbeperking en grenzen contactdwang.",
+      "internal_cross_references_checked": [
+        "art-105b"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:HR:2026:400"
+      ]
+    },
+    {
+      "id": "art-105b",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel105b",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [
+        "Artikel II, eerste lid, van Stb. 2017/124 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "d1e3a31999117f5a18a3a067f798886d4f33004a2ce7b5ed4bedbf15af000a2a",
+      "commentary_before_sha256": "6362e7c08e96eff66dd258aa3f728c8a7c28711000abb0ee48f69a489d405398",
+      "commentary_after_sha256": "6362e7c08e96eff66dd258aa3f728c8a7c28711000abb0ee48f69a489d405398",
+      "result": "accepted_without_change",
+      "assessment": "Beroepsmatige derden op verzoek, leesmiddelen, retentierecht doorbroken en strijdige bedingen nietig; bestaande gegevens versus nieuw werk.",
+      "internal_cross_references_checked": [
+        "art-60"
+      ],
+      "case_authorities_checked": []
+    },
+    {
+      "id": "art-106",
+      "official_path": "/TiteldeelI/AfdelingVierde/Artikel106",
+      "source_paragraphs_reviewed": "1, 2a–b, 3",
+      "source_notes_reviewed": [
+        "Artikel II van Stb. 2017/124 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "statutory_text_sha256": "3063261d82080f8578e5323fe338fb223059a7d00a523549962bd3e76f463332",
+      "commentary_before_sha256": "e613fa4fd91da3c1f38d6f39b6544c8e1af672d7498a72dd67286ae283eac5c4",
+      "commentary_after_sha256": "ac0392dcf428505391e496dcf9e759aecd51b49ea093444af609328b5334c2eb",
+      "result": "corrected_or_extended",
+      "assessment": "Huidige/voormalige bestuurders en commissarissen, driejaarstermijn, feitelijke beleidsbepalers, indirect bestuur, VOF/CV; geen zelfstandige aansprakelijkheid.",
+      "internal_cross_references_checked": [
+        "art-87",
+        "art-88",
+        "art-89",
+        "art-90",
+        "art-91",
+        "art-92",
+        "art-105",
+        "art-105a"
+      ],
+      "case_authorities_checked": []
+    }
+  ],
+  "limitations": [
+    "Exactly these 20 places substantively reviewed; earlier review evidence preserved, not claimed as work of this process.",
+    "342 missing commentaries elsewhere remain; whole-book completion and successful full build are not claimed.",
+    "Two selected full HR decisions independently fetched and compared with national corpus; no exhaustive case-law search or separate case for every technical article.",
+    "Fresh second reading inside project; no external professional approval.",
+    "The Awbi authorisation is identified as in the official Fw; no complete independent review of the external entry statute or transitional instruments.",
+    "Case selection reuses prior primary-source discovery; both full decisions independently read and fetched again, not a new exhaustive search."
+  ],
+  "checked_at_utc": "2026-10-20T21:54:00.782993+00:00",
+  "whole_book_complete": false,
+  "technical_evidence": "review-checks.json",
+  "changed_units": [
+    "art-93",
+    "art-98",
+    "art-100",
+    "art-101",
+    "art-105",
+    "art-105a",
+    "art-106"
+  ],
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 639,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 362236,
+    "errors": [
+      "krátký/chybějící komentář u 342 jednotek: ['art-212j(0<400)', 'art-212k(0<400)', 'art-212l(0<400)', 'art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  }
+}
