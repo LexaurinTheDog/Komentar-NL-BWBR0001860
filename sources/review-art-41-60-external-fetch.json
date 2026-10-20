@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0003045",
+    "final_url": "https://wetten.overheid.nl/BWBR0003045/2026-07-01",
+    "http_status": 200,
+    "access_timestamp_utc": "2026-10-20T19:20:34.539198+00:00",
+    "raw_path": "sources/review-art-41-60-BWBR0003045.html",
+    "sha256": "5b9d87429d90f9d3eb4ac80814b37642d0730614f33764b38036d11cfe256f6a",
+    "bytes": 5522043,
+    "accepted": true,
+    "validity_statements": [
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 01-07-2026 t/m heden.",
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 01-07-2026 t/m heden."
+    ]
+  },
+  {
+    "url": "https://wetten.overheid.nl/BWBR0005291",
+    "final_url": "https://wetten.overheid.nl/BWBR0005291/2025-07-01",
+    "http_status": 200,
+    "access_timestamp_utc": "2026-10-20T19:20:39.340347+00:00",
+    "raw_path": "sources/review-art-41-60-BWBR0005291.html",
+    "sha256": "eb7e6b7b99e4fedd4d002c32277cd049af356b6046497bf5c321e3eb9d2d60d9",
+    "bytes": 1922723,
+    "accepted": true,
+    "validity_statements": [
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 01-07-2025 t/m heden.",
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 01-07-2025 t/m heden."
+    ]
+  }
+]

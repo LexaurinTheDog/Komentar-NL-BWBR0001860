@@ -1,0 +1,491 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-41",
+    "art-42",
+    "art-42a",
+    "art-43",
+    "art-45",
+    "art-47",
+    "art-48",
+    "art-49",
+    "art-50",
+    "art-51",
+    "art-52",
+    "art-53",
+    "art-54",
+    "art-55",
+    "art-56",
+    "art-57",
+    "art-58",
+    "art-59",
+    "art-59a",
+    "art-60"
+  ],
+  "max_units": 20,
+  "checked_at_utc": "2026-10-20T19:27:55.495399+00:00",
+  "decisive_date": "2026-10-19",
+  "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "whole_book_complete": false,
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "art-41",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel41",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "f98ffeb331f416687fba6f96f6d03fe0e17aebeee4a3cd611dbb35f870845ceb",
+      "commentary_before_sha256": "adf5b661ec84438c0e0e851491ea31e61be48c3fc256ef2b55dd9773eef9b260",
+      "commentary_after_sha256": "adf5b661ec84438c0e0e851491ea31e61be48c3fc256ef2b55dd9773eef9b260",
+      "result": "accepted_without_change",
+      "assessment": "Ongewijzigd aanvaard. Nieuwe erfenis binnen 20, uitsluitend beneficiaire aanvaarding en afzonderlijke machtiging voor verwerping onderscheiden; geen overname van onbeperkte nalatenschapsschuld verondersteld.",
+      "internal_cross_references_checked": [
+        "art-20"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-42",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel42",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "297b8558d5c898864c1ebe8a91c14aa70e540a6cee89218882da10a658fca3d5",
+      "commentary_before_sha256": "f42ce8434062c85652f5361bcbce36d968e1fc721b67ed8c944b5353c1a66284",
+      "commentary_after_sha256": "8187992cdc233cc8ce5048b89707fc3f676e3c29d820edd523c3a3a0796fb892",
+      "result": "corrected_or_extended",
+      "assessment": "Uitgebreid met actuele HR-uitleg van wetenschap, werkelijk samenhangende transacties, toets van benadeling en verschil tussen bewijsjaar en vernietigingsbevoegdheid. Uitsluiting 3:50 lid 2, machtiging bij procederen en restitutie onderscheiden.",
+      "internal_cross_references_checked": [
+        "art-43",
+        "art-45",
+        "art-47",
+        "art-51",
+        "art-68"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:HR:2025:975"
+      ],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-42a",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel42a",
+      "source_paragraphs_reviewed": "1 a 1°–2°, b; 2",
+      "source_notes_reviewed": [
+        "Artikel IV van Stb. 2022/491 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "source_effective_from": "2023-01-01",
+      "statutory_text_sha256": "d7f8db1f1fa380a199e13bd2bf0b26fda97e290eabfa669179c920772218fe2f",
+      "commentary_before_sha256": "21f4c68f98d22a9b9b5a7a8e9135e1875ce3a80da7f1bb5ee078f6aa6e557d66",
+      "commentary_after_sha256": "f39e04147bfaf6fcd6b154dfb8ff4940165a8f756c657752b5a9d5118aca636f",
+      "result": "corrected_or_extended",
+      "assessment": "Ontbrekende noodzaakroutes stemming en homologatie en cumulatieve belangencriteria uitgewerkt. Precieze geïmporteerde leden en zinnen, procedurekeuze, rechtsmacht en bijzonder verzet verduidelijkt; geen algemene immuniteit of import van alle deskundigenbevoegdheden.",
+      "internal_cross_references_checked": [
+        "art-42",
+        "art-369",
+        "art-370",
+        "art-371",
+        "art-384"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-43",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel43",
+      "source_paragraphs_reviewed": "1 onderdelen 1°–6° inclusief a–d; 2–6",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "5684bf6ea64db44e1f6dd365960c4551547329243ca438bd45294aca899b3a31",
+      "commentary_before_sha256": "ce886390960693700eb4ff12015a49da685472012a6230e44850b547ee232424",
+      "commentary_after_sha256": "cf597e7a325847e35a5c91280fa66a88d3c2787e143a3cf021a9fb8fd5d1ba53",
+      "result": "corrected_or_extended",
+      "assessment": "Alle categorieën en onderscheiden kapitaal-/verwantschapsverbindingen beschreven, aparte terugkijktermijn voormalig functionaris uitgelegd. Lid 6 is financieringsvoorziening bij lege boedel, geen extra aansprakelijkheidsvermoeden; beperkte externe verwijzing officieel geverifieerd.",
+      "internal_cross_references_checked": [
+        "art-42"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-45",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel45",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "085c4f35bf4687295a3194522a2909423d6265e43d0ed05d0b921e5002390eee",
+      "commentary_before_sha256": "12bb6b9c1987284a3da72231b8510ebe607976e2245589e5d3434f43728230e2",
+      "commentary_after_sha256": "12bb6b9c1987284a3da72231b8510ebe607976e2245589e5d3434f43728230e2",
+      "result": "accepted_without_change",
+      "assessment": "Ongewijzigd aanvaard. Vermoeden alleen wetenschap schuldenaar bij benadelende handeling om niet binnen jaar; bescherming 42 lid 3 en oorspronkelijke datum bij 15d lid 2 correct onderscheiden.",
+      "internal_cross_references_checked": [
+        "art-42",
+        "art-15d"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-47",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel47",
+      "source_paragraphs_reviewed": "ongesplitst, beide alternatieven en schorsingsuitzondering",
+      "source_notes_reviewed": [],
+      "source_effective_from": "2021-01-01",
+      "statutory_text_sha256": "9ee53a4fab41109d3c2e937c25f7c16bd560aef2700e8d90fc1c49380c85a28c",
+      "commentary_before_sha256": "88432cbbb775df897cca8432220633fbea51ee6412b20b9ef80af6addf5f5482",
+      "commentary_after_sha256": "88432cbbb775df897cca8432220633fbea51ee6412b20b9ef80af6addf5f5482",
+      "result": "accepted_without_change",
+      "assessment": "Ongewijzigd aanvaard. Aanvraagkennis niet gelijk aan algemene financiële zorg; doelgericht overleg niet ieder betalingsoverleg; schorsing 3d/376 en opeisbaarheid correct.",
+      "internal_cross_references_checked": [
+        "art-3d",
+        "art-42",
+        "art-376"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-48",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel48",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "ee324c404277b31018330de9cd950c44999bb1ae9fb495f32616beea4ffd9e04",
+      "commentary_before_sha256": "5be588326e79eb712d2fb78977c28ab21f828026f27bb05112247df70e07f707",
+      "commentary_after_sha256": "648769a3cc944d297dc65263e64a846ec4b476c76986fa7dd8fc1f558df74638",
+      "result": "corrected_or_extended",
+      "assessment": "Voorbeeld gecorrigeerd: uitgiftekennis van daadwerkelijke aanvraag in plaats van alleen naderend faillissement. Tijdstip uitgifte, begunstigde versus houder en alternatief begunstigingsoverleg expliciet gemaakt.",
+      "internal_cross_references_checked": [
+        "art-47"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-49",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel49",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "86c4269bfa885c1dd40aa8d21a6d574cc3e82ca53629de69eaad707fa066c644",
+      "commentary_before_sha256": "e999e83ff97ea8f769d5d42d6b8db4bef7e23be8d8d8ca0457b16bbfa16de61e",
+      "commentary_after_sha256": "3611db73203397600763cbed4d996b2a44ffe648ea90a1e8b0fd7db3b1201978",
+      "result": "corrected_or_extended",
+      "assessment": "Voorbeeld verbeterd: schulderkenning kan grondslag ingediende vordering zijn; zekerheid alleen schept die schuld niet. Exclusieve curatoractie en defensief verificatieverweer schuldeiser behouden.",
+      "internal_cross_references_checked": [
+        "art-42",
+        "art-48",
+        "art-50"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-50",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel50",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "41be4f566259cb877056d1883e0eebef35f7fd7005df6ea11eadbf5e93143a01",
+      "commentary_before_sha256": "23a9b93d5bd5289dc722b7733da4789a877fe2d9f7f35b6d889dc1185e51c002",
+      "commentary_after_sha256": "1fc5896c1dd120f86ca29b1c9e50472c8d04d2deff4c09290c4a183b39ce7f76",
+      "result": "corrected_or_extended",
+      "assessment": "Materieel timingherstel: einde faillissement bij in kracht van gewijsde gegane homologatie volgens 161, niet enkel uitspraak. Boedelafstand en vereffenaarsbevoegdheid blijven aparte uitzondering.",
+      "internal_cross_references_checked": [
+        "art-49",
+        "art-161"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-51",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel51",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "c188f34123c8dc359ad3b68c5ff1bf057daa40ea2c0e395b8bf63dca20f308fc",
+      "commentary_before_sha256": "8943cf32f2d621f328d5015505e332a7b2d86f23211a9eedf89870978f659f1d",
+      "commentary_after_sha256": "8943cf32f2d621f328d5015505e332a7b2d86f23211a9eedf89870978f659f1d",
+      "result": "accepted_without_change",
+      "assessment": "Ongewijzigd aanvaard. Teruggave, derden anders dan om niet, derden om niet met bewijs niet-gebaat en beperkte restitutie boedel versus concurrent restant afzonderlijk juist uitgelegd. Bestaande praktische controlelijst behouden.",
+      "internal_cross_references_checked": [
+        "art-37",
+        "art-42",
+        "art-50"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-52",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel52",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "fcc6a31d9635f0368103b5c99a1e352fbd7b77dc6489271f16f9052df62c8e1e",
+      "commentary_before_sha256": "a7632efceb382f78e19bdae66de7141716a487797ed1db1e56e7805211591e05",
+      "commentary_after_sha256": "a7632efceb382f78e19bdae66de7141716a487797ed1db1e56e7805211591e05",
+      "result": "accepted_without_change",
+      "assessment": "Ongewijzigd aanvaard. Alleen voldoening oude verbintenis; bewijsrisico vóór en na aankondiging, tegenbewijs werkelijke kennis en bevrijding voor werkelijke boedelbaat correct. Geen bescherming afgeleid enkel uit afschrijving.",
+      "internal_cross_references_checked": [
+        "art-14"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-53",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel53",
+      "source_paragraphs_reviewed": "1–3",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "9e0fd20f2a0e4109abf0a504f417d4cb1dd14f179f5eac40ddf887da7db24d57",
+      "commentary_before_sha256": "9bbe6668aceeaee373089afde09bff3952e2ed6de5bbc43eb87f5891059524ba",
+      "commentary_after_sha256": "e54c1578afa6dc005327e0dc540703d8297bcc6faabd3ace8956a1a1068b1987",
+      "result": "corrected_or_extended",
+      "assessment": "Materiële nuance toegevoegd: wederkerigheid regelend, oud bewezen kruisverrekenbeding mogelijk; tijdsgrens dwingend. Nominaal versus waardering en uitgesloten processueel beroep 6:136 onderscheiden. HR-verwijzing bewijst geen feitelijk bestaan contract.",
+      "internal_cross_references_checked": [
+        "art-54",
+        "art-55",
+        "art-130",
+        "art-131"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:HR:2019:1789"
+      ],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-54",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel54",
+      "source_paragraphs_reviewed": "1–3 a–b",
+      "source_notes_reviewed": [],
+      "source_effective_from": "2021-01-01",
+      "statutory_text_sha256": "4474ed309e280fd8c7630a4097e5314fe39155cc63a288e54ba7f4864b53ebe5",
+      "commentary_before_sha256": "5f3c0b65c3c4ee6464ebc8e79a82b8813a7fdc57b57b1962bc77fef7628ffa58",
+      "commentary_after_sha256": "44773a6ef2f2f5345de3ccd1dde3c12c00565a2b9c5b09c9615217208e4367b5",
+      "result": "corrected_or_extended",
+      "assessment": "Goede-trouwmaatstaf omvat weten én behoren te weten; reddingsbereidheid alleen onvoldoende. Eigen-schuldpandrecht versus oorspronkelijk stil verpande vordering, concernbetaling en nieuwste afwijzing uitgaande-betalingenuitzondering uitgewerkt. Latere WHOA-regel niet op feiten 2020 geplakt; lid 3 heft lid 2 niet op.",
+      "internal_cross_references_checked": [
+        "art-53",
+        "art-370",
+        "art-371"
+      ],
+      "case_authorities_checked": [
+        "ECLI:NL:HR:2018:2189",
+        "ECLI:NL:HR:2023:1135",
+        "ECLI:NL:HR:2026:390"
+      ],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-55",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel55",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "c5753adfe6a928e2043e082abf759b0cc19792adeddbb047866b1927f70298ab",
+      "commentary_before_sha256": "742201e1e5030ec8233ea6da98f6020a4ec42ecf9fd11a292bc4e37f90806440",
+      "commentary_after_sha256": "742201e1e5030ec8233ea6da98f6020a4ec42ecf9fd11a292bc4e37f90806440",
+      "result": "accepted_without_change",
+      "assessment": "Ongewijzigd aanvaard. Verkrijging én goede trouw op faillissementsmoment door verrekenaar te bewijzen; later bezit alleen onvoldoende; algemene grenzen blijven.",
+      "internal_cross_references_checked": [
+        "art-53",
+        "art-54"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-56",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel56",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "f75f4436619328abc2653d7b8fdbd90ed1e3eac80ca4f6e0a50f9dab691327c3",
+      "commentary_before_sha256": "104933025076484ce01ff02fe5d786cea77223244d5cec4574b29dc3515c5caa",
+      "commentary_after_sha256": "d95f89b02611c7df1b5317f96a545df6ef7e2c9e1b76fefccf0cb3e86a2ab061",
+      "result": "corrected_or_extended",
+      "assessment": "Ontbrekend materieel effect ingevuld: toerekening gemeenschapsschuld op aandeel gefailleerde, doorbreking externe uitsluiting onvervulde voorwaarde en waardering 130/131. Officiële 3:184 leden 1–2 gelezen; geen vrijstaande boedelschuld gecreëerd.",
+      "internal_cross_references_checked": [
+        "art-130",
+        "art-131"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-57",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel57",
+      "source_paragraphs_reviewed": "1–4",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "378e58437862b89656691987457e49bcf80e991b998cf07770edebb7ca6ad47a",
+      "commentary_before_sha256": "019d9f0ecd07b0b8d01ac996200794f82a50f818d6c85f855218244934243aab",
+      "commentary_after_sha256": "019d9f0ecd07b0b8d01ac996200794f82a50f818d6c85f855218244934243aab",
+      "result": "accepted_without_change",
+      "assessment": "Ongewijzigd aanvaard. Separatistische bevoegdheid, vervallen beperkte rechten met vergoeding, beslagleggersrechten en hoger bevoorrechten plus specifieke rangregeling onderscheiden. Termijnstelling en afkoelingsperiode als begrenzingen aanwezig.",
+      "internal_cross_references_checked": [
+        "art-58",
+        "art-59",
+        "art-63a"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-58",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel58",
+      "source_paragraphs_reviewed": "1–2",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "147d6b4c950cfc4649c07fe55c9ac15bf1e600e3eba76d47b6e3863fa3837ebe",
+      "commentary_before_sha256": "6b51e52747a3fae6ab2058e1b6b7d6444e56aa7afd6f7e6a0995088474853703",
+      "commentary_after_sha256": "7d907bf1600c0eba3e531f59dfc669dfc48fdecb9af1c11cba896863792ca88a",
+      "result": "corrected_or_extended",
+      "assessment": "Verkoop versus alleen aankondiging, aanvrager verlenging, rechtsmiddeluitsluiting 67, machtiging bij lossing 68 en kostenverschil via 182 toegevoegd. Behoud opbrengstrecht geen garantie gelijke netto-uitkering.",
+      "internal_cross_references_checked": [
+        "art-57",
+        "art-67",
+        "art-68",
+        "art-101",
+        "art-176",
+        "art-182"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-59",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel59",
+      "source_paragraphs_reviewed": "ongesplitst",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "0f401eff8e58abb48d3aca5639405c83c7c5e1270f7ce15b36693ec926f42b3d",
+      "commentary_before_sha256": "7171db212375d0eb627fba715ca79ee1c4ab9083d41430684497e6812fac22ca",
+      "commentary_after_sha256": "7171db212375d0eb627fba715ca79ee1c4ab9083d41430684497e6812fac22ca",
+      "result": "accepted_without_change",
+      "assessment": "Ongewijzigd aanvaard. Concurrente tekortdeelname ook beperkt gerechtigde; feitelijke netto-ontvangsten en geen dubbele voldoening correct, taxatie geen definitief tekort.",
+      "internal_cross_references_checked": [
+        "art-57"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-59a",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel59a",
+      "source_paragraphs_reviewed": "1–7",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "3f0d850db5ade87400d726240d8eb4742913d5c21fc7020aabdf7a571c3c695e",
+      "commentary_before_sha256": "8998ba3fb0c16d5e9df21d9e33cac07b3d5cdc9bc1584584aab0b088a2dadd78",
+      "commentary_after_sha256": "d46b7f1fe62103b60c3bcaf04e2e299597ebcae2da733d4c7a9edd97c1da2f64",
+      "result": "corrected_or_extended",
+      "assessment": "Alle zeven leden uitgewerkt: registervoorwaarde, specifieke voorrechten, slechts 57 leden 2/3 geïmporteerd, verzoek verlenging, procesficties, vast te stellen kostendeel, lossing en teruggebrachte tekortregel. Geen ongecontroleerde reconstructie van heel luchtvaart-/verdragsrecht.",
+      "internal_cross_references_checked": [
+        "art-57",
+        "art-58",
+        "art-59",
+        "art-67"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    },
+    {
+      "id": "art-60",
+      "official_path": "/TiteldeelI/AfdelingTweede/Artikel60",
+      "source_paragraphs_reviewed": "1–4",
+      "source_notes_reviewed": [
+        "Tekstplaatsing met aanpassing van de spelling."
+      ],
+      "source_effective_from": "2005-12-01",
+      "statutory_text_sha256": "4c90f2efbc1f76b9ccd0ba93cbdca73e0cc5d9e763175146fee38d6aff202e00",
+      "commentary_before_sha256": "aa5b5ec1d36708869ce31d0f3c9c551179efc55558ab29af017efb4d845d33bd",
+      "commentary_after_sha256": "c7c5eaa064550da1273d0c3c0144d6471452fa883fd6f45545fc437f0fbefdd9",
+      "result": "corrected_or_extended",
+      "assessment": "Machtigingsvereiste 68, aanvrager verlenging en uitsluiting beroep 67, schorsing door afkoeling 63a en precieze sanctie registergoed uitgewerkt. Termijnrichting tegenover 58 en niet-tijdige verkoop onderscheiden; praktische hoofdstukcontrolelijst toegevoegd.",
+      "internal_cross_references_checked": [
+        "art-58",
+        "art-63a",
+        "art-67",
+        "art-68",
+        "art-101",
+        "art-176"
+      ],
+      "case_authorities_checked": [],
+      "unresolved_blockers": []
+    }
+  ],
+  "limitations": [
+    "Exactly the assigned 20 units were substantively reviewed in this process. Earlier 60 distinct unit reviews are preserved, not repeated or claimed as work of this process.",
+    "342 missing commentaries remain outside this bounded task; the complete-book builder and validator cannot pass.",
+    "Five selected full HR judgments were read and matched with the local national corpus. No exhaustive subsequent-case research or separately verified case for each technical unit.",
+    "External law independently checked only for limited BW references 2:138 lid 10 and 3:184. Other external Rv, BW, aviation, EU and transitional regimes are not certified in full; the verified current Faillissementswet references are retained.",
+    "Fresh-process second reading, not external professional approval. Minimum length, source match and script success do not prove legal quality."
+  ],
+  "technical_evidence": "review-checks.json",
+  "commentary_before_snapshot": "sources/review-art-41-60-commentary-before.txt",
+  "previous_batch_result": "sources/review-art-28-40-result.json",
+  "changed_units": [
+    "art-42",
+    "art-42a",
+    "art-43",
+    "art-48",
+    "art-49",
+    "art-50",
+    "art-53",
+    "art-54",
+    "art-56",
+    "art-58",
+    "art-59a",
+    "art-60"
+  ],
+  "accepted_without_change": [
+    "art-41",
+    "art-45",
+    "art-47",
+    "art-51",
+    "art-52",
+    "art-55",
+    "art-57",
+    "art-59"
+  ]
+}

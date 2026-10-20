@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2025:975",
+    "access_timestamp_utc": "2026-10-20T19:19:06.760592+00:00",
+    "raw_path": "sources/review-art-41-60-hr-2025-975.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2025:975",
+    "bytes": 31570,
+    "sha256": "e2a8948f2e9c29ed0cd23a8afdccefcff3b932393ceafce0e12d0b01d7233e3c",
+    "headers_path": "sources/review-art-41-60-hr-2025-975.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 22168
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2023:1135",
+    "access_timestamp_utc": "2026-10-20T19:19:06.761344+00:00",
+    "raw_path": "sources/review-art-41-60-hr-2023-1135.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2023:1135",
+    "bytes": 38964,
+    "sha256": "21d85711e316a316bfe0e77968e2f3866acda2669ffb1d0518444520d89f632b",
+    "headers_path": "sources/review-art-41-60-hr-2023-1135.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 29100
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2019:1789",
+    "access_timestamp_utc": "2026-10-20T19:19:06.761915+00:00",
+    "raw_path": "sources/review-art-41-60-hr-2019-1789.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2019:1789",
+    "bytes": 16083,
+    "sha256": "ef50e1e14f8080ef0b1a27fbf92184845e8d2dcb31b3067900b232bf872843d7",
+    "headers_path": "sources/review-art-41-60-hr-2019-1789.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 8940
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:2189",
+    "access_timestamp_utc": "2026-10-20T19:19:06.762045+00:00",
+    "raw_path": "sources/review-art-41-60-hr-2018-2189.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:2189",
+    "bytes": 25235,
+    "sha256": "41b7b1a8af5aaa0f30858ff9fe3b3b5022605c64d3369fbf3641dc72160ab0bc",
+    "headers_path": "sources/review-art-41-60-hr-2018-2189.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 17653
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2025:975",
+    "official_raw_path": "sources/review-art-41-60-hr-2025-975.xml",
+    "official_sha256": "e2a8948f2e9c29ed0cd23a8afdccefcff3b932393ceafce0e12d0b01d7233e3c",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2025-975.md",
+    "local_available": true,
+    "local_snapshot_path": "sources/review-art-41-60-hr-2025-975-local.md",
+    "local_sha256": "8890328a40c728b489597496eb5ccb2cb766235bf0168057fe90ec0c2e9fa288",
+    "normalized_corpus_body_is_official_suffix": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2023:1135",
+    "official_raw_path": "sources/review-art-41-60-hr-2023-1135.xml",
+    "official_sha256": "21d85711e316a316bfe0e77968e2f3866acda2669ffb1d0518444520d89f632b",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2023-1135.md",
+    "local_available": true,
+    "local_snapshot_path": "sources/review-art-41-60-hr-2023-1135-local.md",
+    "local_sha256": "9119c2cab051d0233debf2ea93eb865a5316b7271929647147dfd025c0ecb9a8",
+    "normalized_corpus_body_is_official_suffix": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2019:1789",
+    "official_raw_path": "sources/review-art-41-60-hr-2019-1789.xml",
+    "official_sha256": "ef50e1e14f8080ef0b1a27fbf92184845e8d2dcb31b3067900b232bf872843d7",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2019-1789.md",
+    "local_available": true,
+    "local_snapshot_path": "sources/review-art-41-60-hr-2019-1789-local.md",
+    "local_sha256": "d5ec9bd6f7c7defd6351090b626f45282fd53320fc791a0ee795d7ae6a4561cb",
+    "normalized_corpus_body_is_official_suffix": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2018:2189",
+    "official_raw_path": "sources/review-art-41-60-hr-2018-2189.xml",
+    "official_sha256": "41b7b1a8af5aaa0f30858ff9fe3b3b5022605c64d3369fbf3641dc72160ab0bc",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2018-2189.md",
+    "local_available": true,
+    "local_snapshot_path": "sources/review-art-41-60-hr-2018-2189-local.md",
+    "local_sha256": "7bfac365bfdc67e9f48151ec45347dcb15c7d72a66eacbb333a24161b933bd5a",
+    "normalized_corpus_body_is_official_suffix": true
+  },
+  {
+    "ecli": "ECLI:NL:HR:2026:390",
+    "official_raw_path": "sources/review-art-41-60-hr-2026-390.xml",
+    "official_sha256": "75dd3cb035b7cdae9c57b2bf15a88cf9cf972906899ebbcb6ae9da90fd63c3f4",
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2026-390.md",
+    "local_available": true,
+    "local_snapshot_path": "sources/review-art-41-60-hr-2026-390-local.md",
+    "local_sha256": "e5250327e5c5f8b8bf42c15ff97e61c1a7b6ceb9e5d5eb5cd7703eaf807115cc",
+    "normalized_corpus_body_is_official_suffix": true
+  }
+]

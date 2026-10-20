@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2026:390</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-10-16T10:01:53</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-03-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2026-03-13</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">24/02147</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht_insolventierecht">Civiel recht; Insolventierecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2025:1012" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2025:1012</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHARL:2024:1635" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHARL:2024:1635</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2026/589</rdf:li>
+          <rdf:li>RvdW 2026/407</rdf:li>
+          <rdf:li>JOR 2026/87 met annotatie van mr. A. Steneker</rdf:li>
+          <rdf:li>NJ 2026/136 met annotatie van F.M.J. Verstijlen</rdf:li>
+          <rdf:li>AA20260385 met annotatie van Wibier R.M. Reinout</rdf:li>
+          <rdf:li>RCR 2026/38</rdf:li>
+          <rdf:li>JIN 2026/65 met annotatie van mr. F.A.E. Kuijpers</rdf:li>
+          <rdf:li>JIN 2026/77 met annotatie van mr. T. Ensink</rdf:li>
+          <rdf:li>JONDR 2026/520</rdf:li>
+          <rdf:li>TvI 2026/34 met annotatie van R.J. Abendroth</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2026:390">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2026:390</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-03-13T08:45:47</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2026-03-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2026:390 Hoge Raad , 13-03-2026 / 24/02147</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2026:390:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Insolventierecht. Faillissementsrecht. Verrekening. Art. 54 Fw. Geschil over verrekening van schuld van bank als gevolg van creditering van inkomende betaling na peildatum van art. 54 Fw met vordering van bank die door uitvoering van betalingsopdrachten (uitgaande betalingen) daarna ontstaat. O.m. klacht van curator dat ten onrechte is afgeweken van vaste rechtspraak over art. 54 Fw op grond waarvan dergelijke verrekening niet mogelijk is.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2026:390:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>CIVIELE KAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	24/02147</para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>	13 maart 2026</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>In de zaak van</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Stefan JANSEN q.q.,</para>
+      <para>kantoorhoudende te Alkmaar,</para>
+      <para>EISER tot cassatie,</para>
+      <para>hierna: de curator,</para>
+      <para>advocaten: T.E. Booms en B.I. Kraaipoel,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>COÖPERATIEVE RABOBANK U.A.,</para>
+      <para>gevestigd te Utrecht,</para>
+      <para>VERWEERSTER in cassatie,</para>
+      <para>hierna: Rabobank,</para>
+      <para>advocaten: T.T. van Zanten en L. van den Reek.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop</title>
+    <parablock>
+      <para>Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar: </para>
+      <para>a. het vonnis in de zaak 9142954 UC EXPL 21-2861 van de kantonrechter in de rechtbank Midden-Nederland van 30 maart 2022;</para>
+      <para>b. de arresten in de zaak 200.314.050 van het gerechtshof Arnhem-Leeuwarden van            11 april 2023 en 5 maart 2024.</para>
+      <para>De curator heeft tegen het arrest van het hof van 5 maart 2024 beroep in cassatie ingesteld.</para>
+      <para>Rabobank heeft een verweerschrift tot verwerping ingediend.</para>
+      <para>De zaak is voor partijen toegelicht door hun advocaten, voor de curator mede door N.B. Pannevis en voor Rabobank mede door A.M. Mennens.</para>
+      <para>De conclusie van de Advocaat-Generaal G. Snijders strekt tot vernietiging van het arrest van het hof.</para>
+      <para>Een van de advocaten van Rabobank heeft schriftelijk op die conclusie gereageerd.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Uitgangspunten en feiten</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Deze zaak gaat, kort gezegd, over de vraag of het verrekeningsverbod van art. 54 Fw dat geldt voor een bank bij een inkomende betaling op de rekening van een rekeninghouder na het moment dat die bank weet of behoort te weten dat het faillissement van de rekeninghouder is te verwachten (en de bank daardoor niet meer te goeder trouw is in de zin van art. 54 Fw) (hierna ook: het peilmoment), ook geldt voor zover (de kredietruimte die is ontstaan door) de binnengekomen betaling daarna is gebruikt voor uitgaande betalingen die de rekeninghouder heeft verricht via die rekening.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>In cassatie kan van het volgende worden uitgegaan.</para>
+        <para>(i) [A] B.V. (hierna: de vennootschap) exploiteerde een café-restaurant.</para>
+        <para>(ii) De vennootschap werd vanaf 28 februari 2017 door Rabobank gefinancierd en hield bij Rabobank een bankrekening aan. De kredietlimiet was € 25.000,--. De vennootschap had zekerheid gesteld, onder andere in de vorm van een stil pandrecht op toekomstige vorderingen.</para>
+        <para>(iii) Er was tussen de vennootschap en Rabobank sprake van een rekening-courantverhouding in de zin van art. 6:140 BW. De inkomende en uitgaande betalingen werden daardoor automatisch (van rechtswege) verrekend door creditering of debitering van het saldo van de bankrekening.</para>
+        <para>(iv) Nadat begin maart 2020 in Nederland de coronacrisis was uitgebroken, moest de vennootschap haar restaurant noodgedwongen sluiten. De vennootschap heeft vervolgens aanspraak gemaakt op overheidssteun.</para>
+        <para>(v) Bij beschikking van 10 april 2020 heeft het UWV op grond van de Tijdelijke Noodmaatregel Overbrugging voor Werkgelegenheid (NOW) aan de vennootschap een tegemoetkoming voor de maanden maart, april en mei 2020 toegekend van               € 58.042,--. Daarbij is bepaald dat het UWV € 46.434,-- als voorschot zou betalen in drie maandelijkse termijnen van € 15.478,--.</para>
+        <para>(vi) Op 14 april 2020 is € 15.478,-- aan NOW-subsidie (de eerste termijn) bijgeschreven op de rekening van de vennootschap bij Rabobank. Voorafgaand aan de bijschrijving bedroeg het (negatieve) saldo van de bankrekening van de vennootschap                            - € 25.569,94. Na de bijschrijving en de daaropvolgende verrekening in rekening-courant bedroeg het (negatieve) saldo - € 10.091,94.</para>
+        <para>(vii) De vennootschap is op eigen verzoek failliet verklaard. Op 17 april 2020 heeft zij het verzoekschrift daartoe ingediend en op 21 april 2020 is het faillissement uitgesproken.</para>
+        <para>(viii) Als gevolg van uitgaande betalingen in opdracht van de vennootschap aan schuldeisers van de vennootschap is tussen 14 april 2020 en de datum van het faillissement van de vennootschap het debetsaldo op de bankrekening opgelopen van - € 10.091,94 tot - € 23.493,78.</para>
+        <para>(ix) De curator heeft Rabobank verzocht om het bedrag van € 15.478,-- uit hoofde van de NOW-subsidie over te maken naar de boedelrekening. Rabobank heeft aan dit verzoek niet voldaan. </para>
+        <para>(x) Tijdens de procedure heeft Rabobank een bedrag van € 2.076,16 – het verschil tussen het saldo vóór de bijschrijving van de NOW-subsidie (- € 25.569,94) en het saldo ten tijde van het faillissement (- € 23.493,78) – aan de boedel afgedragen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>In deze procedure vordert de curator, voor zover in cassatie van belang, dat voor recht wordt verklaard dat de verrekening door Rabobank van de girale bijschrijving van € 15.478,-- in strijd is met artikel 54 lid 1 Fw, en dat Rabobank geen beroep toekomt op de uitzonderingsregel uit het arrest Mulder q.q./CLBN<footnote-ref linkend="_fe2dcbc5-c070-402a-b345-ee6fe311d4b2" />, alsmede dat Rabobank wordt veroordeeld tot betaling aan de boedel van € 15.748,--.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>De rechtbank oordeelde dat art. 54 Fw aan verrekening door Rabobank in de weg zou kunnen staan, maar heeft de vorderingen van de curator toch afgewezen omdat naar haar oordeel niet vaststond dat Rabobank op 14 april 2020, op het moment van bijschrijving van de NOW-subsidie, niet te goeder trouw was in de zin van art. 54 Fw.<footnote-ref linkend="_f29f65e8-ff49-4de3-b3e5-2d9bcfb550eb" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>In hoger beroep hebben partijen procesafspraken gemaakt op grond waarvan in hoger beroep als uitgangspunt gold dat Rabobank al vóór 14 april 2020 niet meer te goeder trouw was in de zin van art. 54 Fw. In hoger beroep lag daarom alleen het standpunt van Rabobank voor dat zij het bedrag van de betalingen die zij na het moment dat zij wist of behoorde te weten dat het faillissement van de vennootschap was te verwachten, in opdracht van de vennootschap aan schuldeisers van de vennootschap heeft verricht, in mindering mocht brengen op de door haar voor de vennootschap ontvangen en af te dragen bedragen. Van een ongerechtvaardigde bevoordeling van de bank boven andere schuldeisers door gebruik te maken van haar bijzondere positie in het girale betalingsverkeer is volgens haar in dat geval namelijk geen sprake, omdat de betalingen worden verricht uit de binnengekomen betalingen dan wel uit de door de binnengekomen betalingen ontstane kredietruimte.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.6</nr>
+      <para>Het hof heeft het vonnis van de rechtbank bekrachtigd.<footnote-ref linkend="_7c9c451a-f673-4f51-9e7d-bf41ad92ba39" /> Het hof heeft, voor zover in cassatie van belang, als volgt overwogen:</para>
+      <para />
+      <parablock>
+        <para>“5.8 Artikel 54 Fw verzet zich er dus tegen dat de bank, als zij weet of behoort te weten dat de schuldenaar in een zodanige toestand verkeert dat zijn faillissement dan wel surseance van betaling is te verwachten, nog een inkomende betaling verrekent met het saldo op de door die schuldenaar bij haar gehouden rekening-courant (preciezer gezegd: dat zij de schuld die voor haar ontstaat als gevolg van de creditering van de inkomende betaling op de rekening van de schuldenaar verrekent met haar op dat moment bestaande vordering uit hoofde van de rekening-courantverhouding met de schuldenaar), dit tenzij de inkomende betaling betrekking heeft op een vordering die aan haar is verpand. Daarmee wordt voorkomen dat de bank bij een dreigend faillissement of surseance van betaling van de schuldenaar enkel vanwege haar bijzondere positie in het girale betalingsverkeer nog in staat is om verrekening toe te passen en zich daarmee te bevoordelen ten opzichte van de andere schuldeisers. Die situatie is echter niet aan de orde voor zover de bank daarna nog uit de kredietruimte die door inkomende betalingen op de rekening van de schuldenaar ontstaat betalingsopdrachten van de schuldenaar uitvoert. Van een ongerechtvaardigde bevoordeling van de bank boven andere schuldeisers door gebruik te maken van haar bijzondere positie in het girale betalingsverkeer is in dat geval geen sprake. Als artikel 54 Fw in deze situatie aan verrekening in de weg zou staan, zou de bank juist nadeel ondervinden van haar centrale positie in het betalingsverkeer, omdat zij de uitgaande betalingen dan mogelijk voor eigen rekening zou moeten nemen. Strijd met het beginsel van gelijkheid van schuldeisers levert dit niet op. Door toe te staan dat de schuldenaar (of na het faillissement de curator) kan beschikken over het bijgeschreven bedrag, wordt de schuldenaar (respectievelijk de curator) in wezen in dezelfde situatie gebracht als met artikel 54 Fw wordt beoogd. Gelet op de strekking van artikel 54 Fw en de redenen die de Hoge Raad noemt om dit artikel op banktransacties toe te passen, ziet het hof dan ook geen grond om aan te nemen dat dit artikel zich verzet tegen een verrekening van de schuld van de bank als gevolg van de creditering van een inkomende betaling na de peildatum met de vordering van de bank die door de uitvoering van betalingsopdrachten daarna ontstaat.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(…)</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.10.</nr>
+      <para>Tegen een andere benadering pleit verder dat onverkorte toepassing van artikel 54 Fw op de in deze procedure voorliggende situatie naar verwachting ongewenste maatschappelijke consequenties zal hebben. In dat geval loopt de bank immers het risico dat zij in geval van faillissement van een klant de na het peilmoment van artikel 54 Fw op de rekening van de klant ontvangen bedragen zal moeten afdragen terwijl zij de door het nog uitvoeren van betalingsopdrachten opgelopen vordering mogelijk niet meer kan verhalen. Gevolg daarvan zal zijn dat de bank bij klanten in financiële moeilijkheden eerder de financiering zal beëindigen, althans de uitvoering van betalingsopdrachten zal staken (zo nodig na aanpassing van de Algemene bankvoorwaarden om dit mogelijk te maken), waardoor de klant geen betalingen meer zal kunnen doen, ook niet voor maatregelen die noodzakelijk zijn om de continuïteit van zijn bedrijf zoveel mogelijk te waarborgen of om ernstige schade als gevolg van een ongecontroleerde beëindiging van de bedrijfsactiviteiten te voorkomen, met alle nadelige gevolgen van dien. Het belang van de gezamenlijke schuldeisers wordt daarmee ook niet gediend.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.11.</nr>
+      <para>De curator heeft nog aangevoerd dat banken onvoldoende belang hebben bij een uitzondering op de toepassing van artikel 54 Fw in deze situatie omdat zij in de fase voor faillissement al voldoende bescherming kennen. De curator noemt daarbij de constructie van de verzamelpandakte en het feit dat uitgaande betalingen resulteren in een hogere vordering van de bank die zij kan verhalen op haar gebruikelijke zekerheden, dat de bank uitgaande girale betalingen kan storneren (in geval van een automatische incasso of onterechte boeking) en dat de bank doorgaans hoofdelijkheid in concernverband heeft bedongen en een borgtocht van de bestuurder van de failliet geldt. Hierin volgt het hof de curator niet, alleen al omdat niet is betwist dat in veel faillissementen de gebruikelijke zekerheden onvoldoende dekking bieden. De hier aan de orde zijnde verrekeningsmogelijkheid is dus wel van belang. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.12.</nr>
+      <para>Op grond van het voorgaande komt het hof tot de conclusie dat artikel 54 lid 1 Fw niet in de weg staat aan verrekening van de schuld die voor de bank ontstaat als gevolg van de creditering van een inkomende betaling op de rekening van de schuldenaar na de peildatum als bedoeld in dit artikel, met de vordering die de bank verkrijgt op de schuldenaar door het daarna nog uitvoeren van betalingsopdrachten.</para>
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Toepassing op dit geval </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.13.</nr>
+      <para>Vaststaat dat het saldo van de bankrekening van [de vennootschap] op het peilmoment (vóór de bijschrijving van het bedrag van € 15.478) - € 25.569,94 bedroeg. Na de bijschrijving en de afschrijving van de bedragen die Rabobank daarna in opdracht van [de vennootschap] heeft betaald, bedroeg het saldo ten tijde van de faillietverklaring - € 23.493,78. Het verschil van                   € 2.076,16 is het bedrag dat buiten de toegestane verrekening valt en dat Rabobank dus aan de boedel moest afdragen. Nu Rabobank dit bedrag al heeft betaald, is de vordering van de curator niet meer toewijsbaar. Dit geldt ook voor de gevorderde verklaring voor recht, nu de curator daarbij geen afzonderlijk belang heeft.” </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.7</nr>
+      <para>In cassatie geldt als uitgangspunt dat Rabobank op 14 april 2020, toen de NOW-subsidie van € 15.478,-- werd bijgeschreven op de rekening van de vennootschap bij Rabobank (zie hiervoor in 2.2 onder (vi)), niet te goeder trouw was in de zin van art. 54 Fw. Ook geldt als uitgangspunt dat Rabobank geen pandrecht heeft verkregen op de vordering van de vennootschap op UWV uit hoofde van de toegekende NOW-subsidie.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het middel</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>De curator heeft onderdeel II van het middel ingetrokken. Daarom behoeft alleen onderdeel I behandeling.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <parablock>
+        <para>Onderdeel I klaagt dat onjuist is het oordeel van het hof in rov. 5.8-5.12 dat art. 54 lid 1 Fw niet in de weg staat aan verrekening van de schuld die voor de bank ontstaat als gevolg van de creditering van een inkomende betaling op de rekening van de schuldenaar na het peilmoment als bedoeld in die bepaling, met de vordering die de bank verkrijgt op de schuldenaar door het daarna nog uitvoeren van betalingsopdrachten. </para>
+        <para>Het onderdeel voert daartoe onder meer aan dat het hof zonder goede grond is afgeweken van de vaste rechtspraak van de Hoge Raad dat voor toepassing van art. 54 Fw betalingen die binnenkomen op een bankrekening worden behandeld als door de bank overgenomen schulden aan de rekeninghouder, en dat de bank haar vorderingen op de rekeninghouder niet kan verrekenen met schulden van de bank aan de rekeninghouder uit hoofde van betalingen die zijn binnengekomen op een bankrekening als zij daarbij niet te goeder trouw handelt in de zin van art. 54 Fw. Door die afwijking creëert het hof ten gunste van banken een nieuwe uitzondering op de verrekeningsregels die de Hoge Raad heeft aanvaard, aldus het onderdeel. Uitzonderingen daarop moeten – mede indachtig de positie van een bank – juist zeer beperkt worden opgevat. Die uitzondering is bovendien in strijd met het vaste uitgangspunt in de rechtspraak van de Hoge Raad dat de bank geen uitzonderingspositie mag ontlenen aan zijn positie in het betalingsverkeer. Zij faciliteert daarnaast een verstoring van de rangorde en (daarmee) benadeling van de gezamenlijke schuldeisers.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Indien een schuldenaar van een rekeninghouder bij een bank zijn schuld aan die rekeninghouder voldoet door storting op diens bankrekening, maakt de bank zich in zoverre door creditering van die rekening tot schuldenaar van de rekeninghouder.<footnote-ref linkend="_d6adf454-d060-4888-983c-db3ee4348e64" /> De bank mag de aldus ontstane schuld in beginsel binnen de rekening-courantverhouding verrekenen met hetgeen zij van de rekeninghouder te vorderen heeft.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Art. 54 lid 1 Fw bepaalt dat degene die een schuld aan de gefailleerde of een vordering op de gefailleerde vóór de faillietverklaring van een derde heeft overgenomen, niet bevoegd is tot verrekening, indien hij bij de overneming niet te goeder trouw heeft gehandeld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>In het arrest Amro Bank/THB heeft de Hoge Raad beslist dat indien de bank, toen zij zich door creditering van de rekening tot schuldenaar van de rekeninghouder maakte, niet te goeder trouw was in de zin van art. 54 Fw, die bepaling zich ertegen verzet dat de bank zich in het faillissement van de rekeninghouder op verrekening beroept.<footnote-ref linkend="_21b407cb-9518-4dfb-a231-16dec7f5899e" /> Deze beslissing komt erop neer dat voor de toepassing van art. 54 Fw de creditering van de rekening bij de bank die het gevolg is van een storting door een derde, wordt aangemerkt als – dan wel gelijkgesteld met – een schuldoverneming door de bank. Zij is mede gemotiveerd met het argument dat het girale betalingsverkeer aan banken geen uitzonderingspositie mag verschaffen in die zin, dat zij zich door middel van verrekening afzonderlijk zouden kunnen verhalen op hetgeen zij aan de schuldenaar schuldig zijn geworden in het zicht van diens faillissement of surseance van betaling.<footnote-ref linkend="_6427994a-c513-4aee-8fb1-e6cb0c12fe52" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6</nr>
+      <para>In de rechtspraak is aldus aanvaard dat de bank zich na het moment waarop zij niet meer te goeder trouw is in de zin van art. 54 Fw niet op verrekening mag beroepen ten aanzien van betalingen die binnenkomen op de rekening die de schuldenaar bij de bank aanhoudt. Er is geen aanleiding om hierop een uitzondering te aanvaarden voor het geval dat de bank na dat peilmoment uitgaande betalingen van die rekening heeft verricht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.7</nr>
+      <para>Uit hetgeen hiervoor in rov. 3.3-3.6 is overwogen, volgt dat het oordeel van het hof uitgaat van een onjuiste rechtsopvatting en dat onderdeel I slaagt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.8</nr>
+      <para>Partijen hebben uitdrukkelijk afgezien van het vorderen van proceskosten. De Hoge Raad zal daarom geen proceskostenveroordeling uitspreken.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>- vernietigt het arrest van het gerechtshof Arnhem-Leeuwarden van 5 maart 2024;</para>
+      <para>- verwijst het geding naar het gerechtshof ’s-Hertogenbosch ter verdere behandeling en beslissing.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vicepresident M.J. Kroeze als voorzitter en de raadsheren C.E. du Perron, H.M. Wattendorff, F.J.P. Lock en G.C. Makkink, en in het openbaar uitgesproken door de raadsheer A.E.B. ter Heide op <emphasis role="underline">13 maart 2026</emphasis>.</para>
+    </parablock>
+  </section>
+  <footnote id="_fe2dcbc5-c070-402a-b345-ee6fe311d4b2" label="1">
+    <para> 	HR 17 februari 1995, ECLI:NL:HR:1995:ZC1641.</para>
+  </footnote>
+  <footnote id="_f29f65e8-ff49-4de3-b3e5-2d9bcfb550eb" label="2">
+    <para> 	Rechtbank Midden-Nederland 30 maart 2022, ECLI:NL:RBMNE:2022:1261.</para>
+  </footnote>
+  <footnote id="_7c9c451a-f673-4f51-9e7d-bf41ad92ba39" label="3">
+    <para> 	Gerechtshof Arnhem-Leeuwarden 5 maart 2024, ECLI:NL:GHARL:2024:1635.</para>
+  </footnote>
+  <footnote id="_d6adf454-d060-4888-983c-db3ee4348e64" label="4">
+    <para> 	HR 8 juli 1987, ECLI:NL:HR:1987:AC0457 (Loeffen q.q./Bank Mees &amp; Hope), rov. 3.4, HR 19 november 2004, ECLI:NL:HR:2004:AR3137 (ING/Gunning q.q.), rov. 3.8.</para>
+  </footnote>
+  <footnote id="_21b407cb-9518-4dfb-a231-16dec7f5899e" label="5">
+    <para> 	HR 7 oktober 1988, ECLI:NL:HR:1988:1 (Amro Bank/THB), rov. 3.3, herhaald in het hiervoor genoemde arrest ING/Gunning q.q.</para>
+  </footnote>
+  <footnote id="_6427994a-c513-4aee-8fb1-e6cb0c12fe52" label="6">
+    <para>HR 23 november 2018, ECLI:NL:HR:2018:2189 (Eurocommerce), rov. 3.4.2.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

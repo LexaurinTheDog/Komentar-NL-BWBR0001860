@@ -96,6 +96,26 @@
       "method": "All five selected full judgments read; official raw XML and local bodies compared. Four local bodies omit initial party captions; remaining full bodies match after whitespace normalization.",
       "holding_limit": "Discovery snippets and PHR conclusions are not cited as HR holdings. No exhaustive later-case search and no separately verified case for every technical unit.",
       "evidence": "sources/review-art-28-40-case-comparison.json"
+    },
+    {
+      "date": "2026-10-20",
+      "scope": "Exactly assigned twenty units art-41 through art-60 including listed lettered units; other identifiers in the range not reviewed",
+      "source": "Local national HR corpus, official-site web discovery and official content API",
+      "queries": [
+        "rg -l ABN AMRO.*Dooren|ABN AMRO.*Van Dooren|BK0858|Mulder.*CLBN|Feenstra.*ING",
+        "site.rechtspraak.nl ECLI HR pauliana Van Dooren BK0858 wetenschap benadeling",
+        "site.rechtspraak.nl ECLI HR 2019 54 verrekening Eurocommerce ING 2018 2189"
+      ],
+      "selected_new_cases": [
+        "ECLI:NL:HR:2025:975",
+        "ECLI:NL:HR:2019:1789",
+        "ECLI:NL:HR:2018:2189",
+        "ECLI:NL:HR:2023:1135",
+        "ECLI:NL:HR:2026:390"
+      ],
+      "disposition": "Five complete official judgments read and local full bodies compared. 2026:390 discovered in local corpus and verified directly, preventing reliance solely on older cases. Discovery hits, third-party annotations, PHR conclusions and other footnote cases not treated as verified HR holdings.",
+      "evidence": "sources/review-art-41-60-case-comparison.json",
+      "limits": "Selective research; no claim every technical unit has a relevant case or that all subsequent authorities were exhausted."
     }
   ],
   "negative_and_limits": "Geen afzonderlijke uitspraak voor iedere technische of vervallen artikelplaats gezocht of geclaimd. Voor de overige geschreven eenheden berust de toelichting primair op de gecontroleerde wettekst en interne samenhang. Ontbrekende rechtspraakdekking is niet gelijk aan het niet-bestaan van rechtspraak. Niet geschreven bijzondere financiële regimes, surseance, WSNP en WHOA hebben in deze checkpoint geen afgerond rechtspraakonderzoek."

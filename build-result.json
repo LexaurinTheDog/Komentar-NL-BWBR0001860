@@ -4,6 +4,6 @@
   "stdout": "",
   "stderr": "CHYBÍ komentář k 342 jednotkám, např.: ['art-212j', 'art-212k', 'art-212l', 'art-212m', 'art-212ma', 'art-212n', 'art-212o', 'art-212p', 'art-212q', 'art-212r']\n",
   "ok": false,
-  "scope": "Full-book builder invoked after assigned art-28–40 second reading; 342 missing unassigned commentaries remain outside this bounded task.",
-  "reason": "342 official units still lack commentary. Source and units complete; no fallback or empty commentary introduced."
+  "scope": "Full-book build after exact art-41–60 second reading; 342 missing unassigned commentaries remain outside the bounded task.",
+  "reason": "No empty commentary, omission or weakened shared builder introduced."
 }
