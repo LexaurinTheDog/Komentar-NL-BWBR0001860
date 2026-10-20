@@ -1,0 +1,91 @@
+{
+  "assigned_ids": [
+    "art-241d",
+    "art-241e",
+    "art-242",
+    "art-243",
+    "art-244",
+    "art-245",
+    "art-246",
+    "art-247",
+    "art-247a",
+    "art-247b",
+    "art-247c",
+    "art-247d",
+    "art-248",
+    "art-249",
+    "art-249a",
+    "art-250",
+    "art-250a",
+    "art-251",
+    "art-252",
+    "art-253"
+  ],
+  "assigned_total": 20,
+  "completed_units": 20,
+  "commentary_chars": {
+    "art-241d": 1624,
+    "art-241e": 1672,
+    "art-242": 2328,
+    "art-243": 1640,
+    "art-244": 1492,
+    "art-245": 1353,
+    "art-246": 1510,
+    "art-247": 1513,
+    "art-247a": 1769,
+    "art-247b": 1701,
+    "art-247c": 1560,
+    "art-247d": 1558,
+    "art-248": 1497,
+    "art-249": 2220,
+    "art-249a": 1467,
+    "art-250": 1586,
+    "art-250a": 535,
+    "art-251": 2379,
+    "art-252": 1584,
+    "art-253": 1506
+  },
+  "batch_checks_ok": true,
+  "verbatim_ratio": 1.0,
+  "all_639_official_texts_exact": true,
+  "unassigned_commentary_unchanged": true,
+  "repeated_long_paragraphs": 0,
+  "full_build_returncode": 1,
+  "bounded_build_returncode": 0,
+  "validation_result": {
+    "bounded": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 32494,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "whole_book": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 639,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 703395,
+      "errors": [
+        "krátký/chybějící komentář u 159 jednotek: ['art-254(0<400)', 'art-255(0<400)', 'art-256(0<400)', 'art-257(0<400)', 'art-257a(0<120)', 'art-258(0<400)', 'art-259(0<400)', 'art-260(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  },
+  "stage": "bounded_batch_authored",
+  "whole_book_complete": false,
+  "independent_review": false,
+  "case_law_sources": [
+    "ECLI:NL:HR:2017:1280",
+    "ECLI:NL:HR:2018:424"
+  ],
+  "limitations": [
+    "Whole-book authoring incomplete.",
+    "Selective case-law search, not exhaustive.",
+    "Independent second pass pending."
+  ],
+  "at": "2026-10-20T23:41:04.703377+00:00",
+  "local_links_checked": 6
+}

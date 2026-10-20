@@ -1,0 +1,17 @@
+{
+  "at": "2026-10-20T23:41:04.703377+00:00",
+  "queries": [
+    "site.rechtspraak.nl \"242\" \"surseance\" \"Hoge Raad\"",
+    "site.rechtspraak.nl \"249\" \"surseance\" \"Hoge Raad\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+  "local_versions": [
+    "ecli-nl-hr-2017-1280.md",
+    "ecli-nl-hr-2018-424.md"
+  ],
+  "verified_case_sources": [
+    "ECLI:NL:HR:2017:1280",
+    "ECLI:NL:HR:2018:424"
+  ],
+  "disposition": "Full official judgments and local versions read; selective search, no exhaustive coverage. No separately verified case sufficiently specific to the other technical provisions was added."
+}
