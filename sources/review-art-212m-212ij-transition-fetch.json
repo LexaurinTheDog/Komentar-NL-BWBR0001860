@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2022-105.xml",
+    "http_status": 200,
+    "sha256": "50850bb4cc74f915ce944bdc2719f087072bd4f13bb133eea254a8bd23752173",
+    "raw_path": "sources/review-art-212m-212ij-stb-2022-105.xml",
+    "access_timestamp_utc": "2026-10-20T22:35:14.840700+00:00"
+  },
+  {
+    "url": "https://zoek.officielebekendmakingen.nl/stb-2022-22.xml",
+    "http_status": 200,
+    "sha256": "253880892929d63eda7663bc05f0843728d37c76a20857cf87f765b817a5bcc4",
+    "raw_path": "sources/review-art-212m-212ij-stb-2022-22.xml",
+    "access_timestamp_utc": "2026-10-20T22:35:14.883669+00:00"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "searched_at_utc": "2026-10-20T22:36:44.979840+00:00",
+  "queries": [
+    "site:rechtspraak.nl \"212rc\"",
+    "site:rechtspraak.nl \"212ra\"",
+    "site:rechtspraak.nl \"212u\" bank"
+  ],
+  "web_result": "No search results; no judgment attributed.",
+  "local_search": "rg -l -i 212ra|212rb|212rc|212rd|212rf|212u|212w /Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr --glob *.md",
+  "local_matches": [],
+  "limitation": "Selective only; no exhaustive negative claim."
+}

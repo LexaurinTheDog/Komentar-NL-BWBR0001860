@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2022-105/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 23 februari 2022 tot wijziging van de Wet op het financieel toezicht en de Faillissementswet in verband met de bevoegdheid om vast te stellen of een bank of beleggingsonderneming faalt of waarschijnlijk zal falen en in verband met de verificatie van interesten die lopen vanaf de faillietverklaring van een bank of beleggingsonderneming ter uitvoering van Richtlijn nr. 2014/59/EU alsmede ter uitvoering van Verordening (EU) nr. 806/2014</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat het wenselijk is om ter uitvoering van Richtlijn nr. 2014/59/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de totstandbrenging van een kader voor het herstel en de afwikkeling van kredietinstellingen en beleggingsondernemingen en tot wijziging van Richtlijn 82/891/EEG van de Raad en de Richtlijnen 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU en 2013/36/EU en Verordeningen (EU) nr. 1093/2010 en (EU) nr. 648/2012, van het Europees Parlement en de Raad (PbEU 2014, L 173), alsmede ter uitvoering van Verordening (EU) nr. 806/2014 van het Europees Parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees Parlement en de Raad (PbEU 2014, L 225) aan De Nederlandsche Bank de bevoegdheid toe te kennen om in bepaalde gevallen vast te stellen dat een bank of beleggingsonderneming faalt of waarschijnlijk zal falen, en dat het gewenst is dat de interesten die lopen vanaf de faillietverklaring van een bank of beleggingsonderneming worden geverifieerd;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">In de Wet op het financieel toezicht wordt na artikel 3A:20 een artikel ingevoegd, luidende:</wat>
+          <wijziging>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">3A:20a</nr>
+                <titel>Beoordeling voorwaarde dat de entiteit faalt of waarschijnlijk zal falen binnen SRM</titel>
+              </kop>
+              <al>Met betrekking tot entiteiten, bedoeld in artikel 7, derde lid, van de verordening gemeenschappelijk afwikkelingsmechanisme, beoordeelt de Nederlandsche Bank of is voldaan aan de voorwaarde, bedoeld in artikel 18, eerste lid, onderdeel a, van die verordening.</al>
+            </artikel>
+          </wijziging>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <wat type="wijziging">In de Faillissementswet worden na artikel 212rb twee artikelen ingevoegd, luidende:</wat>
+          <wijziging>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">212rc</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1.</lidnr>
+                <al>De indiening op de voet van artikel 110 van een vordering houdt tevens in de indiening van een vordering met betrekking tot de interesten over die vordering die vanaf de faillietverklaring lopen.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2.</lidnr>
+                <al>In afwijking van artikel 128 wordt ook de vordering met betrekking tot de andere interesten dan die welke door pand of hypotheek zijn gedekt, pro memorie geverifieerd.</al>
+              </lid>
+            </artikel>
+            <artikel status="goed">
+              <kop>
+                <label>Artikel</label>
+                <nr status="officieel">212rd</nr>
+              </kop>
+              <lid>
+                <lidnr status="officieel">1.</lidnr>
+                <al>De curator kan een tussentijdse uitkering doen op bepaalde vorderingen, indien de rechter-commissaris daarvoor op verzoek van de curator toestemming geeft.</al>
+              </lid>
+              <lid>
+                <lidnr status="officieel">2.</lidnr>
+                <al>De rechter-commissaris kan toestemming verlenen indien:</al>
+                <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>voldoende waarschijnlijk is voor welke bedragen de desbetreffende vorderingen geheel of ten minste zullen worden geverifieerd;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>een tussentijdse uitkering wenselijk is om te bewerkstelligen dat de periode na de faillietverklaring waarover de interesten lopen, wordt bekort; en</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>de tussentijdse uitkeringen niet ten koste gaan van andere schuldeisers.</al>
+                  </li>
+                </lijst>
+              </lid>
+            </artikel>
+          </wijziging>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III</nr>
+          </kop>
+          <al>Op het faillissement van een bank of beleggingsonderneming dat is uitgesproken voor het tijdstip van inwerkingtreding van artikel II blijven de bepalingen van de Faillissementswet van toepassing zoals die golden voor dat tijdstip.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IV</nr>
+          </kop>
+          <al>Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk <dossierref dossier="35945">35 945</dossierref></al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2022-02-23">23 februari 2022</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Financiën,</functie>
+          <naam>
+            <voornaam>S.A.M.</voornaam>
+            <achternaam>Kaag</achternaam>
+          </naam>
+        </ondertekening>
+        <ondertekening>
+          <functie>De Minister voor Rechtsbescherming,</functie>
+          <naam>
+            <voornaam>F.M.</voornaam>
+            <achternaam>Weerwind</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2022-03-02">Uitgegeven de <nadruk type="cur">tweede</nadruk> maart 2022</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.</voornaam>
+              <achternaam>Yeşilgöz-Zegerius</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

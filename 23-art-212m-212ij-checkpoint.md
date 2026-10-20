@@ -1,6 +1,6 @@
-# Artikelen 212m–212ij — auteurscheckpoint
+# Artikelen 212m–212ij — beoordeeld checkpoint
 
-Twintig toegewezen eenheden van het onvoltooide commentaar. Wettekst: 1 september 2026. [Broncontrole](sources/author-art-212m-212ij-preflight-result.json). [Selectieve rechtspraakzoekactie](sources/author-art-212m-212ij-search-log.json). Tekst commentaar © 2026 Vojtěch Říha; Apache-2.0. Concept, nog geen onafhankelijke tweede beoordeling.
+Twintig toegewezen eenheden van het onvoltooide commentaar. Wettekst: 1 september 2026. Projectinterne tweede lezing op 21 oktober 2026: zeven toelichtingen gecorrigeerd, dertien aanvaard. [Exacte beoordeling](sources/review-art-212m-212ij-result.json). [Bronpreflight](sources/review-art-212m-212ij-preflight-result.json). Tekst commentaar © 2026 Vojtěch Říha; Apache-2.0. Concept; geen externe professionele goedkeuring.
 
 ### Artikel 212m
 
@@ -8,7 +8,14 @@ Twintig toegewezen eenheden van het onvoltooide commentaar. Wettekst: 1 septembe
 
 > Vervallen
 
-Dit artikel is vervallen. De huidige nummerplaats verleent dus geen zelfstandige bevoegdheid en bevat geen actuele procedurestap voor de curator. De officiële bron wijst uitdrukkelijk op artikel XIV, vierde lid, van Stb. 2018/489. Bij een ouder bankfaillissement moet daarom eerst het toepasselijke overgangsrecht worden onderzocht voordat een historische tekst van artikel 212m wordt gebruikt. De enkele aanwezigheid van het nummer in een oud processtuk bewijst niet dat die regeling ook in een nieuwe procedure geldt. Denk aan een curator die een oud modelverzoek aantreft: hij moet de rechtsgrond opnieuw vaststellen en kan het vervallen artikel niet zonder temporele onderbouwing overnemen.
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+m.b.t. deze wijziging.
+
+Artikel 212m is vervallen en biedt thans geen grondslag om een bank failliet te verklaren. De historische tekst van 1 januari 2018 regelde juist de overgang vanuit een noodregeling naar faillissement. Lid 1 bevatte een bijzondere faillissementsgrond, met het horen van ECB of DNB overeenkomstig de toenmalige bevoegdheidsverdeling, negatief eigen vermogen en voorwaarden rond het met de machtiging te bereiken doel. Lid 2 liet noodregeling en machtiging bij faillietverklaring van rechtswege eindigen.
+
+Het oude lid 3 verbond aan die overgang, en aan faillissement binnen vier weken na beëindiging van de noodregeling, afzonderlijke gevolgen: berekening van termijnen voor benadelingshandelingen en bestuurdersaansprakelijkheid, voortzetting van boedelschuldstatus, toerekening van bewindvoerdershandelingen aan de curator, begrenzing van aansprakelijkheid voor onbevoegd aangegane verbintenissen, voortzetting van de vangnetregeling en uitvoering van een overdrachtsplan. Lid 4 verklaarde de eerste titel en artikel 362 overeenkomstig toepasselijk. Dit is historische duiding, geen beschrijving van huidig geldende bevoegdheden.
+
+De bronnoot verwijst naar artikel XIV lid 4 van Stb. 2018/489. Dat lid behoudt de oude Faillissementswet voor verzekeraarsfaillissementen uitgesproken vóór inwerkingtreding van artikel IV; het is geen algemene behoudsregel voor oudere bankfaillissementen. Bijvoorbeeld: een curator vindt een oud model dat de vierwekentermijn noemt. Hij kan die regel niet door alleen naar deze bronnoot te verwijzen op een nieuwe bankprocedure toepassen; daarvoor is een afzonderlijk toepasselijke temporele grondslag nodig.
 
 ### Artikel 212ma
 
@@ -16,7 +23,12 @@ Dit artikel is vervallen. De huidige nummerplaats verleent dus geen zelfstandige
 
 > Vervallen
 
-De vermelding «Vervallen» bewaart de nummering, maar is geen materiële regel over een bankfaillissement. Ook hier verwijst de officiële bron naar artikel XIV, vierde lid, van Stb. 2018/489. Daarmee is een onderscheid nodig tussen de actuele wet en een mogelijk door overgangsrecht beheerste oudere afwikkeling. Uit het vervallen van deze plaats volgt op zichzelf niet welke andere bepaling een vroeger rechtsgevolg heeft overgenomen. Bijvoorbeeld: een schuldeiser die zijn aanspraak uitsluitend op een historische weergave van artikel 212ma baseert, zal moeten uitleggen waarom juist die versie temporeel toepasselijk is; de huidige nummerplaats draagt die aanspraak niet.
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+m.b.t. deze wijziging.
+
+De huidige nummerplaats is vervallen. In de officiële toestand van 1 januari 2018 had zij een specifieke aanvullende functie: wanneer een bank failliet werd verklaard zonder toepassing van artikel 212m lid 1 of lid 3, werd afdeling 3.5.6 Wft overeenkomstig toepasselijk verklaard. Anders dan artikel 212m zelf bevatte deze bepaling dus geen bijzondere faillissementsgrond of uitgebreide gevolgenregeling bij opvolging van een noodregeling. Zij legde een koppeling met de toenmalige vangnetregeling voor het andere faillissementsscenario.
+
+Die historische verwijzing mag niet als een actuele zelfstandige opdracht tot toepassing van de huidige Wft worden gelezen. De bronnoot over artikel XIV lid 4 van Stb. 2018/489 betreft bovendien behoud van de oude Faillissementswet bij de daar omschreven reeds uitgesproken verzekeraarsfaillissementen. Daaruit volgt geen algemene voortzetting van deze oude bankbepaling. Bijvoorbeeld: een schuldeiser beroept zich op een oude brief waarin artikel 212ma staat. Eerst moeten datum, toepasselijke wetsversie en een eventuele eigen overgangsgrond worden vastgesteld; de huidige vermelding «Vervallen» draagt de gestelde aanspraak niet. De inhoud van de destijds aangehaalde Wft-afdeling is hier niet als huidig recht gereconstrueerd.
 
 ### Artikel 212n
 
@@ -40,11 +52,14 @@ Deze taak van DNB moet worden onderscheiden van de publicatie door de curator in
 >
 > 4 De kosten van inschrijving op de voet van het derde lid zijn boedelschuld.
 
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+m.b.t. deze wijziging.
+
 De curator moet de Nederlandse faillissementsbekendmaking aanvullen met Europese en buitenlandse publiciteit. Lid 1 schrijft publicatie in het Publicatieblad van de Europese Unie voor en daarnaast in ten minste twee landelijke dagbladen van iedere andere betrokken lidstaat. Niet alleen een bijkantoor, maar ook dienstverlening naar die lidstaat activeert die tweede publicatieplicht. Artikel 14, derde lid, blijft gelden: buitenlandse bekendmaking vervangt de gewone nationale publicatie niet.
 
-Lid 2 verlangt bovendien de waarschuwing dat in beginsel Nederlands recht geldt, met uitzonderingen. Dat voorbehoud is inhoudelijk belangrijk, gezien de verwijzingsregels vanaf artikel 212t. De curator moet geen indruk wekken dat elk buitenlands vermogensrecht zonder uitzondering door Nederlands faillissementsrecht wordt beheerst. Lid 3 geeft daarnaast een bevoegdheid om inschrijving in een buitenlands openbaar register te verzoeken. Dat is anders geformuleerd dan de verplichte publicaties van lid 1. Lid 4 merkt de kosten van juist deze inschrijving aan als boedelschuld.
+Lid 2 verlangt bovendien de waarschuwing dat in beginsel Nederlands recht geldt, met uitzonderingen. Dat voorbehoud is inhoudelijk belangrijk, gezien het onderscheid tussen hoofdregel en bijzondere uitzonderingen, dat bij inkomende liquidaties zichtbaar wordt in artikel 212t en volgende. De curator moet geen indruk wekken dat elk buitenlands vermogensrecht zonder uitzondering door Nederlands faillissementsrecht wordt beheerst. Lid 3 geeft daarnaast een bevoegdheid om inschrijving in een buitenlands openbaar register te verzoeken. Dat is anders geformuleerd dan de verplichte publicaties van lid 1. Lid 4 merkt de kosten van juist deze inschrijving aan als boedelschuld.
 
-Bijvoorbeeld: een Nederlandse bank heeft een Belgisch bijkantoor en verleent ook diensten naar Duitsland. De curator moet de publicatieplicht voor beide landen beoordelen; hij kan daarnaast inschrijving in een relevant buitenlands register verzoeken. Voor een ouder faillissement verdient de bij de officiële tekst vermelde overgangsrechtelijke verwijzing afzonderlijke controle. Publicatie is geen vervanging voor de persoonlijke kennisgeving aan bekende schuldeisers.
+Bijvoorbeeld: een Nederlandse bank heeft een Belgisch bijkantoor en verleent ook diensten naar Duitsland. De curator moet de publicatieplicht voor beide landen beoordelen; hij kan daarnaast inschrijving in een relevant buitenlands register verzoeken. De bronnoot verwijst naar artikel XIV lid 4 van Stb. 2018/489: die behoudsregel betreft de daar omschreven oudere verzekeraarsfaillissementen en is geen algemene uitzondering voor oudere bankprocedures. Publicatie is geen vervanging voor de persoonlijke kennisgeving aan bekende schuldeisers.
 
 ### Artikel 212p
 
@@ -56,9 +71,11 @@ Bijvoorbeeld: een Nederlandse bank heeft een Belgisch bijkantoor en verleent ook
 >
 > 3 De curator stelt alle bekende schuldeisers regelmatig op passende wijze in kennis van in ieder geval het verloop van de procedure.
 
+*Redactionele bronnotitie:* Artikel V van Stb. 2018/299 bevat overgangsrecht m.b.t. deze wijziging.
+
 De informatieplicht tegenover bekende schuldeisers kent drie momenten. Lid 1 eist onmiddellijke schriftelijke kennisgeving van het faillissementsvonnis. De verplichting is niet tot Nederlandse schuldeisers of concurrente vorderingen beperkt. De curator moet de beschikbare administratie daarom gebruiken om de bekende schuldeisers daadwerkelijk te bereiken, naast de algemene publiciteit van artikel 212o.
 
-Lid 2 sluit aan bij de kennisgeving van de beschikkingen uit artikel 109. Daarbij moet de curator ook de gevolgen uitleggen van indiening na de daar bedoelde termijn en de termijnen van artikel 127, eerste en tweede lid. De verwijzingen mogen niet worden gereduceerd tot één ongedifferentieerde uiterste datum. Verder moet expliciet blijken dat ook schuldeisers met een voorrecht of zakelijk zekerheidsrecht hun vorderingen indienen en hun beroep op die positie opgeven. Het bericht beslist daarmee niet of dat voorrecht of zekerheidsrecht werkelijk bestaat.
+Lid 2 sluit aan bij de kennisgeving van de beschikkingen uit artikel 109. Daarbij moet de curator ook de gevolgen uitleggen van indiening na de daar bedoelde termijn en de termijnen van artikel 127, eerste en tweede lid. De verwijzingen moeten worden gelezen met de actuele tekst: artikel 109 lid 1 regelt de kennisgeving van de beschikking van artikel 108; artikel 127 lid 1 bepaalt als uitgangspunt veertien dagen vóór de eerste verificatievergadering en lid 2 laat aanpassing door de rechter-commissaris toe. Lid 3 van artikel 127 verbindt aan te late indiening dat de vordering niet voor verificatie in behandeling wordt genomen. De enigszins onhandige verwijzing in artikel 212p naar een termijn in artikel 109 lid 1 mag niet stilzwijgend als een daar uitgeschreven afzonderlijke termijn worden weergegeven. Verder moet expliciet blijken dat ook schuldeisers met een voorrecht of zakelijk zekerheidsrecht hun vorderingen indienen en hun beroep op die positie opgeven. Het bericht beslist daarmee niet of dat voorrecht of zekerheidsrecht werkelijk bestaat.
 
 Lid 3 maakt informatieverstrekking tot een doorlopende taak: alle bekende schuldeisers worden regelmatig en passend geïnformeerd, in ieder geval over het procedureverloop. Een eenmalige openingsbrief sluit die verplichting niet af. Bijvoorbeeld: een buitenlandse leverancier met een gestelde zekerheid krijgt eerst het faillissementsbericht, daarna de relevante indieningsinformatie en vervolgens voortgangsberichten. Bij het bericht in de eerste fase speelt ook de taalregeling van artikel 212q. De officiële overgangsrechtelijke aantekening vraagt bij oudere procedures om controle van de temporele toepasselijkheid.
 
@@ -71,6 +88,8 @@ Lid 3 maakt informatieverstrekking tot een doorlopende taak: alle bekende schuld
 > 2 Elke schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat kan zijn vordering en schriftelijke opmerkingen betreffende zijn vordering indienen in een officiële taal van die lidstaat met een verklaring met als opschrift in de Nederlandse taal «Indiening van een vordering» onderscheidenlijk «Indiening van opmerkingen betreffende een vordering».
 >
 > 3 De curator kan een vertaling in het Nederlands van het stuk waarbij de vordering wordt ingediend en van de opmerkingen betreffende de vordering verlangen.
+
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
 
 Artikel 212q verlaagt taalbarrières zonder de Nederlandse procedure geheel meertalig te maken. Voor de kennisgeving van artikel 212p, eerste lid, aan een bekende schuldeiser met gewone verblijfplaats of woonplaats in een lidstaat schrijft lid 1 Nederlands voor. Het formulier moet wel in alle officiële EU-talen het voorgeschreven opschrift dragen. Dat herkenbare opschrift helpt de ontvanger de aard en urgentie van de brief vast te stellen; het is geen wettelijke opdracht om de gehele inhoud in al die talen te vertalen.
 
@@ -132,11 +151,13 @@ Bijvoorbeeld: twee obligatiereeksen van dezelfde gefailleerde hebben verschillen
 >
 > 2 In afwijking van artikel 128 wordt ook de vordering met betrekking tot de andere interesten dan die welke door pand of hypotheek zijn gedekt, pro memorie geverifieerd.
 
+*Redactionele bronnotitie:* Artikel III van Stb. 2022/105 bevat overgangsrecht m.b.t. deze wijziging.
+
 De indiening van de hoofdvordering volgens artikel 110 omvat door lid 1 automatisch ook de rentevordering over de periode vanaf de faillietverklaring. De schuldeiser hoeft die na faillissement lopende rente dus niet als volledig losstaande indiening te behandelen. Daarmee staat echter nog niet vast dat er een materiële renteaanspraak bestaat of welk tarief geldt. Hoofdsom, rentegrondslag, periode en eventuele betalingen moeten controleerbaar blijven.
 
 Lid 2 wijkt af van artikel 128: ook andere dan door pand of hypotheek gedekte rente wordt pro memorie geverifieerd. «Pro memorie» houdt de renteaanspraak in de verificatie betrokken zonder dat die formulering op zichzelf de uiteindelijke berekening, rang of uitkering vaststelt. De bijzondere rentebehandeling verklaart tevens het belang van artikel 212rd, waarmee onder voorwaarden door een tussentijdse uitkering de rentedragende periode kan worden verkort.
 
-Bijvoorbeeld: een schuldeiser dient een ongedekte lening in. De curator behandelt daarmee tevens de aanspraak op rente vanaf de faillietverklaring en neemt die overeenkomstig lid 2 pro memorie in de verificatie op. Een geschil over het contractuele tarief wordt niet door de automatische indiening beslecht. Bij een gedeeltelijke tussentijdse betaling moet daarna worden beoordeeld welke rente nog loopt. De officiële bron noemt overgangsrecht in artikel III van Stb. 2022/105; bij een al eerder geopend faillissement mag de huidige renteregel daarom niet zonder temporele controle worden toegepast.
+Bijvoorbeeld: een schuldeiser dient een ongedekte lening in. De curator behandelt daarmee tevens de aanspraak op rente vanaf de faillietverklaring en neemt die overeenkomstig lid 2 pro memorie in de verificatie op. Een geschil over het contractuele tarief wordt niet door de automatische indiening beslecht. Bij een gedeeltelijke tussentijdse betaling moet daarna worden beoordeeld welke rente nog loopt. De officiële bron noemt overgangsrecht in artikel III van Stb. 2022/105; dat artikel behoudt de oude Faillissementswet voor faillissementen van banken of beleggingsondernemingen die vóór de inwerkingtreding van artikel II zijn uitgesproken. De datum van indiening van de rentevordering alleen bepaalt dus niet de toepasselijke versie.
 
 ### Artikel 212rd
 
@@ -152,11 +173,13 @@ Bijvoorbeeld: een schuldeiser dient een ongedekte lening in. De curator behandel
 >
 > c. de tussentijdse uitkeringen niet ten koste gaan van andere schuldeisers.
 
+*Redactionele bronnotitie:* Artikel III van Stb. 2022/105 bevat overgangsrecht m.b.t. deze wijziging.
+
 Artikel 212rd maakt een gerichte tussentijdse uitkering mogelijk om de na faillissement lopende renteperiode te beperken. De curator kan dit niet alleen beslissen: hij vraagt toestemming aan de rechter-commissaris. Lid 2 noemt drie cumulatieve voorwaarden. De bevoegdheid is bovendien discretionair geformuleerd; vervulling van de voorwaarden levert geen onvoorwaardelijke betalingsaanspraak van een afzonderlijke schuldeiser op.
 
 Onderdeel a verlangt voldoende waarschijnlijkheid over het bedrag waarvoor de betrokken vorderingen geheel of ten minste zullen worden geverifieerd. Een nog onzekere rest kan dus buiten het voorstel blijven, maar het uitgekeerde bedrag moet een deugdelijke basis hebben. Onderdeel b vereist dat de uitkering wenselijk is met het oog op verkorting van de renteperiode. Onderdeel c beschermt andere schuldeisers tegen benadeling. Beschikbare liquiditeit alleen is daarom geen voldoende motivering: ook de verwachte boedelontwikkeling, overige aanspraken en de gevolgen van selectie van ontvangers moeten worden betrokken.
 
-Bijvoorbeeld: de curator verwacht dat van een vordering zeker een aanzienlijk minimumbedrag zal worden erkend en wil daarop alvast betalen. Hij moet niet alleen dat minimum onderbouwen, maar ook laten zien waarom de rentebesparing wenselijk is en waarom reserveringen voor andere schuldeisers toereikend blijven. De rechter-commissaris kan dan toestemming beoordelen zonder vooruit te lopen op elk geschil over het restant. De samenhang met artikel 212rc is essentieel; voor oudere procedures moet het in de bron vermelde overgangsrecht worden nagegaan.
+Bijvoorbeeld: de curator verwacht dat van een vordering zeker een aanzienlijk minimumbedrag zal worden erkend en wil daarop alvast betalen. Hij moet niet alleen dat minimum onderbouwen, maar ook laten zien waarom de rentebesparing wenselijk is en waarom reserveringen voor andere schuldeisers toereikend blijven. De rechter-commissaris kan dan toestemming beoordelen zonder vooruit te lopen op elk geschil over het restant. De samenhang met artikel 212rc is essentieel; artikel III van Stb. 2022/105 behoudt de oude Faillissementswet bij een bank- of beleggingsondernemingsfaillissement uitgesproken vóór inwerkingtreding van artikel II. Een later betalingsvoorstel maakt die oudere procedure niet vanzelf onderworpen aan deze nieuwe bevoegdheid.
 
 ### Artikel 212re
 
@@ -164,11 +187,13 @@ Bijvoorbeeld: de curator verwacht dat van een vordering zeker een aanzienlijk mi
 
 > De faillietverklaring van een bank die een gedekte obligatie als bedoeld in artikel 1, onderdeel 1, van de richtlijn gedekte obligaties heeft uitgegeven, leidt niet tot wijziging van de rechten van de houder van een gedekte obligatie jegens een derde in verband met die gedekte obligatie.
 
+*Redactionele bronnotitie:* Artikel III van Stb. 2022/22 bevat overgangsrecht m.b.t. deze wijziging.
+
 Het faillissement van de uitgevende bank verandert op grond van dit artikel niet de rechten van de houder van een gedekte obligatie jegens een derde in verband met die obligatie. De bescherming veronderstelt een gedekte obligatie in de zin van de uitdrukkelijk aangehaalde richtlijn. Een gewone bankobligatie valt dus niet reeds wegens haar naam of economische functie onder deze regel.
 
 De tekst richt zich op rechten jegens een derde. Hij stelt niet zelf de omvang van de vordering op de failliete bank vast en verleent geen algemene rang aan alle obligatiehouders in de boedel. Eerst moeten het bestaande recht, de betrokken derde en het verband met de gedekte obligatie worden geïdentificeerd. De formulering «leidt niet tot wijziging» voorkomt dat juist de faillietverklaring het aangrijpingspunt wordt om die rechten te veranderen; zij schept geen garantie die voordien niet bestond en sluit andere rechtsvragen over de geldigheid van een recht niet zonder meer uit.
 
-Bijvoorbeeld: een obligatiehouder heeft in verband met zijn kwalificerende gedekte obligatie een recht tegenover een afzonderlijke derde. Die derde kan de enkele faillietverklaring van de bank niet als grond gebruiken om dat recht te verminderen. Of de verlangde prestatie daadwerkelijk onder het bestaande recht valt, moet nog wel uit de relevante rechtsverhouding blijken. Bij oudere uitgiften of procedures verdient ook de officiële verwijzing naar artikel III van Stb. 2022/22 aandacht; de actuele bepaling geldt sinds 8 juli 2022.
+Bijvoorbeeld: een obligatiehouder heeft in verband met zijn kwalificerende gedekte obligatie een recht tegenover een afzonderlijke derde. Die derde kan de enkele faillietverklaring van de bank niet als grond gebruiken om dat recht te verminderen. Of de verlangde prestatie daadwerkelijk onder het bestaande recht valt, moet nog wel uit de relevante rechtsverhouding blijken. Artikel III lid 1 van Stb. 2022/22 sluit artikel 212re uit voor de daar omschreven geregistreerde gedekte obligaties die tot en met 7 juli 2022 zijn uitgegeven. Lid 3 breidt die overgangsbehandeling tot en met 7 juli 2024 uit tot de daar nader gekwalificeerde obligaties. De uitgiftedatum en overgangscategorie zijn daarom beslissend; de ingangsdatum van de actuele bepaling, 8 juli 2022, rechtvaardigt niet de conclusie dat elke later behandelde obligatie eronder valt.
 
 ### Artikel 212rf
 
@@ -213,6 +238,8 @@ Bijvoorbeeld: een bevoegde autoriteit opent in een andere lidstaat een liquidati
 **Wettekst:**
 
 > De beslissing tot opening van een liquidatieprocedure, de liquidatieprocedure zelf en de rechtsgevolgen van de liquidatieprocedure worden beheerst door het recht van de lidstaat waar de liquidatieprocedure is geopend, tenzij de wet anders bepaalt.
+
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
 
 Deze hoofdregel onderwerpt de openingsbeslissing, de liquidatieprocedure en haar rechtsgevolgen aan het recht van de lidstaat waar de procedure is geopend. De curator en schuldeisers moeten dus in beginsel één procedureel en insolventierechtelijk aanknopingspunt gebruiken. Het artikel kiest niet telkens het recht van de woonplaats van de schuldeiser of van de plaats waar hij zijn overeenkomst sloot.
 
@@ -286,6 +313,8 @@ Bijvoorbeeld: een onderneming moet een lening aan de bank terugbetalen en heeft 
 
 > De artikelen 212u tot en met 212w staan er niet aan in de weg dat een vordering wordt ingesteld tot nietigheid, vernietiging of het niet kunnen worden tegengeworpen van een rechtshandeling wegens de benadeling van het geheel van schuldeisers welke van die rechtshandeling het gevolg is.
 
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
+
 De bescherming van goederenrechtelijke rechten, eigendomsvoorbehoud en verrekening in de artikelen 212u tot en met 212w sluit een actie wegens benadeling van het geheel van schuldeisers niet uit. Artikel 212x noemt drie mogelijke vormen van aantasting: nietigheid, vernietiging en het niet kunnen tegenwerpen van de rechtshandeling. De bepaling voorkomt dat de beschermde positie alleen al wegens die bescherming buiten ieder collectief benadelingsonderzoek zou vallen.
 
 Daaruit volgt niet dat iedere beschermde rechtshandeling daadwerkelijk aantastbaar is. De curator moet nog een toepasselijke rechtsgrond en de vereisten daarvan onderbouwen. Het artikel formuleert zelf geen volledige paulianaregel, bewijsvermoedens of vervaltermijn. Evenmin stelt het het belang van één ontevreden schuldeiser gelijk aan benadeling van het geheel. De rechtskeuze en andere bijzondere bepalingen van deze paragraaf verdienen daarom afzonderlijke aandacht voordat een vordering wordt ingesteld.
@@ -297,6 +326,8 @@ Bijvoorbeeld: kort voor de liquidatie heeft een bank een zekerheid verleend op e
 **Wettekst:**
 
 > In afwijking van artikel 212t worden de gevolgen van een liquidatieprocedure voor arbeidsovereenkomsten en andere rechtsverhoudingen ter zake van het verrichten van arbeid uitsluitend beheerst door het recht van de lidstaat dat op die overeenkomst of rechtsverhouding van toepassing is.
+
+*Redactionele bronnotitie:* Tekstplaatsing met aanpassing van de spelling.
 
 Voor arbeidsverhoudingen wijkt dit artikel uitdrukkelijk af van artikel 212t. De gevolgen van de liquidatieprocedure voor arbeidsovereenkomsten en andere rechtsverhoudingen inzake het verrichten van arbeid worden uitsluitend beheerst door het recht van de lidstaat dat op die overeenkomst of rechtsverhouding van toepassing is. De wettelijke categorie is daarmee ruimer dan alleen een document met het opschrift «arbeidsovereenkomst». Eerst moet de rechtsverhouding inhoudelijk worden gekwalificeerd en het daarop toepasselijke recht worden bepaald.
 

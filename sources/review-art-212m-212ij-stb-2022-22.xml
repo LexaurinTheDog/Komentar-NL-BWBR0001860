@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<officiele-publicatie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/stb-2022-22/metadata.xml" />
+  </metadata>
+  <kop>
+    <titel>Staatsblad</titel>
+    <subtitel>van het Koninkrijk der Nederlanden</subtitel>
+  </kop>
+  <staatsblad>
+    <intitule>Wet van 15 december 2021 tot wijziging van de Wet op het financieel toezicht en de Faillissementswet in verband met de implementatie van de richtlijn betreffende de uitgifte van gedekte obligaties en het overheidstoezicht op gedekte obligaties (Implementatiewet richtlijn gedekte obligaties)</intitule>
+    <wet-besluit>
+      <aanhef>
+        <wij>Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, enz. enz. enz.</wij>
+        <considerans>
+          <considerans.al>Allen, die deze zullen zien of horen lezen, saluut! doen te weten:</considerans.al>
+          <considerans.al>Alzo Wij in overweging genomen hebben, dat het ter uitvoering van Richtlijn (EU) 2019/2162 van het Europees Parlement en de Raad van 27 november 2019 betreffende de uitgifte van gedekte obligaties en het overheidstoezicht op gedekte obligaties en tot wijziging van de Richtlijnen 2009/65/EG en 2014/59/EU (PbEU 2019, L 328) noodzakelijk is regels te stellen met betrekking tot de uitgifte van gedekte obligaties en het toezicht op de naleving van die regels;</considerans.al>
+        </considerans>
+        <afkondiging>
+          <al>Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:</al>
+        </afkondiging>
+      </aanhef>
+      <wettekst>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">I</nr>
+          </kop>
+          <wat type="wijziging">De Wet op het financieel toezicht wordt gewijzigd als volgt:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Artikel 1:1 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>De definitie van geregistreerde gedekte obligatie vervalt.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>In de alfabetische volgorde worden vier definities ingevoegd, luidende:</wat>
+              <artikeltekst>
+                <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                  <definitie-item>
+                    <term>dekkingspool:</term>
+                    <definitie>
+                      <al>een dekkingspool als bedoeld in artikel 3, onderdeel 3, van de richtlijn gedekte obligaties;</al>
+                    </definitie>
+                  </definitie-item>
+                  <definitie-item>
+                    <term>gedekte obligatie:</term>
+                    <definitie>
+                      <al>een gedekte obligatie in de zin van de richtlijn gedekte obligaties die is uitgegeven door een bank en die is zeker gesteld door dekkingsactiva waarop beleggers in gedekte obligaties als schuldeisers met voorrang verhaal kunnen nemen;</al>
+                    </definitie>
+                  </definitie-item>
+                  <definitie-item>
+                    <term>programma van gedekte obligaties:</term>
+                    <definitie>
+                      <al>de structurele kenmerken van een uitgifte van gedekte obligaties die worden bepaald door wettelijke voorschriften en contractuele voorwaarden, in overeenstemming met artikel 3:33a;</al>
+                    </definitie>
+                  </definitie-item>
+                  <definitie-item>
+                    <term>richtlijn gedekte obligaties:</term>
+                    <definitie>
+                      <al>Richtlijn (EU) 2019/2162 van het Europees Parlement en de Raad van 27 november betreffende de uitgifte van gedekte obligaties en het overheidstoezicht op gedekte obligaties en tot wijziging van de Richtlijnen 2009/65/EG en 2014/59/EU (PbEU 2019, L 328);</al>
+                    </definitie>
+                  </definitie-item>
+                </definitielijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>In artikel 1:94, eerste lid, wordt onder verlettering van de onderdelen c tot en met h tot d tot en met i, een onderdeel ingevoegd, luidende:</wat>
+            <?xpp qa?>
+            <?xpp lead;-1?>
+            <wijziging>
+              <artikeltekst>
+                <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>van een voorschrift, gesteld bij of krachtens artikel 3:33a, 3:33b of 3:33ba;</al>
+                  </li>
+                </lijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">C</lidnr>
+            <wat>Aan artikel 1:105 wordt een lid toegevoegd, luidende:</wat>
+            <wijziging>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>artikel 1:102, eerste tot en met derde lid, zevende lid, en artikel 1:104, eerste lid, onderdelen a tot en met d, zijn van overeenkomstige toepassing op het verlenen van toestemming als bedoeld in artikel 3:33a, tweede lid.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">D</lidnr>
+            <wat>In artikel 1:107, derde lid, vervallen de onderdelen q en r, onder vervanging van de puntkomma aan het slot van onderdeel p door een punt.</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">E</lidnr>
+            <wat>Na artikel 1:108 wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">1:109</nr>
+                </kop>
+                <al>De Nederlandsche Bank publiceert op haar website:</al>
+                <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                  <li>
+                    <li.nr>a.</li.nr>
+                    <al>de informatie, bedoeld in artikel 26, eerste lid, onderdeel a, van de richtlijn gedekte obligaties;</al>
+                  </li>
+                  <li>
+                    <li.nr>b.</li.nr>
+                    <al>een actuele lijst van banken waaraan de Nederlandsche Bank toestemming heeft verleend om in het kader van een programma gedekte obligaties uit te geven; en</al>
+                  </li>
+                  <li>
+                    <li.nr>c.</li.nr>
+                    <al>een actuele lijst van gedekte obligaties die het label «Europese gedekte obligatie» mogen gebruiken en een actuele lijst van gedekte obligaties die het label «Europese gedekte obligatie (premium)» mogen gebruiken als bedoeld in artikel 27 van de richtlijn gedekte obligaties.</al>
+                  </li>
+                </lijst>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">F</lidnr>
+            <wat>Artikel 3:33a komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">3:33a</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Het is een bank met zetel in Nederland verboden gedekte obligaties uit te geven zonder toestemming van de Nederlandsche Bank.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De Nederlandsche Bank verleent op aanvraag de toestemming, bedoeld in het eerste lid, indien de bank aantoont dat zal worden voldaan aan de bij of krachtens het derde en vierde lid en de artikelen 3:33b en 3:33ba gestelde regels.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Een bank die een programma van gedekte obligaties uitvoert, beschikt over:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>een adequaat programma van werkzaamheden waarin de uitgifte van gedekte obligaties wordt beschreven;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>adequate beleidslijnen, processen en methodieken wat betreft de goedkeuring, wijziging, verlenging en herfinanciering van in de dekkingspool opgenomen activa;</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>met het programma van gedekte obligaties belaste leidinggevenden en personeelsleden die beschikken over adequate kwalificaties en kennis met betrekking tot de uitgifte van gedekte obligaties en het beheer van het programma van gedekte obligaties; en</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>een adequate administratieve structuur van de dekkingspool en de monitoring daarvan.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">4.</lidnr>
+                  <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de voorwaarden, bedoeld in het derde lid.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">5.</lidnr>
+                  <al>De aanvraag voor de toestemming, bedoeld in het eerste lid, geschiedt onder opgave van bij of krachtens algemene maatregel van bestuur te bepalen gegevens.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">G</lidnr>
+            <wat>Artikel 3:33b komt te luiden:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">3:33b</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>De verplichtingen uit gedekte obligaties worden gedekt door een dekkingspool met activa waarvan de hoofdsom en de opgelopen en toekomstige rente bij voorrang worden aangewend voor aflossing van de gedekte obligatie, indien de uitgevende bank, bedoeld in artikel 3:33a, eerste lid, in staat van faillissement is verklaard of ten aanzien van haar een besluit tot afwikkeling als bedoeld in artikel 2, eerste lid, onderdeel 1, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen wordt genomen.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De verplichtingen omvatten ten minste:</al>
+                  <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                    <li>
+                      <li.nr>a.</li.nr>
+                      <al>de aflossingsverplichtingen van de hoofdsom van uitstaande gedekte obligaties;</al>
+                    </li>
+                    <li>
+                      <li.nr>b.</li.nr>
+                      <al>de verplichtingen tot betaling van eventuele rente op uitstaande gedekte obligaties;</al>
+                    </li>
+                    <li>
+                      <li.nr>c.</li.nr>
+                      <al>de betalingsverplichtingen verbonden aan derivatencontracten in de dekkingspool; en</al>
+                    </li>
+                    <li>
+                      <li.nr>d.</li.nr>
+                      <al>de verwachte kosten met betrekking tot onderhoud en beheer voor de afbouw van het programma van gedekte obligaties.</al>
+                    </li>
+                  </lijst>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de verplichtingen, bedoeld in het tweede lid, de dekkingspool en de in de dekkingspool op te nemen activa, alsmede met betrekking tot de verwachte kosten bedoeld in onderdeel d.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">H</lidnr>
+            <wat>Na artikel 3:33b wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">3:33ba</nr>
+                </kop>
+                <lid>
+                  <lidnr status="officieel">1.</lidnr>
+                  <al>Een bank als bedoeld in artikel 3:33a, eerste lid, die een programma van gedekte obligaties uitvoert, verschaft beleggers ten minste elk kwartaal voldoende gedetailleerde informatie over dat programma, waaronder in ieder geval de informatie, bedoeld in artikel 14, tweede lid, van de richtlijn gedekte obligaties. Deze informatie wordt ook op de website van de bank bekend gemaakt.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>Een bank als bedoeld in artikel 3:33a, eerste lid, die een programma van gedekte obligaties uitvoert, verstrekt de Nederlandsche Bank periodiek alsmede op verzoek informatie aan de hand waarvan deze kan vaststellen of de uitgevende bank voldoet aan de bij of krachtens de artikelen 3:33a, derde en vierde lid, 3:33b en 3:33ba gestelde regels.</al>
+                </lid>
+                <lid>
+                  <lidnr status="officieel">3.</lidnr>
+                  <al>Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de in het tweede lid bedoelde informatie en de periodiciteit.</al>
+                </lid>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">I</lidnr>
+            <wat>In artikel 3A:1 wordt in de definitie van gestructureerde financieringsregeling «geregistreerde gedekte obligatie» vervangen door «een gedekte obligatie».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">J</lidnr>
+            <wat>Artikel 3A:57 wordt als volgt gewijzigd:</wat>
+            <wijziging>
+              <nr status="officieel">1.</nr>
+              <wat>Voor de tekst wordt de aanduiding «1.» geplaatst.</wat>
+            </wijziging>
+            <wijziging>
+              <nr status="officieel">2.</nr>
+              <wat>Er wordt een lid toegevoegd, luidende:</wat>
+              <artikeltekst>
+                <lid>
+                  <lidnr status="officieel">2.</lidnr>
+                  <al>De uitoefening van een bevoegdheid op grond dit hoofdstuk of de verordening gemeenschappelijk afwikkelingsmechanisme, een besluit van een afwikkelingautoriteit van een andere lidstaat of een derde land dat is erkend ingevolge de artikelen 3A:4 onderscheidenlijk 3A:5, of een gebeurtenis die daarmee rechtstreeks verband houdt, met betrekking tot een bank die een gedekte obligatie heeft uitgegeven, leidt niet tot wijziging van de rechten van de houder van een gedekte obligatie jegens een derde in verband met die gedekte obligatie.</al>
+                </lid>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">K</lidnr>
+            <wat>In artikel 3A:60 en artikel 3A:61, derde en vijfde lid, wordt «geregistreerde gedekte obligaties» vervangen door «gedekte obligaties».</wat>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">L</lidnr>
+            <wat>In de bijlagen bij de artikelen 1:79 en 1:80 wordt in de opsomming van de artikelen in het Deel Prudentieel toezicht financiële ondernemingen «3:33a, tweede lid» vervangen door «3:33a, eerste en derde lid» en wordt in de numerieke volgorde ingevoegd «3:33b, eerste lid,» en «3:33ba».</wat>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <wijzig-artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">II</nr>
+          </kop>
+          <wat type="wijziging">De Faillissementswet wordt gewijzigd als volgt:</wat>
+          <wijzig-lid>
+            <lidnr status="officieel">A</lidnr>
+            <wat>Aan artikel 212g, eerste lid, wordt een onderdeel toegevoegd, luidende:</wat>
+            <?xpp qa?>
+            <?xpp lead;-1?>
+            <wijziging>
+              <artikeltekst>
+                <definitielijst plaatsing="inline" type="ongemarkeerd" nr-sluiting=".">
+                  <definitie-item>
+                    <li.nr>u.</li.nr>
+                    <term>richtlijn gedekte obligaties:</term>
+                    <definitie>
+                      <al>Richtlijn (EU) 2019/2162 van het Europees Parlement en de Raad van 27 november betreffende de uitgifte van gedekte obligaties en het overheidstoezicht op gedekte obligaties en tot wijziging van de Richtlijnen 2009/65/EG en 2014/59/EU (PbEU 2019, L 328).</al>
+                    </definitie>
+                  </definitie-item>
+                </definitielijst>
+              </artikeltekst>
+            </wijziging>
+          </wijzig-lid>
+          <wijzig-lid>
+            <lidnr status="officieel">B</lidnr>
+            <wat>Na artikel 212rd wordt een artikel ingevoegd, luidende:</wat>
+            <wijziging>
+              <artikel status="goed">
+                <kop>
+                  <label>Artikel</label>
+                  <nr status="officieel">212re</nr>
+                </kop>
+                <al>De faillietverklaring van een bank die een gedekte obligatie als bedoeld in artikel 1, onderdeel 1, van de richtlijn gedekte obligaties heeft uitgegeven, leidt niet tot wijziging van de rechten van de houder van een gedekte obligatie jegens een derde in verband met die gedekte obligatie.</al>
+              </artikel>
+            </wijziging>
+          </wijzig-lid>
+        </wijzig-artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">III</nr>
+          </kop>
+          <lid>
+            <lidnr status="officieel">1.</lidnr>
+            <al>Op geregistreerde gedekte obligaties als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, zoals dat gold voor de inwerkingtreding van deze wet, die zijn uitgegeven tot en met 7 juli 2022, zijn de artikelen 3:33a, eerste tot en met derde lid, en 3:33b, eerste en tweede lid, van de Wet op het financieel toezicht en artikel 212re Faillissementswet niet van toepassing.</al>
+          </lid>
+          <lid>
+            <lidnr status="officieel">2.</lidnr>
+            <al>Op geregistreerde gedekte obligaties als bedoeld in het eerste lid zijn van toepassing:</al>
+            <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+              <li>
+                <li.nr>a.</li.nr>
+                <al>artikel 3:33ba van de Wet op het financieel toezicht;</al>
+              </li>
+              <li>
+                <li.nr>b.</li.nr>
+                <al>artikel 3:33a, tweede tot en met vierde lid, van de Wet op het financieel toezicht, zoals dat gold voor de inwerkingtreding van deze wet.</al>
+              </li>
+            </lijst>
+          </lid>
+          <lid>
+            <lidnr status="officieel">3.</lidnr>
+            <al>Het eerste en tweede lid zijn tot en met 7 juli 2024 van overeenkomstige toepassing op geregistreerde gedekte obligaties als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, zoals dat gold voor de inwerkingtreding van deze wet, die voldoen aan de vereisten als bedoeld in artikel 30, tweede lid, van de richtlijn nr. 2019/2162/EU van het Europees Parlement en de Raad van 27 november betreffende de uitgifte van gedekte obligaties en het overheidstoezicht op gedekte obligaties en tot wijziging van de Richtlijnen 2009/65/EG en 2014/59/EU (PbEU 2019, L 328).</al>
+          </lid>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">IV</nr>
+          </kop>
+          <al>Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.</al>
+        </artikel>
+        <artikel status="goed">
+          <kop>
+            <label>ARTIKEL</label>
+            <nr status="officieel">V</nr>
+          </kop>
+          <al>Deze wet wordt aangehaald als: Implementatiewet richtlijn gedekte obligaties.</al>
+        </artikel>
+      </wettekst>
+      <wetsluiting status="goed">
+        <slotformulering>
+          <al>Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.</al>
+        </slotformulering>
+        <histnoot type="parlementair">
+          <al>Kamerstuk <dossierref dossier="35907">35 907</dossierref></al>
+        </histnoot>
+        <gegeven>
+          <label>Gegeven te </label>
+          <dagtekening>
+            <plaats>’s-Gravenhage,</plaats>
+            <datum isodatum="2021-12-15">15 december 2021</datum>
+          </dagtekening>
+          <koning>Willem-Alexander</koning>
+        </gegeven>
+        <ondertekening>
+          <functie>De Minister van Financiën,</functie>
+          <naam>
+            <voornaam>S.A.M.</voornaam>
+            <achternaam>Kaag</achternaam>
+          </naam>
+        </ondertekening>
+        <ondertekening>
+          <functie>De Minister voor Rechtsbescherming,</functie>
+          <naam>
+            <voornaam>F.M.</voornaam>
+            <achternaam>Weerwind</achternaam>
+          </naam>
+        </ondertekening>
+        <uitgifte>
+          <datum isodatum="2022-01-20">Uitgegeven de <nadruk type="cur">twintigste</nadruk> januari 2022</datum>
+          <ondertekening>
+            <functie>De Minister van Justitie en Veiligheid,</functie>
+            <naam>
+              <voornaam>D.</voornaam>
+              <achternaam>Yeşilgöz-Zegerius</achternaam>
+            </naam>
+          </ondertekening>
+        </uitgifte>
+      </wetsluiting>
+    </wet-besluit>
+  </staatsblad>
+</officiele-publicatie>

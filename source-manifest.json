@@ -1,6 +1,6 @@
 {
   "created_at_utc": "2026-10-20T21:47:05.474183+00:00",
-  "scope": "Preserved sources and bounded review evidence through articles 212hg–212l; whole book incomplete.",
+  "scope": "Preserved sources and bounded review evidence through assigned articles 212m–212ij; whole book incomplete.",
   "files": [
     {
       "path": "sources/author-art-212j-212l-build.txt",
@@ -71,6 +71,76 @@
       "path": "sources/author-art-212j-212l-wti.xml.headers",
       "bytes": 261,
       "sha256": "0d7b93178b26e3527113d635460ee8a4fd15d13e3d8d6032d1ab63c8a126508c"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-build.txt",
+      "bytes": 174,
+      "sha256": "ae45b7a7084a056eae4878b11f233bd512bc92cef14a9bb0c83283d127861fa5"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-current.html",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-current.html.headers",
+      "bytes": 532,
+      "sha256": "48bf7b90cc87a0a0a7b2fb3483e8159c526ca40b162bf7b26741f38382a07776"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-fetch.json",
+      "bytes": 3204,
+      "sha256": "fe41e5af54e8b8c04a9b69c2b5277c89ab757717ebf62aa87b1035f11b0dfdc9"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-preflight-result.json",
+      "bytes": 1458,
+      "sha256": "6a5e0fdf647c41603283d4efe9d07abf5942206006927718fadff2a61b090b42"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-result.json",
+      "bytes": 2017,
+      "sha256": "65827ff53661dd74dec1155c59b1fe966ac4258e6eeb2e1cd1a4859054e6dea0"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-search-log.json",
+      "bytes": 569,
+      "sha256": "1a810e7ff35ff7ab993b17478861645b3a9c4cd9be6e07f3b7cb286b374d560f"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-selected.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-selected.xml.headers",
+      "bytes": 261,
+      "sha256": "013ae22e34753c793d8c2f244cc9eaa77a84fa8c362215f2a5da1b9fae1bf177"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-validation.json",
+      "bytes": 354,
+      "sha256": "290ad601bc2fa4c56fe8e80622d3393d068eafb00b04402bc56f2657da826bcc"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-wft.html",
+      "bytes": 14851480,
+      "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-wft.html.headers",
+      "bytes": 532,
+      "sha256": "c3b639513530025fa08dc8ed7ba5ae78b54eda467d9ba56019c878a0a7493bfc"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-wti.xml",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67"
+    },
+    {
+      "path": "sources/author-art-212m-212ij-wti.xml.headers",
+      "bytes": 261,
+      "sha256": "80cff4fe5592d13f3e165e27031439aeed141e94974429629728374f747938d6"
     },
     {
       "path": "sources/author-date-xml.headers",
@@ -1333,6 +1403,101 @@
       "sha256": "9d0868fa064e2350c935448e8cea4335c9cd7dd7f1f711bfa3718ef9065af4a5"
     },
     {
+      "path": "sources/review-art-212m-212ij-before-hashes.json",
+      "bytes": 25924,
+      "sha256": "a42a70f0105daa9115fde44d8f3464ab835139e5e4b16dd806b8cd323379e26e"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-build.txt",
+      "bytes": 174,
+      "sha256": "ae45b7a7084a056eae4878b11f233bd512bc92cef14a9bb0c83283d127861fa5"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-checks.json",
+      "bytes": 1572,
+      "sha256": "ae7098544012adc2f8324a0bae025ecdcd6683b5ea01fe0077efe6e8e56557e1"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-current.html",
+      "bytes": 4132921,
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-current.html.headers",
+      "bytes": 532,
+      "sha256": "2c6aeb13e50669588bc2334894ba6b97eb39d8cfc5b306f913a113d80a7bed49"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-fetch.json",
+      "bytes": 2533,
+      "sha256": "d21d02c0e66cddef5d41868a2a2fb2499a3dd248d434f7787fe4704d2412165e"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-parser-check.json",
+      "bytes": 20285,
+      "sha256": "c5a36ce99ebe3221a60050538c0186c4b74203b47bcda298382c9314b05684de"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-preflight-result.json",
+      "bytes": 4136,
+      "sha256": "05fa5f87ae8b920e26022302a941a6e28359b8d1261b1153e2ff1fc3b31704ed"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-result.json",
+      "bytes": 19235,
+      "sha256": "1addbbe8e9515b2225707b9a806d2f695f5dd22a5a7157d8978e0d95425ea9bf"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-search-log.json",
+      "bytes": 473,
+      "sha256": "3e6afc5c0b69f59f217252a974f434fdfdb9d839eed11d8b2d1211621cdefc4f"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-selected.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-selected.xml.headers",
+      "bytes": 261,
+      "sha256": "8f23a0ade53ba8d74e353cac5162494e883868174a5cadfacc47065c36d6347d"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-stb-2022-105.xml",
+      "bytes": 9148,
+      "sha256": "50850bb4cc74f915ce944bdc2719f087072bd4f13bb133eea254a8bd23752173"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-stb-2022-22.xml",
+      "bytes": 23946,
+      "sha256": "253880892929d63eda7663bc05f0843728d37c76a20857cf87f765b817a5bcc4"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-transition-fetch.json",
+      "bytes": 630,
+      "sha256": "fb1eddc5e1a9d50cd7589b663e622f6fb327ef9bd55181db634793fc27310b6e"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-validation.json",
+      "bytes": 378,
+      "sha256": "c61da6d8af0ac72048afaf2da872915b10d00d7fece8256e671892652c0bd3c7"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-validation.txt",
+      "bytes": 354,
+      "sha256": "27bb73b4280f03176e728c1209d02077019db518892072c965805fbe227f71a9"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-wti.xml",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67"
+    },
+    {
+      "path": "sources/review-art-212m-212ij-wti.xml.headers",
+      "bytes": 261,
+      "sha256": "6bafd9fb1f18a0fb6d1002f6dd5cc2555434340b55745917ba02b314b9a58dc8"
+    },
+    {
       "path": "sources/review-art-28-40-before-hashes.json",
       "bytes": 24031,
       "sha256": "20c9a461cd35905580e6e7e626c1f09b3302d148d0c3c122bfbd0e3e86105da4"
@@ -2154,8 +2319,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 70984,
-      "sha256": "bc9027142ae22bf30fc29bc0db94cd7d6999fefe39faaeecd707f687245c8e80"
+      "bytes": 78082,
+      "sha256": "1d99fc1e4bb322243f0f05a8e28976f70f3b55f3a42cfadacc8e08b182d4f13c"
     },
     {
       "path": "sources/version-evidence.json",

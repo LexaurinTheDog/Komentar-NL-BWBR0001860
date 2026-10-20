@@ -2,7 +2,7 @@
 
 [Inleiding](00-inleiding.md) · [Bronnen](SOURCES.md) · [Controle en open werk](REVIEW.md)
 
-De 22 hieronder vermelde hoofdstukken bevatten 300 toegelichte plaatsen, van artikel 1 tot en met artikel 212l (inclusief het afzonderlijke checkpoint hieronder). De volledige wet telt 639 plaatsen. De 339 overige commentaren zijn nog niet geschreven; daarvoor zijn geen lege hoofdstukken of vervangteksten opgenomen.
+De 22 hieronder vermelde hoofdstukken bevatten 320 toegelichte plaatsen, van artikel 1 tot en met artikel 212ij (inclusief de afzonderlijke checkpoints). De volledige wet telt 639 plaatsen. De 319 overige commentaren zijn nog niet geschreven; daarvoor zijn geen lege hoofdstukken of vervangteksten opgenomen.
 
 - [01-wet-01.md](01-wet-01.md) — Titel I Van faillissement / Eerste afdeling Van de faillietverklaring; Artikel 1 t/m Artikel 15d
 
