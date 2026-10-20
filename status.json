@@ -1521,6 +1521,26 @@
     "at": "2026-10-20T23:21:10.222394+00:00",
     "bounded_build_returncode": 0,
     "bounded_output": "batches/art-215-228",
-    "links_broken": 0
+    "links_broken": 0,
+    "validation_result": {
+      "repo": "Komentar-NL-BWBR0001860-batch-art-215-228",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 35152,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "whole_book_validation": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 639,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 633998,
+      "errors": [
+        "krátký/chybějící komentář u 199 jednotek: ['art-229(0<400)', 'art-230(0<400)', 'art-231(0<400)', 'art-231a(0<400)', 'art-232(0<400)', 'art-233(0<400)', 'art-234(0<400)', 'art-235(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
   }
 }
