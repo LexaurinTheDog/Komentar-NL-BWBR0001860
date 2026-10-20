@@ -1,0 +1,14 @@
+{
+  "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBAMS:2022:7475",
+  "access_timestamp_utc": "2026-10-20T22:52:54.136165+00:00",
+  "http_status": 200,
+  "sha256": "8d1c58a62be7e84aea7e6173f2fe3db2f655246b4897a4d01769ebfd712fa9d5",
+  "path": "sources/review-art-213abis-213ap-rbams-2022-7475.xml",
+  "full_judgment_chars": 17493,
+  "reviewed_parts": "Full judgment 1.1–6.2 read; holdings 5.2–5.6 distinguished from DNB 3.1 and RC 4.1; no reliance on absent appendix 8 contents.",
+  "supported_units": [
+    "art-213aga",
+    "art-213agb"
+  ],
+  "limits": "2022 decision predates 2024 additions to 213aga. Does not decide extension or create an 85% threshold."
+}

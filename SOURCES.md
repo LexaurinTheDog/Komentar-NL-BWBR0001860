@@ -76,3 +76,5 @@ Tweede lezing 212hg–212l: [bevindingen](sources/review-art-212hg-212l-result.j
 Tweede lezing 212m–212ij: [bevindingen](sources/review-art-212m-212ij-result.json), [bronpreflight](sources/review-art-212m-212ij-preflight-result.json), [overgangswetten](sources/review-art-212m-212ij-transition-fetch.json), [onderzoekslog](sources/review-art-212m-212ij-search-log.json).
 
 Tweede lezing 212z–213a: [beoordeling](sources/review-art-212z-213a-result.json), [bronpreflight](sources/review-art-212z-213a-preflight-result.json), [onderzoekslog](sources/review-art-212z-213a-search-log.json).
+
+Tweede lezing213abis–213ap: [beoordeling](sources/review-art-213abis-213ap-result.json), [bronpreflight](sources/review-art-213abis-213ap-preflight-result.json), [volledige uitspraakcontrole](sources/review-art-213abis-213ap-case-check.json).

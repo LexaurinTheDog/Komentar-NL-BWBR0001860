@@ -1,0 +1,1 @@
+{"repo": "Komentar-NL-BWBR0001860", "units": 639, "verbatim_ratio": 1.0, "commentary_chars": 504165, "errors": ["krátký/chybějící komentář u 279 jednotek: ['art-213aq(0<120)', 'art-213ar(0<400)', 'art-213b(0<120)', 'art-213c(0<400)', 'art-213d(0<120)', 'art-213e(0<120)', 'art-213f(0<120)', 'art-213g(0<400)']"], "warnings": [], "ok": false}

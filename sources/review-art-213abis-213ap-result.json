@@ -1,0 +1,304 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-213abis",
+    "art-213ab",
+    "art-213ac",
+    "art-213ad",
+    "art-213ad1",
+    "art-213ae",
+    "art-213af",
+    "art-213ag",
+    "art-213aga",
+    "art-213agb",
+    "art-213agc",
+    "art-213ah",
+    "art-213ai",
+    "art-213aj",
+    "art-213ak",
+    "art-213al",
+    "art-213am",
+    "art-213an",
+    "art-213ao",
+    "art-213ap"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "art-213abis",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213abis",
+      "effective_from": "2023-07-01",
+      "source_notes_checked": [],
+      "finding": "Alle vier leden: Wft 3A:85(1)a-b tegen vers gevangen Wft gelezen; c geen faillissementsvoorwaarde. Vergunninghistorie, aanvraag door anderen, eigen aangifte en advies onderscheiden.",
+      "result": "accepted_without_change",
+      "before_sha256": "34af591d610484bf1466d4757fa93147b8027ee01925ee1bf129d726e7ef9eee",
+      "after_sha256": "34af591d610484bf1466d4757fa93147b8027ee01925ee1bf129d726e7ef9eee",
+      "statutory_sha256": "dc4eda286ec746a6c830c0dc33a32b7c605afa8ccce07656141ca83c10ec21da"
+    },
+    {
+      "id": "art-213ab",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ab",
+      "effective_from": "2012-06-13",
+      "source_notes_checked": [],
+      "finding": "Collectief belang en bijzondere voorziening, ontbreken DNB-vergunning en onverminderd artikel1(1); territoriale grens213a en eerdere vergunning213abis gecontroleerd.",
+      "result": "accepted_without_change",
+      "before_sha256": "b4eaea9e0075bbe171650ae395d59f758847cd9af1f889027f113f987da12f00",
+      "after_sha256": "b4eaea9e0075bbe171650ae395d59f758847cd9af1f889027f113f987da12f00",
+      "statutory_sha256": "fbdaa3c7eadf4c9f5b6f0147d8cb72558f696374fda5e77562f90f3d5c6a5032"
+    },
+    {
+      "id": "art-213ac",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ac",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Expliciet vervallen sinds2019; bronnoot en XIV(4) controleren toepasselijkheid oud recht, zonder vroegere inhoud te reconstrueren.",
+      "result": "accepted_without_change",
+      "before_sha256": "5075572d1e68ae7d524d8c81301c22c309541354fad1217dd7e6d1f1aa1e2121",
+      "after_sha256": "5075572d1e68ae7d524d8c81301c22c309541354fad1217dd7e6d1f1aa1e2121",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "art-213ad",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ad",
+      "effective_from": "2024-01-01",
+      "source_notes_checked": [],
+      "finding": "Expliciet vervallen sinds2024; wijzigingswet III C geverifieerd; 213ad1 blijft afzonderlijke eenheid.",
+      "result": "accepted_without_change",
+      "before_sha256": "848c61792019e9af247d9d167d5d4a5d95e3748b06438cfd7d4a1f0692f2f489",
+      "after_sha256": "848c61792019e9af247d9d167d5d4a5d95e3748b06438cfd7d4a1f0692f2f489",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "art-213ad1",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ad1",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Beide leden gelezen: rechter/deskundige, zakelijke gegevens, houder en rechterlijke termijn; geen schuldeisersinzage of automatische sanctie verzonnen.",
+      "result": "accepted_without_change",
+      "before_sha256": "63e81b94690c9e4e5184ca2689effdf658c8e058ea8b7b71dfd77536c99cc7bd",
+      "after_sha256": "63e81b94690c9e4e5184ca2689effdf658c8e058ea8b7b71dfd77536c99cc7bd",
+      "statutory_sha256": "0f77cb9f3ad3a9d3c391e179e186d9db6101ac68575dc7ad9bfcb51d9772080d"
+    },
+    {
+      "id": "art-213ae",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ae",
+      "effective_from": "2017-09-01",
+      "source_notes_checked": [
+        "Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging."
+      ],
+      "finding": "DNB-verzoek en eigen aangifte, spoed, beslotenheid en burgerlijke rechtspleging; publicatie213ag onderscheiden. CIX-bronnoot gecontroleerd.",
+      "result": "accepted_without_change",
+      "before_sha256": "9fa23762fabb06ed600259659c605be48550f11ea37db17f7c65af59bd813f1f",
+      "after_sha256": "9fa23762fabb06ed600259659c605be48550f11ea37db17f7c65af59bd813f1f",
+      "statutory_sha256": "070e02d3110eb4b2475b10f2195dbd31d0e64e1942986ab98932d778238912fa"
+    },
+    {
+      "id": "art-213af",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213af",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Beide leden: gelegenheid gehoord te worden en beperkte redelijkheidstoets; geen universele toepassing op latere curatorbesluiten.",
+      "result": "accepted_without_change",
+      "before_sha256": "cbef8130edc90fa1623e2c29b1ba3ca5ad744b03127caa0a900912aa1ac8c233",
+      "after_sha256": "cbef8130edc90fa1623e2c29b1ba3ca5ad744b03127caa0a900912aa1ac8c233",
+      "statutory_sha256": "0452aca1969f557720cdf7de957fe377db03ded6b1b0f126aae34936f8fb8e69"
+    },
+    {
+      "id": "art-213ag",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ag",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Alle drie leden: summierlijk blijken, benoeming/voordracht en alle publicatiekanalen/gegevens. Onderwerp van beschikking expliciet toegevoegd bij aanvullende publicatiegegevens.",
+      "result": "corrected",
+      "before_sha256": "07be985fbfc2824132974f0bbfe5cd8a37a65913a1945eebb81d5ece984a2a1b",
+      "after_sha256": "f808b16ff622665e4f3f2b80fa4d998cf9d2b1a1d5d7cd5b951c87dc91f6be6b",
+      "statutory_sha256": "5c07d578694e337dafb87261bd5c8735535d24792100d44d92f9f81e265ab4bd"
+    },
+    {
+      "id": "art-213aga",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213aga",
+      "effective_from": "2024-01-01",
+      "source_notes_checked": [],
+      "finding": "Alle vijf leden: twee aanvraagmomenten, toestemming derde, besloten spoedzitting/horen DNB, duur/verlenging en advies176. Case1.1–1.2/4.1 getoetst; temporele grens2024 correct.",
+      "result": "accepted_without_change",
+      "before_sha256": "ca3a3ef44bed4560871d36248fa8e728e6b54d3659409fd93ba4e4af6e23dd67",
+      "after_sha256": "ca3a3ef44bed4560871d36248fa8e728e6b54d3659409fd93ba4e4af6e23dd67",
+      "statutory_sha256": "b69dadb94c32b638bd98b4d4ca384146a51948d1e8f486f0b1476e933f4fbbfd"
+    },
+    {
+      "id": "art-213agb",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213agb",
+      "effective_from": "2024-01-01",
+      "source_notes_checked": [],
+      "finding": "Alle vijf leden: wijziging bij overgang, uitsluiting schadevergoeding, levensverzekeringgrens, horen DNB en duur. Ook gelijktijdige machtiging expliciet gemaakt. Case5.2–5.6 volledig gecontroleerd; geen85%-drempel.",
+      "result": "corrected",
+      "before_sha256": "2e5b09800434f4d29489723029e8316b13188002df6cdc3002aed66d46bf2db0",
+      "after_sha256": "059681e9981bb03e1d8001f575fab6fb10e95ab2000a771f818e68b5a36ad892",
+      "statutory_sha256": "cab8ea4d91463201d064d076e3fcd4197ebef08b4e5b37f89c173792fca30ea1"
+    },
+    {
+      "id": "art-213agc",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213agc",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Alle drie leden: publicatie Staatscourant/3 dagbladen, tweede dag, DNB-informatie; fictief kalendervoorbeeld juist.",
+      "result": "accepted_without_change",
+      "before_sha256": "a693d2ea078ebee49d225aaa6aefd275d6bf27f53f152db98b8cbcb425be4159",
+      "after_sha256": "a693d2ea078ebee49d225aaa6aefd275d6bf27f53f152db98b8cbcb425be4159",
+      "statutory_sha256": "9256aec0d71959162477a8fba0c40bf80f51ea33b6b4eb38a4c642ef3b6d0b5b"
+    },
+    {
+      "id": "art-213ah",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ah",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Uitvoerbaar bij voorraad; onderscheid rechtsmiddel, duur, transactievoorwaarden en publicatie juist.",
+      "result": "accepted_without_change",
+      "before_sha256": "1874efb3a6343b30e6b564e20ad9d3afbdfc16c7bc93784bbfb71d63a734cbd0",
+      "after_sha256": "1874efb3a6343b30e6b564e20ad9d3afbdfc16c7bc93784bbfb71d63a734cbd0",
+      "statutory_sha256": "f9ecf80ed7b3692f3ddcc5be3187442b47af00ce5852e88043d96a145932db07"
+    },
+    {
+      "id": "art-213ai",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ai",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Vervallen2019; geen actuele bevoegdheid gereconstrueerd; verwijzing213ah en overgangsrecht juist.",
+      "result": "accepted_without_change",
+      "before_sha256": "f5751bf68533b106b3afb12884c9dfb590e8e1b512ad84ba1f5ec007d6947f82",
+      "after_sha256": "f5751bf68533b106b3afb12884c9dfb590e8e1b512ad84ba1f5ec007d6947f82",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "art-213aj",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213aj",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Vervallen2019; onderscheiden van parseromissie; oude faillissementsdatum blijft bepalend.",
+      "result": "accepted_without_change",
+      "before_sha256": "e467512077ab165837f53f4354b09a6240988fb0a36f3aa4d0e55e2efbd53b7a",
+      "after_sha256": "e467512077ab165837f53f4354b09a6240988fb0a36f3aa4d0e55e2efbd53b7a",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "art-213ak",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ak",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Vervallen2019; geen actuele aanvullende overdrachtsvoorwaarde; huidige machtigingen correct genoemd.",
+      "result": "accepted_without_change",
+      "before_sha256": "03db5ea13742ee705e436572273f0b0f3bf1c5a145460f5da9f4e82651561a63",
+      "after_sha256": "03db5ea13742ee705e436572273f0b0f3bf1c5a145460f5da9f4e82651561a63",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "art-213al",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213al",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Vervallen2019; oude polisbrief schept geen actuele aanspraak; overgangsrecht afgebakend.",
+      "result": "accepted_without_change",
+      "before_sha256": "e632b44da8352e00daf4ee82d2b08dc675a5e9b20fe005660d50e3f0a4de2ffa",
+      "after_sha256": "e632b44da8352e00daf4ee82d2b08dc675a5e9b20fe005660d50e3f0a4de2ffa",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "art-213am",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213am",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Vervallen2019; geen terugwerkende ongeldigverklaring oude handelingen verondersteld; XIV(4) correct.",
+      "result": "accepted_without_change",
+      "before_sha256": "bbb7a8a928fd7c7f04d7f96c83f1492d31597f8caba7da90c4983fadf340b4f3",
+      "after_sha256": "bbb7a8a928fd7c7f04d7f96c83f1492d31597f8caba7da90c4983fadf340b4f3",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "art-213an",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213an",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Vervallen2019; geen actuele publicatievrijstelling; historische toepasselijkheid openlijk apart gehouden.",
+      "result": "accepted_without_change",
+      "before_sha256": "a6dd03dbc5cae12ee5a6f3c51a45855db60ac11bc4f47863b80056f5df3185e8",
+      "after_sha256": "a6dd03dbc5cae12ee5a6f3c51a45855db60ac11bc4f47863b80056f5df3185e8",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "art-213ao",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ao",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Vervallen2019; expliciet behouden slot; historische uitspraak vereist destijds geldende tekst.",
+      "result": "accepted_without_change",
+      "before_sha256": "0f374b93a4dbcf3c7b8cf7dbad0735f9824d7494c08e0a111e7c3390036bb442",
+      "after_sha256": "0f374b93a4dbcf3c7b8cf7dbad0735f9824d7494c08e0a111e7c3390036bb442",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    },
+    {
+      "id": "art-213ap",
+      "official_path": "/TiteldeelI/Afdeling11B/Paragraaf2/Artikel213ap",
+      "effective_from": "2019-01-01",
+      "source_notes_checked": [
+        "Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht\nm.b.t. deze wijziging."
+      ],
+      "finding": "Vervallen2019; geen actuele sluitregel. Praktische controle sluit aan bij213aga/b/gc; geen onjuist paragraafeinde geclaimd.",
+      "result": "accepted_without_change",
+      "before_sha256": "16ff9a57c52e7fc20cfff430fd39a1b2a6e2d2cc94274c0d419f621f979e54f2",
+      "after_sha256": "16ff9a57c52e7fc20cfff430fd39a1b2a6e2d2cc94274c0d419f621f979e54f2",
+      "statutory_sha256": "a6c1d0bdbe4305f8a244f2327835163650a87e197fb07eed9266b4bf3b6b1b5d"
+    }
+  ],
+  "changed_units": [
+    "art-213ag",
+    "art-213agb"
+  ],
+  "checked_at_utc": "2026-10-20T22:52:53.342118+00:00",
+  "review_date_local": "2026-10-21",
+  "whole_book_complete": false,
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 639,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 504165,
+    "errors": [
+      "krátký/chybějící komentář u 279 jednotek: ['art-213aq(0<120)', 'art-213ar(0<400)', 'art-213b(0<120)', 'art-213c(0<400)', 'art-213d(0<120)', 'art-213e(0<120)', 'art-213f(0<120)', 'art-213g(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "limitations": [
+    "Exact assigned twenty units only; project-internal second reading, no external professional approval.",
+    "Selective case-law coverage. Full judgment read; unpublished appendix8 not relied upon. No new exhaustive research claimed.",
+    "Repealed slots reviewed as current status and transitional law; former substantive text not reconstructed.",
+    "279 out-of-scope commentaries missing; strict full-book validation remains unsuccessful."
+  ]
+}

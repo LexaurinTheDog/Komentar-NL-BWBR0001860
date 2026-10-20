@@ -1,6 +1,6 @@
-# Artikelen 213abis–213ap — auteurscheckpoint
+# Artikelen 213abis–213ap — beoordeeld checkpoint
 
-Twintig toegewezen eenheden van het onvoltooide commentaar. Wettekst: 1 september 2026; actuele bron opnieuw gecontroleerd op 21 oktober 2026 (lokale tijd). [Broncontrole](sources/author-art-213abis-213ap-preflight-result.json). [Rechtspraakonderzoek](sources/author-art-213abis-213ap-search-log.json). Tekst commentaar © 2026 Vojtěch Říha; Apache-2.0. Concept, nog geen onafhankelijke tweede beoordeling.
+Twintig toegewezen eenheden van een onvoltooid commentaar. Wettekst:1 september2026. Projectinterne tweede lezing:21 oktober2026; twee commentaren aangevuld, achttien aanvaard. [Exacte beoordeling](sources/review-art-213abis-213ap-result.json). [Bronpreflight](sources/review-art-213abis-213ap-preflight-result.json). Tekst commentaar ©2026 Vojtěch Říha; Apache-2.0. Concept; geen externe professionele goedkeuring.
 
 ### Artikel 213abis
 
@@ -40,9 +40,7 @@ Fictief voorbeeld: een onderneming heeft zonder DNB-vergunning verzekeringen aan
 
 > Vervallen
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Artikel 213ac is sinds 1 januari 2019 vervallen. In de geselecteerde actuele tekst bevat dit nummer dus geen zelfstandige regel voor een nieuw faillissementsverzoek. De bronnoot wijst op artikel XIV, vierde lid, van Stb. 2018, 489: bij een vóór de inwerkingtreding van artikel IV uitgesproken verzekeraarsfaillissement blijft het toenmalige recht gelden. Fictief voorbeeld: bij onderzoek van een oude faillissementsbeschikking moet daarom eerst de uitspraakdatum worden vastgesteld; de huidige vermelding «Vervallen» beantwoordt de historische rechtsvraag niet.
@@ -63,9 +61,7 @@ Dit artikelnummer is sinds 1 januari 2024 vervallen. Het mag bij een actuele aan
 >
 > 2 Degene die de gegevens onder zich heeft, verstrekt de gegevens en bescheiden binnen een door de rechtbank te bepalen termijn.
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 De rechtbank moet de financiële toestand van de verzekeraar kunnen onderzoeken zonder uitsluitend op diens selectie van stukken of op een samenvatting van DNB te vertrouwen. Lid 1 geeft haar daarom toegang tot zakelijke gegevens en bescheiden. Zij kan zelf inzage nemen of daarvoor deskundigen aanwijzen. Het betreft een bevoegdheid van de rechtbank; de bepaling verleent niet aan iedere schuldeiser een zelfstandig inzagerecht in het volledige verzekeringsbestand.
@@ -82,9 +78,7 @@ Fictief voorbeeld: de verzekeraar presenteert een totaalbedrag aan technische vo
 
 > De rechtbank behandelt het verzoek van De Nederlandsche Bank N.V. tot het uitspreken van het faillissement of een aangifte door de verzekeraar met de meeste spoed op een niet openbare zitting op de voet van de rechtspleging in burgerlijke zaken, voor zover daarvan bij deze wet niet is afgeweken.
 
-**Redactionele bronaantekeningen:**
-
-Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging.
+*Redactionele bronnotitie:* Artikel CIX van Stb. 2016/290 bevat overgangsrecht m.b.t. deze wijziging.
 
 Artikel 213ae regelt de behandeling van zowel het faillissementsverzoek van DNB als de eigen aangifte door de verzekeraar. Beide moeten met de meeste spoed op een niet-openbare zitting worden behandeld. Het artikel stelt geen termijn in uren of dagen vast. De vereiste voortvarendheid moet worden verbonden met een reële mogelijkheid tot de noodzakelijke beoordeling en, bij het oordeel van DNB, het verweer van artikel 213af.
 
@@ -102,9 +96,7 @@ Fictief voorbeeld: een verzekeraar meldt zelf dat hij zijn verplichtingen niet m
 >
 > 2 Ingeval een verzekeraar zich heeft verweerd tegen een beslissing of oordeel als bedoeld in het eerste lid, verklaart de rechtbank dat verweer uitsluitend dan gegrond indien De Nederlandsche Bank N.V. in redelijkheid niet tot die beslissing of dat oordeel heeft kunnen komen.
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Dit artikel combineert het recht van de verzekeraar om te worden gehoord met een terughoudende toets van het oordeel van DNB. Lid 1 betreft het oordeel dat de situatie van artikel 213abis zich voordoet. De verzekeraar moet de gelegenheid krijgen daartegen verweer te voeren. Die gelegenheid is een procedurele waarborg; dat de verzekeraar daadwerkelijk verweer voert, is een andere vraag. Spoed volgens artikel 213ae heft de waarborg niet op.
@@ -125,16 +117,14 @@ Fictief voorbeeld: de verzekeraar beroept zich op een herstelplan. Alleen een gu
 >
 > 3 Indien het verzoek wordt toegewezen, wordt de beschikking op een openbare zitting uitgesproken en wordt een uittreksel ervan onverwijld door de curator bekendgemaakt in de Staatscourant, het Publicatieblad van de Europese Unie, alsmede in ten minste twee door de rechtbank aan te wijzen Nederlandse dagbladen en ten minste twee door de rechtbank aan te wijzen landelijke dagbladen van iedere lidstaat waar een bijkantoor van de verzekeraar is gelegen of waarnaar hij diensten verricht. De uittreksels vermelden naam en zetel van de desbetreffende verzekeraar, de woonplaats of het kantoor van de curator alsmede de datum van de beschikking. De publicatie in de landelijke dagbladen geschiedt in de officiële taal of talen van de betrokken lidstaat. In de bekendmaking in het Publicatieblad van de Europese Unie en de landelijke dagbladen van iedere lidstaat waar de verzekeraar een bijkantoor heeft of waarnaar hij diensten verricht wordt daarenboven vermeld dat op het faillissement, behoudens uitzonderingen, Nederlands recht van toepassing is, de rechtsgrondslag, dat De Nederlandsche Bank N.V. de bevoegde toezichthouder is, alsmede de uiterste datum waarop tegen de beschikking beroep in cassatie kan worden ingesteld met vermelding van het volledige adres van de Hoge Raad en het onderwerp van de beschikking.
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Lid 1 verbindt de faillietverklaring aan het summierlijk blijken van de situatie van artikel 213abis, eerste lid. Dit vereenvoudigde bewijsniveau betekent niet dat de rechtbank zonder feitelijke grondslag mag beslissen. Het moet worden samengelezen met het in artikel 213af begrensde verweer tegen het oordeel van DNB. De bijzondere faillissementsgrond draait om de daar aangewezen Wft-voorwaarden; het enkele verlies van de vergunning is niet het volledige onderzoek.
 
 Bij de uitspraak worden volgens lid 2 een rechter-commissaris en een of meer curatoren benoemd. DNB kan kandidaten voordragen, maar de benoeming blijft een beslissing van de rechtbank. Het advies over de uitvoering uit artikel 213abis, vierde lid, maakt DNB evenmin tot curator.
 
-Lid 3 doorbreekt na toewijzing de beslotenheid van de behandeling. De uitspraak is openbaar en de curator moet onverwijld publiceren in de Staatscourant, het Publicatieblad van de EU, ten minste twee aangewezen Nederlandse dagbladen en ten minste twee aangewezen landelijke dagbladen van iedere betrokken lidstaat met een bijkantoor of dienstverlening. De landelijke publicaties gebruiken de officiële taal of talen van die lidstaat. Naast identiteit, zetel, curatoradres en beschikkingsdatum verlangt de bepaling voor de genoemde Europese en buitenlandse bekendmakingen aanvullende gegevens: onder meer de toepasselijkheid van Nederlands recht behoudens uitzonderingen, rechtsgrondslag, bevoegde toezichthouder en uiterste cassatiedatum met het volledige adres van de Hoge Raad. Het noemen van een rechtsmiddel vervangt geen onderzoek van de daarvoor geldende termijnregeling.
+Lid 3 doorbreekt na toewijzing de beslotenheid van de behandeling. De uitspraak is openbaar en de curator moet onverwijld publiceren in de Staatscourant, het Publicatieblad van de EU, ten minste twee aangewezen Nederlandse dagbladen en ten minste twee aangewezen landelijke dagbladen van iedere betrokken lidstaat met een bijkantoor of dienstverlening. De landelijke publicaties gebruiken de officiële taal of talen van die lidstaat. Naast identiteit, zetel, curatoradres en beschikkingsdatum verlangt de bepaling voor de genoemde Europese en buitenlandse bekendmakingen aanvullende gegevens: onder meer de toepasselijkheid van Nederlands recht behoudens uitzonderingen, rechtsgrondslag, bevoegde toezichthouder en uiterste cassatiedatum met het volledige adres van de Hoge Raad en het onderwerp van de beschikking. Het noemen van een rechtsmiddel vervangt geen onderzoek van de daarvoor geldende termijnregeling.
 
 Fictief voorbeeld: een Nederlandse verzekeraar heeft ook klanten via dienstverlening in een andere lidstaat zonder daar een kantoor te hebben. De curator mag die staat niet uit zijn publicatieplanning weglaten. Alleen in Nederland publiceren voldoet evenmin als de buitenlandse publicatie zonder de vereiste rechtsmiddelinformatie plaatsen.
 
@@ -176,7 +166,7 @@ Fictief voorbeeld: de koper wil een portefeuille overnemen, maar heeft meer tijd
 >
 > 5 Indien de rechtbank de machtiging verleent, bepaalt de rechtbank de duur van de machtiging op ten hoogste anderhalf jaar. Voor het verstrijken van de termijn kan de curator verlenging van de geldigheidsduur voor telkens ten hoogste anderhalf jaar verzoeken. Zolang bij het verstrijken van de geldigheidsduur van de machtiging op een verzoek tot verlenging niet is beschikt, wordt de machtiging gehandhaafd.
 
-Dit artikel geeft een afzonderlijke bevoegdheid om verzekeringsovereenkomsten bij hun overgang op een derde te wijzigen. Het vormt geen algemene bevoegdheid om gedurende het faillissement iedere polis eenzijdig te herschrijven. Lid 1 verbindt de machtiging aan de overgang; lid 2 laat toe dat samenhangende schadevergoedingsrechten buiten die overgang blijven. Daaruit volgt niet zonder meer dat iedere achterblijvende schadeclaim tenietgaat of dat de verkrijger die claim toch moet betalen.
+Dit artikel geeft een afzonderlijke bevoegdheid om verzekeringsovereenkomsten bij hun overgang op een derde te wijzigen. Het vormt geen algemene bevoegdheid om gedurende het faillissement iedere polis eenzijdig te herschrijven. De rechtbank kan de machtiging tegelijk met het faillissement verlenen of daarna op verzoek van de curator. Lid 1 verbindt de machtiging aan de overgang; lid 2 laat toe dat samenhangende schadevergoedingsrechten buiten die overgang blijven. Daaruit volgt niet zonder meer dat iedere achterblijvende schadeclaim tenietgaat of dat de verkrijger die claim toch moet betalen.
 
 Lid 3 stelt bij levensverzekeringen een specifieke grens: de wijziging mag verzekeringnemers geen extra verplichtingen opleggen. Die grens is niet hetzelfde als een verbod op iedere vermindering van rechten. Juist de gevolgen voor de aanspraken en voor verschillende groepen polishouders vragen om een onderbouwde beoordeling. Voor latere aanvragen regelt lid 4 de besloten spoedbehandeling en het horen van DNB. Lid 5 stelt de duur op ten hoogste anderhalf jaar per machtiging of verlenging en handhaaft een aflopende machtiging zolang op een vóór afloop gedaan verlengingsverzoek nog niet is beslist.
 
@@ -194,9 +184,7 @@ Fictief voorbeeld: voor een overdracht moeten gegarandeerde uitkeringen worden v
 >
 > 3 De Nederlandsche Bank N.V. deelt de overgang en de wijzigingen mede aan de toezichthoudende instanties waar een bijkantoor van de verzekeraar is gelegen of waarnaar hij diensten verricht vanuit zijn vestigingen in lidstaten.
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Een portefeuilleovergang vraagt naast de machtiging ook bekendmaking en een nauwkeurig vastgelegd tijdstip van werking. Volgens lid 1 publiceert de curator zodra de rechten en verplichtingen zijn overgegaan. Hij vermeldt ook de wijzigingen wanneer de overeenkomst is gewijzigd. Vereist zijn de Staatscourant en ten minste drie dagbladen, die door de rechtbank kunnen zijn aangewezen. Deze publicatie betreft de overgang en moet worden onderscheiden van de bekendmaking van het faillissement volgens artikel 213ag.
@@ -213,9 +201,7 @@ Fictief voorbeeld: de Staatscourant met de bekendmaking is gedagtekend op een ma
 
 > Een beschikking als bedoeld in de artikelen 213agb en 213aga, eerste lid, is uitvoerbaar bij voorraad.
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Artikel 213ah maakt de beschikkingen over overdrachts- en wijzigingsmachtiging uitvoerbaar bij voorraad. De curator hoeft de bevoegdheid daardoor niet uitsluitend wegens het instellen van een rechtsmiddel ongebruikt te laten totdat de beschikking onherroepelijk is. Dit ondersteunt een voortvarende portefeuilleovergang, waarbij uitstel de waarde of uitvoerbaarheid van een transactie kan aantasten.
@@ -230,9 +216,7 @@ Fictief voorbeeld: na de wijzigingsmachtiging betwist een belanghebbende de aanp
 
 > Vervallen
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Het vervallen artikel 213ai levert sinds 1 januari 2019 geen actuele zelfstandige bevoegdheid op. Een betrokkene die uit de doorlopende nummering afleidt dat hier nog een afzonderlijke processtap staat, mist de status van de bepaling. Fictief voorbeeld: voor de uitvoerbaarheid van een huidige overdrachtsmachtiging wordt artikel 213ah onderzocht, niet een gereconstrueerde tekst van 213ai. Voor een ouder faillissement blijft de bronnoot over artikel XIV, vierde lid, Stb. 2018, 489 relevant.
@@ -243,9 +227,7 @@ Het vervallen artikel 213ai levert sinds 1 januari 2019 geen actuele zelfstandig
 
 > Vervallen
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Onder artikel 213aj staat in deze versie uitsluitend de vervallenverklaring, met ingang van 1 januari 2019. Dat is een te behouden wettelijke plaats, geen ontbrekend overgenomen lid. Het in de bron vermelde overgangsrecht maakt de datum waarop het verzekeraarsfaillissement is uitgesproken bepalend voor de keuze tussen oud en nieuw recht. Fictief voorbeeld: een latere proceshandeling in een oud faillissement maakt dat faillissement niet vanzelf tot een procedure onder de huidige regeling.
@@ -256,9 +238,7 @@ Onder artikel 213aj staat in deze versie uitsluitend de vervallenverklaring, met
 
 > Vervallen
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 De actuele consolidatie bevat bij artikel 213ak geen materiële regeling meer; het artikel is sinds 1 januari 2019 vervallen. Uit het lege nummer kan daarom geen aanvullende voorwaarde voor de huidige portefeuilleoverdracht worden afgeleid. Fictief voorbeeld: een overdrachtsdossier dat nog een oude verwijzing naar 213ak bevat, moet voor de actuele machtiging worden getoetst aan de geldende artikelen 213aga en 213agb. Voor historische toepassing moet ook het in de bron genoemde overgangsrecht worden onderzocht.
@@ -269,9 +249,7 @@ De actuele consolidatie bevat bij artikel 213ak geen materiële regeling meer; h
 
 > Vervallen
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Artikel 213al is een sinds 1 januari 2019 vervallen slot in de artikelnummering. Het opnemen ervan bewaart de volledigheid van de bron, maar verschaft geen huidige aanspraak aan een verzekeringnemer of andere schuldeiser. Fictief voorbeeld: wanneer een oude polisbrief dit nummer noemt, kan de geadresseerde daaruit niet zonder controle van de destijds geldende tekst en de faillissementsdatum een actueel recht afleiden. De bronnoot verwijst daarvoor naar het overgangsrecht van Stb. 2018, 489.
@@ -282,9 +260,7 @@ Artikel 213al is een sinds 1 januari 2019 vervallen slot in de artikelnummering.
 
 > Vervallen
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Het artikelnummer 213am is behouden met de status «Vervallen» sinds 1 januari 2019. Die status zegt iets over de huidige tekst, niet dat alle handelingen die vroeger met dit nummer verband hielden ongeldig zijn geworden. Fictief voorbeeld: bij een geschil over een verrichting in een vóór de wetswijziging uitgesproken verzekeraarsfaillissement moet het toepasselijke oude recht worden geraadpleegd. Artikel XIV, vierde lid, Stb. 2018, 489 bewaart voor zulke faillissementen de toen geldende Faillissementswet.
@@ -295,9 +271,7 @@ Het artikelnummer 213am is behouden met de status «Vervallen» sinds 1 januari 
 
 > Vervallen
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Sinds 1 januari 2019 bevat artikel 213an geen geldende inhoudelijke norm. Het mag daarom niet worden aangehaald als een actuele uitzondering op de publicatieverplichtingen van artikel 213agc. Fictief voorbeeld: een curator die een huidige portefeuilleovergang bekendmaakt, kan een veronderstelde oude vrijstelling niet uit dit vervallen nummer afleiden. Een beoordeling van een ouder faillissement vergt wel afzonderlijke toepassing van het overgangsrecht waarnaar de officiële bronnoot verwijst.
@@ -308,9 +282,7 @@ Sinds 1 januari 2019 bevat artikel 213an geen geldende inhoudelijke norm. Het ma
 
 > Vervallen
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 De vermelding bij artikel 213ao is een expliciet vervallen artikel, geen redactionele weglating uit dit commentaar. De vervaldatum is 1 januari 2019. Voor nieuwe zaken bestaat hier geen aanvullende aanvraag- of beslissingsgrond. Fictief voorbeeld: een onderzoeker die een historische uitspraak met een verwijzing naar 213ao leest, moet het toen geldende artikel naast de uitspraak leggen. De huidige tekst en het in de bron genoemde overgangsrecht volstaan om de versiekeuze te signaleren, niet om de oude inhoud te reconstrueren.
@@ -321,9 +293,7 @@ De vermelding bij artikel 213ao is een expliciet vervallen artikel, geen redacti
 
 > Vervallen
 
-**Redactionele bronaantekeningen:**
-
-Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
+*Redactionele bronnotitie:* Artikel XIV, vierde lid, van Stb. 2018/489 bevat overgangsrecht
 m.b.t. deze wijziging.
 
 Artikel 213ap is sinds 1 januari 2019 vervallen. De plaats in de reeks verzekeraarsbepalingen maakt dit nummer niet tot een nog toepasselijke sluitregel. Fictief voorbeeld: bij een actueel verzoek kan de rechtbank geen voorwaarde aan 213ap ontlenen zonder een andere geldende rechtsgrond aan te wijzen. Voor eerder uitgesproken faillissementen moet de continuïteit van het oude recht volgens artikel XIV, vierde lid, Stb. 2018, 489 worden onderzocht.
