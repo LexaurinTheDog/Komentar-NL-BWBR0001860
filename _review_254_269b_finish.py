@@ -42,6 +42,9 @@ for root in [O,B,T]:
  (root/'sources').mkdir(exist_ok=True)
  for p in S.glob(P+'-*'):shutil.copyfile(p,root/'sources'/p.name)
  for name in ['SOURCES.md','REVIEW.md']:shutil.copyfile(W/name,root/name)
+for root in [B,T]:
+ (root/'REVIEW.md').write_text('# Tweede lezing — afgebakend checkpoint\n\n'+review.split('## Afgebakende tweede lezing — artikelen 254–269b')[1])
+ (root/'SOURCES.md').write_text('# Bronnen bij artikelen 254–269b\n\n[Officiële wet](https://wetten.overheid.nl/BWBR0001860/2026-09-01). [Bronopnamen](sources/'+P+'-fetch.json), [rechtspraakopnamen](sources/'+P+'-case-fetch.json), [broncontrole](sources/'+P+'-preflight-result.json), [volledige parsercontrole](sources/'+P+'-parser-check.json), [selectief rechtspraakonderzoek](sources/'+P+'-search-log.json).\n')
 for name in ['review-result.json','review-checks.json','preflight-result.json','status.json']:shutil.copyfile(W/name,O/name)
 shutil.copyfile(S/'verification.json',O/'sources/verification.json')
 for p in W.glob('_review_254_269b_*.py'):shutil.copyfile(p,O/p.name)
