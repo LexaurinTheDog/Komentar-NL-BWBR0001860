@@ -1,0 +1,24 @@
+from pathlib import Path
+import sys,json,hashlib,re,shutil
+W=Path(__file__).resolve().parent
+sys.path.insert(0,'/Volumes/LaCie/open-commentary/_tools');from build_repo import load_commentary
+c=load_commentary(str(W));(W/'sources/review-art-172-186-before-hashes.json').write_text(json.dumps({k:hashlib.sha256(v.encode()).hexdigest() for k,v in c.items()},indent=2)+'\n')
+adds={
+'art-172':'De overeenkomstige toepassing betreft beide leden van artikel 171: eerst de inhaaluitdeling tot de toegezegde akkoordpercentages en daarna de gezamenlijke verdeling van het overschot. Niet enkel de nog onbetaalde oude schuldeisers worden ingehaald; ook de nieuwe schuldeisers delen in die eerste ronde. Het is daarom onjuist de oude akkoordbetalingen slechts af te trekken van individuele vorderingen en vervolgens zonder deze tussenstap één uniform percentage uit te keren.',
+'art-173b':'De noemer bestaat uit de hier omschreven erkende en voorwaardelijk toegelaten vorderingen, niet uitsluitend uit de op de vergadering vertegenwoordigde bedragen. Afwezigheid maakt de drempel dus niet lager. Bij € 100.000 aan meetellende vorderingen is € 50.000 steun onvoldoende: de wet verlangt méér dan de helft. De overeenkomstige toepassing van artikel 75 in lid 2 geeft bij ontbreken van een commissie de procedure voor een definitieve commissie; zij maakt een commissie niet zonder de daar bedoelde raadpleging automatisch verplicht.',
+'art-180':'Bij betwiste voorrang gaat het niet om de voorwaardelijke toelating van de schuldvordering zelf: artikel 181 ziet op die laatste categorie, artikel 189 houdt daarnaast juist het bedrag aan waarop de betwiste voorrang betrekking heeft. Artikel 180 lid 2 verlangt berekening van de voorrang ook wanneer zij betwist is. Men mag daarom een wel erkende schuld met betwiste rang niet volledig schrappen of behandelen alsof het bestaan van de vordering nog ter verificatie staat.',
+'art-182':'De uitgezonderde bestemmingen van de executieopbrengst zijn uitdrukkelijk ruimer dan pand, hypotheek en retentie: ook beperkt gerechtigden, huurders en pachters wier recht door de executie verviel of verloren ging zijn genoemd. De uitzondering hangt aan de wettelijk beschreven opbrengst en executieroute, niet aan ieder ander boedelgoed waarop dezelfde ontvanger aanspraak maakt. Voor de opbrengst ten behoeve van een hoger bevoorrechte schuldeiser blijft de algemene kostenomslag juist gelden.',
+'art-184':'Een concreet geval geeft HR 3 november 2017, ECLI:NL:HR:2017:2808. In rov. 3.4.2 strandt de klacht al omdat een feitelijke stelling niet voor het eerst in cassatie kon worden aangevoerd. Daarnaast overweegt de Hoge Raad in rov. 3.4.3 dat de beslissing van de rechter-commissaris om een vordering op de erkende lijst te plaatsen een beschikking onder artikel 67 lid 1 is. Daartegen had de betrokken schuldeiser hoger beroep moeten instellen; verzet tegen de uitdelingslijst opent die erkenningsbeslissing niet opnieuw. Dit betreft die vaststaande erkenning en rechtvaardigt niet de conclusie dat iedere reken- of rangfout op de uitdelingslijst aan verzet ontsnapt. Zie de [zaakkaart met volledige uitspraak](cases/HR-2017-2808-uitdelingslijst.md).',
+'art-185':'Ook een verworpen cassatieberoep kan nog een aanpassing van de lijst vergen: in HR 2017:2808, rov. 3.5 en dictum, werd de zaak teruggewezen omdat het beroep aannemelijk de algemene faillissementskosten had verhoogd. De rechtbank moest de lijst voor zover nodig op dat onderdeel opnieuw vaststellen. Dat beperkte herstel van kosten is iets anders dan het alsnog toelaten van de eerder afgewezen betwisting van een erkende vordering. De beslissing ondersteunt dus zowel de noodzaak van actuele financiële verantwoording als de procedurele begrenzing van het geschil.'}
+replace={'art-181':('Bijvoorbeeld: een opschortend voorwaardelijke aanspraak is voor het volle bedrag voorwaardelijk toegelaten.','Bijvoorbeeld: een bij verificatie betwiste vordering is voor het volle bedrag voorwaardelijk toegelaten. De voorwaardelijke toelatingsstatus moet worden onderscheiden van een materiële opschortende voorwaarde in de overeenkomst waaruit een schuld ontstaat; niet iedere contractuele voorwaarde maakt een vordering automatisch tot deze categorie.'),'art-180':('Betwiste voorrang en voorwaardelijke toelating vragen de reserveringen van artikelen 181 en 189.','Voorwaardelijke toelating vraagt de berekening van artikel 181; artikel 189 regelt het vasthouden bij die toelating en bij betwiste voorrang.')}
+for p in (W/'commentary').glob('*.md'):
+ s=p.read_text()
+ def edit(m):
+  k,t=m[1],m[2]
+  if k in replace:
+   a,b=replace[k];assert a in t;t=t.replace(a,b)
+  if k in adds:t=t.rstrip()+'\n\n'+adds[k]+'\n\n'
+  return '=== '+k+'\n'+t
+ s2=re.sub(r'^=== (\S+)\n(.*?)(?=^=== |\Z)',edit,s,flags=re.M|re.S)
+ if s2!=s:p.write_text(s2)
+shutil.copyfile('/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2017-2808.md',W/'sources/review-art-172-186-hr-2017-2808-local.md')

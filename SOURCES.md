@@ -64,3 +64,5 @@ Tweede lezing artikelen 121–137b: [broncontrole](sources/review-art-121-137b-p
 Tweede lezing artikelen 137c–152: [broncontrole](sources/review-art-137c-152-preflight-result.json), [bevindingen](sources/review-art-137c-152-result.json), [onderzoekslog](sources/review-art-137c-152-search-log.json), [HR 2024:210](cases/HR-2024-210-akkoord-reikwijdte.md) en [Rb. Gelderland 2015:5785](cases/RBGEL-2015-5785-akkoordstemming.md).
 
 Tweede lezing artikelen 153–171: [broncontrole](sources/review-art-153-171-preflight-result.json), [bevindingen](sources/review-art-153-171-result.json), [onderzoekslog](sources/review-art-153-171-search-log.json), [HR 2024:210](cases/HR-2024-210-akkoord-reikwijdte.md).
+
+Tweede lezing artikelen 172–186: [broncontrole](sources/review-art-172-186-preflight-result.json), [bevindingen](sources/review-art-172-186-result.json), [onderzoekslog](sources/review-art-172-186-search-log.json), [HR 2017:2808](cases/HR-2017-2808-uitdelingslijst.md).

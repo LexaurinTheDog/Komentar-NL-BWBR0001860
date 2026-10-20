@@ -1,0 +1,13 @@
+{
+  "queries": [
+    "site.rechtspraak.nl \"182\" \"Faillissementswet\" \"Hoge Raad\" omslag",
+    "site.rechtspraak.nl \"184\" \"uitdelingslijst\" \"Hoge Raad\""
+  ],
+  "full_decisions_read": [
+    "ECLI:NL:HR:2017:2808"
+  ],
+  "local_corpus_read": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2017-2808.md",
+  "snapshot": "sources/review-art-172-186-hr-2017-2808-local.md",
+  "not_used": "PHR opinions, estate-liquidation cases and commercial annotations not used as judgments; no additional sufficiently relevant verified authority added for other assigned units.",
+  "limitations": "Selective search; no exhaustive later-treatment review."
+}
