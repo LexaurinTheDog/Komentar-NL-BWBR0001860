@@ -1,0 +1,288 @@
+
+    
+    
+      HOGE RAAD DER NEDERLANDEN
+    
+    
+    
+      CIVIELE KAMER
+    
+    
+    
+    
+    
+      
+        Nummer	21/04254
+      
+        Datum	25 augustus 2023
+    
+    
+    
+    
+      ARREST
+    
+    
+    
+    
+      In de zaak van
+    
+    
+    
+      ING BANK N.V.,
+      gevestigd te Amsterdam,
+      EISERES in het principale cassatieberoep, verweerster in het incidentele cassatieberoep,
+      hierna: ING,
+      advocaten: B.T.M. van der Wiel en A. Stortelder,
+    
+    
+    
+      tegen
+    
+    
+    
+      Cornelis VAN DEN BERGH, in zijn hoedanigheid van curator in de faillissementen van FLINTER SHIPPING B.V. en FLINTER MANAGEMENT B.V.,
+      wonende te Rotterdam,
+      VERWEERDER in het principale cassatieberoep, eiser in het incidentele cassatieberoep,
+      hierna: de curator,
+      advocaat: D.M. de Knijff.
+    
+    
+  
+
+    
+      1Procesverloop
+    
+      Voor het verloop van het geding in feitelijke instantie verwijst de Hoge Raad naar de vonnissen in de zaak C/13/688300 / HA ZA 20-823 van de rechtbank Amsterdam van 24 maart 2021 en 14 juli 2021;
+      ING heeft tegen het vonnis van de rechtbank van 14 juli 2021 beroep in cassatie ingesteld.
+      De curator heeft incidenteel cassatieberoep ingesteld. 
+      Partijen hebben over en weer geconcludeerd tot verwerping van het beroep. 
+      De zaak is voor partijen toegelicht door hun advocaten, voor ING mede door P. Smits en S.H.J. de Bruijn en voor de curator mede door P. Beerda.
+      De conclusie van de Advocaat-Generaal E.B. Rank-Berenschot strekt in het principale cassatieberoep tot verwerping en in het incidentele cassatieberoep tot vernietiging en verwijzing.
+      De advocaten van partijen hebben schriftelijk op die conclusie gereageerd. 
+    
+    
+  
+
+    
+      2Uitgangspunten en feiten
+    
+      2.1
+      
+        In cassatie kan (deels veronderstellenderwijs) van het volgende worden uitgegaan.
+        (i) Flinter Shipping B.V. (hierna: Shipping), Flinter Management B.V. (hierna: Management), Flinter Chartering B.V. (hierna: Chartering) en Flinter Shared Services B.V. (hierna: Shared Services) (hierna gezamenlijk: Shipping c.s.) maakten deel uit van een groep vennootschappen die onder de naam Flinter actief waren als scheepvaartondernemingen (hierna ook: het Flinterconcern).
+        (ii) ING heeft het Flinterconcern op verschillende momenten krediet verstrekt. Tot zekerheid van terugbetaling van haar vordering heeft ING een stil pandrecht verkregen op onder meer de vorderingen van Shipping en Chartering, waartoe op (vrijwel) dagelijkse basis verzamelpandakten zijn geregistreerd bij de belastingdienst.
+        (iii) ING heeft met (onder meer) Shipping c.s. een ‘compte joint- en mede-aansprakelijkheidsovereenkomst’ (hierna: CJMO) gesloten. Shipping c.s. hebben zich daarbij elk hoofdelijk tegenover ING aansprakelijk gesteld voor de schulden van elk van hen aan ING. De art. 1 en 7 van de CJMO, waarin Shipping c.s. en andere vennootschappen van het Flinterconcern gezamenlijk als ‘partijen sub A’ worden aangeduid, bepalen verder het volgende:
+      
+      
+      
+        “1. De rekeningen die partijen sub A bij de bank onderhouden en die zijn ingebracht in een zogenaamd fiat- en rentecompensabel stelsel zullen tegenover de bank als onderdelen van één geheel beschouwd worden als waren ze subrekeningen van één fictief door de bank gevoerde, die ingebrachte rekeningen omvattende, gecombineerde rekening.
+        (…)7. De bank en partijen sub A komen overeen dat de bank de vorderingen die zij nu of te eniger tijd, al dan niet opeisbaar of onder voorwaarde, op partijen sub A of één hunner heeft of krijgt, mag verrekenen met de vorderingen die partijen sub A of één hunner nu of te eniger tijd, al dan niet opeisbaar, op de bank heeft of krijgt, een en ander naar keuze van de bank. Partijen sub A machtigen de bank onherroepelijk om eventuele creditsaldi op (één van) de rekening(en) van ieder van de partijen sub A, zonder enige nadere opdracht, over te boeken naar (één van) de rekening(en) van haarzelf of van iedere andere van de partijen sub A, één en ander geheel naar keuze van de bank.”
+        (iv) Het Flinterconcern verleende onder meer bevrachtingsdiensten ter zake van windmolens of onderdelen daarvan aan Vestas Wind Systems A/S (hierna: Vestas). Ingevolge een overeenkomst uit 2012 tussen Shipping en Vestas handelde Shipping daarbij als onmiddellijk vertegenwoordiger (shipbroker) voor Chartering, die als eigenaar van de desbetreffende schepen werd genoemd. Shipping stuurde voor deze bevrachtingsdiensten facturen aan Vestas, die Vestas betaalde op een rekening van Shipping bij ING.
+        (v) Bij beschikkingen van 19 oktober 2016 heeft de rechtbank Rotterdam voorlopig surseance verleend aan onder meer Shipping en Management.
+        (vi) Op 20 oktober 2016 heeft ING creditsaldi van de rekeningen van Shipping en Management overgeboekt naar de rekening van Shared Services bij ING, die op dat moment een creditstand vertoonde, en vanaf deze rekening naar rekeningen van andere vennootschappen van het Flinterconcern bij ING, die een debetstand vertoonden.
+        (vii) Op 15 december 2016 zijn Shipping en Management failliet verklaard.
+      
+      
+    
+    
+      2.2
+      De curator vordert in dit geding, kort gezegd, een verklaring voor recht dat ING (a) in strijd met art. 228 Fw de creditsaldi van de bankrekeningen van Shipping en Management heeft afgeboekt (zie hiervoor in 2.1 onder (vi) en (b) vanaf 15 juni 2016 althans een nader door de rechtbank te bepalen datum niet langer te goeder trouw was in de zin van art. 54 Fw dan wel art. 235 Fw, en veroordeling van ING tot terugbetaling aan de curator van de door ING van de rekeningen van Shipping en Management afgeboekte creditsaldi.
+      
+    
+    
+      2.3
+      De rechtbank heeft bij tussenvonnis, samengevat en voor zover in cassatie van belang, het volgende overwogen. 
+      
+      
+        
+          Drie rechtsvragen
+        
+        	Het is partijen er voorshands om te doen duidelijkheid te verkrijgen over de maatstaven die hebben te gelden bij de beoordeling van de volgende drie rechtsvragen:
+      
+      
+      
+        (i) ING heeft haar vorderingen op de vennootschappen, deel uitmakend van het Flinterconcern, verrekend met openstaande schulden. De eerste vraag is of zij hierbij te goeder trouw heeft gehandeld in de zin van art. 235 Fw, dat zakelijk overeenstemt met art. 54 Fw. In die context hebben partijen uiteenlopende standpunten verdedigd over de daarbij toepasselijke norm en het moment van beoordeling. Partijen hebben zich beiden op het standpunt gesteld dat er veronderstellenderwijs van moet worden uitgegaan dat van een pandrecht op de desbetreffende vorderingen geen sprake is.
+      
+      
+      
+        (ii) De tweede vraag is of art. 228 Fw eraan in de weg staat dat ING, nadat surseance van betaling was verleend aan de vennootschappen van het Flinterconcern, waaronder Shipping en Management, zonder medewerking van de bewindvoerders het creditsaldo op de bankrekeningen van deze vennootschappen mocht overboeken naar andere bankrekeningen binnen het fiat- en rentecompensabel stelsel van andere Flintervennootschappen.
+      
+      
+      
+        (iii) De derde vraag luidt of de verruimende uitzondering op de beperkte verrekeningsbevoegdheid van banken, zoals aanvaard in het arrest HR 17 februari 1995, ECLI:NL:HR:1995:ZC1641 (Mulder q.q./Crédit Lyonnais), ook geldt als een stil verpande vordering wordt voldaan op een bankrekening die niet op naam van de stille pandgever is gesteld, maar van een hoofdelijk medegehouden zustervennootschap die haar vorderingen eveneens stil aan de bank heeft verpand.
+      
+      
+      
+        (rov. 4.1-4.2)
+      
+      
+      
+        
+          	Vraag (i) De goedetrouwnorm van de art. 235 Fw en 54 Fw
+        
+        In het arrest HR 17 februari 2012, ECLI:NL:HR:2012:BU6552 (Rabobank/Kézér q.q.) heeft de Hoge Raad geoordeeld dat de wederpartij van de gefailleerde niet te goeder trouw is in de zin van art. 54 Fw indien zij bij de overneming van de schuld aan, of van de vordering op de latere failliet wist dat de schuldenaar in een zodanige toestand verkeerde dat zijn faillissement dan wel zijn surseance van betaling was te verwachten. De rechtbank onderschrijft niet het standpunt van de curator dat deze norm in wezen identiek is aan de formulering die de Hoge Raad in de context van art. 42 Fw heeft ontwikkeld in het arrest HR 22 december 2009, ECLI:NL:HR:2009:BI8493 (ABN AMRO/Van Dooren q.q. III), te weten dat van wetenschap van benadeling in de zin van deze bepaling sprake is indien ten tijde van de handeling het faillissement en een tekort daarin met een redelijke mate van waarschijnlijkheid waren te voorzien voor zowel de schuldenaar als degene met of jegens wie de schuldenaar de rechtshandeling verrichtte. De norm die in het kader van de art. 235 Fw en 54 Fw moet worden toegepast impliceert dat subjectieve wetenschap van de toestand waarin de schuldenaar verkeert, moet worden aangetoond. (rov. 4.4-4.8)
+        	De rechtbank ziet geen aanleiding om tegemoet te komen aan het verzoek van partijen om een norm te ontwikkelen die specifiek is toegesneden op verrekening door een bank ten opzichte van een in moeilijkheden verkerende, bedrijfsmatig handelende cliënt; de norm van het arrest Rabobank/Kézér q.q. geldt ook in die specifieke context. (rov. 4.9) 
+        	Er kunnen geen uitspraken van algemene strekking worden gedaan over het moment met ingang waarvan moet worden geoordeeld dat de verrekenende bank niet langer te goeder trouw is; dit is afhankelijk van alle omstandigheden van het geval. (rov. 4.12)
+        	Wel is er aanleiding om enkele gezichtspunten te formuleren die in deze specifieke context van belang kunnen zijn bij de beoordeling van de goede trouw van de bank. De volgende gezichtspunten kunnen in het algemeen van belang zijn:
+        	(a)	of naar objectieve maatstaven in de gegeven omstandigheden, waaronder met name de vermogenspositie en de liquiditeit van de cliënt, de zekerheden van de bank, de bereidheid van aandeelhouders of andere belanghebbenden om desgevraagd redelijke aanvullende maatregelen te nemen, dreigende executiemaatregelen door derden, de kwaliteit van het bestuur van de vennootschap en de actuele en te verwachten ontwikkeling van de relevante markt, redelijkerwijs kon worden verwacht dat deze cliënt, bij ongewijzigde voortzetting van de bestaande bancaire relatie, zou kunnen voortgaan met het voldoen van haar opeisbare schulden;
+        	(b)	de aard en omvang van de door de bank genomen maatregelen om haar belangen veilig te stellen, de daarvoor opgegeven redenen en de vraag of – en zo ja waarom – deze afweken van de tot dan toe gebruikelijke gang van zaken;
+        	(c)	de aard, duur en geschiedenis van de relatie tussen partijen, en meer in het bijzonder of eerder van een moeilijke situatie sprake is geweest, en op welke wijze beide partijen daarop hebben gereageerd;
+        	(d)	of, en zo ja wanneer en naar aanleiding waarvan, de bank de cliënt heeft overgebracht naar haar afdeling speciaal beheer, of een daarmee gelijk te stellen afdeling. 
+        	(rov. 4.9-4.10)
+      
+      
+      
+        
+          Vraag (ii) Kruislingse verrekening en art. 228 Fw
+          Niet kan worden volgehouden dat de door ING verrichte kruislingse verrekening van de saldi van de bij haar aangehouden bankrekeningen van de afzonderlijke vennootschappen, behorend tot het Flinterconcern, een louter administratieve, papieren operatie was en geen verrekening in juridische zin. Bij die kruislingse verrekening zijn immers de creditsaldi van de bankrekeningen van Shipping en Management verevend met de debetsaldi van andere vennootschappen, behorend tot het Flinterconcern, waardoor het vermogen van eerstgenoemde vennootschappen is verminderd. Er was dus sprake van een verrekening in de zin van art. 6:127 BW e.v. met dien verstande dat, ingevolge de tussen partijen gesloten overeenkomst, niet voldaan behoefde te zijn – en ook niet voldaan was – aan de wettelijke eis van, kort gezegd, identiteit van partijen (art. 6:127 lid 2 BW). (rov. 4.14) 
+        	In zijn arrest van 15 november 2019, ECLI:NL:HR:2019:1789 heeft de Hoge Raad geoordeeld dat art. 53 Fw – dat overeenstemt met art. 234 Fw – niet eraan in de weg staat dat de wederpartij van de partij die in staat van faillissement is verklaard, een beroep doet op een voor de datum van de faillietverklaring tussen hen overeengekomen beding waarbij de bevoegdheid tot verrekening van vorderingen en schulden die voor de datum van de faillietverklaring zijn ontstaan of die voortvloeien uit rechtsverhoudingen die op die datum reeds bestonden, ten behoeve van die wederpartij contractueel is uitgebreid. Deze beslissing bestrijkt mede het zich hier voordoende geval van kruislingse verrekening ten laste van een schuldenaar die in surseance van betaling verkeert. (rov. 4.15)
+        	Art. 228 Fw staat in het geval van surseance evenmin aan (kruislingse) verrekening in de weg als art. 23 Fw (de gefailleerde wordt beschikkingsonbevoegd) in verbinding met art. 68 Fw (de curator is belast met het beheer en de vereffening van de failliete boedel) dat doet in geval van faillissement. In het geval van verrekening verricht immers niet de schuldenaar daden van beheer of beschikking betreffende de boedel, maar oefent de schuldeiser die gerechtigd is tot verrekening, zelfstandig een hem toekomende bevoegdheid uit. (rov. 4.16)
+        		Op deze grond was ING dus tot de onderhavige kruislingse verrekening bevoegd, ook al vond deze pas plaats daags na uitspraak van de surseance van betaling van de vennootschappen behorend tot het Flinterconcern. Daarom is niet van belang dat ING zich ter rechtvaardiging van de onderhavige kruislingse verrekening mede heeft beroepen op een haar daartoe verleende onherroepelijke volmacht en evenmin dat tussen partijen is overeengekomen dat alle rekeningen van vennootschappen behorend tot het Flinterconcern, moeten worden beschouwd als subrekeningen van één fictieve, alomvattende, rekening. (rov. 4.17)
+
+        
+          	Vraag (iii) Moet het arrest Mulder q.q./Crédit Lyonnais in het geval van de Vestas-betalingen, eng of ruim worden uitgelegd?
+        
+        	Vestas gaf herhaaldelijk vervoersopdrachten aan het Flinterconcern. Zij richtte deze opdrachten tot Shipping, die als onmiddellijk vertegenwoordiger optrad voor de vennootschap binnen het Flinterconcern die als wederpartij van Vestas gold, Chartering. Vestas betaalde voor de aan haar verleende diensten op een ING-rekening die op naam stond van Shipping. Zowel Chartering als Shipping had een stil pandrecht op al haar tegenwoordige en toekomstige handelsvorderingen verleend aan ING. Onder deze omstandigheden is de curator van mening dat de verruimende uitzondering op de beperkte verrekeningsbevoegdheid van banken, zoals aanvaard in het arrest Mulder q.q./Crédit Lyonnais, niet geldt omdat Chartering in verhouding tot Shipping rechthebbende was op de door Vestas gedane betalingen, die echter niet op een door haar aangehouden rekening bij ING zijn voldaan, maar op de rekening van haar zustervennootschap Shipping. De curator voert bovendien aan dat de juistheid van deze lezing is bevestigd in het arrest HR 14 juni 2013, ECLI:NL:HR:2013:BZ5663 (ABN Amro/Schreurs q.q.). (rov. 4.20)
+        	Het door de curator verdedigde standpunt gaat al daarom niet op omdat de voor Chartering bestemde betalingen het vermogen van Shipping passeerden voordat zij door haar aan haar achterman werden doorbetaald. Daarop ontstond dus een rechtsgeldig stil pandrecht voor ING. De omstandigheid dat Chartering in verhouding tot Shipping rechthebbende was op deze betalingen, brengt hierin geen wijziging. Het arrest Mulder q.q./Crédit Lyonnais is dus rechtstreeks op het onderhavige geval van toepassing, zodat ING ook in zoverre tot verrekening bevoegd was. (rov. 4.21)
+        	Het arrest ABN Amro/Schreurs q.q. maakt dit niet anders. Hierin heeft de Hoge Raad onder meer overwogen dat uit het arrest Mulder q.q./Crédit Lyonnais volgt dat een bankinstelling zich mag beroepen op verrekening op de voet van art. 53 Fw ter zake van girale betalingen die op een bij haar aangehouden rekening van haar schuldenaar zijn gedaan en die zijn ontvangen op een tijdstip na diens faillietverklaring ter voldoening van vorderingen waarop de bank een stil pandrecht heeft verkregen. Volgens de curator wordt in de zinsnede “op een bij haar aangehouden rekening van haar schuldenaar” een zelfstandige, nadere eis gesteld waaraan in dit geval niet is voldaan. Dit standpunt is niet juist, reeds omdat “haar schuldenaar” (in dit geval: schuldenaar van ING) in dit geval niet Chartering was, maar Shipping. (rov. 4.22) 
+      
+      
+    
+    
+      2.4
+      De rechtbank heeft van haar tussenvonnis tussentijds hoger beroep opengesteld. Partijen zijn sprongcassatie overeengekomen.
+      
+    
+  
+
+    
+      3Beoordeling van de middelen in het principale en in het incidentele beroep
+    De goedetrouwmaatstaf van de art. 54 lid 1 Fw en 235 lid 1 Fw
+    
+    
+      3.1.1
+      Onderdeel 1 van het middel in het principale beroep en de onderdelen 1.2 en 1.3 van het middel in het incidentele beroep stellen beide de invulling van de maatstaf ‘niet te goeder trouw’ handelen in de art. 54 lid 1 Fw en 235 lid 1 Fw aan de orde. Naar aanleiding van de klachten van deze onderdelen wordt het volgende vooropgesteld.
+      
+    
+    
+      3.1.2
+      De art. 54 lid 1 Fw en 235 lid 1 Fw bepalen dat degene die een schuld aan de gefailleerde/de boedel of een vordering op de gefailleerde/de boedel voor de faillietverklaring/de aanvang van de surseance van een derde heeft overgenomen, niet bevoegd is tot verrekening indien hij bij deze overneming niet te goeder trouw heeft gehandeld. Of degene die een schuld aan of een vordering op de gefailleerde/de boedel heeft overgenomen, daarbij niet te goeder trouw heeft gehandeld als bedoeld in de art. 54 lid 1 Fw en 235 lid 1 Fw, is afhankelijk van diens wetenschap omtrent de toestand waarin de later gefailleerde/de boedel verkeerde ten tijde van het overnemen van de schuld of de vordering. De vraag of het daarbij uitsluitend gaat om (subjectief) weten, dan wel tevens om (objectief) behoren te weten, is als zodanig niet eerder aan de Hoge Raad voorgelegd en evenmin in zijn rechtspraak beantwoord.
+      
+    
+    
+      3.1.3
+      Art. 3:11 BW bepaalt dat goede trouw van een persoon, vereist voor enig rechtsgevolg, niet alleen ontbreekt indien hij de feiten of het recht waarop zijn goede trouw betrekking moet hebben, kende, maar ook indien hij ze in de gegeven omstandigheden behoorde te kennen. Art. 3:15 BW bepaalt dat art. 3:11 BW buiten het vermogensrecht toepassing vindt, voor zover de aard van de rechtsbetrekking zich daartegen niet verzet. Nu de aard van de rechtsbetrekking waarop de art. 54 lid 1 Fw en 235 lid 1 Fw zien zich daartegen niet verzet, ligt het in de rede om voor het vereiste karakter van de wetenschap in het kader van de goedetrouwmaatstaf van deze bepalingen aan te sluiten bij de goedetrouwmaatstaf van art. 3:11 BW (zie hiervoor in 3.1.2). 
+      
+    
+    
+      3.1.4
+      Uit hetgeen hiervoor in 3.1.2-3.1.3 is overwogen, volgt dat degene die bij de overneming van een schuld aan, of van een vordering op de later gefailleerde/de boedel weet of behoort te weten dat de schuldenaar in een zodanige toestand verkeert dat diens faillissement dan wel surseance van betaling is te verwachten, niet te goeder trouw handelt in de zin van de art. 54 lid 1 Fw en 235 lid 1 Fw. 
+      
+    
+    
+      3.1.5
+      Bij de beoordeling of de wederpartij ten tijde van de overneming van een schuld aan of vordering op de later gefailleerde/de boedel niet te goeder trouw handelt in de zin van art. 54 lid 1 Fw, dan wel art. 235 lid 1 Fw, dienen alle omstandigheden van het geval in aanmerking te worden genomen. Tot die omstandigheden kan in voorkomend geval ook behoren dat een bank bereid is tot voortzetting van de financiering of tot medewerking aan een reddingspoging door risicodragend kapitaal beschikbaar te houden voor de cliënt, omdat zij nog overlevingskansen ziet voor die cliënt. Daarbij kan in het algemeen ervan worden uitgegaan dat een bank die gegronde redenen heeft om aan te nemen dat een reddingspoging (bij voortgezette of aanvullende financiering) een reële kans van slagen heeft, weet noch behoort te weten dat de schuldenaar in een zodanige toestand verkeert dat diens faillissement dan wel surseance van betaling is te verwachten. De enkele bereidheid tot (voortzetting van de) financiering dan wel medewerking aan een reddingspoging is daarvoor evenwel onvoldoende. 
+      
+    
+    
+      3.1.6
+      Onderdeel 1 van het middel in het incidentele beroep bestrijdt onder meer het oordeel van de rechtbank dat de maatstaf die in het kader van de art. 54 lid 1 Fw en 235 lid 1 Fw moet worden toegepast, impliceert dat subjectieve wetenschap van de toestand waarin de schuldenaar verkeert, moet worden aangetoond. Uit hetgeen hiervoor in 3.1.2-3.1.4 is overwogen, volgt dat het onderdeel in zoverre gegrond is.	
+      
+    
+    
+      3.1.7
+      De onderdelen 1.2 en 1.3 van het middel in het principale beroep klagen dat de rechtbank ten onrechte niet als specifieke norm, dan wel uitgangspunt heeft aanvaard dat zolang een bank bereid is tot voortzetting van de financiering, althans tot medewerking aan een reddingspoging door risicodragend kapitaal beschikbaar te houden voor de cliënt, omdat zij nog overlevingskansen ziet, zij in het algemeen geacht wordt dat te goeder trouw te doen. Uit hetgeen hiervoor in 3.1.5 is overwogen, volgt dat er – anders dan de onderdelen bepleiten – geen grond is om bij de toepassing van art. 54 lid 1 Fw, dan wel art. 235 lid 1 Fw, als specifieke norm of uitgangspunt te aanvaarden dat steeds zolang een bank bereid is tot voortzetting van de financiering dan wel tot medewerking aan een reddingspoging, die bank te goeder trouw handelt in de zin van die bepalingen. De onderdelen stuiten daarop af.
+      
+      
+        
+          Kruislingse verrekening en art. 228 Fw
+        
+      
+      
+    
+    
+      3.2.1
+      Onderdeel 2 van het middel in het incidentele beroep bestrijdt het oordeel van de rechtbank dat de overboekingen van Shipping en Management naar Shared Services niet in strijd met art. 228 Fw zijn verricht. In een brief aan de curator van 14 februari 2018 heeft ING meegedeeld dat zij, gelet op de hoofdelijkheid, op 20 oktober 2016 de creditsaldi op de rekeningen van vennootschappen binnen het geldende stelsel van rekeningen bij het Flinterconcern had overgeboekt naar rekeningen van vennootschappen binnen het concern die een debetsaldo vertoonden. Omdat ING zich in deze brief heeft beroepen op hoofdelijkheid en niet op verrekening, moeten de overboekingen worden gekwalificeerd als daden van beschikking en beheer van, dan wel krachtens volmacht namens, de desbetreffende Flintervennootschappen, aldus het onderdeel, maar daartoe waren deze vennootschappen op grond van art. 228 Fw na hun surseanceverlening niet meer bevoegd.
+      
+    
+    
+      3.2.2
+      Deze klacht is ongegrond. Tegen de achtergrond van het bepaalde in art. 7 CJMO (zie hiervoor in 2.1 onder (iii)) is niet onbegrijpelijk het oordeel van de rechtbank dat ING met de hiervoor in 2.1 onder (vii) vermelde boekingen – van rekeningen met een creditstand naar rekeningen met een debetstand – haar verrekeningsbevoegdheid heeft uitgeoefend. Dat ING zich in haar brief van 14 februari 2018 op hoofdelijkheid heeft beroepen, hoefde de rechtbank niet tot een ander oordeel te brengen. 
+      
+      
+        
+          Reikwijdte Mulder q.q./Crédit Lyonnais
+        
+      
+      
+    
+    
+      3.3.1
+      De onderdelen 3.7-3.9 van het middel in het incidentele beroep bestrijden het oordeel van de rechtbank in de rov. 4.21-4.22 dat het geval waarin Vestas de aan de bank stil verpande vorderingen van Chartering heeft betaald op de ING-bankrekening van Shipping, valt onder de verruimende uitzondering op de beperkte verrekeningsbevoegdheid van banken, zoals aanvaard in het arrest Mulder q.q./Crédit Lyonnais. 
+      
+    
+    
+      3.3.2
+      
+        Onderdeel 3.7 klaagt dat de rechtbank heeft miskend dat niet reeds de omstandigheid dat de voor Chartering bestemde betalingen het vermogen van Shipping passeerden en, voordat zij aan de achterman (Chartering) werden doorbetaald, ING een (openbaar) pandrecht verkreeg op de vordering van Shipping die ontstond op ING zelf wegens de creditering van de rekening van Shipping, een verruimende uitzondering rechtvaardigt op de beperkte verrekeningsbevoegdheid van banken. 
+        	Deze klacht treft doel. Er is geen aanleiding om op grond van die omstandigheid een uitzondering op de beperkte verrekeningsbevoegdheid van banken te aanvaarden vergelijkbaar met de uitzondering die is aanvaard in het arrest Mulder q.q./Crédit Lyonnais (zie hiervoor in 3.3.1). Die omstandigheid hangt immers onmiddellijk en uitsluitend samen met de bijzondere positie van de bank in het girale betalingsverkeer, nu het hier bedoelde pandrecht van de bank is gevestigd op de vordering van de schuldenaar op de bank die voortvloeit uit de rekening-courantverhouding.
+      
+      
+    
+    
+      3.3.3
+      
+        De onderdelen 3.8 en 3.9 klagen dat de rechtbank heeft miskend dat de in het arrest Mulder q.q./Crédit Lyonnais aanvaarde uitzondering alleen geldt als de betaling van de derde is verricht op een rekening van de pandgever zelf. 
+        	In het genoemde arrest was aan de orde betaling van een vordering die de schuldenaar stil had verpand aan de bank, op de rekening van de schuldenaar bij de bank. De Hoge Raad heeft voor dat geval aanvaard dat art. 54 Fw niet verhindert dat de bank haar schuld tot afdracht van wat zij aldus heeft ontvangen, verrekent met haar vordering op de schuldenaar. De motivering van deze beslissing komt erop neer dat de wetgever met het stille pandrecht heeft beoogd een zekerheidsrecht te creëren dat tot hetzelfde resultaat leidt als de vroegere overdracht tot zekerheid en de stille pandhouder bij een faillissement van de pandgever niet in een materieel nadeliger positie moet zijn dan de zekerheidscessionaris onder het voor 1 januari 1992 geldende recht. Voorts moet de stille pandhouder niet onnodig tot mededeling van het pandrecht worden genoodzaakt. Die motivering doet evenzeer opgeld in het geval waarin de stil verpande vordering wordt betaald op de bankrekening van een andere schuldenaar van de bank dan de pandgever en het pandrecht (mede) tot zekerheid strekte voor de betaling van de schuld van die andere schuldenaar. 
+        	De klacht faalt dus voor zover deze tot uitgangspunt neemt dat de in het arrest Mulder q.q./Crédit Lyonnais aanvaarde uitzondering slechts ziet op betaling op een bankrekening van de pandgever zelf. Zij slaagt echter in zoverre, dat de rechtbank heeft miskend dat voor een rechtsgeldig beroep op verrekening ingeval de betaling plaatsvindt op de bankrekening van een andere schuldenaar van de bank dan de pandgever, vereist is dat het pandrecht (mede) tot zekerheid strekte voor de betaling van de schuld van die andere schuldenaar. Of dat laatste hier het geval is, moet na terugwijzing worden vastgesteld.
+      
+      
+    
+    
+      3.4
+      De overige klachten van de middelen in het principale en in het incidentele beroep kunnen niet tot cassatie leiden. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie art. 81 lid 1 RO).
+      
+    
+  
+
+    
+      4Beslissing
+    De Hoge Raad:
+    
+    
+      
+        in het principale beroep:
+      
+      - verwerpt het beroep;
+      - veroordeelt ING in de kosten van het geding in cassatie, tot op deze uitspraak aan de zijde van de curator begroot op € 350,-- aan verschotten en € 2.200,-- voor salaris;
+    
+    
+    
+      
+        in het incidentele beroep:
+      
+      - vernietigt het vonnis van de rechtbank Amsterdam van 14 juli 2021;
+      - wijst het geding terug naar die rechtbank ter verdere behandeling en beslissing;
+      - veroordeelt ING in de kosten van het geding in cassatie, tot op deze uitspraak aan de zijde van de curator begroot op € 2.600,-- voor salaris.
+    
+    
+    
+    
+    
+      Dit arrest is gewezen door de vicepresident M.J. Kroeze als voorzitter en de raadsheren T.H. Tanja-van den Broek, H.M. Wattendorff, A.E.B. ter Heide en K. Teuben, en in het openbaar uitgesproken door de raadsheer F.J.P. Lock op 25 augustus 2023.
+    
+    
+    
+  
+
+     Rechtbank Amsterdam 14 juli 2021, ECLI:NL:RBAMS:2021:5020.
+  
+
+     Vgl. HR 17 februari 2012, ECLI:NL:HR:2012:BU6552 (Rabobank/Kézér q.q.), rov. 3.8.
+  
+
+     HR 17 februari 1995, ECLI:NL:HR:1995:ZC1641 (Mulder q.q./Crédit Lyonnais), rov. 3.5.1-3.5.2.
+  
+
+     HR 23 november 2018, ECLI:NL:HR:2018:2189 (Eurocommerce), rov. 3.6.
+  

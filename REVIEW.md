@@ -316,3 +316,6 @@ Beide aangehaalde Hoge Raad-uitspraken zijn volledig gelezen en opnieuw officiee
 
 De volledige bouw en strikte validatie zijn uitgevoerd; 100% wettekstovereenkomst, maar ontbrekende commentaren buiten deze batch verhinderen voltooiing van het boek. Het afzonderlijke twintig-artikelencheckpoint is opnieuw gebouwd en strikt gevalideerd. Lengte-, herhalings- en linkcontroles zijn technische controles en bewijzen op zichzelf geen juridische kwaliteit. Deze beoordeling geldt uitsluitend voor de twintig genoemde artikelen.
 
+
+
+Auteursbatch 229–241c: twintig specifieke toelichtingen; [broncontrole](sources/author-art-229-241c-preflight-result.json), [dekking](sources/author-art-229-241c-coverage.json), [selectief rechtspraakonderzoek](sources/author-art-229-241c-search-log.json). Twee volledige Hoge Raad-uitspraken selectief verwerkt; zie de bronkaarten. Onafhankelijke tweede lezing nog niet uitgevoerd; overige bepalingen vallen buiten deze opdracht.

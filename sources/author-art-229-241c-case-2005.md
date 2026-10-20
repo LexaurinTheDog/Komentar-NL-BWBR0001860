@@ -1,0 +1,11 @@
+# Hoge Raad 13 mei 2005 — ECLI:NL:HR:2005:AT2650
+
+Zaak C04/075HR, curatoren BaByXL/Amstel Lease. [Officiële uitspraak](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2005:AT2650); [volledige XML](author-art-229-241c-hr-2005.xml); [fetchlog met hash en HTTP-resultaat](author-art-229-241c-fetch.json). Volledige uitspraak gelezen. Ondersteunt artikel 238 en de afbakening tegenover artikelen 237b en 241a.
+
+Een verhuurder van computerapparatuur ontbond tijdens voorlopige surseance op grond van een contractueel beding en vorderde de daarin bepaalde schadevergoeding. Kort daarna volgde faillissement. De bezwaren van de curatoren en het oordeel van de rechtbank staan in r.o. 3.2–3.3; de eigen beoordeling van de Hoge Raad begint bij r.o. 3.4.1.
+
+R.o. 3.4.1 beschermt het wettelijke recht van de huurder om met medewerking van de bewindvoerder tussentijds te beëindigen, maar ziet in artikel 238 geen algemeen verbod op een aanvullend ontbindingsbeding voor de verhuurder. R.o. 3.4.2 onderscheidt de specifieke bescherming van energielevering in artikel 237b, noemt de tijdelijke bescherming door afkoeling en houdt ruimte voor de beperkende werking van redelijkheid en billijkheid. De verwerping van het daarop gedane beroep in deze zaak was in cassatie niet bestreden. R.o. 3.4.3 behandelt de grenzen van continuïteit bij niet verzekerde huurbetaling.
+
+R.o. 3.4.4 en 3.6 onderscheiden schade bij contractuele ontbinding van wettelijke opzegging volgens artikel 39 of 238. De uitspraak geeft geen universele aanspraak op alle resterende huurtermijnen bij iedere beëindiging. R.o. 3.7 betreft de uitleg van de concrete bankgarantie, geen algemene uitbreiding van elke garantie. Het cassatieberoep is verworpen.
+
+De geselecteerde actuele tekst van artikel 238 is naast deze oude uitspraak gelezen. De gebruikte structuur — beëindigingsmogelijkheid voor de huurder en huur als boedelschuld vanaf aanvang — is nog aanwezig; de officiële tekstgegevens noemen 1 december 2005 en een spellingaantekening. De kaart claimt geen volledige actualisering van alle latere rechtspraak over huur, schade of bankgaranties. Het commentaar gebruikt de zaak uitsluitend voor het genoemde onderscheid in beëindigingsgronden, niet voor een onvoorwaardelijke hedendaagse schadeberekening.

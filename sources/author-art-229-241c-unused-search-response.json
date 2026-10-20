@@ -1,0 +1,9 @@
+{
+  "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:1988:ZC3935",
+  "raw_path": "sources/author-art-229-241c-hr-1988.xml",
+  "headers_path": "sources/author-art-229-241c-hr-1988.xml.headers",
+  "sha256": "9513e32e2bb920e9f29af8105c93741db53505416b9f98881bbb5e569bfd1f7e",
+  "http_status": 200,
+  "full_uitspraak_present": false,
+  "disposition": "Unused exploratory response; no holding attributed, no commentary citation. Timestamp evidence in response headers; not substituted for either cited case."
+}

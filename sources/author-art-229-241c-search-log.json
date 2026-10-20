@@ -1,0 +1,18 @@
+{
+  "at": "2026-10-20T23:30:19.476086+00:00",
+  "queries": [
+    "site.rechtspraak.nl 234 surseance Hoge Raad",
+    "site.rechtspraak.nl 238 surseance Hoge Raad"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+  "local_hits": "sources/author-art-229-241c-local-hits.txt",
+  "disposition": "Selective search. Full official judgments read, not AG conclusions or commercial annotations. No unit-by-unit exhaustive case-law coverage claimed.",
+  "verified_case_sources": [
+    "ECLI:NL:HR:2023:1135",
+    "ECLI:NL:HR:2005:AT2650"
+  ],
+  "case_cards": [
+    "sources/author-art-229-241c-case-2023.md",
+    "sources/author-art-229-241c-case-2005.md"
+  ]
+}
