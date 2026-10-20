@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62020CJ0724",
+    "status": 202,
+    "bytes": 0,
+    "path": "sources/author-art-213me-213z-paget-attempt-0.raw",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "at": "2026-10-20T23:04:37.775306+00:00"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62020CJ0724",
+    "status": 202,
+    "bytes": 0,
+    "path": "sources/author-art-213me-213z-paget-attempt-1.raw",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "at": "2026-10-20T23:04:37.929532+00:00"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:62020CJ0724",
+    "status": 202,
+    "bytes": 0,
+    "path": "sources/author-art-213me-213z-paget-attempt-2.raw",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "at": "2026-10-20T23:04:38.519223+00:00"
+  }
+]

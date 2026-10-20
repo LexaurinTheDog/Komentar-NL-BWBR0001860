@@ -266,3 +266,6 @@ Het [selectieve rechtspraakonderzoek](sources/review-art-213aq-213md-search-log.
 
 De [bouwpoging](sources/review-art-213aq-213md-build.txt) en [strikte validatie](sources/review-art-213aq-213md-validation.json) zijn uitgevoerd: 100% wettekstovereenkomst. De 259 ontbrekende toelichtingen buiten deze batch verhinderen volledige bouw en validatie. Daarom is het bestaande checkpoint met precies deze twintig plaatsen opnieuw samengesteld. Lange alinea's zijn niet identiek herhaald; een lengtecontrole bewijst geen juridische kwaliteit. Deze projectinterne tweede lezing is geen volledige boekreview of externe professionele goedkeuring.
 
+
+
+Auteursbatch 213me–213z (inclusief 213ij), 21 oktober 2026: twintig specifieke toelichtingen met voorbeelden en checklists; [bronpreflight](sources/author-art-213me-213z-preflight-result.json), [onafhankelijke identificatievergelijking](sources/author-art-213me-213z-coverage.json), [selectief rechtspraakonderzoek](sources/author-art-213me-213z-search-log.json), [zaakfiche C-724/20](cases/eu-c-724-20-paget.md). De volledige wet blijft buiten deze batch onvoltooid. Dit auteurscheckpoint is nog niet onafhankelijk nagelezen.

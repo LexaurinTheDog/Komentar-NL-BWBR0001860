@@ -80,3 +80,6 @@ Tweede lezing 212z–213a: [beoordeling](sources/review-art-212z-213a-result.jso
 Tweede lezing213abis–213ap: [beoordeling](sources/review-art-213abis-213ap-result.json), [bronpreflight](sources/review-art-213abis-213ap-preflight-result.json), [volledige uitspraakcontrole](sources/review-art-213abis-213ap-case-check.json).
 
 Tweede lezing 213aq–213md: [beoordeling](sources/review-art-213aq-213md-result.json), [bronpreflight](sources/review-art-213aq-213md-preflight-result.json), [selectief zoeklog](sources/review-art-213aq-213md-search-log.json).
+
+
+Auteursbatch 213me–213z (inclusief 213ij), 21 oktober 2026: twintig specifieke toelichtingen met voorbeelden en checklists; [bronpreflight](sources/author-art-213me-213z-preflight-result.json), [onafhankelijke identificatievergelijking](sources/author-art-213me-213z-coverage.json), [selectief rechtspraakonderzoek](sources/author-art-213me-213z-search-log.json), [zaakfiche C-724/20](cases/eu-c-724-20-paget.md). De volledige wet blijft buiten deze batch onvoltooid. Dit auteurscheckpoint is nog niet onafhankelijk nagelezen.

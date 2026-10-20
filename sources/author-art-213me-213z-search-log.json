@@ -1,0 +1,42 @@
+{
+  "searched_at_utc": "2026-10-20T23:06:55.259342+00:00",
+  "web_queries": [
+    "site.rechtspraak.nl \"213me\" \"213mi\"",
+    "site.rechtspraak.nl \"213ij\" verzekeraar",
+    "site.rechtspraak.nl \"213z\" verzekeraar",
+    "site.curia.europa.eu C-724/20 Paget Approbois insurance liquidation judgment"
+  ],
+  "local_search": {
+    "root": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak",
+    "command": "rg -l --glob *.md \\b213(me|mf|mg|mh|mi|mj|mk|n|o|p|q|r|s|t|u|v|w|x|ij|z)\\b|Paget Approbois",
+    "hits_path": "sources/author-art-213me-213z-local-case-hits.txt",
+    "disposition": "Only HR 1968 AC2286 hit: contemporary article numbers in imported metadata, not a decision interpreting these later insurer-liquidation rules; excluded. Broad earlier HR/PHR search also produced substring false positives, excluded."
+  },
+  "verified_full_text": [
+    {
+      "court": "HvJ EU, Derde kamer",
+      "date": "2022-01-13",
+      "case": "C-724/20",
+      "ecli": "ECLI:EU:C:2022:9",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62020CJ0724",
+      "paragraphs_read": "1–68 and operative part; both browser captures together preserve complete decision text.",
+      "supports": [
+        "art-213ij"
+      ],
+      "case_card": "cases/eu-c-724-20-paget.md",
+      "snapshot_type": "Official webpage browser extraction, not raw HTTP response; raw downloads rejected as empty HTTP 202.",
+      "snapshots": [
+        {
+          "path": "sources/author-art-213me-213z-paget-web-snapshot.json",
+          "sha256": "7c86af8cbf786382c481f7e2302400a783b76128ebad990636fc0eb9f9e9e173"
+        },
+        {
+          "path": "sources/author-art-213me-213z-paget-web-part2.json",
+          "sha256": "aa975251a2b340ff8e6b5274d37280709d66f361f68dd1ba2061f705dafba6e7"
+        }
+      ],
+      "current_relevance": "Interprets corresponding insurer-specific Solvency II pending-lawsuit rule; selected current article 213ij remains the same wording. Does not decide coverage or rank; national verification reserved."
+    }
+  ],
+  "limits": "Selective research. No sufficiently relevant verified case identified for other nineteen assigned units; no claim of exhaustive coverage. No metadata-only hit treated as a judicial holding."
+}

@@ -63,3 +63,5 @@ De 25 hieronder vermelde hoofdstukken bevatten 340 toegelichte plaatsen, van art
 [Beoordeeld checkpoint: artikelen 213abis–213ap](26-art-213abis-213ap-checkpoint.md).
 
 [Beoordeeld checkpoint: artikelen 213aq–213md](27-art-213aq-213md-checkpoint.md).
+
+[Auteurscheckpoint: artikelen 213me–213z, inclusief 213ij](28-art-213me-213z-checkpoint.md).
