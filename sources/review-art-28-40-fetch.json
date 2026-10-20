@@ -1,0 +1,117 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001860",
+    "access_timestamp_utc": "2026-10-20T19:11:58.283330+00:00",
+    "raw_path": "sources/review-art-28-40-current.html",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+    "bytes": 4132921,
+    "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+    "headers_path": "sources/review-art-28-40-current.html.headers",
+    "validity_statements": [
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 01-09-2026 t/m heden.",
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 01-09-2026 t/m heden."
+    ]
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "access_timestamp_utc": "2026-10-20T19:11:58.283704+00:00",
+    "raw_path": "sources/review-art-28-40-selected.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "bytes": 2557947,
+    "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+    "headers_path": "sources/review-art-28-40-selected.xml.headers",
+    "xml_root": "toestand",
+    "xml_attributes": {
+      "bwb-ng-vast-deel": "http://wetten.overheid.nl/id/BWBR0001860/2026-09-01/0",
+      "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-toestand/2016-1/xsd/toestand_2016-1.xsd",
+      "bwb-id": "BWBR0001860",
+      "inwerkingtreding": "2026-09-01"
+    }
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+    "access_timestamp_utc": "2026-10-20T19:11:58.283978+00:00",
+    "raw_path": "sources/review-art-28-40-wti.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+    "bytes": 5581608,
+    "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+    "headers_path": "sources/review-art-28-40-wti.xml.headers",
+    "xml_root": "wetstechnische-informatie",
+    "xml_attributes": {
+      "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "https://repository.officiele-overheidspublicaties.nl/Schema/BWB-WTI/2016-1/xsd/wti_2016-1.xsd",
+      "bwb-id": "BWBR0001860"
+    }
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2014:1681",
+    "access_timestamp_utc": "2026-10-20T19:11:58.284054+00:00",
+    "raw_path": "sources/review-art-28-40-hr-2014-1681.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2014:1681",
+    "bytes": 17961,
+    "sha256": "d376862e26723bc1fc04aee14cec82f70f669d7b3a32c3ce56a6af7f1f4e9ec3",
+    "headers_path": "sources/review-art-28-40-hr-2014-1681.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 10136
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY6108",
+    "access_timestamp_utc": "2026-10-20T19:11:58.451714+00:00",
+    "raw_path": "sources/review-art-28-40-hr-2013-BY6108.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2013:BY6108",
+    "bytes": 19735,
+    "sha256": "1946842ccb355f22d42845e092e0752ef96d7f20fe7b5e7ab7a94aa4f56e4191",
+    "headers_path": "sources/review-art-28-40-hr-2013-BY6108.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 13348
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:424",
+    "access_timestamp_utc": "2026-10-20T19:12:15.024634+00:00",
+    "raw_path": "sources/review-art-28-40-hr-2018-424.xml",
+    "http_status": 200,
+    "sha256": "85fbaf24e9d674642fc87558f1d1a918a2cc4548f5e39005325d2139b5d9e0e7",
+    "bytes": 38463,
+    "xml_root": "open-rechtspraak",
+    "full_uitspraak_chars": 28919,
+    "accepted": true,
+    "headers_path": "sources/review-art-28-40-hr-2018-424.xml.headers"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2018:2067",
+    "access_timestamp_utc": "2026-10-20T19:12:15.508895+00:00",
+    "raw_path": "sources/review-art-28-40-hr-2018-2067.xml",
+    "http_status": 200,
+    "sha256": "23b80254bf2ac92867068f5ed1d0250ddc75b9ae414c802b9ac73b7187abb96f",
+    "bytes": 31461,
+    "xml_root": "open-rechtspraak",
+    "full_uitspraak_chars": 23167,
+    "accepted": true,
+    "headers_path": "sources/review-art-28-40-hr-2018-2067.xml.headers"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2016:2729",
+    "access_timestamp_utc": "2026-10-20T19:14:15.790357+00:00",
+    "raw_path": "sources/review-art-28-40-hr-2016-2729.xml",
+    "http_status": 200,
+    "sha256": "ab73aa910e3e6ffae4369f9af7137ecc2f871168c89b5fdcdb6ad79dd1b6dc6d",
+    "bytes": 32048,
+    "xml_root": "open-rechtspraak",
+    "full_uitspraak_chars": 21839,
+    "accepted": true,
+    "headers_path": "sources/review-art-28-40-hr-2016-2729.xml.headers"
+  }
+]

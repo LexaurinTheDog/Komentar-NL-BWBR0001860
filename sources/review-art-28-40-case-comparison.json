@@ -1,0 +1,57 @@
+[
+  {
+    "case": "2013-BY6108",
+    "official_raw_path": "sources/review-art-28-40-hr-2013-BY6108.xml",
+    "official_sha256": "1946842ccb355f22d42845e092e0752ef96d7f20fe7b5e7ab7a94aa4f56e4191",
+    "local_snapshot_path": "sources/review-art-28-40-hr-2013-BY6108-local.md",
+    "local_sha256": "5686e9dfab883e2a8f05c972225090fbffffe907c40499514d0d2c051a46540b",
+    "normalized_corpus_body_is_official_suffix": true,
+    "corpus_omits_party_caption": false,
+    "corpus_body_chars": 10228,
+    "official_body_chars": 10228
+  },
+  {
+    "case": "2014-1681",
+    "official_raw_path": "sources/review-art-28-40-hr-2014-1681.xml",
+    "official_sha256": "d376862e26723bc1fc04aee14cec82f70f669d7b3a32c3ce56a6af7f1f4e9ec3",
+    "local_snapshot_path": "sources/review-art-28-40-hr-2014-1681-local.md",
+    "local_sha256": "049c4369104caeacb1cd6c1a5ebcf2dbcf78b7aa5f04533d733047759fb12fc9",
+    "normalized_corpus_body_is_official_suffix": true,
+    "corpus_omits_party_caption": true,
+    "corpus_body_chars": 7434,
+    "official_body_chars": 7758
+  },
+  {
+    "case": "2018-424",
+    "official_raw_path": "sources/review-art-28-40-hr-2018-424.xml",
+    "official_sha256": "85fbaf24e9d674642fc87558f1d1a918a2cc4548f5e39005325d2139b5d9e0e7",
+    "local_snapshot_path": "sources/review-art-28-40-hr-2018-424-local.md",
+    "local_sha256": "c534a32e4ffd8fc958fcf0343a298a6cd093899d587a5a99ac9fd528f352bb9f",
+    "normalized_corpus_body_is_official_suffix": true,
+    "corpus_omits_party_caption": true,
+    "corpus_body_chars": 22104,
+    "official_body_chars": 22626
+  },
+  {
+    "case": "2018-2067",
+    "official_raw_path": "sources/review-art-28-40-hr-2018-2067.xml",
+    "official_sha256": "23b80254bf2ac92867068f5ed1d0250ddc75b9ae414c802b9ac73b7187abb96f",
+    "local_snapshot_path": "sources/review-art-28-40-hr-2018-2067-local.md",
+    "local_sha256": "2df16358486d1afad4170bab16e630906045d3147efd1eab90715b7a4126c8f2",
+    "normalized_corpus_body_is_official_suffix": true,
+    "corpus_omits_party_caption": true,
+    "corpus_body_chars": 17600,
+    "official_body_chars": 18211
+  },
+  {
+    "case": "2016-2729",
+    "official_raw_path": "sources/review-art-28-40-hr-2016-2729.xml",
+    "official_sha256": "ab73aa910e3e6ffae4369f9af7137ecc2f871168c89b5fdcdb6ad79dd1b6dc6d",
+    "local_snapshot_path": "sources/review-art-28-40-hr-2016-2729-local.md",
+    "local_sha256": "56ce1f8577a04b403ffe6aedbe3a166b5c0b6ec80a7e9ca082d3ab5ba5a2d9ef",
+    "normalized_corpus_body_is_official_suffix": true,
+    "corpus_omits_party_caption": true,
+    "corpus_body_chars": 16633,
+    "official_body_chars": 17335
+  }
+]

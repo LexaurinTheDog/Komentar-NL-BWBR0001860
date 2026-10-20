@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2018:2067</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-19T10:14:58</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2018-11-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2018-11-09</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">17/02800</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht_insolventierecht">Civiel recht; Insolventierecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2018:704" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2018:704, Gevolgd</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHARL:2017:2116" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#bekrachtiging/bevestiging">In cassatie op : ECLI:NL:GHARL:2017:2116, Bekrachtiging/bevestiging</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2018/2106</rdf:li>
+          <rdf:li>NJ 2018/464 met annotatie van F.M.J. Verstijlen</rdf:li>
+          <rdf:li>RvdW 2018/1289</rdf:li>
+          <rdf:li>RI 2018/99</rdf:li>
+          <rdf:li>JOR 2019/26 met annotatie van mr. dr. A.J. Tekstra</rdf:li>
+          <rdf:li>INS-Updates.nl 2018-0272</rdf:li>
+          <rdf:li>RAV 2019/2</rdf:li>
+          <rdf:li>WR 2019/17 met annotatie van M.F.A. Evers</rdf:li>
+          <rdf:li>AA20190209 met annotatie van Wibier R.M. Reinout</rdf:li>
+          <rdf:li>TvHB 2019/01, UDH:TvHB/15403 met annotatie van N. van Tamelen</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2018:2067">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2018:2067</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2018-12-11T10:01:36</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2018-11-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2018:2067 Hoge Raad , 09-11-2018 / 17/02800</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2018:2067:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Insolventierecht. Onrechtmatige daad. Curator van failliete huurder geeft zonder toestemming van verhuurder winkelruimte in gebruik aan een derde. Is verplichting tot schadevergoeding boedelschuld? HR 23 maart 2018, ECLI:NL:HR:2018:424 (Credit Suisse/Jongepier q.q. Persoonlijke aansprakelijkheid curator: schending van een 'regel' als bedoeld in HR 16 december 2011, ECLI:NL:HR:2011:BU4204 (Prakke/Gips)? Causaal verband.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2018:2067:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>9 november 2018</para>
+    <para>Eerste Kamer</para>
+    <para>17/02800</para>
+    <para>TT/EE</para>
+    <para />
+    <para> </para>
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Arrest </para>
+    <para />
+    <para> </para>
+    <para>in de zaak van:</para>
+    <para />
+    <parablock>
+      <para>1. [eiser 1 in cassatie] , in zijn hoedanigheid van curator in het faillissement van [A] B.V.,<?linebreak?><?linebreak?><?linebreak?>wonende te Rijen, gemeente Gilze-Rijen, </para>
+      <para>2. [eiser 2 in cassatie] , curator pro se,<?linebreak?>wonende te Vleuten, gemeente Utrecht,</para>
+      <para>EISERS tot cassatie,</para>
+      <para>advocaat: mr. B.I. Kraaipoel,</para>
+      <para />
+      <para />
+    </parablock>
+    <parablock>
+      <para>		t e g e n</para>
+      <para />
+      <para />
+    </parablock>
+    <parablock>
+      <para>
+        [verweerder] ,<?linebreak?>wonende te [woonplaats] , </para>
+      <para>VERWEERDER in cassatie,</para>
+      <para>niet verschenen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers in cassatie zullen hierna – gezamenlijk dan wel afzonderlijk – worden aangeduid als de curator. Waar wordt gesproken van ‘curator’ in samenhang met het woord ‘persoonlijk’, betreft het alleen eiser onder 2. Verweerder zal hierna ook worden aangeduid als [verweerder] .</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Het geding in feitelijke instanties</title>
+    <para>	Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar: </para>
+    <para>a.	de vonnissen in de zaak 3027732\CV EXPL 14-2705 van de rechtbank Gelderland van 6 juni 2014 en 16 januari 2015;</para>
+    <para>b.	de arresten in de zaak 200.166.772 van het gerechtshof Arnhem-Leeuwarden van 16 februari 2016 en 14 maart 2017. <?linebreak?></para>
+    <para>c.	het tussenarrest in deze zaak van de Hoge Raad van 13 oktober 2017.<?linebreak?></para>
+    <para>	Het arrest van het hof van 14 maart 2017 en het tussenarrest van de Hoge Raad van 13 oktober 2017 zijn aan dit arrest gehecht.</para>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Het geding in cassatie</title>
+    <parablock>
+      <para>	Tegen het arrest van het hof van 14 maart 2017 heeft de curator beroep in cassatie ingesteld. De procesinleiding en de aanvullende procesinleiding zijn aan dit arrest gehecht en maken daarvan deel uit.</para>
+      <para>Tegen [verweerder] is verstek verleend.</para>
+      <para>De zaak is voor de curator toegelicht door zijn advocaat en mede door mr. S.C. McKenzie-Vass.</para>
+      <para>De conclusie van de Advocaat-Generaal T. Hartlief strekt tot verwerping van het beroep.</para>
+      <para>De advocaat van de curator heeft schriftelijk op die conclusie gereageerd.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het middel</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>In cassatie kan van het volgende worden uitgegaan.</para>
+      <itemizedlist mark="-">
+        <listitem>
+          <para>i) Bij vonnis van 20 augustus 2013 van de rechtbank Zeeland-West-Brabant is [A] B.V (hierna: [A] ) in staat van faillissement verklaard met aanstelling van eiseres in cassatie onder 2 als curator.</para>
+        </listitem>
+        <listitem>
+          <para>ii) [A] huurde van [verweerder] sinds 1 oktober 2010 winkelruimte te Nijmegen (hierna: de winkelruimte). [A] exploiteerde daarin een schoenenwinkel.</para>
+        </listitem>
+        <listitem>
+          <para>iii) De algemene bepalingen behorende bij de huurovereenkomst bevatten een verbod van onderverhuur dan wel in gebruik geven van het gehuurde aan een derde (art. 12.1).<?linebreak?></para>
+        </listitem>
+        <listitem>
+          <para>iv) Bij e-mail van 21 augustus 2013 heeft [verweerder] op de voet van art. 39 Fw de huurovereenkomst opgezegd tegen 1 september 2013, waardoor de huurovereenkomst met inachtneming van de opzegtermijn van drie maanden eindigde per 30 november 2013. <?linebreak?></para>
+        </listitem>
+        <listitem>
+          <para>v) De curator heeft [verweerder] laten weten op zoek te zijn naar kandidaten voor een mogelijke doorstart van de onderneming van [A] .</para>
+        </listitem>
+        <listitem>
+          <para>vi) Bij e-mail van 3 oktober 2013 heeft [verweerder] aan de curator geschreven:</para>
+        </listitem>
+      </itemizedlist>
+      <parablock>
+        <para>“(…) Mijn zienswijze is dat de boedel niet meer rechten heeft dan [A] B.V. had en nu het laatstgenoemde niet was toegestaan de gehuurde ruimte onder te verhuren of aan derden in gebruik af te staan, geldt zulks ook de boedel. </para>
+        <para>Graag wil ik met de door u genoemde persoon – nadat U van de r.c. toestemming voor de verkoop van het actief hebt gekregen – onderzoeken of ik met de koper van het actief tot een huurovereenkomst kan komen.</para>
+        <para>Zoals gezegd zal ik mij er tegen verzetten als de winkel gebruikt zal gaan worden voor het gedurende een korte termijn voeren van verkoopacties, waarbij ook andere schoenen dan de thans voorhanden voorraad zullen gaan worden verkocht. (…) ”</para>
+      </parablock>
+      <para />
+      <para>( vii) Bij e-mail van 8 oktober 2013 heeft [verweerder] aan de curator onder meer geschreven: </para>
+      <para>“(…) Van de door U genoemde persoon heb ik nog niets vernomen en ik wijs er nogmaals op dat een doorstart door de genoemde persoon in het gehuurde (en zonder mijn voorafgaande toestemming) gedurende de opzegperiode kwalificeert als verboden onderverhuur dan wel als verboden in gebruik geving, waartegen ik mij uitdrukkelijk verzet! (…)”</para>
+      <para />
+      <itemizedlist mark="-">
+        <listitem>
+          <para>viii) Met toestemming van de rechter-commissaris in het faillissement heeft de curator de inventaris en goodwill met betrekking tot de winkel van [A] onderhands verkocht aan [B] B.V. (hierna: [B] ). </para>
+        </listitem>
+        <listitem>
+          <para>ix) De curator heeft [verweerder] per e-mail van 18 oktober 2013 bericht dat de nog in de winkelruimte aanwezige activa waren verkocht aan [betrokkene 1] (bestuurder van [B] ) en dat zij ervan uitging dat de koper en [verweerder] in overleg zouden treden omtrent het sluiten van een eventuele huurovereenkomst. [verweerder] heeft op 21 oktober 2013 geantwoord dat hij met de koper in overleg zou treden en daarbij herhaald dat het gebruiksrecht van de winkelruimte niet aan de koper verschaft mocht worden voordat een nieuwe huurovereenkomst was gesloten.<?linebreak?></para>
+        </listitem>
+        <listitem>
+          <para>x) Op 23 oktober 2013 heeft [verweerder] ontdekt dat de koper de winkelruimte feitelijk reeds in gebruik had genomen. [verweerder] heeft de curator diezelfde dag per e-mail gesommeerd onverwijld het onrechtmatig gebruik van de winkelruimte te (doen) staken. De curator heeft hieraan geen gevolg gegeven. De curator heeft [B] toegestaan de winkelruimte te gebruiken tot 27 november 2013.</para>
+        </listitem>
+        <listitem>
+          <para>xi) [B] heeft aan de winkelruimte borden aangebracht waarop stond vermeld ‘faillissementsverkoop’ en vanuit die winkelruimte schoenen verkocht. Over de maanden oktober en november 2013 heeft [B] geen vergoeding voor het gebruik van de winkelruimte aan [verweerder] betaald. Over de maanden december 2013 en januari 2014 heeft [B] op basis van een afspraak met [verweerder] wel een vergoeding voor het gebruik betaald. Een verdere huurovereenkomst tussen [B] en [verweerder] is niet tot stand gekomen.</para>
+        </listitem>
+        <listitem>
+          <para>xii) Bij beschikking van 22 september 2014 is eiser in cassatie onder 1 benoemd tot opvolgend curator in het faillissement van [A] in plaats van eiseres in cassatie onder 2.</para>
+        </listitem>
+      </itemizedlist>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>In dit geding vordert [verweerder] , voor zover in cassatie van belang, een verklaring voor recht dat de curator door het gehuurde zonder instemming van [verweerder] aan [B] ter beschikking te stellen, jegens [verweerder] verwijtbaar is tekortgeschoten in de nakoming van de uit de huurovereenkomst voortvloeiende verplichtingen, een verklaring voor recht dat de handelwijze van de curator jegens [verweerder] onrechtmatig is als gevolg waarvan de curator persoonlijk jegens [verweerder] aansprakelijk is, en een veroordeling van de curator persoonlijk tot schadevergoeding. De rechtbank heeft deze vorderingen toegewezen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Het hof heeft het eindvonnis van de rechtbank bekrachtigd. Voor zover in cassatie van belang heeft het daartoe het volgende overwogen.</para>
+      <para />
+      <parablock>
+        <para>
+          [verweerder] heeft als verhuurder de huur op de voet van art. 39 Fw opgezegd, waardoor de huurovereenkomst met de failliet per 30 november 2013 eindigde en de winkelruimte tegen die datum moest zijn ontruimd. Vast staat voorts dat de curator [B] vanaf 14 oktober 2013 heeft toegestaan van de winkelbedrijfsruimte gebruik te maken. Het gebruik door [B] omvat meer dan het met het oog op de ontruimingsverplichting toestaan de winkel te betreden ter inventarisatie of verwijdering van de verkochte schoenenvoorraad. Het handelen van de curator is in strijd met het tussen [verweerder] en de failliet geldende verbod. Voor zover met de ingebruikgeving werd beoogd een doorstart te faciliteren, is geen toestemming daarvoor aan [verweerder] verzocht of verkregen. De curator is tekortgeschoten in de nakoming van de huurovereenkomst van partijen door het pand zonder toestemming van de verhuurder in gebruik of onderhuur te geven aan een derde. (rov. 3.5)</para>
+        <para>De door de kantonrechter toegewezen verklaring voor recht dat de curator is tekortgeschoten jegens [verweerder] door het gehuurde zonder diens instemming aan [B] ter beschikking te stellen, moet niet worden aangemerkt als een vordering in de zin van art. 37a Fw die ter verificatie moet worden aangemeld. De verplichting voor de curator om de winkel te ontruimen en haar handelen in strijd daarmee, vindt immers haar grond in de ná de faillietverklaring (en als gevolg daarvan) gedane huuropzegging op de voet van art. 39 Fw door de verhuurder. Wanneer een curator in zo’n situatie handelt in strijd met een door hem in zijn hoedanigheid na te leven verbintenis, is de daaruit voortvloeiende verplichting tot schadevergoeding een boedelschuld. (rov. 3.6)</para>
+        <para>Het hof verwerpt het betoog dat [verweerder] door het handelen van de curator geen schade heeft ondervonden. [B] heeft een vergoeding aan de curator betaald. Indien [verweerder] zou hebben ingestemd met indeplaatsstelling, zou deze vergoeding (deels) aan hem ten goede zijn gekomen. In dat geval zou de preferente huurschuld (boedelschuld) van [verweerder] op de failliet met het aldus verkregen bedrag zijn verminderd. De curator heeft door haar handelen een voordeel verkregen dat anders aan [verweerder] zou zijn toegekomen. [B] is immers bereid gebleken om naast een prijs voor de schoenen ook voor het gebruik van de winkel een vergoeding te betalen. Hieraan doet niet af dat [verweerder] nadat de opzegtermijn was verstreken van [B] voor het gebruik na dat verstrijken wel een vergoeding heeft ontvangen. (rov. 3.7)</para>
+        <para>Naar het oordeel van het hof is in het onderhavige geval geen sprake van een situatie waarin de curator een ruime mate van vrijheid heeft in de wijze waarop hij zijn taak als beheerder en vereffenaar van de boedel uitvoert als bedoeld in HR 16 december 2011, ECLI:NL:HR:2011:BU4204, maar is hij gebonden aan regels, in dit geval de rechten van [verweerder] als verhuurder en eigenaar, die hij moet respecteren en nakomen. De curator is bevoegd om maatregelen te treffen om uitvoering te geven aan de verplichting om de winkelruimte te ontruimen. Hij is (ook al heeft de failliet het huurgenot) niet bevoegd om zonder instemming van de verhuurder/eigenaar de winkelruimte tijdens de opzeggingsperiode in gebruik te geven aan een derde, ook niet wanneer de ingebruikgeving is gedaan met het oog op een mogelijke doorstart. Van dit uitgangspunt is in de rechtspraak alleen afgeweken in gevallen waarin de curator de verhuurder verzocht om de indeplaatsstelling van een bepaalde huurder met het oog op een doorstart van de failliete onderneming en sprake was van misbruik van bevoegdheid van de verhuurder of waarin de opzegging op de voet van art. 39 Fw of het vasthouden daaraan door de verhuurder naar maatstaven van redelijkheid en billijkheid onaanvaardbaar werd geacht. Dat in het onderhavige geval zich een dergelijke uitzonderingssituatie voordeed, is gesteld noch gebleken. (rov. 3.10)</para>
+        <para>Voorts neemt het hof in aanmerking dat de curator, hoewel zij daartoe de mogelijkheid had, aan [verweerder] geen enkele waarborg heeft verstrekt voor de nakoming van de verplichtingen uit de (gedurende de opzeggingsperiode nog lopende) huurovereenkomst. Ook acht het hof onzorgvuldig dat de curator [verweerder] in een vroeg stadium heeft bericht dat een doorstart in onderzoek was, maar zij, ondanks verzet van [verweerder] tegen ingebruikgeving aan een derde en zijn herhaalde verzoeken om informatie over en contact met de potentiële nieuwe huurder, deze pas heeft verstrekt nadat zij de winkelruimte reeds aan [B] ter beschikking had gesteld. [verweerder] klaagt terecht dat hij daardoor is gehinderd in zijn besluitvorming en dat dit heeft geleid tot vertraging in het vinden van een nieuwe huurder. (rov. 3.10)</para>
+        <para>Naar het oordeel van het hof is het handelen van de curator onder de hiervoor genoemde omstandigheden dermate onzorgvuldig en zo ongebruikelijk, dat de curator het onjuiste van haar handelen moet hebben ingezien, althans redelijkerwijze behoorde in te zien, zodat haar een persoonlijk verwijt van dit onzorgvuldig handelen kan worden gemaakt. Het hof acht de curator dan ook persoonlijk aansprakelijk voor de door [verweerder] als gevolg van dit handelen geleden schade. Die schade bestaat erin dat de curator een bate voor de boedel heeft bedongen die niet – hoewel dat wel voor de hand had gelegen – aan [verweerder] ten goede is gekomen. Immers, als gevolg van de omvang van de (hoog) preferente boedelvorderingen (waaronder het salaris van de curator) is de boedelvordering van [verweerder] onbetaald gebleven, terwijl de curator [verweerder] de mogelijkheid heeft ontnomen om zelf een gebruiksvergoeding bij [B] te bedingen, in welk geval [verweerder] wel betaald zou zijn voor de ingebruikgeving c.q. onderhuur van het pand gedurende de opzegtermijn. (rov. 3.11)</para>
+        <para>Nu vaststaat dat [B] bereid was om een vergoeding te voldoen en deze ook aan de curator heeft betaald, is causaal verband aanwezig tussen de onrechtmatig geachte gedragingen van de curator en de schade van [verweerder] , bestaande in het bedrag dat [verweerder] is misgelopen aan gebruiksvergoeding door [B] . De stelling van de curator dat [verweerder] niet heeft aangetoond dat hij tijdens en na de opzeggingsperiode een andere huurder zou hebben gevonden, is daarbij niet relevant. Het gaat er in het onderhavige geval nu juist om dat de curator – zonder daartoe gerechtigd te zijn – het pand van [verweerder] aan een derde in gebruik dan wel in onderhuur heeft gegeven (als gevolg waarvan wel de boedel, maar niet [verweerder] is gebaat). (rov. 3.12)</para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>3.4.1</nr>
+        <para>Onderdeel I van het middel is gericht tegen het oordeel van het hof dat de onderhavige verplichting tot schadevergoeding ter zake van tekortschieten van de curator moet worden aangemerkt als een boedelschuld (rov. 3.6). Volgens het onderdeel is geen sprake van een boedelschuld.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.4.2</nr>
+        <parablock>
+          <para>In HR 23 maart 2018, ECLI:NL:HR:2018:424 (Credit Suisse/Jongepier q.q.) is overwogen dat de faillissementstoestand de curator niet de bevoegdheid geeft om een voortdurende prestatie van de schuldenaar die bestaat uit een dulden of nalaten, ‘actief’ te beëindigen (rov. 3.5.3). Het hof heeft in rov. 3.5, in cassatie onbestreden, geoordeeld dat de ingebruikgeving door de curator van de bedrijfsruimte aan [B] in strijd was met de verplichting om het gehuurde niet in gebruik te geven aan een derde. Het gaat hier om ‘actieve’ schending door de curator van een voortdurende verplichting van de schuldenaar tot nalaten als hiervoor bedoeld. Deze schending moet worden gelijkgesteld aan een ‘actieve’ beëindiging als bedoeld in het arrest Credit Suisse/Jongepier q.q. Nu de curator daartoe niet bevoegd was, is sprake van een handelen van de curator in strijd met een in hoedanigheid na te leven verplichting als bedoeld in rov. 3.7.1 van HR 19 april 2013, ECLI:NL:HR:2013:BY6108 (Koot Beheer/Tideman q.q.). In dat geval is sprake van een boedelschuld.</para>
+          <para>	Het onderdeel faalt derhalve.</para>
+        </parablock>
+        <para />
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.1</nr>
+        <parablock>
+          <para>De onderdelen II en III betreffen de door het hof aangenomen persoonlijke aansprakelijkheid van de curator. Zij lenen zich voor gezamenlijke behandeling.</para>
+          <para>	Onderdeel II klaagt dat onjuist dan wel onbegrijpelijk is dat het hof enerzijds in rov. 3.10 heeft vastgesteld dat de curator gebonden is aan regels (en dus weinig tot geen vrijheid had) terwijl het anderzijds in rov. 3.11 heeft overwogen dat de curator een persoonlijk verwijt van dit onzorgvuldig handelen kan worden gemaakt. Bij toepassing van regels komt de curator geen beleidsvrijheid toe, en daarom zou er in een zodanig geval ook geen sprake kunnen zijn van een bepaalde mate van onzorgvuldigheid of ongebruikelijkheid, aldus het onderdeel.</para>
+          <para>	Onderdeel III acht onjuist of onbegrijpelijk dat het hof onder ‘regels’ waaraan de curator is gebonden mede heeft verstaan de inhoud van de voor het faillissement gesloten huurovereenkomst en de daaruit voortvloeiende rechten van [verweerder] . De volgens het hof geschonden regel ziet op de verplichtingen die voortvloeien uit een voor de failliet geldende huurovereenkomst en niet op een voor de curator in haar hoedanigheid voorgeschreven regel. De wederkerige (huur)overeenkomst kan niet worden aangemerkt als een regel als bedoeld in HR 16 december 2011, ECLI:NL:HR:2011:BU4204 (Prakke/Gips), aldus het onderdeel.</para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>3.5.2</nr>
+        <parablock>
+          <para>Bij de behandeling van deze onderdelen wordt het volgende vooropgesteld.</para>
+          <para>	Voor zover de faillissementscurator bij de uitoefening van zijn taak niet is gebonden aan regels, komt hem in beginsel een ruime mate van vrijheid toe (zie het hiervoor in 3.5.1 genoemde arrest Prakke/Gips). Bij het gebruikmaken van die vrijheid geldt de norm van HR 19 april 1996, ECLI:NL:HR:1996:ZC2047 (Maclou), te weten dat een curator, kort gezegd, behoort te handelen zoals in redelijkheid mag worden verlangd van een over voldoende inzicht en ervaring beschikkende curator die zijn taak met nauwgezetheid en inzet verricht. De curator dient zich te richten naar het belang van de boedel, maar het is in beginsel aan zijn inzicht overgelaten op welke wijze en langs welke weg dat belang het beste kan worden gediend.</para>
+          <para>	Voor zover de curator wel is gebonden aan regels, heeft hij de hiervoor genoemde beleidsvrijheid niet. Komt hij die regels niet na, dan zal hij in beginsel op die grond persoonlijk aansprakelijk zijn jegens degenen met de belangen van wie hij bij de naleving van die regels rekening diende te houden.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.3</nr>
+        <para>Op zichzelf betoogt onderdeel III terecht dat sprake is van schending van een verplichting die volgt uit een voor de failliet geldende overeenkomst en dat uit zo’n schending op zichzelf nog geen persoonlijke aansprakelijkheid van de curator volgt. Hier is echter sprake van een ‘actieve’ schending door de curator van een voortdurende verplichting die bestaat uit een nalaten (zie hiervoor in 3.4.2). Een zodanige verplichting rust (ook) op de curator in diens hoedanigheid (zie hiervoor in 3.4.2) en moet – anders dan het onderdeel betoogt – worden aangemerkt als een tot de curator gerichte ‘regel’ als bedoeld in het arrest Prakke/Gips.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.4</nr>
+        <para>De omstandigheid dat een curator bij zijn gebondenheid aan regels niet de in het arrest Prakke/Gips bedoelde beleidsvrijheid heeft, betekent nog niet dat het enkele niet naleven van die regels steeds tot zijn persoonlijke aansprakelijkheid leidt. Het hof heeft in het partijdebat en de omstandigheden van dit geval aanleiding gezien om te onderzoeken of – en te oordelen dat – de curator in dit geval tevens een persoonlijk verwijt trof. Anders dan onderdeel II kennelijk betoogt, heeft het hof hiermee niet blijk gegeven van een onjuiste rechtsopvatting.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.5.5</nr>
+        <para>De klachten van de onderdelen II en III stuiten op het bovenstaande af.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.6.1</nr>
+        <parablock>
+          <para>Onderdeel VI heeft betrekking op het causaal verband en de schade. Het klaagt onder meer over onbegrijpelijkheid van de overweging van het hof dat de door [verweerder] geleden schade bestaat in misgelopen gebruiksvergoeding (huur over de periode na de datum van het faillissement). Daartoe voert het onderdeel aan dat de aan de verhuurder toekomende huur als boedelschuld vaststond en niet lager is geworden als gevolg van de (mogelijke) onderverhuur. Bovendien is de stand van de boedel niet door de mogelijke onderverhuur verslechterd. Volgens het onderdeel zou het oordeel ook onbegrijpelijk zijn indien het hof als schade zou hebben aangemerkt dat [verweerder] de mogelijkheid is ontnomen om gedurende de opzegtermijn huur te bedingen van [B] . Gedurende de opzegtermijn had [verweerder] immers geen bevoegdheid of mogelijkheid om huur te bedingen van [B] , aldus het onderdeel.</para>
+          <para>Naar aanleiding van deze klachten wordt het volgende overwogen.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.6.2</nr>
+        <parablock>
+          <para>De klaarblijkelijke gedachtegang van het hof is de volgende geweest. De curator had, ook afgezien van het belang bij de opbrengst van de onderverhuur, belang bij ingebruikgeving van de winkelruimte aan [B] omdat laatstgenoemde een bedrag van € 15.000,-- wilde betalen voor de winkelinventaris, winkelvoorraad en goodwill (rov. 2.7). Gezien het verzet van [verweerder] tegen ingebruikgeving van de winkelruimte aan een derde, had de curator dit boedelbelang kunnen veiligstellen door de medewerking van [verweerder] te verzoeken aan een ingebruikgeving van het gehuurde aan [B] of een indeplaatsstelling van [B] als huurder (rov. 3.4 en 3.10). In dat geval zou de gebruiksvergoeding – die [B] bereid was te betalen – aan [verweerder] ten goede zijn gekomen (rov. 3.11 en 3.12). Ook [verweerder] had belang bij indeplaatsstelling, aangezien inning van de huur bij de boedel onzeker was. De boedelvordering van [verweerder] is in werkelijkheid onbetaald gebleven als gevolg van de omvang van de (hoog) preferente boedelvorderingen (waaronder het salaris van de curator) (rov. 3.11).</para>
+          <para>	Uit het bovenstaande volgt dat het hof een vergelijking heeft gemaakt tussen de feitelijke situatie (waarin de boedelvordering van [verweerder] onbetaald is gebleven) en de hypothetische situatie waarin de curator (ook) rekening zou hebben gehouden met de belangen van [verweerder] (in welk geval [verweerder] van [B] een gebruiksvergoeding zou hebben ontvangen). Op grond van deze vergelijking heeft het hof kunnen oordelen dat [verweerder] schade heeft geleden die in causaal verband staat tot de schending van de tot de curator gerichte gedragsnorm.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>	De hiervoor in 3.6.1 weergegeven klachten miskennen de gedachtegang van het hof en kunnen daarom niet tot cassatie leiden.</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.7</nr>
+      <para>De overige klachten van het middel kunnen evenmin tot cassatie leiden. Dit behoeft, gezien art. 81 lid 1 RO, geen nadere motivering nu die klachten niet nopen tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>verwerpt het beroep; </para>
+      <para>veroordeelt de curator in de kosten van het geding in cassatie, tot op deze uitspraak aan de zijde van [verweerder] begroot op nihil.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	Dit arrest is gewezen door de vice-president E.J. Numann als voorzitter en de raadsheren A.H.T. Heisterkamp, C.E. du Perron, M.J. Kroeze en C.H. Sieburgh, en in het openbaar uitgesproken door de raadsheer M.V. Polak op <emphasis role="underline">9 november 2018</emphasis>.<?linebreak?><?linebreak?><?linebreak?></para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

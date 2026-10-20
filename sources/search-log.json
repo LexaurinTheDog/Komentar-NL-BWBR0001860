@@ -74,6 +74,28 @@
       "existing_case_reread": "ECLI:NL:HR:2013:BY6108",
       "rejected_candidate": "ECLI:NL:HR:2015:1401 returned metadata only and is not cited. 2015:2496 corpus candidate is tax law and was rejected as irrelevant.",
       "limits": "No exhaustive search or claim of a separately verified decision for every technical unit. Search snippets not used to establish holdings."
+    },
+    {
+      "date": "2026-10-20",
+      "scope": "Only assigned art-28 through art-40, 20 exact places including lettered and repealed slot",
+      "source": "Local national HR corpus and official data.rechtspraak.nl full-text API; official-site web discovery",
+      "queries": [
+        "rg -l Berzona|De Klerk|2729|1617 (broad candidate discovery, false positives not authorities)",
+        "site:uitspraken.rechtspraak.nl Berzona 2014:1681",
+        "site:uitspraken.rechtspraak.nl artikel 29 boedelvorderingen",
+        "site:uitspraken.rechtspraak.nl artikel 37 2018:424"
+      ],
+      "selected_new_cases": [
+        "ECLI:NL:HR:2014:1681",
+        "ECLI:NL:HR:2016:2729",
+        "ECLI:NL:HR:2018:424",
+        "ECLI:NL:HR:2018:2067"
+      ],
+      "existing_case_reread": "ECLI:NL:HR:2013:BY6108",
+      "rejected_candidate": "2018:1617 concerns partial employment termination and is not used as insolvency authority. Broad numerical searches generate irrelevant hits.",
+      "method": "All five selected full judgments read; official raw XML and local bodies compared. Four local bodies omit initial party captions; remaining full bodies match after whitespace normalization.",
+      "holding_limit": "Discovery snippets and PHR conclusions are not cited as HR holdings. No exhaustive later-case search and no separately verified case for every technical unit.",
+      "evidence": "sources/review-art-28-40-case-comparison.json"
     }
   ],
   "negative_and_limits": "Geen afzonderlijke uitspraak voor iedere technische of vervallen artikelplaats gezocht of geclaimd. Voor de overige geschreven eenheden berust de toelichting primair op de gecontroleerde wettekst en interne samenhang. Ontbrekende rechtspraakdekking is niet gelijk aan het niet-bestaan van rechtspraak. Niet geschreven bijzondere financiële regimes, surseance, WSNP en WHOA hebben in deze checkpoint geen afgerond rechtspraakonderzoek."

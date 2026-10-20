@@ -1,0 +1,150 @@
+{
+  "kind": "preflight",
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "preflight_date": "2026-10-20",
+  "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "verified_at": "2026-10-20T19:03:51.970744+00:00",
+  "version_evidence": {
+    "path": "sources/version-evidence.json",
+    "selected_toestand": "2026-09-01_0",
+    "effective_from": "2026-09-01",
+    "explicit_valid_through": "heden, geraadpleegd op 20-10-2026",
+    "latest_effective_change": "2026-09-01",
+    "next_dated_change_excluded": "2027-11-15",
+    "changes_since_intake": [],
+    "same_xml_sha256_as_earlier_capture": true
+  },
+  "historical_versions_checked": [
+    {
+      "path": "sources/version-register.xml",
+      "sha256": "763e7ee5229eb9d24e14bfa85b9614ed1a757880954b662958b69fb77e64417f",
+      "root": "toestand",
+      "effective_from": "2002-01-01",
+      "disposition": "2002 historical toestand excluded from selected source and parser."
+    },
+    {
+      "path": "sources/official-2026-09-01.xml",
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+      "root": "toestand",
+      "effective_from": "2026-09-01",
+      "disposition": "Only this toestand parsed. 639 unique article labels and unique official paths. 212hgd* and 212hgd are distinct simultaneous slots, not duplicate historical versions."
+    }
+  ],
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "method": "Full XML tag enumeration and official HTML TOC: no annex elements or annex entries. References to annexes in other instruments and case-file attachments are not annexes of this Act.",
+      "xml_annex_elements": 0,
+      "html_annex_toc_entries": 0,
+      "html_evidence_path": "sources/preflight-2026-10-20-current.html",
+      "html_sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+      "direct_wettekst_children": [
+        {
+          "tag": "titeldeel",
+          "official_path": "/TiteldeelI",
+          "articles": 419
+        },
+        {
+          "tag": "titeldeel",
+          "official_path": "/TiteldeelII",
+          "articles": 103
+        },
+        {
+          "tag": "titeldeel",
+          "official_path": "/TiteldeelIII",
+          "articles": 98
+        },
+        {
+          "tag": "afdeling",
+          "official_path": "/AfdelingTweede",
+          "articles": 19
+        }
+      ]
+    }
+  ],
+  "total_units": 639,
+  "completed_commentaries": 297,
+  "new_commentary_units": 0,
+  "coverage_ok": true,
+  "editorial_notes_preserved": 481,
+  "structural_editorial_notes_repaired": 21,
+  "opening_and_closing_text_checked": [
+    {
+      "tag": "intitule",
+      "official_path": "/Intitule",
+      "text_sha256": "896007a50c6cf6fd7438af1146f63acbed8cde69c55e07bb43acc80b34d5f483",
+      "raw_tokens_equal": true,
+      "canonical_contains": true,
+      "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+    },
+    {
+      "tag": "citeertitel",
+      "official_path": "/Citeertitel",
+      "text_sha256": "6c0bf00b9776c36a711a4ad5763a897f2da5033725f71577c6bd3ca0f89fbee5",
+      "raw_tokens_equal": true,
+      "canonical_contains": true,
+      "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+    },
+    {
+      "tag": "aanhef",
+      "official_path": "/Aanhef",
+      "text_sha256": "8de9ce517ee1c1167d57b90f1ff934c7a7cd07fbd5e566124082160aa106e1db",
+      "raw_tokens_equal": true,
+      "canonical_contains": true,
+      "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+    },
+    {
+      "tag": "wetsluiting",
+      "official_path": "/SlotformulierEnOndertekening",
+      "text_sha256": "e8b5a20c5e76e4bf9370002c77fedebea5d6887367b220ed73c17a9b3fab3d03",
+      "raw_tokens_equal": true,
+      "canonical_contains": true,
+      "disposition": "Preserved in canonical source; unnumbered title/promulgation material, not an article slot."
+    }
+  ],
+  "unresolved_blockers": [],
+  "limitations": [
+    "This task checks statutory sources and parser coverage only, not substantive correctness of the 297 existing commentaries.",
+    "342 commentaries remain unwritten; whole-book build/strict validation failure on missing commentary is expected.",
+    "External transitional provisions referenced by editorial notes remain annotations; no claim of a separate full analysis of those instruments.",
+    "The original preflight is source-only; subsequent bounded substantive reviews are recorded separately for 1–14b and 15–27."
+  ],
+  "whole_book_complete": false,
+  "technical_checks": {
+    "source_verbatim_ratio": 1.0,
+    "coverage_ok": true,
+    "parser_idempotent": true,
+    "commentary_unchanged": false,
+    "broken_local_links": 0,
+    "existing_commentary_repeated_paragraphs": 0,
+    "full_builder_exit_code": 1,
+    "strict_validator_exit_code": 1,
+    "strict_validator_errors": [
+      "krátký/chybějící komentář u 342 jednotek: ['art-212j(0<400)', 'art-212k(0<400)', 'art-212l(0<400)', 'art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)']"
+    ],
+    "strict_failure_disposition": "Expected whole-book failure: 342 unwritten commentaries. Outside the bounded preflight task; does not block source/parser completeness.",
+    "whole_book_complete": false,
+    "commentary_change_scope": "11 assigned commentaries corrected in subsequent art-15–27 second reading; all unassigned commentaries unchanged."
+  },
+  "previous_bounded_review_recheck": {
+    "complete": true,
+    "evidence": "review-checks.json",
+    "fresh_source_records": "sources/review-art-1-14b-fetch.json",
+    "decisive_date_unchanged": "2026-10-19",
+    "parser_idempotent": true,
+    "statutory_wording_changes": 0,
+    "unresolved_blockers": []
+  },
+  "bounded_review_recheck": {
+    "complete": true,
+    "evidence": "review-checks.json",
+    "fresh_source_records": "sources/review-art-15-27-fetch.json",
+    "decisive_date_unchanged": "2026-10-19",
+    "historical_versions_checked_again": true,
+    "annexes_checked_again": true,
+    "parser_idempotent": true,
+    "statutory_wording_changes": 0,
+    "unresolved_blockers": []
+  }
+}
