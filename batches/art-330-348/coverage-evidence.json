@@ -1,10 +1,9 @@
 {
   "official_source": {
     "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
-    "local_raw_evidence_path": "sources/author-art-330-348-selected.xml",
+    "local_raw_evidence_path": "sources/review-art-330-348-selected.xml",
     "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
   },
-  "scope": "Bounded authoring task: articles 330\u2013348 including 333a; other articles excluded from batch only.",
   "expected_ids": [
     "art-330",
     "art-331",
@@ -52,11 +51,12 @@
   "annex_disposition": [
     {
       "status": "verified_absence",
-      "evidence_path": "sources/author-art-330-348-selected.xml",
-      "detail": "No bijlage element in full selected official XML; unnumbered opening and closing material preserved by main parser."
+      "evidence_path": "sources/review-art-330-348-selected.xml",
+      "method": "Complete XML element census: no bijlage elements. Opening and closing text present and preserved in canonical source."
     }
   ],
   "missing": [],
   "duplicates": [],
-  "statutory_text_agreement": 1.0
+  "method": "Expected identifiers independently enumerated from fresh official XML kop/nr; compared with parser output.",
+  "scope": "Bounded second-pass review: art-330–art-348 including art-333a"
 }

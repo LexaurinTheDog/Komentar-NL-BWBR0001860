@@ -1,36 +1,36 @@
 {
   "complete": true,
   "decisive_date": "2026-10-19",
-  "author_batch_date": "2026-10-21",
+  "review_date": "2026-10-21",
   "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
-  "verified_at": "2026-10-21T00:31:04.211360+00:00",
+  "verified_at": "2026-10-21T00:34:08.941997+00:00",
   "version_evidence": {
-    "current_statement": "Geldend van 01-09-2026 t/m heden.",
+    "fetch": "sources/review-art-330-348-fetch.json",
     "effective_from": "2026-09-01",
     "latest_effective_change": "2026-09-01",
+    "changes_since_intake": [],
     "next_dated_change": "2027-11-15",
-    "changes_since_local_intake": [],
-    "fetch": "sources/verification.json"
+    "current_statement": "Geldend van 01-09-2026 t/m heden."
   },
   "historical_versions_checked": [
     {
       "path": "sources/version-register.xml",
       "sha256": "763e7ee5229eb9d24e14bfa85b9614ed1a757880954b662958b69fb77e64417f",
       "effective_from": "2002-01-01",
-      "disposition": "Historical state excluded; no concatenation with selected XML."
+      "disposition": "Historical version excluded; no concatenation with selected effective XML."
     },
     {
       "path": "sources/review-art-212z-213a-historical-2025.xml",
       "sha256": "51ef559220c00e2a608c328cf1254c0bfa4bf2620acd431a766d8c2694ac2202",
       "effective_from": "2025-11-19",
-      "disposition": "Historical state excluded; no concatenation with selected XML."
+      "disposition": "Historical version excluded; no concatenation with selected effective XML."
     }
   ],
   "annexes_checked": [
     {
       "status": "verified_absence",
-      "evidence_path": "sources/author-art-330-348-selected.xml",
-      "method": "Full XML element census; no bijlage elements. aanhef and wetsluiting present."
+      "evidence_path": "sources/review-art-330-348-selected.xml",
+      "method": "Complete XML element census: no bijlage elements. Opening and closing text present and preserved in canonical source."
     }
   ],
   "unresolved_blockers": []

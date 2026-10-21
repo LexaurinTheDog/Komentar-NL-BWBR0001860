@@ -1,0 +1,135 @@
+{
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-330",
+    "art-331",
+    "art-332",
+    "art-333",
+    "art-333a",
+    "art-334",
+    "art-335",
+    "art-336",
+    "art-337",
+    "art-338",
+    "art-339",
+    "art-340",
+    "art-341",
+    "art-342",
+    "art-343",
+    "art-344",
+    "art-345",
+    "art-346",
+    "art-347",
+    "art-348"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit_id": "art-330",
+      "assessment": "Onderdelen a–c en volgorde van onherroepelijkheid tegen bron gecontroleerd; 312 lid 2 nagelezen.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-331",
+      "assessment": "Vervallen plaats behouden; geen historische norm als actueel recht gepresenteerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-332",
+      "assessment": "Alle zes leden gelezen. Driekwart-hoofdentelling onderscheiden van bedragendrempel; bevoegdheid, termijn en beperkte strekking van artikel 149 toegevoegd. BG7996 rov. 3.5.2 en historische context bevestigd.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-333",
+      "assessment": "Vervallen plaats en verwijzing naar actuele stemregel gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-333a",
+      "assessment": "Schakel naar artikel 47 lid 1 en artikel 5 lid 3 gecontroleerd; EU-context niet als zelfstandige nationale bevoegdheidsgrond voorgesteld.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-334",
+      "assessment": "Vervallen plaats en verwijzing naar planning 335 gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-335",
+      "assessment": "Volgorde verzoek 149/homologatie, acht–veertien dagen, 151 en voortzetting gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-336",
+      "assessment": "Vervallen plaats en ontbreken actuele bevoegdheid gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-337",
+      "assessment": "Openbaarheid, verslag, vertegenwoordiging en verdedigingsrecht gelezen; onderscheid met stemrecht en rechtsmiddelpositie gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-338",
+      "assessment": "Alle leden en 153 leden 2–3 gelezen. AD5362 rov. 3.2.2 bevestigd, historische driejaarstermijn correct begrensd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-339",
+      "assessment": "154,155 lid 1,156 en beperkte verwijzing in lid 2 nagelezen; verschijnen als aanvullende toegangseis en kennisgeving gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-340",
+      "assessment": "Alle vijf leden en 159,160,162–166 gelezen. Rekening, afgifte en zekerheid/reservering nader uitgelegd; geen ongeclausuleerde volle betaling van preferente schulden aangenomen.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-341",
+      "assessment": "Vervallen plaats; geen extra eindevoorwaarde aan 340 toegevoegd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-342",
+      "assessment": "Vervallen plaats; huidige binding niet uit oude norm afgeleid.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-343",
+      "assessment": "Vervallen plaats; geen oude executieregel gereconstrueerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-344",
+      "assessment": "Vervallen plaats; ontbinding alleen via actuele 340/165–166 toegelicht.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-345",
+      "assessment": "Vervallen plaats; historische verwijzingen uitdrukkelijk tijdgebonden.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-346",
+      "assessment": "Vervallen plaats; geen denkbeeldige vereffeningsbevoegdheid aangenomen.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-347",
+      "assessment": "Alle drie leden gelezen; afwijkende verkoopvorm en beperkte verwijzing naar 176 lid 2 bevestigd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-348",
+      "assessment": "Facultatieve vergadering, late verificatie, 328b,111–114 en schriftelijke oproep tien dagen vooraf gecontroleerd.",
+      "corrected": false
+    }
+  ],
+  "limitations": [
+    "Bounded review only; no whole-book completion claim.",
+    "Selective case law: both cited full judgments read, no exhaustive subsequent case-law research.",
+    "EU Regulation and implementing/transitional instruments not comprehensively reviewed.",
+    "Independent process second pass; no external professional approval."
+  ]
+}

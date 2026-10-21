@@ -1,9 +1,8 @@
 {
-  "scope": "art-330 through art-348, including art-333a",
-  "stage": "drafted_technical_validation",
+  "stage": "reviewed_batch_technical_validation",
   "total_units": 20,
   "completed_units": 20,
-  "completed_ids": [
+  "reviewed_ids": [
     "art-330",
     "art-331",
     "art-332",
@@ -25,33 +24,29 @@
     "art-347",
     "art-348"
   ],
-  "source_checks": {
-    "fresh_official_page": true,
-    "http_status": 200,
-    "selected_xml_http_status": 200,
-    "effective_version": "2026-09-01",
-    "xml_text_agreement": 1.0,
-    "independent_expected_ids": true,
-    "evidence": "sources/verification.json"
-  },
-  "case_law_sources": [
-    "ECLI:NL:HR:2009:BG7996",
-    "ECLI:NL:HR:2001:AD5362"
+  "whole_book_complete": false,
+  "review_result": "review-result.json",
+  "remaining_limitations": [
+    "Bounded review only; no whole-book completion claim.",
+    "Selective case law: both cited full judgments read, no exhaustive subsequent case-law research.",
+    "EU Regulation and implementing/transitional instruments not comprehensively reviewed.",
+    "Independent process second pass; no external professional approval."
   ],
+  "source_checks": {
+    "http_200": 5,
+    "effective_from": "2026-09-01",
+    "source_evidence": "sources/review-art-330-348-fetch.json"
+  },
   "validation_result": {
     "units": 20,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 22447,
+    "commentary_chars": 23294,
     "errors": [],
     "warnings": [],
     "ok": true
   },
-  "remaining_limitations": [
-    "Independent second pass pending.",
-    "Case-law research selective.",
-    "Referenced transitional statutes not fully analysed.",
-    "Full book still has 39 unassigned missing comments; full build exits before output."
-  ],
-  "whole_book_complete": false,
-  "full_build_result": "Missing commentary for 39 units starting art-349; bounded batch builds successfully."
+  "case_law_sources": [
+    "ECLI:NL:HR:2009:BG7996",
+    "ECLI:NL:HR:2001:AD5362"
+  ]
 }

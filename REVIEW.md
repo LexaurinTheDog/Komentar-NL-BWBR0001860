@@ -408,3 +408,8 @@ De batch is opnieuw met build_repo.py gebouwd en slaagt voor de strikte validati
 ## Afgebakende tweede lezing 314–329
 
 Twintig plaatsen gecontroleerd; drie toelichtingen verduidelijkt. [Verslag en exacte lijst](batches/art-314-329/REVIEW.md). Dit voltooit niet het hele boek.
+
+
+## Afgebakende tweede lezing 330–348
+
+Twintig plaatsen gecontroleerd; toelichtingen bij 332 en 340 verduidelijkt. [Verslag en exacte lijst](batches/art-330-348/REVIEW.md). Geen voltooiingsclaim voor het hele boek.

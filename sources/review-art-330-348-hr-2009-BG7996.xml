@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2009:BG7996</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T20:21:47</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">BG7996</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2009-03-13</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">C07/180HR</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht_insolventierecht">Civiel recht; Insolventierecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2009:BG7996" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2009:BG7996</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=57&amp;g=2009-03-13">Faillissementswet 57</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=58&amp;g=2009-03-13">Faillissementswet 58</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=299&amp;g=2009-03-13">Faillissementswet 299</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=503&amp;g=2009-03-13">Faillissementswet 503</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=306&amp;g=2009-03-13">Faillissementswet 306</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=332&amp;g=2009-03-13">Faillissementswet 332</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=358&amp;g=2009-03-13">Faillissementswet 358</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJ 2009, 203 met annotatie van P. van Schilfgaarde</rdf:li>
+          <rdf:li>RvdW 2009, 409</rdf:li>
+          <rdf:li>NJB 2009, 657</rdf:li>
+          <rdf:li>JWB 2009/81</rdf:li>
+          <rdf:li>AA20090396 met annotatie van S.E.  Bartels</rdf:li>
+          <rdf:li>JOR 2009/152</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2009:BG7996">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2009:BG7996</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-05T03:56:27</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2009-03-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2009:BG7996 Hoge Raad , 13-03-2009 / C07/180HR</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2009:BG7996:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>WSNP. Toepassing schuldsaneringsregeling met “schone lei”; op hypothecaire vordering verrichte betalingen zijn niet nietig en “schone lei” ziet niet op die vordering; wijziging van art. 303 lid 3 en art. 358 lid 5 F. brengt daarin geen verandering.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2009:BG7996:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>13 maart 2009</para>
+      <para>Eerste Kamer</para>
+      <para>Nr. C07/180HR</para>
+      <para>DV/AS</para>
+    </parablock>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Arrest</para>
+    <para />
+    <para>in de zaak van:</para>
+    <para />
+    <parablock>
+      <para>[Eiser],</para>
+      <para>wonende te [woonplaats],</para>
+      <para>EISER tot cassatie, </para>
+      <para>advocaat: mr. V.K.S. Budhu Lall,</para>
+    </parablock>
+    <para />
+    <para>t e g e n</para>
+    <para />
+    <parablock>
+      <para>ING BANK N.V.,</para>
+      <para>gevestigd te Amsterdam,</para>
+      <para>VERWEERSTER in cassatie, </para>
+      <para>advocaat: mr. E. van Staden ten Brink.</para>
+    </parablock>
+    <para />
+    <para>Partijen zullen hierna ook worden aangeduid als [eiser] en ING.</para>
+    <para />
+    <para>1. Het geding in feitelijke instanties</para>
+    <para />
+    <parablock>
+      <para>[Eiser] heeft bij exploot van 21 juli 2004 ING gedagvaard voor de rechtbank Amsterdam en gevorderd, kort gezegd, </para>
+      <para>* ING te veroordelen om aan [eiser] te betalen een bedrag van € 46.563,68, vermeerderd met wettelijke rente vanaf 5 december 2003 tot aan de dag der algehele voldoening;</para>
+      <para>* ING te veroordelen om aan [eiser] te betalen het totaalbedrag van alle door [eiser] vanaf 26 juni 2000 verrichte betalingen uit hoofde van de hypothecaire geldlening van 6 november 1998, dit bedrag vermeerderd met wettelijke rente vanaf 5 december 2003 tot aan de dag der algehele voldoening.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>ING heeft de vordering bestreden.</para>
+      <para>De rechtbank heeft, na een comparitie van partijen te hebben gelast, bij vonnis van 15 juni 2005 de vordering afgewezen.</para>
+      <para>Tegen dit vonnis heeft [eiser] hoger beroep ingesteld bij het gerechtshof te Amsterdam. </para>
+      <para>Bij arrest van 8 februari 2007 heeft het hof het vonnis van de rechtbank bekrachtigd.</para>
+      <para>Het arrest van het hof is aan dit arrest gehecht.</para>
+    </parablock>
+    <para />
+    <para>2. Het geding in cassatie</para>
+    <para />
+    <parablock>
+      <para>Tegen het arrest van het hof heeft [eiser] beroep in cassatie ingesteld. De cassatiedagvaarding is aan dit arrest gehecht en maakt daarvan deel uit.</para>
+      <para>ING heeft geconcludeerd tot verwerping van het beroep.</para>
+      <para>De zaak is voor partijen toegelicht door hun advocaten.</para>
+      <para>De conclusie van de Advocaat-Generaal J.L.R.A. Huydecoper strekt tot verwerping.</para>
+    </parablock>
+    <para />
+    <para>3. Beoordeling van het middel</para>
+    <para />
+    <parablock>
+      <para>3.1 In cassatie kan worden uitgegaan van hetgeen het hof in rov. 4.1.1 - 4.1.7 heeft vastgesteld. Kort weergegeven komt dat op het volgende neer.</para>
+      <para>(i) [Eiser] heeft in november 1998 met ING een hypothecaire geldleningsovereenkomst afgesloten voor een bedrag van ƒ 95.000,--. Het recht van hypotheek is gevestigd op het woonhuis van [eiser].</para>
+      <para>(ii) Bij vonnis van 26 juli 2000 heeft de rechtbank Middelburg ten aanzien van [eiser] de definitieve toepassing van de schuldsaneringsregeling uitgesproken.</para>
+      <para>(iii) ING heeft bij brief van 4 augustus 2000 aan de bewindvoerder van [eiser] meegedeeld dat zij bereid was de hypothecaire lening te continueren onder de voorwaarde, onder andere, dat het totaalbedrag van die lening opnieuw werd gesecureerd door middel van schuldvernieuwing.</para>
+      <para>(iv) [Eiser] is gedurende de looptijd van de schuldsaneringsregeling met toestemming van de bewindvoerder in het woonhuis blijven wonen. Hij is gedurende die periode zijn uit de lening voortvloeiende verplichtingen jegens ING nagekomen. Tijdens de schuldsaneringsregeling heeft geen schuldvernieuwing met betrekking tot de hypothecaire geldlening plaatsgevonden. </para>
+      <para>(v) De rechtbank Middelburg heeft bij vonnis van 16 oktober 2002 de schuldsaneringsregeling beëindigd en bepaald dat [eiser] niet toerekenbaar tekortgeschoten is in de nakoming van zijn uit de schuldsanering voortvloeiende verplichtingen. Als gevolg daarvan verkreeg [eiser] op grond van art. 358 F. de zogenaamde "schone lei".</para>
+      <para>(vi) Op 10 maart 2003 hebben [eiser] en zijn partner een nieuwe hypothecaire geldleningsovereenkomst voor een bedrag van € 122.000,-- met ING gesloten. Met deze nieuwe lening is de restantschuld van de eerste hypothecaire lening ten bedrage van € 46.563,68 voldaan.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>3.2 In dit geding stelt [eiser] dat de vordering van ING uit hoofde van de eerste hypothecaire lening op grond van art. 358 F. vanaf het verbindend worden van de slotuitdelingslijst niet langer opeisbaar is, zodat de aflossing van de restantschuld van die lening onverschuldigd is voldaan, en voorts dat de tijdens de looptijd van de schuldsaneringsregeling verrichte betalingen op de hypothecaire lening op grond van art. 306 F. nietig zijn. Op deze gronden vordert [eiser] de (terug)betaling door ING van deze bedragen. </para>
+      <para>De vordering is door de rechtbank afgewezen. Het hof heeft dit vonnis bekrachtigd op grond van zijn oordeel, kort samengevat, dat (uit de totstandkomingsgeschiedenis van art. 299 F. moet worden afgeleid dat) de hypothecaire schuld buiten de werking van de schuldsanering valt indien - zoals hier het geval is - de hypotheekhouder en de bewindvoerder geen gebruik maken van hun in de art. 57 F. respectievelijk 58 F. gegeven bevoegdheden, en dat in zodanig geval de uit de hypothecaire geldlening voortvloeiende verplichtingen moeten worden voldaan uit de schuldenaar zelf toekomende, buiten de boedel vallende inkomsten (rov. 4.6.6 - 4.6.8). Derhalve zijn de art. 358 en 306 in dit geval niet van toepassing (rov. 4.6.10 en 4.7.4), zodat de vordering van [eiser] naar het oordeel van het hof niet toewijsbaar is.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>3.3 Het middel betoogt in onderdeel A dat de vordering van ING uit hoofde van de eerste hypothecaire lening onder de schuldsaneringsregeling en derhalve onder de 'schone lei' valt, en in onderdeel B dat de betalingen van [eiser] op deze onder de schuldsaneringsregeling vallende vordering ingevolge art. 306 F. nietig zijn. </para>
+      <para>In cassatie staat daarmee de vraag centraal of de vordering van ING, nu zij geen gebruik heeft gemaakt van haar recht van parate executie en de bewindvoerder zijn uit art. 58 F. voortvloeiende bevoegdheid niet heeft uitgeoefend, onder de werking van de schuldsaneringsregeling valt. Deze vraag moet beantwoord worden naar de vóór 1 januari 2008 geldende bepalingen uit de Faillissementswet, nu de relevante feiten zich voordien hebben afgespeeld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>3.4.1 In het aanvankelijke voorstel van wet luidde art. 299 lid 3 F. als volgt: "De schuldsaneringsregeling werkt niet ten aanzien van vorderingen, welke door pand of hypotheek op een goed of goederen zijn gedekt, behoudens voor zover zij niet op die goederen verhaald kunnen worden. De artikelen 57 tot en met 60 zijn van overeenkomstige toepassing." </para>
+      <para>In de memorie van toelichting bij dit wetsvoorstel is ten aanzien van de positie van separatisten onder meer opgemerkt:</para>
+      <para>"De schuldsaneringsregeling zal niet werken ten aanzien van vorderingen van separatisten, althans voor zover die vorderingen kunnen worden verhaald op de daartoe verbonden goederen. Dit geldt derhalve voor pand- en hypotheekhouders. Ook de retentor zal zijn rechten kunnen uitoefenen. Het zou een te ver gaande inbreuk op het wettelijke stelsel op dit punt betekenen indien ook die integraal onder de werking van schuldsaneringsregeling zouden worden gebracht. Dit is ook in het belang van de schuldenaar, die aldus niet onnodig wordt belemmerd in zijn mogelijkheden om als natuurlijke persoon tegen zekerheid krediet op te nemen. Als uitgangspunt in het wetsvoorstel geldt dan ook dat deze schuldeisers, net zoals in faillissement en surséance van betaling, hun rechten tijdens de schuldsaneringsregeling op de gewone wijze kunnen uitoefenen." </para>
+      <para>"Zoals in (...) het algemeen gedeelte van deze toelichting werd aangegeven, kunnen de pand- en hypotheekhouder hun rechten uitoefenen alsof de schuldsaneringsregeling niet van toepassing is. Ook de retentor verliest zijn recht niet. Een en ander volgt uit de artikelen 57 tot en met 60 Fw die in het derde lid van overeenkomstige toepassing zijn verklaard."</para>
+      <para>(Kamerstukken II, 1992-1993, 22 969, nr. 3, blz. 17 en 45)</para>
+    </parablock>
+    <para />
+    <para>Voorts is hieromtrent in de memorie van antwoord onder meer het volgende vermeld:</para>
+    <para />
+    <parablock>
+      <para>"Zoals ik hierboven heb toegelicht, is als uitgangspunt aangehouden dat op de bevoegdheden van de schuldeisers slechts een inbreuk gemaakt zou moeten worden voor zover dat nodig is met het oog op het eigenlijke doel van de schuldsaneringsregeling. Om die reden is aan de positie van de pand- en hypotheekhouder niet getornd. Voorts moet niet uit het oog verloren worden dat pand- en hypotheekrechten door schuldeisers worden bedongen en door de schuldenaar verleend juist met het oog op mogelijke situaties dat de schuldenaar zijn betalingsverplichting niet kan nakomen. Niet valt in te zien waarom in het geval de schuldenaar inderdaad in de financiële problemen is geraakt en om die reden ten aanzien van hem de schuldsaneringsregeling van toepassing is verklaard, het pand- en hypotheekrecht doorbroken moet worden. Voorts moet ook worden bedacht dat, zoals in (...) de memorie van toelichting reeds werd aangestipt, een wettelijke inbreuk op het pand- en hypotheekrecht van de schuldeisers in het geval van toepassing van de schuldsaneringsregeling in het algemeen gevolgen zou kunnen hebben voor het kunnen verkrijgen door natuurlijke personen van krediet tegen zekerheid. Overigens wordt eraan herinnerd dat vorderingen van deze schuldeisers voor zover die niet voldaan kunnen worden uit de opbrengst van het door pand of hypotheek verbonden goed, wel onder de werking van de schuldsaneringsregeling vallen (vgl. artikel 299, derde lid), hetgeen mede betekent dat op de daarvan overblijvende vorderingen ingevolge artikel 358 geen betaling meer zal kunnen worden afgedwongen." </para>
+      <para>"Het wetsvoorstel (...) verzet zich er niet tegen dat de hypotheekhouder geen gebruik maakt van zijn bevoegdheden. Artikel 57 van de Faillissementswet dat in het wetsvoorstel van overeenkomstige toepassing is verklaard, geeft de hypotheekhouder immers een bevoegdheid en legt hem geen verplichting op zijn rechten uit te oefenen. De hypotheekhouder zal daaromtrent met de bewindvoerder in overleg kunnen treden. De bewindvoerder zal alsdan kunnen afzien van de in artikel 58 van de Faillissementswet gegeven bevoegdheden. Voorwaarde voor het een en ander zal moeten zijn dat uit de verkoop van het tot zekerheid verbonden goed geen enkele bate ten gunste van de boedel is te verwachten. Tevens zullen er geen andere schuldeisers mogen zijn die rechten op hetzelfde verbonden goed kunnen doen gelden (bijv. tweede hypotheekhouder). Voorts dat de hypotheekhouder op de schuldenaar geen enkele vordering heeft wegens achterstallige betaling. Het is de vraag of van dat laatste in de praktijk vaak sprake zal zijn bij een schuldenaar in de financiële problemen. Zodra de hypotheekhouder een vordering heeft wegens achterstallige betaling op het tijdstip waarop de schuldsaneringsregeling van toepassing wordt verklaard en in het geval de woning naar verwachting bij verkoop onvoldoende zal opbrengen om daaruit de gehele nog resterende schuld aan de hypotheekhouder te voldoen (onderwaarde), zal tot verkoop of executie van het verbonden goed moeten worden overgegaan ten einde te kunnen vaststellen of deze schuldeiser nog een overblijvende vordering behoudt die alsdan onder de werking van artikel 358, eerste lid, kan komen te vallen. Ten einde daaromtrent zekerheid te verkrijgen zal het in de praktijk meestal tot verkoop c.q. executie moeten komen. Overigens zij erop gewezen dat in het geval dat de woning waarop hypotheek rust niet in het kader van de toepassing van de schuldsaneringsregeling wordt verkocht, de uit de geldlening verschuldigde verplichtingen door de schuldenaar tijdens de toepassing van de schuldsaneringsregeling moeten worden voldaan. In het systeem van de schuldsaneringsregeling betekent dit dat die schulden zullen moeten worden betaald uit de schuldenaar zelf toekomende, buiten de boedel vallende inkomsten."</para>
+      <para>(Kamerstukken II, 1993-1994, 22 969, nr. 6, blz. 10-11 en 11-12)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>3.4.2 Lid 3 van art. 299 van voornoemd wetsvoorstel is bij de vierde nota van wijziging aldus aangepast dat de eerste volzin is komen te vervallen en de overblijvende volzin luidt: "De artikelen 57 tot en met 59 zijn van overeenkomstige toepassing." De bepaling is aldus met ingang van 1 december 1998 in werking getreden (met dien verstande dat "59" nog is gewijzigd in "59a"). De toelichting merkt over de schrapping van de eerste volzin het volgende op:</para>
+      <para>"De zinsnede dat de 'schuldsaneringsregeling niet werkt ten aanzien van vorderingen, welke door pand of hypotheek op een goed of goederen zijn gedekt', is bij nader inzien te strak geformuleerd. Daaraan doet niet af dat een pand- of hypotheekhouder in de wettelijke schuldsaneringsregeling een bijzondere positie toekomt doordat hij als separatist zijn rechten kan uitoefenen." </para>
+      <para>(Kamerstukken II, 1994-1995, 22 969, nr. 20, blz. 9)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vervolgens wordt aldaar uiteengezet dat "zoals reeds uit het wetsvoorstel voortvloeit" de pand- of hypotheekhouder als separatist het verbonden goed buiten de boedel om kan verkopen en zich uit de opbrengst kan voldoen, en dat, indien de opbrengst daartoe onvoldoende is, de resterende vordering wordt bestreken door de werking van de schuldsaneringsregeling. Daarna vervolgt de toelichting op blz. 9:</para>
+      <para>"Anders is de - in de onderhavige nota van wijziging betrokken - situatie waarin een pandhouder of hypotheekhouder zich niet als separatist opstelt en hij, ondanks het feit dat de bewindvoerder daartoe een redelijke termijn heeft gesteld (vergelijk artikel 58, eerste lid, Fw), geen gebruik maakt van zijn recht van parate executie. (...) Komt het evenwel tot verkoop door de bewindvoerder overeenkomstig artikel 58 Fw, dan valt de opbrengst volledig in de boedel. Ingevolge het eerste lid van dat artikel behouden de pand- en hypotheekhouder in dat geval weliswaar hun voorrang, maar hun vordering wordt verder afgewikkeld via de regelingen van de schuldsaneringsregeling. Dit betekent onder meer dat, rekening houdende met eventuele schuldeisers met een hogere voorrang, op grond van de gewone regelingen zal moeten worden vastgesteld voor welk gedeelte van de vordering van de pand- en hypotheekhouders hun voorrang geldt, en welk overblijvende gedeelte als concurrent is aan te merken. Op de aldus vastgestelde vordering(en) is bij het doen van uitkeringen uit de boedel de verdeelsleutel van artikel 349, tweede lid, van toepassing. Het kan dus voorkomen dat bij voorbeeld een pandhouder bij de toepassing van die verdeelsleutel voor een gedeelte van zijn vordering in de groep schuldeisers van vorderingen met voorrang valt, en voor het overige gedeelte in de groep concurrente schuldeisers."</para>
+    </parablock>
+    <para />
+    <para>3.5.1 Uit de hiervoor weergegeven totstandkomingsgeschiedenis van art. 299 lid 3 moet worden afgeleid dat de wetgever tot uitgangspunt heeft genomen dat de schuldsaneringsregeling niet werkt ten aanzien van vorderingen die door pand of hypotheek zijn gedekt, behoudens voor zover die vorderingen niet op de verbonden goederen verhaald kunnen worden. De pand- of hypotheekhouder kan zich op grond van zijn recht van parate executie buiten de schuldsaneringsregeling om verhalen op de verbonden goederen. Maar blijkens de hiervoor in 3.4.1 geciteerde memorie van antwoord kunnen de hypothecaire schuldeiser en de bewindvoerder, indien de schuldenaar geen betalingsachterstand heeft en het verbonden goed geen overwaarde heeft zodat bij executie geen bate ten gunste van de boedel is te verwachten, ook afzien van hun uit art. 57 en 58 F. voortvloeiende rechten tot uitwinning van de verbonden goederen, in welk geval de schuldenaar de lopende verplichtingen jegens de schuldeiser dient te voldoen uit de hem toekomende, buiten de boedel vallende inkomsten. Een en ander brengt mee dat art. 358 F. (de 'schone lei') in een dergelijk geval geen betrekking heeft op de vordering van de pand- of hypotheekhouder, zoals ook zonder meer voortvloeide uit de oorspronkelijke tekst van art. 299 lid 3 van het wetsvoorstel. Om dezelfde reden zijn betalingen op een zodanige vordering niet nietig ingevolge art. 306. Weliswaar is de uitdrukkelijke vermelding in art. 299 lid 3 dat de schuldsaneringsregeling niet werkt ten aanzien van vorderingen die door pand of hypotheek zijn gedekt, in de vierde nota van wijziging geschrapt, maar blijkens de hiervoor in 3.4.2 weergegeven toelichting is dat niet geschied vanwege een gewijzigd uitgangspunt, doch vanwege de omstandigheid dat de bepaling "bij nader inzien te strak [is] geformuleerd". De oorspronkelijke tekst bepaalde immers wel dat de vordering van de pand- of hypotheekhouder bij onvoldoende executieopbrengst voor het overblijvende deel onder de schuldsaneringsregeling viel, maar voorzag niet in de situatie dat de vordering, ingeval de bewindvoerder gebruik maakt van zijn uit art. 58 voortvloeiende bevoegdheid, via de boedel geldend wordt gemaakt met toepassing van de in art. 349 F. omschreven verdeelsleutel (die kan meebrengen dat op de vordering van de pand- of hypotheekhouder minder wordt betaald dan het geval zou zijn geweest indien deze geheel buiten de schuldsaneringsregeling om zou worden verhaald). Gelet op deze redengeving kan niet worden aangenomen dat de wetgever met de schrapping van de eerste volzin heeft beoogd het uitgangspunt dat de schuldsaneringsregeling (behoudens de zojuist vermelde uitzonderingen) niet werkt ten aanzien van vorderingen die door pand of hypotheek zijn gedekt, te verlaten. In dat geval zou immers de vordering van de pand- of hypotheekhouder - ingeval door de schuldeiser en de bewindvoerder wordt afgezien van uitoefening van hun uit art. 57 en 58 voortvloeiende bevoegdheden - in strijd met de hiervoor in 3.4.1 geciteerde memorie van antwoord onder de werking van de schuldsaneringsregeling en daarmee onder de 'schone lei' vallen, met als niet voor de hand liggend resultaat dat de schuldenaar na beëindiging van de schuldsaneringsregeling ingevolge art. 358 F. een onbelast goed zou bezitten zonder dat de waarde daarvan aan de schuldeisers ten goede is gekomen. Niet aannemelijk is dat de wetgever de voorgestelde wettelijke regeling bij gelegenheid van de vierde nota van wijziging aldus heeft willen veranderen, zeker niet nu daarbij geen afstand is genomen van hetgeen in de memorie van antwoord daaromtrent is opgemerkt. Dat spreekt temeer omdat de pand- of hypotheekhouder in de hier bedoelde gevallen anders genoopt zou zijn tijdens de schuldsaneringsregeling over te gaan tot een executie waar geen van de betrokken partijen baat bij heeft, dan wel tot een schuldvernieuwing met hernieuwde zekerheidstelling waar slechts extra kosten aan verbonden zijn die ten laste van de schuldenaar komen.</para>
+    <para />
+    <para>3.5.2 Het voorgaande strookt ook met de wettelijke regeling van de positie van pand- en hypotheekhouders bij de stemming over een akkoord. Blijkens de eerste volzin van art. 332 lid 2 F. zijn tot stemming over het akkoord bevoegd "de schuldeisers van vorderingen ten aanzien waarvan de schuldsaneringsregeling werkt". Juist met het oog op de situatie dat de pand- of hypotheekhouder nog geen gebruik heeft gemaakt van zijn recht van parate executie en de bewindvoerder evenmin van zijn bevoegdheid tot verkoop, zijn bij de vierde nota van wijziging in art. 332 lid 2 de tweede en derde volzin toegevoegd. Daarin is bepaald, kort gezegd, dat pand- en hypotheekhouders slechts tot stemmen over het akkoord bevoegd zijn indien zij vóór de stemming afstand doen van het recht van parate executie, en dat zij dat recht dan niet herkrijgen, ongeacht de uitkomst van de stemming. Zoals ook blijkt uit de toelichting hierbij (Kamerstukken II, 1994-1995, 22 969, nr. 20, blz. 11), is de pand- of hypotheekhouder, indien hij van het recht van parate executie geen afstand heeft gedaan en dus niet heeft meegestemd, niet gebonden aan een akkoord. Daarbij past dat zijn vordering dan ook niet onder de werking van de schuldsaneringsregeling valt (uiteraard behoudens de hiervoor vermelde uitzonderingen voor het bij latere executie onvoldaan gebleven gedeelte van de vordering en voor de executie door de bewindvoerder op de voet van art. 58).</para>
+    <para />
+    <para>3.6 Uit hetgeen hiervoor is overwogen volgt dat het middel is gebaseerd op een onjuiste rechtsopvatting en derhalve in beide onderdelen faalt. Het hof heeft met juistheid geoordeeld dat de hypothecaire vordering van ING buiten de werking van de schuldsaneringsregeling van [eiser] is gebleven, zodat de door [eiser] verrichte betalingen op die vordering niet ingevolge art. 306 nietig zijn, en deze vordering niet onder de door hem verkregen 'schone lei' valt.</para>
+    <para />
+    <parablock>
+      <para>3.7.1 Opmerking verdient dat het voorgaande niet anders is geworden door de wijzigingen van de Faillissementswet die met ingang van 1 januari 2008 van kracht zijn geworden. Voor zover thans van belang is aan art. 303 F. een nieuw derde lid toegevoegd, kort gezegd inhoudende dat in de uitspraak van de rechtbank tot toepassing van de schuldsaneringsregeling of bij latere beschikking van de rechter-commissaris het eerste lid (waarin is bepaald dat de schuldenaar geen rente meer is verschuldigd over vorderingen ten aanzien waarvan de schuldsanering werkt) buiten toepassing verklaard kan worden ten aanzien van rente die verschuldigd is over een hypotheek die gevestigd is op het huis waarin de schuldenaar woonachtig is. Voorts is aan art. 358 een nieuw vijfde lid toegevoegd, inhoudende dat het eerste lid (de 'schone lei') niet van toepassing is ten aanzien van een hypotheek die is gevestigd op het huis waarin de schuldenaar woonachtig is, indien op de rente van deze hypotheek artikel 303 lid 3 van toepassing is. Deze wijzigingen zijn als volgt toegelicht:</para>
+      <para>(met betrekking tot art. 303 lid 3:) "Doorgaans zal de eigen woning die in bezit is van een schuldenaar hetzij door de bank worden geveild, hetzij onderhands door de bewindvoerder worden verkocht. Er zijn echter situaties denkbaar waarin verkoop niet in het belang van de boedel is. Hiervan kan bijvoorbeeld sprake zijn indien de woonlasten in de koopwoning lager zijn dan ze zullen zijn na verkoop en verhuizing naar een huurhuis en er geen overwaarde is. Artikel 303, eerste lid, staat er echter aan in de weg dat de schuldenaar de hypotheekrente blijft betalen. Er zijn momenteel rechtbanken die toestemming geven om in de woning te blijven wonen, de rente te betalen en via schuldvernieuwing na afloop van de schuldsaneringsregeling te voorkomen dat de hypotheekschuld onder de schone lei valt. Teneinde een en ander te vereenvoudigen, wordt deze praktijk gefaciliteerd door [in] artikel 303 een uitzondering op te nemen voor de betaling van hypotheekrente. Als pas na het vonnis tot vantoepassingverklaring van de schuldsaneringsregeling de vraag wat te doen met het huis is beantwoord, kan ook de rechter-commissaris </para>
+      <para>bij beschikking een uitzondering geven voor de hypotheekrente. Voorwaarde bij dit alles is wel dat dit in het belang van de boedel moet zijn. Daarnaast is in artikel 358, vijfde lid, opgenomen dat een dergelijke hypotheek aan het einde van de schuldsaneringsregeling niet onder de schone lei valt."</para>
+      <para>(Kamerstukken II, 2005-2006, 29 942, nr. 8, blz. 4)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(met betrekking tot art. 358 lid 5:) "In het nieuwe vijfde lid is een regeling opgenomen voor schuldenaren voor wie verkoop van de eigen woning niet in het belang van de boedel was. Indien bij aanvang de schuldsaneringsregeling of op een moment daarna artikel 303, derde lid, van toepassing is verklaard (...) op de rentetermijnen die voortvloeien uit de hypotheek, dan is bij beëindiging van de schuldsaneringsregeling de schone lei niet van toepassing op de hypotheek. Zie verder de toelichting op de wijziging van artikel 303 (...)."</para>
+      <para>(Kamerstukken II, 2005-2006, 29 942, nr. 8, blz. 5)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>3.7.2 Blijkens de zojuist geciteerde toelichting is bij deze wetswijziging uitgegaan van de opvatting dat de schuldsaneringsregeling ook werkt ten aanzien van een hypothecaire vordering, zodat enerzijds door de schuldenaar gedurende de looptijd van de schuldsanering geen hypotheekrente verschuldigd is, en anderzijds </para>
+      <para>bij beëindiging van de schuldsaneringsregeling de hypothecaire vordering onder de schone lei valt. Deze opvatting is evenwel blijkens het hiervoor in 3.4.1 - 3.5.2 overwogene in strijd met het door de wetgever bij de invoering van de wettelijke regeling van de schuldsanering gehanteerde uitgangspunt en kan daarom niet als juist worden aanvaard. Deze latere opvatting kan op zichzelf genomen niet afdoen aan, noch wijziging brengen in, de inhoud van de wettelijke regeling zoals deze sedert haar inwerkingtreding geldt. </para>
+      <para>Ook hetgeen thans in art. 303 lid 3 en art. 358 lid 5 is bepaald, brengt geen wijziging in hetgeen zonder die bepalingen al zou gelden. Zoals blijkt uit hetgeen hiervoor in 3.4.1 - 3.5.2 is overwogen, brengt de wettelijke regeling - ook zonder hetgeen in deze nieuwe bepalingen is geregeld - al mee dat een hypothecaire vordering niet onder de schuldsaneringsregeling valt, met als gevolg dat de schuldenaar tijdens de schuldsanering de hypotheekrente verschuldigd blijft (en mag voldoen uit de hem toekomende, buiten de boedel vallende inkomsten) en dat de hypothecaire vordering bij beëindiging van de schuldsaneringsregeling niet onder de 'schone lei' valt. Daartoe is, ook na 1 januari 2008, de in art. 303 lid 3 bedoelde verklaring van de rechtbank of de rechter-commissaris niet vereist.</para>
+    </parablock>
+    <para />
+    <para>4. Beslissing</para>
+    <para />
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>verwerpt het beroep;</para>
+      <para>veroordeelt [eiser] in de kosten van het geding in cassatie, tot op deze uitspraak aan de zijde van ING begroot op € 1.466,34 aan verschotten en € 2.200,-- voor salaris.</para>
+    </parablock>
+    <para />
+    <para>Dit arrest is gewezen door de vice-president J.B. Fleers als voorzitter en de raadsheren A.M.J. van Buchem-Spapens, A. Hammerstein, W.A.M. van Schendel en C.A. Streefkerk, en in het openbaar uitgesproken door de raadsheer E.J. Numann op 13 maart 2009.</para>
+  </uitspraak>
+</open-rechtspraak>

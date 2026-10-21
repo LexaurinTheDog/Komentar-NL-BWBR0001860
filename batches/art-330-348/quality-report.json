@@ -1,5 +1,6 @@
 {
-  "assigned_ids": [
+  "units": 20,
+  "commented_ids": [
     "art-330",
     "art-331",
     "art-332",
@@ -21,33 +22,13 @@
     "art-347",
     "art-348"
   ],
-  "commented_units": 20,
-  "per_unit_characters": {
-    "art-330": 1459,
-    "art-331": 506,
-    "art-332": 2305,
-    "art-333": 513,
-    "art-333a": 1462,
-    "art-334": 477,
-    "art-335": 1589,
-    "art-336": 507,
-    "art-337": 1504,
-    "art-338": 1790,
-    "art-339": 1574,
-    "art-340": 2285,
-    "art-341": 504,
-    "art-342": 506,
-    "art-343": 516,
-    "art-344": 491,
-    "art-345": 529,
-    "art-346": 554,
-    "art-347": 1653,
-    "art-348": 1723
-  },
-  "duplicate_complete_comments": false,
-  "placeholder_scan": [],
-  "limitations": [
-    "Length and exact-duplicate checks are technical checks, not proof of legal quality.",
-    "No independent second-pass review performed."
-  ]
+  "statutory_text_agreement": 1.0,
+  "missing": [],
+  "duplicate_ids": [],
+  "duplicate_full_comments": false,
+  "placeholder_matches": [],
+  "links_checked": 19,
+  "broken_links": [],
+  "unassigned_commentary_unchanged": true,
+  "legal_quality": "Manual review, not inferred from length checks."
 }
