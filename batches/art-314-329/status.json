@@ -56,6 +56,15 @@
     "complete": true,
     "units_reviewed": 20,
     "report": "review-result.json",
-    "whole_book_complete": false
+    "whole_book_complete": false,
+    "validation": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 38915,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   }
 }
