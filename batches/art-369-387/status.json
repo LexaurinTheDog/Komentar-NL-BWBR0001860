@@ -1,5 +1,5 @@
 {
-  "stage": "reviewed_batch_technical_validation_pending",
+  "stage": "reviewed_batch_technical_validation",
   "total_units": 19,
   "completed_units": 19,
   "reviewed_ids": [
@@ -29,5 +29,15 @@
     "Two cited full judgments read; selective authorities, no exhaustive subsequent-case survey or wider national corpus search.",
     "External BW and EU references checked only insofar as reproduced in statutory source or judgments; external regimes not exhaustively analysed.",
     "No external professional approval."
-  ]
+  ],
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 19,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 39587,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "review_result": "review-result.json"
 }

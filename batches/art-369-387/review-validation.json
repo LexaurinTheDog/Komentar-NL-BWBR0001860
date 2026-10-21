@@ -1,0 +1,24 @@
+{
+  "scope": "Second reading exactly art-369 through art-387",
+  "results": {
+    "batch": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 19,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 39587,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "whole_book_technical": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 639,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 969433,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
+  },
+  "whole_book_review_complete": false
+}
