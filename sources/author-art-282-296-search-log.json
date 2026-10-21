@@ -1,0 +1,19 @@
+{
+  "at": "2026-10-21T00:08:45.892610+00:00",
+  "queries": [
+    "site.rechtspraak.nl Hoge Raad 287a 288 2010 2011 schuldregeling",
+    "site.rechtspraak.nl Hoge Raad 295 296 vrij te laten bedrag schuldsanering"
+  ],
+  "verified_case_sources": [
+    "ECLI:NL:HR:2012:BY0966",
+    "ECLI:NL:HR:2021:1670",
+    "ECLI:NL:HR:2023:53"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+  "disposition": "Three complete official judgments read and compared with local corpus. Selective research only; no further sufficiently relevant separately verified case added for technical units. 2012 ten-year exclusion and old 287a paragraph numbering explicitly marked historical.",
+  "excluded_search_hits": [
+    "2010:BO2918 and 2012:BY0966 historical ten-year exclusion not imported into current admission conditions.",
+    "Parket conclusions not substituted for Supreme Court holdings."
+  ],
+  "method": "Direct official XML API; no Firecrawl extraction needed."
+}

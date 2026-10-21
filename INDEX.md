@@ -81,3 +81,9 @@ De 25 hieronder vermelde hoofdstukken bevatten 340 toegelichte plaatsen, van art
 [Artikelen 241d–253, hoofdstuk 33](33-art-241d-253-checkpoint-33.md).
 
 [Artikelen 254–269b, hoofdstuk 33](33-art-254-269b-checkpoint-33.md).
+
+[Artikelen 282–296, hoofdstuk 37](37-art-282-296-checkpoint-37.md).
+
+[Artikelen 282–296, hoofdstuk 38](38-art-282-296-checkpoint-38.md).
+
+[Artikelen 282–296, hoofdstuk 39](39-art-282-296-checkpoint-39.md).

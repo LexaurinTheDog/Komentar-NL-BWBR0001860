@@ -1,0 +1,9 @@
+# Hoge Raad 14 december 2012 — ECLI:NL:HR:2012:BY0966
+
+Zaak 12/03272. [Officiële uitspraak](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2012:BY0966), [volledige XML](author-art-282-296-hr-2012-BY0966.xml), [volledige tekst](author-art-282-296-hr-2012-BY0966.txt), [bronlog](author-art-282-296-fetch.json). Ondersteunt artikelen 287a en 292. De volledige uitspraak is gelezen.
+
+De verzoekster had eerder een schuldsanering doorlopen. Rechtbank en hof verbonden de toenmalige onmogelijkheid van nieuwe toelating aan het ontbreken van belang bij een dwangakkoord. R.o. 3.2–3.3 beschrijven hun beoordelingen; r.o. 3.4 de klacht. Die passages zijn geen eigen afwijzingsregel van de Hoge Raad.
+
+R.o. 3.5.1–3.5.4 maakt de toewijsbaarheid van het dwangakkoord los van die van de Wsnp. Combinatie in één oorspronkelijk verzoekschrift dient efficiënte behandeling en een volledig dossier, maar maakt de verschillende materiële maatstaven niet gelijk. R.o. 3.6.2 sluit een afzonderlijk schuldenaarsberoep tegen het afgewezen akkoord uit wanneer de Wsnp vervolgens is toegewezen. R.o. 3.6.3 behandelt de afwijzing van beide verzoeken. R.o. 3.6.4 aanvaardt zelfstandig hoger beroep en cassatie over het akkoord als de schuldenaar de Wsnp niet handhaaft, met overeenkomstige toepassing van artikel 292 leden 3, 4, 5 en 7 en overlegging van het volledige dossier. R.o. 3.6.5 behandelt de schuldeiserspositie en samenlopende beslissingen. Het dictum vernietigt en verwijst; het legt zelf geen akkoord op.
+
+Historische grens: de tienjaarsuitsluiting uit het toenmalige artikel 288 lid 2 onder d bestaat niet in de geselecteerde tekst van 2026. Evenmin is de toen aangehaalde plaats van de beslisvolgorde in artikel 287a lid 7 nog actueel: die regel staat nu in lid 8, terwijl lid 7 de bemiddelaarseis bevat. Het commentaar gebruikt de beslissing voor de zelfstandige beoordeling en het rechtsmiddelenstelsel, niet als bewijs voor oude toelatingscriteria of oude lidnummering.

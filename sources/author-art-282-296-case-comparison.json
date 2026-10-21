@@ -1,0 +1,29 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2021:1670",
+    "local_path": "sources/author-art-282-296-hr-2021-1670-local.md",
+    "local_sha256": "5a7507fb1ddc2d64c6afe3f9a8991aad96f1446ce134468b575c3a4837a04d82",
+    "official_xml_sha256": "e980bfe0315e972158343d8ecf819ab04b7fc95828ef6b78d2d3d3b035ec9522",
+    "long_official_paragraphs": 24,
+    "not_literal_in_local_count": 0,
+    "disposition": "Full official XML judgment is authority; local corpus read and compared; formatting/footnote differences do not replace official text."
+  },
+  {
+    "ecli": "ECLI:NL:HR:2023:53",
+    "local_path": "sources/author-art-282-296-hr-2023-53-local.md",
+    "local_sha256": "8256febd769ad6545f05985ac25941c69a16578b653655c42bd13238caecad66",
+    "official_xml_sha256": "1633823e6ecf930e2632220e55b92664167e5fe39e2274209dd8832089701167",
+    "long_official_paragraphs": 19,
+    "not_literal_in_local_count": 0,
+    "disposition": "Full official XML judgment is authority; local corpus read and compared; formatting/footnote differences do not replace official text."
+  },
+  {
+    "ecli": "ECLI:NL:HR:2012:BY0966",
+    "local_path": "sources/author-art-282-296-hr-2012-BY0966-local.md",
+    "local_sha256": "f54f45a6d1806413a38a90c90c443284579fa444e65b33055e072d86d2fbde6d",
+    "official_xml_sha256": "8250cbcbcfd6038db21fb533ae41e47cff2af752ec79dac3b7accd01c7020aba",
+    "long_official_paragraphs": 38,
+    "not_literal_in_local_count": 0,
+    "disposition": "Full official XML judgment is authority; local corpus read and compared; formatting/footnote differences do not replace official text."
+  }
+]

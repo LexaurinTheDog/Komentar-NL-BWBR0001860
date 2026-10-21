@@ -380,3 +380,6 @@ De [Wft-bron](sources/review-art-270-281h-external-fetch.json) bevestigt het ops
 
 De batch is opnieuw gebouwd en strikt gevalideerd; [resultaten](sources/review-art-270-281h-validation.json) onderscheiden het checkpoint van de nog onvoltooide volledige manuscriptbouw. Dit oordeel betreft uitsluitend twintig artikelen, zonder externe professionele goedkeuring.
 
+
+
+Auteursbatch 282–296: twintig specifieke toelichtingen, inclusief vervallen artikel 295a. [Broncontrole](sources/author-art-282-296-preflight-result.json), [brondekking](sources/author-art-282-296-coverage.json), [selectieve rechtspraak](sources/author-art-282-296-search-log.json). Onafhankelijke tweede lezing nog niet uitgevoerd. Het hele boek is nog onvoltooid.

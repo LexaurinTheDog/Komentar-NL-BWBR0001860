@@ -1,0 +1,201 @@
+---
+source: rechtspraak
+country: nl
+document_type: decision
+court: Hoge Raad
+ecli: ECLI:NL:HR:2012:BY0966
+date: '2012-12-14'
+date_published: '2013-04-05'
+case_number:
+- 12/03272
+procedure:
+- Cassatie
+subject:
+- Civiel recht
+relations:
+- 'Conclusie: ECLI:NL:PHR:2012:BY0966'
+references:
+- Faillissementswet
+- Faillissementswet 284
+- Faillissementswet 287a
+- Faillissementswet 288
+- Faillissementswet 292
+source_url: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2012:BY0966
+download_url: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2012:BY0966
+chars: 22313
+license: Public Domain Mark
+retrieved_at: '2026-10-04T05:36:37Z'
+---
+
+# ECLI:NL:HR:2012:BY0966 – Hoge Raad, 2012-12-14
+
+- **Instantie:** Hoge Raad
+- **Datum:** 2012-12-14
+- **Zaaknummer:** 12/03272
+- **Rechtsgebied:** Civiel recht
+
+## Inhoudsindicatie
+
+Gedwongen schuldregeling, art. 287a Fw. Bij toelatingsverzoek schuldsanering ingediend verzoek tot bevel schuldeisers instemming met aangeboden schuldregeling. Toewijsbaarheid schuldsaneringsverzoek geen voorwaarde voor toewijsbaarheid van instemmingsverzoek. Rechtsmiddelen, art. 292 Fw, hoger beroep en cassatie tegen afwijzing instemmingsverzoek. Griffierecht niet verschuldigd, art. 4 lid 2 aanhef en onder i Wet griffierechten burgerlijke zaken.
+
+## Uitspraak
+
+14 december 2012
+
+Eerste Kamer
+
+12/03272
+
+DV/LZ
+
+Hoge Raad der Nederlanden
+
+Arrest
+
+in de zaak van:
+
+[Verzoekster],
+
+wonende te [woonplaats],
+
+VERZOEKSTER tot cassatie,
+
+advocaat: mr. S.M. Kingma,
+
+t e g e n
+
+1. DSW ZORGVERZEKERAAR,
+
+gevestigd te Rotterdam,
+
+2. PC UITVAARTZORG,
+
+gevestigd te Amsterdam,
+
+3. GREENCHOICE,
+
+gevestigd te 's-Gravenhage,
+
+4. T-MOBILE,
+
+gevestigd te Zwolle,
+
+5. CMV BANK,
+
+gevestigd te Breda,
+
+VERWEERSTERS in cassatie,
+
+niet verschenen.
+
+Partijen zullen hierna ook worden aangeduid als [verzoekster] en DSW c.s.
+
+1. Het geding in feitelijke instanties
+
+Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar de navolgende stukken:
+
+a. het vonnis in de zaak met de nummers 81819/11-670 en 81821/11-672 van de rechtbank Middelburg van 10 april 2012;
+
+b. het arrest in de zaak HV 200.105.502/01 van het gerechtshof te 's-Hertogenbosch van 26 juni 2012.
+
+Het arrest van het hof is aan dit arrest gehecht.
+
+2. Het geding in cassatie
+
+Tegen het arrest van het hof heeft [verzoekster] beroep in cassatie ingesteld. Het cassatierekest is aan dit arrest gehecht en maakt daarvan deel uit.
+
+DSW c.s. hebben geen verweerschrift ingediend.
+
+De conclusie van de Advocaat-Generaal L. Timmerman strekt tot vernietiging.
+
+3. Beoordeling van het middel
+
+3.1 In cassatie kan van het volgende worden uitgegaan.
+
+(i) Op 9 november 2004 is op [verzoekster] de schuldsaneringsregeling van toepassing verklaard.
+
+Deze schuldsaneringsregeling is op 3 augustus 2006 tussentijds beëindigd met een omzetting naar een faillissement. Op 1 november 2006 is dit faillissement beëindigd.
+
+(ii) De goederen van [verzoekster] staan onder bewind.
+
+De beschermingsbewindvoerder heeft ingestemd met de onderhavige procedure.
+
+(iii) [Verzoekster] is in algehele gemeenschap van goederen getrouwd met [betrokkene 1] (hierna '[betrokkene 1]').
+
+(iv) Omdat [verzoekster] en [betrokkene 1] in een problematische schuldsituatie verkeren, hebben zij hun schuldeisers een schuldregeling aangeboden. Met deze schuldregeling hebben 28 van de 33 schuldeisers ingestemd, maar DSW c.s. hebben de voorgestelde schuldregeling van de hand gewezen.
+
+3.2. [Verzoekster] en [betrokkene 1] hebben ieder afzonderlijk de rechtbank verzocht om DSW c.s. een bevel te geven tot instemming met de aangeboden schuldregeling (art. 287a lid 1 Fw) en dit verzoek gepaard doen gaan met een (subsidiair) verzoek tot toepassing van de schuldsaneringsregeling (art. 284 lid 1 Fw).
+
+De rechtbank heeft het primaire verzoek van [betrokkene 1] toegewezen en DSW c.s. op de voet van art. 287a lid 1 Fw bevolen in te stemmen met de aangeboden schuldregeling. In cassatie speelt dit verzoek geen rol meer.
+
+De rechtbank heeft zowel het verzoek van [verzoekster] om een bevel tot instemming met een schuldregeling als haar verzoek tot toepassing van de schuldsaneringsregeling afgewezen. Daartoe heeft de rechtbank overwogen dat indien vaststaat dat een verzoek tot toepassing van de schuldsaneringsregeling zal worden afgewezen, een verzoekster geen belang (meer) heeft bij een verzoek op grond van art. 287a Fw. In dit geval moet het verzoek tot toepassing van de schuldsaneringsregeling op grond van art. 288 lid 2, onder d, Fw worden afgewezen, omdat de rechtbank is gebleken dat op [verzoekster] minder dan tien jaar voorafgaande aan de dag van indiening van het onderhavige verzoekschrift, de schuldsaneringsregeling van toepassing is geweest. Nu voor toepassing van de schuldsaneringsregeling geen plaats is, kan ook het verzoek op grond van art. 287a Fw niet worden toegewezen, aldus de rechtbank.
+
+3.3 [Verzoekster] heeft hoger beroep ingesteld en in haar beroepschrift het hof verzocht om alsnog de schuldeisers te dwingen in te stemmen met de aangeboden schuldregeling, subsidiair haar toe te laten tot de wettelijke schuldsaneringsregeling. Het hof heeft [verzoekster] in beide verzoeken niet-ontvankelijk verklaard.
+
+Ten aanzien van het verzoek van [verzoekster] om een bevel tot instemming met de schuldregeling heeft het hof overwogen dat deze rechtsfiguur onderdeel is van en verbonden is met de aanvraag om te worden toegelaten tot de schuldsaneringsregeling en dat, als vaststaat dat het verzoek tot toelating tot de schuldsaneringsregeling zal worden afgewezen, een verzoeker geen voor de wettelijke schuldsanering relevant belang (meer) heeft bij een verzoek op grond van art. 287a Fw. In dat kader heeft het hof uit de wetsgeschiedenis afgeleid dat een schuldenaar alleen hoger beroep kan instellen van een afwijzende beslissing van de rechtbank inzake een gedwongen schuldregeling, wanneer de schuldenaar eveneens in hoger beroep komt van afwijzing van het verzoek om te worden toegelaten tot de schuldsaneringsregeling. Nu [verzoekster] alleen hoger beroep heeft ingesteld tegen afwijzing van het dwangakkoord, dient zij niet-ontvankelijk te worden verklaard in haar hierop betrekking hebbende verzoek in hoger beroep, aldus het hof (rov. 3.5).
+
+Ten aanzien van het verzoek van [verzoekster] tot toepassing van de schuldsaneringsregeling heeft het hof overwogen dat [verzoekster] geen grief heeft gericht tegen afwijzing door de rechtbank van dat verzoek, terwijl de enkele vermelding in het petitum van het beroepschrift van een verzoek tot toepassing van de schuldsaneringsregeling, onvoldoende is. Op grond hiervan heeft het hof [verzoekster] eveneens niet-ontvankelijk verklaard in haar verzoek tot toelating tot de schuldsaneringsregeling (rov. 3.6).
+
+3.4 Onderdeel II.2 keert zich tegen het hiervoor in 3.3 weergegeven oordeel van het hof met betrekking tot het verzoek van [verzoekster] om een bevel tot instemming met de aangeboden schuldregeling. Het onderdeel betoogt dat de beoordeling van de toewijsbaarheid van het (primaire) verzoek om een bevel tot instemming met een schuldregeling (art. 287a lid 1 Fw) moet worden onderscheiden van de toewijsbaarheid van het (subsidiaire) verzoek tot toepassing van de wettelijke schuldsaneringsregeling (art. 284 lid 1 Fw). Volgens het onderdeel vormt de toewijsbaarheid van het subsidiaire verzoek geen noodzakelijke voorwaarde voor de toewijsbaarheid van het primaire verzoek; althans brengt de enkele omstandigheid dat het subsidiaire verzoek niet toewijsbaar is, nog niet mee dat het primaire verzoek evenmin toewijsbaar is.
+
+3.5.1 Het onderdeel treft doel. De toewijsbaarheid van een (primair) verzoek op de voet van art. 287a lid 1 Fw om een bevel tot instemming met een schuldregeling, is niet afhankelijk van de toewijsbaarheid van een (subsidiair) verzoek op de voet van art. 284 lid 1 Fw tot toepassing van de schuldsaneringsregeling.
+
+3.5.2 Het vorenstaande strookt met de tekst van art. 287a Fw.
+
+Weliswaar schrijft art. 287a lid 1 Fw voor dat het verzoek om een bevel tot instemming met een schuldregeling wordt gedaan in het in art. 284 lid 1 Fw bedoelde verzoekschrift waarbij de schuldenaar verzoekt om toepassing van de schuldsaneringsregeling, maar dit voorschrift bevat voor het overige geen verwijzing naar de vereisten die worden gesteld in het kader van de schuldsaneringsregeling. Blijkens de wetsgeschiedenis is het voorschrift van art. 287a lid 1 Fw erop gericht een efficiënte procesgang te bevorderen en te bewerkstelligen dat de rechter ten behoeve van zijn oordeelsvorming met betrekking tot beide verzoeken over een compleet dossier beschikt (Kamerstukken II 2005-2006, 29 942, nr. 7, p. 87, en Kamerstukken I 2006-2007, 29 942, C, p. 6-7).
+
+De maatstaf aan de hand waarvan de rechter dient te bepalen of het verzoek om een bevel tot instemming met een schuldregeling toewijsbaar is, is neergelegd in art. 287a lid 5 Fw. Dit voorschrift verwijst niet naar de in art. 288 Fw vervatte gronden aan de hand waarvan het verzoek tot toepassing van de schuldsaneringsregeling moet worden beoordeeld.
+
+Art. 287a lid 7 Fw bepaalt dat de rechter eerst beslist op het verzoek om een bevel tot instemming met een schuldregeling, en dat hij pas na afwijzing van dit verzoek een beslissing neemt op het verzoek tot toepassing van de schuldsaneringsregeling, indien de schuldenaar laatstgenoemd verzoek handhaaft. Ook dit wijst erop dat eerstgenoemde beslissing niet (mede) wordt bepaald door de als tweede genoemde beslissing.
+
+3.5.3 Voorts kan uit de wetsgeschiedenis van art. 287a Fw worden afgeleid dat de invoering van de gedwongen schuldregeling erop is gericht een voorziening te bieden voor schuldenaren die enerzijds niet in het minnelijke traject in samenspraak met hun schuldeisers een regeling van hun schuldenlast kunnen treffen en anderzijds niet voldoen aan de strenge eisen die gelden voor toelating tot de wettelijke schuldsaneringsregeling (Kamerstukken II 2004-2005, 29 942, nr. 3, p. 3 en 17). Daarnaast heeft de wetgever met de verankering in de wet van de gedwongen schuldregeling beoogd de toepassing van de schuldsaneringsregeling zoveel mogelijk te voorkomen (Kamerstukken II 2005-2006, 29 942, nr. 7, p. 25). Het is dan ook niet goed verenigbaar met de strekking van art. 287a Fw om de toewijsbaarheid van een verzoek tot toepassing van de schuldsaneringsregeling aan te merken als een noodzakelijke voorwaarde voor de toewijsbaarheid van een verzoek om een bevel tot instemming met een schuldregeling.
+
+3.5.4 Tot slot brengt het in 3.6.1-3.6.5 nader te bespreken art. 292 Fw met betrekking tot het stelsel van rechtsmiddelen in verband met de art. 284 en 287a Fw evenmin mee dat de toewijsbaarheid van een verzoek om een bevel tot instemming met een schuldregeling afhankelijk is van de toewijsbaarheid van een verzoek tot toepassing van de schuldsaneringsregeling.
+
+3.6.1 De Hoge Raad merkt op dat hetgeen in 3.5.1-3.5.4 is overwogen, gevolgen heeft voor de toepassing van het stelsel van rechtsmiddelen van art. 292 Fw. Daarbij moeten de volgende gevallen worden onderscheiden.
+
+3.6.2 Het eerste geval betreft de schuldenaar wiens verzoek om een bevel tot instemming met een schuldregeling door de rechtbank wordt afgewezen, waarna het door de schuldenaar op de voet van art. 287a lid 7 Fw gehandhaafde verzoek tot toepassing van de schuldsaneringsregeling door de rechtbank wordt toegewezen.
+
+Art. 292 lid 2 Fw bepaalt dat tegen de uitspraak tot toepassing van de schuldsaneringsregeling noch door schuldeisers noch door andere belanghebbenden verzet, hoger beroep of cassatie kan worden ingesteld. Blijkens de wetsgeschiedenis moet art. 292 lid 2 Fw aldus worden begrepen dat deze bepaling eveneens eraan in de weg staat dat de schuldenaar in het zich hier voordoende geval een rechtsmiddel aanwendt tegen afwijzing van zijn verzoek om een bevel tot instemming met een schuldregeling. Is een schuldenaar eenmaal toegelaten tot de schuldsaneringsregeling, dan dient deze in de visie van de wetgever voortvarend van start te gaan, zonder verder oponthoud door een beroep dat (door een schuldeiser) zou kunnen worden ingesteld tegen toewijzing van het verzoek tot toepassing van de schuldsaneringsregeling dan wel door een beroep dat (door de schuldenaar) zou kunnen worden ingesteld tegen afwijzing van het verzoek om een bevel tot instemming met een schuldregeling (Kamerstukken II 2004-2005, 29 942, nr. 3, p. 23, en nr. 4, p. 3). Wat dit laatste betreft, beoogde de wetgever te voorkomen dat een afzonderlijk beroep tegen afwijzing van het verzoek om een bevel tot instemming met een schuldregeling het mogelijk zou maken 'tot en met de Hoge Raad door te procederen over een gedwongen schuldregeling, om na afwijzing daarvan pas te gaan kijken of de schuldenaar tot de schuldsaneringsregeling kan worden toegelaten.
+
+Het ligt voor de hand dat de schuldenlast in de tussentijd zal toenemen en schuldeisers de schuldenaar voor een faillissement voorgedragen zullen hebben, dan wel beslag gelegd zullen hebben, hem uit huis geplaatst zullen hebben en dergelijke' (Kamerstukken II 2005-2006, 29 942, nr. 7, p. 87).
+
+3.6.3 Het tweede geval betreft de schuldenaar die zowel zijn verzoek om een bevel tot instemming met een schuldregeling, als zijn op de voet van art. 287a lid 7 Fw gehandhaafde verzoek tot toepassing van de schuldsaneringsregeling, door de rechtbank afgewezen ziet.
+
+Art. 292 lid 3, eerste volzin, Fw bepaalt dat de schuldenaar in hoger beroep kan komen tegen de uitspraak tot afwijzing van het verzoek tot toepassing van de schuldsaneringsregeling. Wanneer het inleidend verzoekschrift tevens een verzoek om een bevel tot instemming met een schuldregeling inhield, wordt dit verzoek eveneens aan het hof voorgelegd, aldus art. 292 lid 3, tweede volzin, Fw.
+
+Indien het hof zowel het verzoek om een bevel tot instemming met een schuldregeling als het verzoek tot toepassing van de schuldsaneringsregeling afwijst, kan de schuldenaar daarvan in cassatie komen, aldus art. 292 lid 5 Fw. Wijst het hof het verzoek om een bevel tot instemming met een schuldregeling af, maar gaat het over tot toewijzing van het door de schuldenaar op de voet van art. 287a lid 7 Fw gehandhaafde verzoek tot toepassing van de schuldsaneringsregeling, dan staat tegen een en ander - op grond van art. 292 lid 2 Fw en hetgeen in 3.6.2 is overwogen - geen rechtsmiddel open.
+
+3.6.4 Het derde geval betreft de schuldenaar wiens verzoek om een bevel tot instemming met een schuldregeling door de rechtbank wordt afgewezen, terwijl de schuldenaar zijn verzoek tot toepassing van de schuldsaneringsregeling niet op de voet van art. 287a lid 7 Fw handhaaft. Hierbij valt onder meer te denken aan de schuldenaar die, mede naar aanleiding van de behandeling door de rechtbank van zijn inleidende verzoekschrift, tot het inzicht komt dat hij niet in aanmerking komt voor toepassing van de schuldsaneringsregeling.
+
+Art. 292 Fw voorziet niet in de mogelijkheid dat de schuldenaar in het zich hier voordoende geval een rechtsmiddel aanwendt tegen - uitsluitend - afwijzing van zijn verzoek om een bevel tot instemming met een schuldregeling. Blijkens de wetsgeschiedenis is de (on)wenselijkheid van een dergelijk rechtsmiddel voor het onderhavige geval niet uitdrukkelijk onder ogen gezien, waarbij kennelijk een rol heeft gespeeld dat de mogelijkheid dat de schuldenaar zijn verzoek tot toepassing van de schuldsaneringsregeling niet handhaaft, eerst bij amendement in art. 287a lid 7 Fw is opgenomen (Kamerstukken II 2006-2007, 29 942, nr. 10). Wel is tijdens de beraadslaging in de Eerste Kamer aan de orde geweest of dit amendement ertoe heeft geleid dat het verzoek om een bevel tot instemming met een schuldregeling in feite op zichzelf is komen te staan; dat was volgens de Minister niet het geval, waarbij hij evenwel uitsluitend aandacht heeft besteed aan de behandeling van het verzoek in eerste aanleg, meer in het bijzonder aan de vraag op welke wijze een efficiënte behandeling kan plaatsvinden in verband met de mogelijkheid voor de schuldenaar om zijn verzoek tot toepassing van de schuldsaneringsregeling niet te handhaven (Kamerstukken I 2006-2007, 29 942, C, p. 6-7). Aldus valt uit de wetsgeschiedenis niet af te leiden dat de wetgever voor het zich hier voordoende geval - anders dan voor het in 3.6.2 genoemde geval - bewust niet heeft willen voorzien in de mogelijkheid dat de schuldenaar afwijzing van zijn verzoek om een bevel tot instemming met een schuldregeling door de aanwending van een rechtsmiddel aan het oordeel van de hogere rechter onderwerpt. Een dergelijke bedoeling kan evenmin steunen op de gronden die blijkens de wetsgeschiedenis zijn aangevoerd voor de uitsluiting van rechtsmiddelen in het in 3.6.2 genoemde geval: het in dat verband aangevoerde bezwaar dat een beroep door de schuldenaar tegen afwijzing van zijn verzoek om een bevel tot instemming met een schuldregeling in de weg staat aan een voortvarend verloop van de (door de rechter toegewezen) schuldsaneringsregeling, kan in het onderhavige geval geen gewicht in de schaal leggen, nu de intrekking door de schuldenaar van zijn verzoek tot toepassing van de schuldsaneringsregeling immers tot gevolg heeft dat deze regeling in de verdere loop van de procedure niet meer kan worden toegepast.
+
+Een redelijke en met de behoeften van de praktijk strokende uitleg van art. 292 Fw brengt mee dat de schuldenaar die zijn verzoek om een bevel tot instemming met een schuldregeling door de rechtbank afgewezen ziet, terwijl hij zijn verzoek tot toepassing van de schuldsaneringsregeling niet handhaaft, in hoger beroep kan opkomen tegen afwijzing van zijn verzoek om een bevel tot instemming met een schuldregeling. Daarbij is de schuldenaar niet gehouden zijn (tijdens de procedure in eerste aanleg ingetrokken) verzoek tot toepassing van de schuldsaneringsregeling in het door hem ingeleide hoger beroep te betrekken. Indien het hof op het hoger beroep van de schuldenaar diens verzoek om een bevel tot instemming met een schuldregeling afwijst, kan de schuldenaar daartegen cassatieberoep instellen.
+
+Deze mogelijkheid dat de schuldenaar een zelfstandig hoger beroep respectievelijk cassatieberoep instelt tegen (uitsluitend) afwijzing van zijn verzoek om een bevel tot instemming met een schuldregeling ingeval hij zijn verzoek tot toepassing van de schuldsaneringsregeling niet handhaaft, stemt ook overeen met de inhoud en de strekking van art. 287a Fw, op grond waarvan de rechter immers, zoals hiervoor in 3.5.1-3.5.3 is uiteengezet, de toewijsbaarheid van het (primaire) verzoek op de voet van art. 287a lid 1 Fw op haar eigen merites dient te beoordelen, los van de toewijsbaarheid van het (subsidiaire) verzoek op de voet van art. 284 lid 1 Fw. Voorts komt deze mogelijkheid niet in strijd met het voorschrift van art. 287a lid 1 Fw om beide verzoeken in eerste aanleg te combineren in één verzoekschrift: dat voorschrift strekt er blijkens de wetsgeschiedenis toe, zoals hiervoor in 3.5.2 is overwogen, een efficiënte procesgang te bevorderen en te bewerkstelligen dat de rechter over een compleet dossier beschikt. De schuldenaar die hoger beroep respectievelijk cassatieberoep instelt tegen (uitsluitend) afwijzing van zijn verzoek om een bevel tot instemming met een schuldregeling, is immers gehouden het volledige procesdossier van de eerste aanleg, derhalve met inbegrip van de stukken die in eerste aanleg zijn overgelegd in verband met het verzoek tot toepassing van de schuldsaneringsregeling, aan het hof respectievelijk de Hoge Raad over te leggen.
+
+Het vorenstaande is van overeenkomstige toepassing indien - in het in 3.6.3 genoemde geval - de schuldenaar voor het eerst in hoger beroep zijn verzoek tot toepassing van de schuldsaneringsregeling op de voet van art. 287a lid 7 Fw niet handhaaft. Ook in dat geval kan de schuldenaar cassatieberoep instellen tegen (uitsluitend) afwijzing door het hof van zijn verzoek om een bevel tot instemming met een schuldregeling.
+
+Op het hoger beroep en het beroep in cassatie waarin de schuldenaar in de hiervoor genoemde gevallen opkomt tegen (uitsluitend) afwijzing van zijn verzoek om een bevel tot instemming met een schuldregeling, is het bepaalde in art. 292 leden 3, 4, 5 en 7 Fw van overeenkomstige toepassing.
+
+3.6.5 Het vierde geval betreft de schuldenaar wiens verzoek om een bevel tot instemming met een schuldregeling door de rechtbank wordt toegewezen. Op grond van art. 292 lid 1 Fw kunnen de schuldeisers die het verzoek betrof, tegen deze toewijzing in hoger beroep komen.
+
+Indien het hof het door de schuldeisers op de voet van art. 292 lid 1 Fw ingestelde hoger beroep verwerpt - waardoor toewijzing door de rechtbank van het verzoek van de schuldenaar om een bevel tot instemming met een schuldregeling in stand blijft - kunnen de schuldeisers daartegen in cassatie komen, aldus art. 292 lid 6 Fw. Aangenomen moet worden dat laatstgenoemde bepaling meebrengt dat de schuldeisers ook cassatieberoep kunnen instellen indien het hof in de in 3.6.3 en 3.6.4 genoemde gevallen op het hoger beroep van de schuldenaar diens verzoek om een bevel tot instemming met een schuldregeling alsnog toewijst.
+
+Wijst het hof op het hoger beroep van de schuldeisers het verzoek van de schuldenaar om een bevel tot instemming met een schuldregeling alsnog af, dan dient het te onderzoeken of de schuldenaar op de voet van art. 287a lid 7 Fw zijn verzoek tot toepassing van de schuldsaneringsregeling in hoger beroep handhaaft. Tegen toewijzing door het hof van het in hoger beroep gehandhaafde verzoek tot toepassing van de schuld-saneringsregeling staat op grond van art. 292 lid 2 Fw geen rechtsmiddel open, terwijl dan, overeenkomstig hetgeen in 3.6.2 is overwogen, evenmin een rechtsmiddel openstaat tegen afwijzing door het hof van het verzoek om een bevel tot instemming met een schuldregeling.
+
+Bij afwijzing door het hof van zowel het verzoek om een bevel tot instemming met een schuldregeling als het in hoger beroep gehandhaafde verzoek tot toepassing van de schuldsaneringsregeling, kan de schuldenaar, op de voet van het in 3.6.3 besproken art. 292 lid 5 Fw, cassatieberoep instellen tegen afwijzing van beide verzoeken. Tot slot kan de schuldenaar die in hoger beroep zijn verzoek tot toepassing van de schuldsaneringsregeling niet handhaaft, in cassatie opkomen tegen afwijzing door het hof van zijn verzoek om een bevel tot instemming met een schuldregeling, overeenkomstig hetgeen in 3.6.4 is overwogen.
+
+3.7 Bij het vorenstaande tekent de Hoge Raad aan dat - op de voet van hetgeen is overwogen in HR 8 juli 2011, LJN BQ3883, NJ 2012/169, HR 11 november 2011, LJN BU4020, NJ 2012/186, en HR 2 november 2012, LJN BX5578, NJ 2012/630 - art. 4 lid 2, aanhef en onder i, Wet griffierechten burgerlijke zaken aldus moet worden uitgelegd dat geen griffierecht is verschuldigd door de schuldenaar die met inachtneming van hetgeen in 3.6.3-3.6.5 is overwogen, een rechtsmiddel aanwendt tegen afwijzing van zijn verzoek om een bevel tot instemming met een schuldregeling respectievelijk afwijzing van zijn verzoek tot toepassing van de schuldsaneringsregeling.
+
+3.8 Het middel behoeft voor het overige geen behandeling.
+
+4. Beslissing
+
+De Hoge Raad:
+
+vernietigt het arrest van het gerechtshof te 's-Hertogenbosch van 26 juni 2012;
+
+verwijst het geding naar het gerechtshof te Arnhem ter verdere behandeling en beslissing.
+
+Dit arrest is gewezen door de vice-president E.J. Numann als voorzitter en de raadsheren A.M.J. van Buchem-Spapens, C.A. Streefkerk, M.A. Loth en M.V. Polak, en in het openbaar uitgesproken door de raadsheer J.C. van Oven op 14 december 2012.

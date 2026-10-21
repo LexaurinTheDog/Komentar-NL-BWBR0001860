@@ -1,0 +1,71 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001860",
+    "access_timestamp_utc": "2026-10-21T00:03:27.470356+00:00",
+    "raw_path": "sources/author-art-282-296-current.html",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+    "sha256": "3dc8b19d6f9cb035cde4cc2ad2e5fc08a4c803bb4a2564b4447478bc022f02d2",
+    "bytes": 4132921,
+    "validity_statements": [
+      "Geldend van 01-09-2026 t/m heden.",
+      "Geldend van 01-09-2026 t/m heden."
+    ],
+    "accepted": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "access_timestamp_utc": "2026-10-21T00:03:27.470657+00:00",
+    "raw_path": "sources/author-art-282-296-selected.xml",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+    "bytes": 2557947,
+    "xml_root": "toestand",
+    "accepted": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+    "access_timestamp_utc": "2026-10-21T00:03:27.470746+00:00",
+    "raw_path": "sources/author-art-282-296-wti.xml",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+    "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+    "bytes": 5581608,
+    "xml_root": "wetstechnische-informatie",
+    "accepted": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2021:1670",
+    "access_timestamp_utc": "2026-10-21T00:03:27.470806+00:00",
+    "raw_path": "sources/author-art-282-296-hr-2021-1670.xml",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2021:1670",
+    "sha256": "e980bfe0315e972158343d8ecf819ab04b7fc95828ef6b78d2d3d3b035ec9522",
+    "bytes": 20226,
+    "xml_root": "open-rechtspraak",
+    "accepted": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2023:53",
+    "access_timestamp_utc": "2026-10-21T00:03:27.470904+00:00",
+    "raw_path": "sources/author-art-282-296-hr-2023-53.xml",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2023:53",
+    "sha256": "1633823e6ecf930e2632220e55b92664167e5fe39e2274209dd8832089701167",
+    "bytes": 16380,
+    "xml_root": "open-rechtspraak",
+    "accepted": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2012:BY0966",
+    "access_timestamp_utc": "2026-10-21T00:03:27.697146+00:00",
+    "raw_path": "sources/author-art-282-296-hr-2012-BY0966.xml",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2012:BY0966",
+    "sha256": "8250cbcbcfd6038db21fb533ae41e47cff2af752ec79dac3b7accd01c7020aba",
+    "bytes": 29988,
+    "xml_root": "open-rechtspraak",
+    "accepted": true
+  }
+]

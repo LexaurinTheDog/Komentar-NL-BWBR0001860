@@ -112,3 +112,6 @@ Auteursbatch 254–269b: twintig specifieke toelichtingen. [Broncontrole](source
 Tweede lezing 254–269b: [bevindingen](sources/review-art-254-269b-result.json), [broncontrole](sources/review-art-254-269b-preflight-result.json), [parsercontrole](sources/review-art-254-269b-parser-check.json), [rechtspraakcontrole](sources/review-art-254-269b-search-log.json).
 
 Tweede lezing 270–281h: [bevindingen](sources/review-art-270-281h-result.json), [preflight](sources/review-art-270-281h-preflight-result.json), [rechtspraak](sources/review-art-270-281h-search-log.json).
+
+
+Auteursbatch 282–296: twintig specifieke toelichtingen, inclusief vervallen artikel 295a. [Broncontrole](sources/author-art-282-296-preflight-result.json), [brondekking](sources/author-art-282-296-coverage.json), [selectieve rechtspraak](sources/author-art-282-296-search-log.json). Onafhankelijke tweede lezing nog niet uitgevoerd. Het hele boek is nog onvoltooid.
