@@ -1,0 +1,18 @@
+{
+  "checked_at_utc": "2026-10-21T00:00:53.639818+00:00",
+  "scope": "Verification of authorities already cited in assigned articles; two complete judgments read, fresh full XML preserved, HR compared paragraph-wise with national corpus.",
+  "queries": [
+    "Existing citations in commentary/part-29.md: ECLI:NL:HR:2003:AI0369 and ECLI:NL:RBDHA:2024:18898",
+    "Local national corpus exact ECLI lookup hr/ecli-nl-hr-2003-ai0369.md",
+    "Official data.rechtspraak.nl full-content endpoints for both ECLIs"
+  ],
+  "not_used": "Earlier author RBAMS2021:3197 fetch was an HTML shell and is not cited or treated as verified law.",
+  "current_law_comparison": "HR2003 homologation principles272(2)(3)compared with current272. Earlier270references not used as current law. RBDHA2024 substantive272grounds checked. No party allegations in section2 treated as holdings.",
+  "no_additional_case_claim": "No separate sufficiently relevant verified case added to technical/repealed units. Not an exhaustive negative search.",
+  "limitations": [
+    "Only these twenty units substantively reviewed; whole book remains incomplete.",
+    "Selective verification of two existing judicial authorities, no exhaustive subsequent-treatment research.",
+    "External transitional statutes in editorial source notes not independently analysed for historical proceedings.",
+    "Article281h does not analyse every imported Wft provision. No external professional approval."
+  ]
+}

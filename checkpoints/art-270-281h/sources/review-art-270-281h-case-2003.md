@@ -1,0 +1,7 @@
+# HR 26 augustus 2003 — ECLI:NL:HR:2003:AI0369
+
+Zaak R03/049HR, UPC-homologatie; ondersteund artikel: 272. [Officiële volledige XML](review-art-270-281h-hr-2003.xml), [leestekst](review-art-270-281h-hr-2003.txt), [nationaal corpus](review-art-270-281h-hr-2003-local.md). [Officiële vindplaats](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2003:AI0369).
+
+Rov. 3.3.2: homologatie is een op spoedige beslissing gerichte procedure met zelfstandige rechterlijke goedkeuring of weigering; gewone stelplicht en bewijslast gelden niet als in een contradictoire procedure. De motivering moet controle van de ingrijpende beslissing mogelijk maken. Rov. 3.9.3: de feitenrechter heeft ruime vrijheid bij goedkeuren/weigeren; het middel toonde niet dat het hof de mogelijkheid van andere of ambtshalve gronden had miskend. Het beroep is verworpen.
+
+Bezwaren tegen lening, zekerheden en aandeelhoudersbegunstiging zijn zaakgebonden; weergegeven cassatieklachten zijn geen vaststellingen. Rov. 3.3.2 draagt de motiveringsregel; 3.9.3 gaat over beoordelingsvrijheid, niet een tweede algemene motiveringsregel. Huidig 272(2)(3) is vergeleken met de aangehaalde toets. Het arrest wordt niet gebruikt voor de huidige zittingsbepaling van het vervallen 270, noch voor bewijslast bij latere ontbinding onder 280/165. Geen audit van alle latere rechtspraak. Volledige uitspraak in deze tweede lezing gelezen, geen externe professionele goedkeuring.

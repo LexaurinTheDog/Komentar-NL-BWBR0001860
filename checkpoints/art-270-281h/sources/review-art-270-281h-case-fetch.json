@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2003:AI0369",
+    "access_timestamp_utc": "2026-10-20T23:59:05.459452+00:00",
+    "raw_path": "sources/review-art-270-281h-hr-2003.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2003:AI0369",
+    "bytes": 29199,
+    "sha256": "7b0b39989f8d29f1d53a59501dbb1878730c15c293e90f7ed6594e0bb91cead8",
+    "headers_path": "sources/review-art-270-281h-hr-2003.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 22106
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBDHA:2024:18898",
+    "access_timestamp_utc": "2026-10-20T23:59:05.459853+00:00",
+    "raw_path": "sources/review-art-270-281h-rbdha-2024.xml",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBDHA:2024:18898",
+    "bytes": 62085,
+    "sha256": "f442ce30946ae2f173a8f0435f151edb78df89e0901f0805d6bbc175dddbe2f0",
+    "headers_path": "sources/review-art-270-281h-rbdha-2024.xml.headers",
+    "xml_root": "open-rechtspraak",
+    "xml_attributes": {},
+    "full_uitspraak_chars": 44159
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0020368/",
+    "access_timestamp_utc": "2026-10-20T23:59:48.546480+00:00",
+    "raw_path": "sources/review-art-270-281h-wft.html",
+    "accepted": true,
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0020368/2026-09-29",
+    "bytes": 14851480,
+    "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+    "headers_path": "sources/review-art-270-281h-wft.html.headers",
+    "validity_statements": [
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 29-09-2026 t/m heden.",
+      "Geraadpleegd op 20-10-2026. ",
+      "Geldend van 29-09-2026 t/m heden."
+    ]
+  }
+]

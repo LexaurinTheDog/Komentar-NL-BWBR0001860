@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2003:AI0369</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-19T10:10:34</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2013-04-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">AI0369</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2003-08-26</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">R03/049HR</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht_insolventierecht">Civiel recht; Insolventierecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2003:AI0369" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2003:AI0369</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=218&amp;g=2003-08-26">Faillissementswet 218</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=272&amp;g=2003-08-26">Faillissementswet 272</dcterms:references>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0001860&amp;artikel=265&amp;g=2003-08-26">Faillissementswet 265</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJ 2004, 549</rdf:li>
+          <rdf:li>RvdW 2003, 135</rdf:li>
+          <rdf:li>Ondernemingsrecht 2004, 29 met annotatie van R.J. van Galen</rdf:li>
+          <rdf:li>JWB 2003/305</rdf:li>
+          <rdf:li>JOR 2003/211 met annotatie van Mr. J.J. van Hees</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2003:AI0369">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2003:AI0369</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2013-04-04T19:14:01</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2003-08-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2003:AI0369 Hoge Raad , 26-08-2003 / R03/049HR</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2003:AI0369:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>26 augustus 2003 Eerste Kamer Nr. R03/049HR JMH/AT Hoge Raad der Nederlanden Beschikking in de zaak van: 1. de vennootschap naar het recht van de staat Delaware INTERCOMM HOLDINGS, LLC, gevestigd te Delaware, Verenigde Staten van Amerika, 2. de vennootschap naar het recht van de staat Delaware INTERCOMM FRANCE CVOHA, LLC, gevestigd te Delaware, Verenigde Staten van Amerika, 3. de vennootschap naar het recht van de staat Delaware INTERCOMM FRANCE II CVOHA, LLC, gevestigd te Delaware, Verenigde Staten van Amerika, 4. de vennootschap naar Frans recht REFLEX PARTICIPATIONS SARL, gevestigd te Courbevoie Cedex, Frankrijk, VERZOEKSTERS tot cassatie,...</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2003:AI0369:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <parablock>
+      <para>26 augustus 2003</para>
+      <para>Eerste Kamer</para>
+      <para>Nr. R03/049HR</para>
+      <para>JMH/AT</para>
+    </parablock>
+    <para />
+    <para>Hoge Raad der Nederlanden</para>
+    <para />
+    <para>Beschikking</para>
+    <para />
+    <para>in de zaak van:</para>
+    <para />
+    <parablock>
+      <para>1. de vennootschap naar het recht van de staat Delaware INTERCOMM HOLDINGS, LLC, gevestigd te Delaware, Verenigde Staten van Amerika,</para>
+      <para>2. de vennootschap naar het recht van de staat Delaware INTERCOMM FRANCE CVOHA, LLC, gevestigd te Delaware, Verenigde Staten van Amerika,</para>
+      <para>3. de vennootschap naar het recht van de staat Delaware INTERCOMM FRANCE II CVOHA, LLC, gevestigd te Delaware, Verenigde Staten van Amerika,</para>
+      <para>4. de vennootschap naar Frans recht REFLEX PARTICIPATIONS SARL, gevestigd te Courbevoie Cedex, Frankrijk,</para>
+    </parablock>
+    <para />
+    <para>VERZOEKSTERS tot cassatie,</para>
+    <para />
+    <para>advocaat: mr. P.J.M. von Schmidt auf Altenstadt,</para>
+    <para />
+    <para>t e g e n</para>
+    <para />
+    <para>1. UNITED PAN-EUROPE COMMUNICATIONS N.V., gevestigd te Amsterdam,</para>
+    <para />
+    <para>VERWEERSTER in cassatie,</para>
+    <para />
+    <para>advocaat: mr. G. Snijders,</para>
+    <para />
+    <para>2. de vennootschap naar het recht van de staat Delaware UNITEDGLOBALCOM INC., gevestigd te Denver, Colorado, Verenigde Staten van Amerika,</para>
+    <para />
+    <para>VERWEERSTER in cassatie,</para>
+    <para />
+    <para>advocaat: mr. E.D. Vermeulen,</para>
+    <para />
+    <para>e n</para>
+    <para />
+    <para>3. CREDITORS COMMITTEE VAN UNITED PAN-EUROPE COMMUNICATIONS N.V., bestaande uit de crediteuren:</para>
+    <para />
+    <parablock>
+      <para>SOLOMON BROTHERS ASSET MANAGEMENT,</para>
+      <para>APOLLO MANAGEMENT LP,</para>
+      <para>EVEREST CAPITAL,</para>
+      <para>FUNDAMENTAL INVESTORS INC. en</para>
+      <para>MACKAY SHIELD LLC,</para>
+    </parablock>
+    <para />
+    <para>BELANGHEBBENDEN in cassatie,</para>
+    <para />
+    <para>advocaat: mr. J.P. Heering.</para>
+    <para />
+    <para>1. Het geding in feitelijke instanties</para>
+    <para />
+    <parablock>
+      <para>Met een op 3 december 2002 ter griffie van de rechtbank te Amsterdam ingediend verzoekschrift heeft verweerster in cassatie sub 1 - verder te noemen: UPC - voorlopige verlening van surséance van betaling verzocht en een ontwerp van akkoord ingediend bij de griffie van deze rechtbank. Voorts heeft UPC in haar verzoekschrift verzocht de in art. 218 F. bedoelde behandeling (met betrekking tot de verlening van de definitieve surséance) achterwege te laten en in plaats daarvan op 28 februari 2003 over te gaan tot raadpleging over en stemming op het akkoord. Ten slotte heeft UPC verzocht te bepalen dat alleen de zogenaamde beneficial holders van de door UPC uitgegeven obligatieleningen op de "voting record date", zoals die zou worden vastgesteld door de Amerikaanse rechter in de Chapter-11 procedure, bevoegd zouden zijn hun vordering in te dienen bij de bewindvoerder en te stemmen tijdens de crediteurenvergadering.</para>
+      <para>Bij beschikking van 3 december 2002 heeft de rechtbank aan UPC voorlopige surséance van betaling verleend met benoeming van een rechter-commissaris en een bewindvoerder en de overige verzoeken toegewezen.</para>
+      <para>Op 16 januari en 28 februari 2003 heeft de bewindvoerder verslag uitgebracht op grond van art. 227 lid 1 respectievelijk 265 lid 1 F. en op 28 februari 2003 is de rechter-commissaris overgegaan tot raadpleging en stemming van het op 3 december 2002 door UPC ter griffie gedeponeerde ontwerpakkoord, als aangevuld en gewijzigd bij die gelegenheid.</para>
+      <para>Nadat op 12 maart 2003 de mondelinge behandeling van de homologatie van het akkoord had plaatsgevonden, alwaar de bewindvoerder, verzoeksters tot cassatie, hierna gezamenlijk te noemen: ICH, UPC, en belanghebbenden in cassatie sub 3, de Creditors Committee van UPC, en de Citibank zich over deze homologatie hadden uitgelaten, heeft de rechtbank bij beschikking van 13 maart 2003 het akkoord gehomologeerd.</para>
+      <para>Tegen deze beschikking heeft ICH hoger beroep ingesteld bij het gerechtshof te Amsterdam.</para>
+      <para>Bij beschikking van 15 april 2003 heeft het hof de beschikking waarvan beroep bekrachtigd.</para>
+      <para>De beschikking van het hof is aan deze beschikking gehecht.</para>
+    </parablock>
+    <para />
+    <para>2. Het geding in cassatie</para>
+    <para />
+    <parablock>
+      <para>Tegen de beschikking van het hof heeft ICH beroep in cassatie ingesteld. Het cassatierekest is aan deze beschikking gehecht en maakt daarvan deel uit.</para>
+      <para>UPC en verweerster in cassatie sub 2, hierna: UGC, en de Creditors Committee van UPC hebben verzocht het beroep te verwerpen.</para>
+      <para>ICH, UPC en de Creditors Committee van UPC hebben de zaak doen toelichten door hun advocaten en UGC heeft de zaak namens haar advocaat doen toelichten door mr. M.W. Josephus Jitta, advocaat te Amsterdam.</para>
+      <para>De conclusie van de Advocaat-Generaal L. Timmerman strekt tot verwerping van het beroep.</para>
+    </parablock>
+    <para />
+    <para>3. Beoordeling van het middel</para>
+    <para />
+    <para>3.1 In cassatie kan worden uitgegaan van de feiten die het Hof in rov. 4.3 van zijn beschikking heeft vermeld. </para>
+    <para />
+    <parablock>
+      <para>3.2 Het gaat in deze zaak om de beantwoording van de vraag of de homologatie van het akkoord dat is aangeboden in de aan UPC verleende surséance van betaling moet worden geweigerd op grond van het bepaalde in art. 272 lid 2, aanhef en onder 3, F. dan wel of daartoe gronden als bedoeld in art. 272 lid 3 F. bestaan.</para>
+      <para>Zoals het Hof in rov. 4.2 heeft overwogen, is de kern van het bezwaar van ICH tegen homologatie dat - volgens ICH - UGC (de moedermaatschappij van UPC) door het akkoord boven andere schuldeisers wordt bevoordeeld en dat UPC in het kader van de hierna te bespreken Belmarkenlening onverplicht zekerheden heeft gesteld en in strijd met art. 3:45 BW dan wel onrechtmatig tegenover haar concurrente schuldeisers en obligatiehouders heeft gehandeld. Het Hof heeft, evenals de Rechtbank, deze stellingen verworpen.</para>
+    </parablock>
+    <para />
+    <para>3.3.1 Het eerste onderdeel van het middel betoogt dat het Hof een onjuiste, althans onvoldoende (begrijpelijk) gemotiveerde beslissing heeft gegeven door in rov. 4.6 te overwegen dat noch uit de door ICH bij het appelschrift gevoegde producties noch uit de overige gedingstukken valt af te leiden dat tussen de betrokken partijen (onvoorwaardelijk) overeenstemming is bereikt met betrekking tot de totstandkoming van de door ICH bedoelde kapitaalverschaffing, dan wel dat UGC anderszins tegenover UPC tot kapitaalverschaffing was gehouden. Het onderdeel bevat een aantal afzonderlijke klachten die zijn uitgewerkt in de onderdelen 1.2 tot en met 1.4.</para>
+    <para />
+    <para>3.3.2 Bij de beoordeling van onderdeel 1.2 - onderdeel 1.1 bevat geen klacht - moet worden vooropgesteld dat (i) de procedure over de homologatie van een akkoord niet moet worden gezien als een procedure op tegenspraak tussen partijen doch als een op een spoedige beslissing over het akkoord gerichte procedure, (ii) de rechter daarin naar eigen inzicht zijn goedkeuring van het akkoord verleent of weigert zonder daarbij in enig opzicht gebonden te zijn aan hetgeen door de bewindvoerder, de schuldeisers en de schuldenaar als hun standpunt naar voren is gebracht (HR 15 december 2000, nr. R00/116, NJ 2001, 262) en (iii) mitsdien ook niet de gewone regels van stelplicht en bewijslast van toepassing zijn. Wel kan van de rechter die over de homologatie moet beslissen, worden verwacht dat deze, met het oog op de daaraan voor belanghebbenden verbonden (meestal) ingrijpende gevolgen, voldoende inzicht geeft in zijn gedachtegang opdat de beslissing zowel voor belanghebbenden als derden, daaronder begrepen de hogere rechter, controleerbaar en aanvaardbaar is.</para>
+    <para />
+    <para>3.3.3 Uit hetgeen hiervoor in 3.3.2 is overwogen, volgt reeds dat onderdeel 1.2 niet kan slagen, omdat aan de klacht dat het Hof een stelling van ICH bij gebrek aan voldoende gemotiveerde betwisting voor juist had moeten houden, een rechtsopvatting ten grondslag ligt die niet in overeenstemming is met de zo-even vermelde uitgangspunten.</para>
+    <para />
+    <para>3.3.4 Overigens moet de desbetreffende overweging van het Hof aldus worden verstaan dat volgens het Hof de juistheid van het standpunt van ICH dat UGC met medewerking van Liberty verplicht was kapitaal aan UPC te verschaffen, niet uit de door haar verschafte gegevens kan volgen. Dit oordeel is niet onbegrijpelijk of onvoldoende gemotiveerd en kan, als voorbehouden aan de rechter die over de feiten oordeelt, in cassatie verder niet op juistheid worden getoetst. Onderdeel 1.3 faalt daarom.</para>
+    <para />
+    <para>3.3.5 Onderdeel 1.4 klaagt dat onjuist of onvoldoende begrijpelijk is 's Hofs oordeel dat uit de producties noch uit de overige gedingstukken valt af te leiden dat UGC anderszins tegenover UPC tot de vorenbedoelde kapitaalverschaffing was gehouden. Het onderdeel voert daartoe aan dat de "June 2000 Agreement Modified" uiteindelijk - met een omweg - is uitgevoerd, met dit markante verschil dat in plaats van een kapitaaldeelname door UGC in UPC een lening (met zekerheden) bestaat aan (een dochter van) UPC, en klaagt dat het Hof heeft miskend dat waar de noodzakelijke fondsen uiteindelijk toch bij UGC zijn beland, deze ingevolge de Agreement c.q. de Commitment gehouden was jegens UPC alsnog de lening (met zekerheden) om te zetten in een kapitaaldeelname in UPC, althans dat het Hof zijn oordeel onvoldoende heeft gemotiveerd door aan de essentiële stelling van ICH voorbij te gaan, dat de verplichting tot deze omzetting van de lening zo niet rechtstreeks uit contract dan in elk geval uit de precontractuele goede trouw voortvloeide. Al deze klachten falen evenwel. Met zijn oordeel dat UGC ook niet "anderszins" tegenover UPC tot kapitaalverschaffing was gehouden heeft het Hof tot uitdrukking gebracht dat het de hiervoor vermelde stellingen van ICH niet voor juist hield. Mede in aanmerking genomen dat het Hof al had geoordeeld dat tussen de betrokken partijen geen onvoorwaardelijke overeenstemming was bereikt, is zijn oordeel dat de door ICH gestelde verplichting ook nadien niet is ontstaan, niet onbegrijpelijk. Dit oordeel behoefde, gelet op de vrijheid van het Hof in zijn beoordeling van de feiten, ook geen verdere motivering.</para>
+    <para />
+    <para>3.4.1 Onderdeel 2 klaagt dat het Hof heeft blijk gegeven van een onjuiste rechtsopvatting, althans zijn beslissing ongenoegzaam (begrijpelijk) heeft gemotiveerd, door de stelling van ICH dat UPC en Belmarken Holding B.V. in het kader van de Belmarkenlening onverplicht zekerheden hebben gesteld, in rov. 4.8 te verwerpen op de grond dat daarvan niet is gebleken. </para>
+    <para />
+    <para>3.4.2 Het Hof heeft daartoe in de eerste plaats overwogen dat niet is gebleken dat UPC en Belmarken Holding B.V. tegenover Liberty (of UGC) aanspraak konden maken op het verstrekken van een lening zonder zekerheden. Voorts heeft volgens het Hof te gelden dat uit de bepalingen van de Belmarkenlening, in het bijzonder artikel 8.1.1, volgt dat zekerheden als daar bedoeld (tijdig) dienden te worden gesteld opdat geen "event of default" zou intreden met alle contractuele gevolgen van dien en dat ingevolge die bepalingen op 21 juni 2001 de akten van verpanding zijn opgemaakt.</para>
+    <para />
+    <para>3.4.3 Deze overwegingen van het Hof moeten aldus worden verstaan dat het Hof op grond van zijn uitleg van de gedingstukken tot de conclusie is gekomen dat tussen partijen is overeengekomen dat de Belmarkenlening alleen zou worden verschaft indien - zoals in een dergelijk geval ook voor de hand ligt - voldoende zekerheden zouden worden verstrekt. Aldus heeft het Hof, waaraan deze uitleg is voorbehouden, de andersluidende stelling van ICH op een begrijpelijke en voldoende gemotiveerde wijze verworpen. Het onderdeel faalt mitsdien.</para>
+    <para />
+    <para>3.5.1 Onderdeel 3 is gericht tegen rov. 4.9 waarin het Hof de bevinding van de bewindvoerder heeft onderschreven dat de schuldeisers van UPC er door de Belmarkenlening, als vervanging van de Bridge Loan, niet op zijn achteruitgegaan. Hierbij heeft het Hof in de eerste plaats in aanmerking genomen: het door de Belmarkenlening ter beschikking gekomen bedrag, de gunstiger rentebepalingen en de mogelijkheid de lening te converteren in aandelen, afhankelijk van de beurskoers. Voorts heeft het Hof overwogen dat de bewindvoerder in dit verband erop heeft gewezen dat ook onder de Bridge Loan Goldman Sachs c.s. eerst integraal zou zijn voldaan als crediteur van Belmarken Holding B.V. en UPC Internet Holding B.V. voordat de crediteuren van UPC aan de beurt zouden komen, en dat de verpanding van de aandelen van Belmarken Holding B.V. en UPC Holding B.V. hierin geen verandering bracht, evenmin als de verpanding van de aandelen UPC Holding B.V. als 100% dochtermaatschappij van Belmarken Holding B.V. Indien immers, aldus het Hof, deze vennootschappen onverhoopt de Belmarkenlening niet zouden kunnen aflossen en in staat van insolventie zouden komen te verkeren, zouden de aandelen in deze vennootschappen geen waarde meer vertegenwoordigen. Ten slotte wijst het Hof erop dat volgens de bewindvoerder de crediteuren van UPC ook als de genoemde aandelen niet waren verpand, in geval van faillissement van UPC slechts een uitkering zouden ontvangen variërend van gemiddeld 2 tot 2,9 %.</para>
+    <para />
+    <para>3.5.2 Het onderdeel valt in zijn drie subonderdelen al deze overwegingen van het Hof aan, doch tevergeefs. Bij de beoordeling van het onderdeel moet worden vooropgesteld dat het bij benadeling in de zin van art. 3:45 BW gaat om daadwerkelijke benadeling. Van onrechtmatig handelen kan te dezer zake slechts sprake zijn indien met een redelijke mate van waarschijnlijkheid was te voorzien dat de schuldeisers benadeeld zouden worden. Het oordeel van het Hof dat van dit een en ander geen sprake is geweest, is niet onbegrijpelijk of onvoldoende gemotiveerd en kan, verweven als het is met waarderingen van feitelijke aard, in cassatie verder niet op juistheid worden getoetst. Het Hof behoefde in zijn motivering niet alle gestelde mogelijke scenario's te bespreken, doch mocht volstaan met een bespreking van het door de bewindvoerder gestelde scenario, dat naar 's Hofs kennelijke en niet onbegrijpelijke oordeel het meest voor de hand lag. Het onderdeel ziet er voorts aan voorbij dat het Hof klaarblijkelijk mede in aanmerking heeft genomen dat het sterk uiteenlopende percentage dat is gehanteerd ter bepaling van het aantal uit te geven aandelen-New UPC met betrekking tot enerzijds de vordering van UPC en anderzijds de vordering van verzoekers tot cassatie, niet alleen voortvloeit uit de aan de vordering van UGC verbonden zekerheidsrechten, maar ook uit het feit dat zij tevens een vordering heeft op Belmarken Holding B.V. en UPC Internet Holding B.V., die niet in staat van insolventie verkeren. Ten slotte bevat het onderdeel een aantal stellingen die wegens hun feitelijk karakter niet voor het eerst in cassatie aan de orde kunnen komen en daarom onbesproken moeten blijven.</para>
+    <para />
+    <para>3.6.1 Onderdeel 4 keert zich tegen rov. 4.10 waarin het Hof overweegt dat uit de gedingstukken, de mondelinge behandeling en de rapportage van de bewindvoerder niet valt af te leiden dat UPC ten tijde van het totstandkomen van de Belmarkenlening "technisch failliet" zou zijn geweest dan wel dat toen te verwachten viel dat UPC op afzienbare termijn niet meer aan haar verplichtingen zou kunnen voldoen.</para>
+    <para />
+    <para>3.6.2 Volgens onderdeel 4.1 kan uit de in de gedingstukken vermelde omstandigheden waaronder de Belmarkenlening is gesloten, niet anders worden afgeleid dan dat UPC op of omstreeks 25 mei 2001 "technisch failliet" was en dat zij op afzienbare termijn niet meer aan haar verplichtingen zou kunnen voldoen, zodat het oordeel van het Hof blijk geeft van een onjuiste rechtsopvatting, althans onvoldoende is gemotiveerd.</para>
+    <para />
+    <para>3.6.3 Het onderdeel faalt. De omstandigheden dat UPC een lening heeft moeten sluiten en dat zij een negatief eigen vermogen had, behoeven niet noodzakelijkerwijs tot de conclusie te leiden dat van een situatie sprake was als in het onderdeel bedoeld. Voor zover het onderdeel het oog heeft op andere omstandigheden stuit het af op het feit dat deze vanwege hun feitelijk karakter niet voor het eerst in cassatie kunnen worden onderzocht.</para>
+    <para />
+    <para>3.6.4 Onderdeel 4.2 dat klaagt dat het Hof van een onjuiste maatstaf is uitgegaan, kan bij gebrek aan feitelijke grondslag niet tot cassatie leiden. Het Hof heeft immers klaarblijkelijk geen andere maatstaf aangelegd dan in het middel (terecht) voor juist wordt gehouden.</para>
+    <para />
+    <para>3.7 Nu de onderdelen 1 tot en met 4 falen, kan onderdeel 5 bij gebrek aan belang niet tot cassatie leiden.</para>
+    <para />
+    <para>3.8.1 Onderdeel 6 bestrijdt het oordeel van het Hof in zijn rov. 4.16 dat, nu ingevolge het bepaalde in art. 282 F. tegen de beslissing van de Rechtbank dat beneficial holders van de door UPC uitgegeven obligaties op de voting record date bij de bewindvoerder bevoegd zijn hun vordering in te dienen en te stemmen tijdens de raadpleging en te stemmen over het aangeboden akkoord, geen hogere voorziening open staat, deze beslissing onherroepelijk is geworden.</para>
+    <para />
+    <para>3.8.2 Volgens onderdeel 6.1 heeft het Hof miskend dat de gegeven beslissing van de Rechtbank bij het voorlopig verlenen van de surséance geen beslissing is in de zin van art. 225 F. omdat deze bepaling strekt ter beveiliging van de belangen der schuldeisers. Evenmin is volgens het onderdeel sprake van een beslissing in de zin van art. 267 F., nu de vorderingen uit de obligatieleningen niet zijn betwist, zodat deze beslissing niet in kracht van gewijsde is gegaan. Het onderdeel faalt omdat de onderhavige beslissing naar aard en strekking juist wel dient ter bescherming van de belangen van de schuldeisers en klaarblijkelijk is gebaseerd op het bepaalde in art. 225 lid 1 F.</para>
+    <para />
+    <para>3.8.3 Onderdeel 6.2 strekt ten betoge dat naar Nederlands recht alleen aan de legal owner van de obligaties stemrecht toekomt met betrekking tot het aangeboden akkoord, zodat het Hof zich ten onrechte heeft verenigd met het oordeel van de Rechtbank dat dit recht toekomt aan de beneficial holders van de obligaties. Dit betoog kan niet als juist worden aanvaard. Weliswaar is op de aan UPC verleende surséance van betaling Nederlands recht van toepassing, doch het Nederlands internationaal privaatrecht laat toe dat rekening wordt gehouden met de omstandigheid dat in deze surséance leningovereenkomsten betrokken zijn die aan de obligatieleningen ten grondslag liggen en die worden beheerst door het recht van de Staat New York (Verenigde Staten van Amerika). Zowel volgens de inhoud van deze overeenkomsten als volgens het daarop toepasselijke recht van de Staat New York komt, naar het Hof heeft vastgesteld, het stemrecht over gerechtelijke regelingen toe aan de beneficial holders en niet aan de trustee door wiens tussenkomst de obligaties zijn uitgegeven. De beneficial holders, die ook als de economisch gerechtigden kunnen worden beschouwd en die in de met de onderhavige surséance van betaling nauw samenhangende, zogenoemde "Chapter 11 procedure" voor het Bankruptcy Court in New York het aan de obligatieleningen ontleende stemrecht hebben uitgeoefend, moeten in dit geval uit een oogpunt van rechtvaardigheid en doelmatigheid op één lijn worden gesteld met de schuldeisers als bedoeld in de Nederlandse Faillissementswet en zij dienen dan ook de bevoegdheid te hebben te dezer zake het stemrecht uit te oefenen.</para>
+    <para />
+    <para>3.8.4 Onderdeel 6.3 klaagt dat het Hof, met de Rechtbank, heeft miskend dat de Faillissementswet ervan uitgaat dat alleen een schuldeiser die op het moment van de crediteurenvergadering deze hoedanigheid heeft, zijn stem kan uitbrengen over een aangeboden ontwerpakkoord. Nu de obligaties verhandelbaar zijn, bestaat geen zekerheid dat de beneficial holders van de obligaties die bevoegd zijn verklaard hun vordering in te dienen bij de bewindvoerder en tot stemming tijdens de raadpleging en over het aangeboden akkoord zijn toegelaten, op de "voting record date" (zoals deze door de Amerikaanse rechter is vastgesteld op 7 januari 2003) nog deze hoedanigheid hadden op het moment van de vergadering (28 februari 2003). Het onderdeel voert subsidiair aan dat het Hof zijn beslissing niet naar de eis der wet heeft gemotiveerd, nu het niet heeft gerespondeerd op de stelling van ICH dat in de periode tussen beide voormelde data is gehandeld in deze obligaties zodat over het akkoord is gestemd door een groot aantal voormalige houders van obligaties dat niet tot stemmen bevoegd was.</para>
+    <para />
+    <para>3.8.5 Het onderdeel treft geen doel. De regeling in de Nederlandse Faillissementswet betreffende de beraadslaging en stemming over een akkoord staat niet eraan in de weg dat, zoals in het onderhavige geval is gebeurd, op praktische gronden een datum wordt aangewezen waarop degene die aan de beraadslaging en stemming wil deelnemen, als schuldeiser wordt geregistreerd met als beoogd gevolg dat alleen degene die als zodanig op deze datum is geregistreerd, aan de beraadslaging en stemming zal mogen deelnemen, mits tussen de datum van de registratie en de datum van de stemming een niet te groot tijdsverloop bestaat. </para>
+    <para />
+    <para>3.9.1 Onderdeel 7 bevat een aantal klachten met betrekking tot rov. 4.17 waarin het Hof heeft overwogen dat het geen andere gronden aanwezig acht om de homologatie te weigeren en ook geen grond ziet om dit ambtshalve te doen. </para>
+    <para />
+    <para>3.9.2 Voor zover het onderdeel verwijst naar de in de onderdelen 1 tot en met 6 aangevoerde klachten, faalt het op de hiervóór aangegeven gronden.</para>
+    <para />
+    <para>3.9.3 Het onderdeel kan ook overigens niet tot cassatie leiden. Voor zover het klaagt dat het Hof heeft miskend dat voor de toets van het akkoord aan art. 272 lid 3 F. causaal verband als bedoeld in rov. 4.13 niet is vereist en dat deze bepaling hem zonder beperking de bevoegdheid verleent de weigering ook op andere gronden dan door ICH aangevoerd te doen steunen en haar zelfs ambtshalve uit te spreken, mist het feitelijke grondslag, omdat uit de bestreden beschikking geenszins blijkt dat het Hof dit een en ander over het hoofd zou hebben gezien. Voor het overige kan het oordeel van het Hof hieromtrent in cassatie niet worden getoetst, omdat de rechter die over de feiten oordeelt bij zijn beslissing om het akkoord goed te keuren of te weigeren een ruime mate van vrijheid heeft.</para>
+    <para />
+    <para>4. Beslissing</para>
+    <para />
+    <para>De Hoge Raad verwerpt het beroep.</para>
+    <para />
+    <para>Deze beschikking is gegeven door de vice-president P. Neleman als voorzitter en de raadsheren D.H. Beukenhorst, A.M.J. van Buchem-Spapens, A. Hammerstein en F.B. Bakels, en in het openbaar uitgesproken door de vice-president P. Neleman op 26 augustus 2003.</para>
+  </uitspraak>
+</open-rechtspraak>
