@@ -40,7 +40,25 @@
   ],
   "validation_result": {
     "build": "successful",
-    "strict_validation": "pending checkpoint commit; see validation.json for actual final run"
+    "strict_batch_validation": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 19,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 38519,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "strict_whole_book_validation": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 639,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 968365,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "meaning": "Technical validation only; no whole-book authorship or independent review completion claim."
   },
   "remaining_limitations": [
     "Independent second pass pending.",
