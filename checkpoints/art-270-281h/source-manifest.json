@@ -1,0 +1,220 @@
+{
+  "scope": "Bounded reviewed checkpoint 270–281h",
+  "files": [
+    {
+      "path": "sources/author-art-254-269b-rbdha-2024-full.txt",
+      "sha256": "d2eed3ec1a90e274d58f7fa6f99ce3a9090813b403cab43ef7679628966975fd",
+      "bytes": 44246
+    },
+    {
+      "path": "sources/author-art-254-269b-rbdha-2024.xml",
+      "sha256": "f442ce30946ae2f173a8f0435f151edb78df89e0901f0805d6bbc175dddbe2f0",
+      "bytes": 62085
+    },
+    {
+      "path": "sources/author-art-270-281h-current.html",
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+      "bytes": 4132921
+    },
+    {
+      "path": "sources/author-art-270-281h-fetch.json",
+      "sha256": "2cd923572be4fb5b4edc674df612f9a30217b15e2e11e8bbebf37207526f4a41",
+      "bytes": 1480
+    },
+    {
+      "path": "sources/author-art-270-281h-preflight-result.json",
+      "sha256": "6a35ba0130755c5892663a1ec18afefb15b359c0ed98bcae65f16c287f853067",
+      "bytes": 883
+    },
+    {
+      "path": "sources/author-art-270-281h-selected.xml",
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+      "bytes": 2557947
+    },
+    {
+      "path": "sources/batch-checks.json",
+      "sha256": "5833d19e7c78cc8c728791e8bd8f20b6fab1e8ce2f32e3c1a4d5966afbb2f709",
+      "bytes": 752
+    },
+    {
+      "path": "sources/batch-validation.json",
+      "sha256": "5206ed45b45e7af46e5af72747f84274facc618c218d433102b5cb28047c83ee",
+      "bytes": 141
+    },
+    {
+      "path": "sources/case-cards.md",
+      "sha256": "fbd842526eae19fee28ff8eb8687fd7cd4680d6d19f180648050fe4dcee1e4d1",
+      "bytes": 2102
+    },
+    {
+      "path": "sources/hr-2003-ai0369.md",
+      "sha256": "5cd93220e5a879e0d42c12c1eacb2727fd3209541affa3bfa6d5c82323bede95",
+      "bytes": 23058
+    },
+    {
+      "path": "sources/review-art-270-281h-before-hashes.json",
+      "sha256": "7cbf457091510d6d361d8ba2e0a7ec1b7618943decc3bc2ca1f2fb951735a08e",
+      "bytes": 42337
+    },
+    {
+      "path": "sources/review-art-270-281h-bounded-build.txt",
+      "sha256": "a35d365394e17877a3b5aedadd204655d1f80e73f50e266069879823afdf1a4c",
+      "bytes": 114
+    },
+    {
+      "path": "sources/review-art-270-281h-case-2003.md",
+      "sha256": "0a2e068164e1b6a1ffbf111ca5b71d573ebfaf97faaa2c89de123e412071a3ce",
+      "bytes": 1442
+    },
+    {
+      "path": "sources/review-art-270-281h-case-2024.md",
+      "sha256": "551edc436a854bb44b1f5097a70e0fdf5defad4905a8b136bf2c9c3fc3433e2e",
+      "bytes": 1366
+    },
+    {
+      "path": "sources/review-art-270-281h-case-comparison.json",
+      "sha256": "c8edcb53eb6204ee4faddc31c51a6f03a303d456837d33bb87e68b5bdebef023",
+      "bytes": 725
+    },
+    {
+      "path": "sources/review-art-270-281h-case-fetch.json",
+      "sha256": "2dae714b88cb33634a1ca38a3d201a2513027677706e1c02ff695b59c4458f7d",
+      "bytes": 1267
+    },
+    {
+      "path": "sources/review-art-270-281h-checks.json",
+      "sha256": "bb576d1faf852ecafff53d99d56c31f5225cb9ebd4c3c6e69e67ff4792c51435",
+      "bytes": 999
+    },
+    {
+      "path": "sources/review-art-270-281h-commentary-before.txt",
+      "sha256": "35828a164eb2a0388497f5e5d2b17fc665651bb0d5af358c12cd19dc80f82d80",
+      "bytes": 29431
+    },
+    {
+      "path": "sources/review-art-270-281h-current.html",
+      "sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+      "bytes": 4132921
+    },
+    {
+      "path": "sources/review-art-270-281h-current.html.headers",
+      "sha256": "71eb6b30369d8a7a792d640215ebdd1384e4df9de7ec104ccfd2e4936a44cac3",
+      "bytes": 532
+    },
+    {
+      "path": "sources/review-art-270-281h-external-fetch.json",
+      "sha256": "74b9c6bc9658ac7de562a7ed9766dc7ec4d81663bb9852619dd729e4391c7070",
+      "bytes": 671
+    },
+    {
+      "path": "sources/review-art-270-281h-fetch.json",
+      "sha256": "e82f2176f7933e804205c21f5fa951ba7b1938120497f2569913110b198e3bf0",
+      "bytes": 2521
+    },
+    {
+      "path": "sources/review-art-270-281h-hr-2003-local.md",
+      "sha256": "5cd93220e5a879e0d42c12c1eacb2727fd3209541affa3bfa6d5c82323bede95",
+      "bytes": 23058
+    },
+    {
+      "path": "sources/review-art-270-281h-hr-2003.txt",
+      "sha256": "50390ed4c56584d3763bbbe86edf813160ac199fefb26ab9eef990859d40c78e",
+      "bytes": 22120
+    },
+    {
+      "path": "sources/review-art-270-281h-hr-2003.xml",
+      "sha256": "7b0b39989f8d29f1d53a59501dbb1878730c15c293e90f7ed6594e0bb91cead8",
+      "bytes": 29199
+    },
+    {
+      "path": "sources/review-art-270-281h-hr-2003.xml.headers",
+      "sha256": "c82ac87fcf6e546002da1afe43455a298d183aa361e34b83bc918cd59bf706a9",
+      "bytes": 497
+    },
+    {
+      "path": "sources/review-art-270-281h-parser-check.json",
+      "sha256": "487ceeab959679be8a02e4931629135bcea4fe817c1d097f1b94846612f2fc55",
+      "bytes": 32577
+    },
+    {
+      "path": "sources/review-art-270-281h-preflight-result.json",
+      "sha256": "29e875ef4fb3d2debbf460a7d336151d20c4f460b2dea6a4395451a1003da363",
+      "bytes": 2855
+    },
+    {
+      "path": "sources/review-art-270-281h-rbdha-2024.txt",
+      "sha256": "d2eed3ec1a90e274d58f7fa6f99ce3a9090813b403cab43ef7679628966975fd",
+      "bytes": 44246
+    },
+    {
+      "path": "sources/review-art-270-281h-rbdha-2024.xml",
+      "sha256": "f442ce30946ae2f173a8f0435f151edb78df89e0901f0805d6bbc175dddbe2f0",
+      "bytes": 62085
+    },
+    {
+      "path": "sources/review-art-270-281h-rbdha-2024.xml.headers",
+      "sha256": "b919de7dc613c27d1a15f3c27dca34550d6287be3b720b2545d176ac57ff2673",
+      "bytes": 497
+    },
+    {
+      "path": "sources/review-art-270-281h-result.json",
+      "sha256": "fe7f4ade1695708b776d8def8f7308108b47d00134c39e2698078f451b14aa78",
+      "bytes": 14143
+    },
+    {
+      "path": "sources/review-art-270-281h-search-log.json",
+      "sha256": "b9e4c5a896079beaa52d92289ffd240524fd14aae9b30d26628ff2bbf2400049",
+      "bytes": 1460
+    },
+    {
+      "path": "sources/review-art-270-281h-selected.xml",
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+      "bytes": 2557947
+    },
+    {
+      "path": "sources/review-art-270-281h-selected.xml.headers",
+      "sha256": "298703d142ad31e421b54168e4a8607350ea5ef372322804c5f115b4c594ed07",
+      "bytes": 261
+    },
+    {
+      "path": "sources/review-art-270-281h-validation.json",
+      "sha256": "a91c28492b8580d66982e5b4112042ddaf46540e471acd3cb4b2bc9eb5619a5a",
+      "bytes": 592
+    },
+    {
+      "path": "sources/review-art-270-281h-wft.html",
+      "sha256": "35af697c1591fbe999d2a5a2fa0abc42486cbc60ec67c82c09136bb6286450a0",
+      "bytes": 14851480
+    },
+    {
+      "path": "sources/review-art-270-281h-wft.html.headers",
+      "sha256": "31335496875b9d76aec9a6d5e8d36b0af3683ce90847c5f6c9906421fb5a9f2e",
+      "bytes": 532
+    },
+    {
+      "path": "sources/review-art-270-281h-whole_book-build.txt",
+      "sha256": "84e2ae19fa156173fff78d9b55e6c45ba7e2ed74270483112021a01818044d26",
+      "bytes": 157
+    },
+    {
+      "path": "sources/review-art-270-281h-wti.xml",
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+      "bytes": 5581608
+    },
+    {
+      "path": "sources/review-art-270-281h-wti.xml.headers",
+      "sha256": "e2dfd9c5185ff609904921de9a39258660ba837b9a7adcfe880a1c97580806d6",
+      "bytes": 261
+    },
+    {
+      "path": "sources/search-log.json",
+      "sha256": "df6a7bc4a1e9b12dac5a3d6f4f0a435db90185d8f0ef6c9a72e24698e7a835dd",
+      "bytes": 782
+    },
+    {
+      "path": "sources/version-evidence.json",
+      "sha256": "f01b9231b4564967cda4d2430853f8da1667f89be960ccf02f377741a989c938",
+      "bytes": 6138
+    }
+  ]
+}

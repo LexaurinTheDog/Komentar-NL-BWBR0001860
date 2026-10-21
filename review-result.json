@@ -221,5 +221,27 @@
     "Selective verification of two existing judicial authorities, no exhaustive subsequent-treatment research.",
     "External transitional statutes in editorial source notes not independently analysed for historical proceedings.",
     "Article281h does not analyse every imported Wft provision. No external professional approval."
-  ]
+  ],
+  "validation_result": {
+    "bounded": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 30099,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "whole_book": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 639,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 765550,
+      "errors": [
+        "krátký/chybějící komentář u 119 jednotek: ['art-282(0<400)', 'art-283(0<400)', 'art-284(0<400)', 'art-285(0<400)', 'art-286(0<400)', 'art-287(0<400)', 'art-287a(0<400)', 'art-287b(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  }
 }
