@@ -46,5 +46,14 @@
     "Referenced transitional statutes not fully analysed.",
     "Full book still lacks 19 comments outside this assignment; full build stops before modifying output."
   ],
-  "whole_book_complete": false
+  "whole_book_complete": false,
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 34209,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  }
 }

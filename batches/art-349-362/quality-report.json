@@ -55,5 +55,6 @@
   "limitations": [
     "Character counts and duplicate checks do not establish legal quality.",
     "Independent second pass not performed."
-  ]
+  ],
+  "cross_unit_repeated_sentences_over_100_characters": {}
 }
