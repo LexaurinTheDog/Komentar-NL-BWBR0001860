@@ -1,0 +1,59 @@
+{
+  "assigned_ids": [
+    "art-349",
+    "art-349aa",
+    "art-349a",
+    "art-350",
+    "art-351",
+    "art-351a",
+    "art-352",
+    "art-353",
+    "art-354",
+    "art-354a",
+    "art-355",
+    "art-356",
+    "art-357",
+    "art-358",
+    "art-358a",
+    "art-359",
+    "art-359a",
+    "art-360",
+    "art-361",
+    "art-362"
+  ],
+  "commented_units": 20,
+  "per_unit_characters": {
+    "art-349": 1718,
+    "art-349aa": 1853,
+    "art-349a": 3146,
+    "art-350": 1755,
+    "art-351": 1556,
+    "art-351a": 1779,
+    "art-352": 1436,
+    "art-353": 1431,
+    "art-354": 1554,
+    "art-354a": 1693,
+    "art-355": 1419,
+    "art-356": 1609,
+    "art-357": 560,
+    "art-358": 2085,
+    "art-358a": 2262,
+    "art-359": 1610,
+    "art-359a": 1788,
+    "art-360": 1475,
+    "art-361": 1582,
+    "art-362": 1898
+  },
+  "duplicate_complete_comments": false,
+  "placeholder_scan": [],
+  "author_content_checks": [
+    "Every assigned source unit read; paragraphs and statutory cross-references checked.",
+    "Specific fictional examples and section checklists included.",
+    "Current 18-month rule distinguished from historical three-year rule.",
+    "Material end, final judgment, formal end and loss of clean slate distinguished."
+  ],
+  "limitations": [
+    "Character counts and duplicate checks do not establish legal quality.",
+    "Independent second pass not performed."
+  ]
+}

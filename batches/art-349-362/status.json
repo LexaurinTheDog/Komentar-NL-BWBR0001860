@@ -1,0 +1,50 @@
+{
+  "scope": "Bounded author batch art-349 through art-362, twenty assigned identifiers",
+  "stage": "drafted_technical_validation",
+  "total_units": 20,
+  "completed_units": 20,
+  "completed_ids": [
+    "art-349",
+    "art-349aa",
+    "art-349a",
+    "art-350",
+    "art-351",
+    "art-351a",
+    "art-352",
+    "art-353",
+    "art-354",
+    "art-354a",
+    "art-355",
+    "art-356",
+    "art-357",
+    "art-358",
+    "art-358a",
+    "art-359",
+    "art-359a",
+    "art-360",
+    "art-361",
+    "art-362"
+  ],
+  "source_checks": {
+    "fresh_current_official_http": 200,
+    "fresh_selected_xml_http": 200,
+    "fresh_wti_http": 200,
+    "effective_version": "2026-09-01",
+    "exact_official_xml_comparisons": 20,
+    "statutory_text_agreement": 1.0,
+    "independently_derived_expected_ids": true,
+    "evidence": "sources/verification.json"
+  },
+  "case_law_sources": [
+    "ECLI:NL:HR:2024:1913",
+    "ECLI:NL:HR:2023:455",
+    "ECLI:NL:HR:2023:53"
+  ],
+  "remaining_limitations": [
+    "Independent second pass pending.",
+    "Selective case-law research.",
+    "Referenced transitional statutes not fully analysed.",
+    "Full book still lacks 19 comments outside this assignment; full build stops before modifying output."
+  ],
+  "whole_book_complete": false
+}

@@ -1,0 +1,24 @@
+{
+  "searched_at": "2026-10-21",
+  "queries": [
+    {
+      "source": "web search on primary database",
+      "query": "site.rechtspraak.nl Hoge Raad 349a 2025 eerste aflossing schuldsanering 349a"
+    },
+    {
+      "source": "web search on primary database",
+      "query": "site.rechtspraak.nl 358a benadelen schuldeisers Hoge Raad"
+    },
+    {
+      "source": "local primary snapshots in WORK/sources",
+      "query": "author-art-314-329-case-2023-53, statutory cross-references in units.jsonl"
+    }
+  ],
+  "full_text_read": [
+    "ECLI:NL:HR:2024:1913",
+    "ECLI:NL:HR:2023:455",
+    "ECLI:NL:HR:2023:53"
+  ],
+  "not_exhaustive": true,
+  "other_units": "No separate sufficiently relevant verified case selected; explanations based on statutory text."
+}

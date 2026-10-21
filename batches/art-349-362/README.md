@@ -1,0 +1,9 @@
+# Faillissementswet — artikelen 349–362
+
+Deze conceptbatch behandelt precies twintig toegewezen plaatsen: 349, 349aa, 349a, 350, 351, 351a, 352, 353, 354, 354a, 355, 356, 357, 358, 358a, 359, 359a, 360, 361 en 362. Zij voltooit het gehele boek niet. Artikel 357 is als vervallen plaats behouden. De tekst geldt vanaf 1 september 2026; de beslisdatum van het manuscript is 19 oktober 2026. Bij deze batch op 21 oktober 2026 is de [actuele officiële regeling](https://wetten.overheid.nl/BWBR0001860) opnieuw gecontroleerd: de route verwijst naar 1 september 2026 en vermeldt geldigheid tot heden. XML en wijzigingsinformatie zijn afzonderlijk gecontroleerd; de volgende gedateerde wijziging ligt op 15 november 2027.
+
+De wettekst is mechanisch uit officieel XML geëxtraheerd en voor alle twintig plaatsen exact met de geselecteerde bron vergeleken. [Bronnen](SOURCES.md), [voorcontrole](preflight-result.json), [volledigheidsbewijs](coverage-evidence.json) en [kwaliteitscontrole](quality-report.json) leggen de methode vast. De oorspronkelijke intake blijft behouden. Redactionele overgangsnoten zijn onderscheiden van de wettekst; de daarin genoemde wijzigingswetten worden hier niet integraal becommentarieerd.
+
+Drie volledig gelezen primaire uitspraken ondersteunen specifieke uitleg. De selectie is niet uitputtend; voor technische en vervallen plaatsen is geen afzonderlijke uitspraak geforceerd. [Controletoestand](REVIEW.md): auteurscontrole en technische validatie, onafhankelijke inhoudelijke tweede controle nog te verrichten. Geen externe professionele goedkeuring. Fictieve voorbeelden zijn uitsluitend illustratief; dit concept is geen individueel juridisch advies.
+
+Commentaar © 2026 Vojtěch Říha, Apache-2.0, zie [LICENSE](LICENSE). Die licentie betreft het oorspronkelijke commentaar. De officiële wettekst en rechtspraak zijn afzonderlijk herkenbare bronmaterialen; er is geen commerciële annotatie overgenomen.

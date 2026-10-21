@@ -1,0 +1,69 @@
+{
+  "official_source": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "local_raw_evidence_path": "sources/author-art-349-362-selected.xml",
+    "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+  },
+  "scope": "Exactly the assigned twenty article identifiers 349\u2013362 including intervening lettered provisions; full-book coverage remains separate.",
+  "expected_ids": [
+    "art-349",
+    "art-349aa",
+    "art-349a",
+    "art-350",
+    "art-351",
+    "art-351a",
+    "art-352",
+    "art-353",
+    "art-354",
+    "art-354a",
+    "art-355",
+    "art-356",
+    "art-357",
+    "art-358",
+    "art-358a",
+    "art-359",
+    "art-359a",
+    "art-360",
+    "art-361",
+    "art-362"
+  ],
+  "parsed_ids": [
+    "art-349",
+    "art-349aa",
+    "art-349a",
+    "art-350",
+    "art-351",
+    "art-351a",
+    "art-352",
+    "art-353",
+    "art-354",
+    "art-354a",
+    "art-355",
+    "art-356",
+    "art-357",
+    "art-358",
+    "art-358a",
+    "art-359",
+    "art-359a",
+    "art-360",
+    "art-361",
+    "art-362"
+  ],
+  "annex_disposition": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/author-art-349-362-selected.xml",
+      "method": "Full official XML element census; no bijlage elements. Opening formula and closing text are present and preserved by existing parser."
+    }
+  ],
+  "missing": [],
+  "extra": [],
+  "duplicates": [],
+  "statutory_text_agreement": 1.0,
+  "expected_count": 20,
+  "extracted_count": 20,
+  "empty_repealed_ids": [
+    "art-357"
+  ],
+  "exact_text_comparisons": 20
+}
