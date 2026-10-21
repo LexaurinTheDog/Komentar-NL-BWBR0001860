@@ -1,0 +1,57 @@
+{
+  "scope": "art-330 through art-348, including art-333a",
+  "stage": "drafted_technical_validation",
+  "total_units": 20,
+  "completed_units": 20,
+  "completed_ids": [
+    "art-330",
+    "art-331",
+    "art-332",
+    "art-333",
+    "art-333a",
+    "art-334",
+    "art-335",
+    "art-336",
+    "art-337",
+    "art-338",
+    "art-339",
+    "art-340",
+    "art-341",
+    "art-342",
+    "art-343",
+    "art-344",
+    "art-345",
+    "art-346",
+    "art-347",
+    "art-348"
+  ],
+  "source_checks": {
+    "fresh_official_page": true,
+    "http_status": 200,
+    "selected_xml_http_status": 200,
+    "effective_version": "2026-09-01",
+    "xml_text_agreement": 1.0,
+    "independent_expected_ids": true,
+    "evidence": "sources/verification.json"
+  },
+  "case_law_sources": [
+    "ECLI:NL:HR:2009:BG7996",
+    "ECLI:NL:HR:2001:AD5362"
+  ],
+  "validation_result": {
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 22447,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "remaining_limitations": [
+    "Independent second pass pending.",
+    "Case-law research selective.",
+    "Referenced transitional statutes not fully analysed.",
+    "Full book still has 39 unassigned missing comments; full build exits before output."
+  ],
+  "whole_book_complete": false,
+  "full_build_result": "Missing commentary for 39 units starting art-349; bounded batch builds successfully."
+}

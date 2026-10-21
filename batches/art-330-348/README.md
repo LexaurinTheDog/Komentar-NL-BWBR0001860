@@ -1,0 +1,7 @@
+# Faillissementswet — commentaarbatch artikelen 330–348
+
+Deze conceptbatch behandelt precies twintig wettelijke plaatsen, met inbegrip van artikel 333a en alle vervallen nummers. Zij voltooit niet het gehele boek. Wettekst: versie geldig vanaf 1 september 2026, beslisdatum van het manuscript 19 oktober 2026; op 21 oktober 2026 opnieuw gecontroleerd aan de [officiële actuele regeling](https://wetten.overheid.nl/BWBR0001860). De actuele pagina vermeldde deze versie als geldend tot heden; XML en wijzigingsinformatie bevestigen de versie. De volgende gedateerde wijziging ligt op 15 november 2027.
+
+De wettekst is mechanisch uit officieel XML overgenomen en afzonderlijk op alle twintig plaatsen vergeleken. [Bronnen](SOURCES.md), [volledigheidsbewijs](coverage-evidence.json), [voorcontrole](preflight-result.json) en [technische kwaliteit](quality-report.json) documenteren de afbakening. De jurisprudentieselectie omvat twee volledig gelezen arresten van de Hoge Raad; zij is niet uitputtend. Oudere wetscontext wordt in de bronkaarten onderscheiden. Geen rechtspraak is verzonnen voor vervallen nummers. Overgangsrechtelijke redactionele noten blijven behouden; de daarin genoemde wijzigingswetten zijn niet integraal becommentarieerd.
+
+Commentaar © 2026 Vojtěch Říha, Apache-2.0, zie [LICENSE](LICENSE). De licentie betreft het oorspronkelijke commentaar; de officiële wet en uitspraken blijven herkenbaar afzonderlijke bronmaterialen. Concept voor inhoudelijke tweede controle, zonder externe professionele goedkeuring. Geen individueel juridisch advies.
