@@ -1,0 +1,9 @@
+{
+  "method": "Existing case authorities individually reread in full and newly fetched from official XML API; existing local corpus comparisons retained. No new case asserted.",
+  "sources": [
+    "ECLI:NL:HR:2012:BY0966",
+    "ECLI:NL:HR:2021:1670",
+    "ECLI:NL:HR:2023:53"
+  ],
+  "limitations": "Selective review; no exhaustive new search or later treatment audit."
+}

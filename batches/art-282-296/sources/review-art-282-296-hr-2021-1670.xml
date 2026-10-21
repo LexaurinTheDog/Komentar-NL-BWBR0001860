@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2021:1670</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-03-22T13:26:46</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2021-11-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2021-11-12</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">20/04280</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#beschikking">Beschikking</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2021:207" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2021:207, Gevolgd</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2021:809" psi:type="http://psi.rechtspraak.nl/nadereConclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Nadere conclusie: ECLI:NL:PHR:2021:809, Gevolgd</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2021/3030</rdf:li>
+          <rdf:li>INS-Updates.nl 2021-0322</rdf:li>
+          <rdf:li>RvdW 2021/1106</rdf:li>
+          <rdf:li>NJ 2022/38 met annotatie van F.M.J. Verstijlen</rdf:li>
+          <rdf:li>RI 2022/14</rdf:li>
+          <rdf:li>JBPr 2022/17 met annotatie van Harryvan, G.J.</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2021:1670">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2021:1670</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2021-11-12T11:29:13</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2021-11-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2021:1670 Hoge Raad , 12-11-2021 / 20/04280</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2021:1670:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Insolventierecht. Schuldsanering. Hoger beroep tegen beslissing rechter-commissaris (art. 315 Fw). Ontvankelijkheid cassatieberoep (art. 360 Fw); doorbrekingsgrond. Kunnen bij aanvang van schuldsanering aanwezige financiële middelen, voor zover nodig om de kosten van levensonderhoud en vaste lasten te voldoen in de periode totdat de schuldenaar het eerste vrij te laten bedrag ontvangt, aan de schuldenaar worden gelaten?</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2021:1670:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para> HOGE RAAD DER NEDERLANDEN</para>
+  </parablock>
+  <parablock>
+    <para>CIVIELE KAMER</para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">Nummer</emphasis>	20/04280</para>
+    <para>
+      <emphasis role="bold">Datum  </emphasis>	12 november 2021</para>
+  </parablock>
+  <parablock>
+    <para>BESCHIKKING</para>
+  </parablock>
+  <parablock>
+    <para>In de zaak van</para>
+  </parablock>
+  <parablock>
+    <para>
+      [de beschermingsbewindvoerder], handelend onder de naam [A], in zijn hoedanigheid van beschermingsbewindvoerder over alle goederen die (zullen) toebehoren aan [de schuldenaar],<?linebreak?>kantoorhoudende te [woonplaats],</para>
+    <para>VERZOEKER tot cassatie,</para>
+    <para>hierna: de beschermingsbewindvoerder,</para>
+    <para>advocaat: J. van Weerden,</para>
+  </parablock>
+  <parablock>
+    <para>tegen</para>
+  </parablock>
+  <parablock>
+    <para>
+      [de bewindvoerder],<?linebreak?>kantoorhoudende te [woonplaats], </para>
+    <para>VERWEERSTER in cassatie,</para>
+    <para>hierna: de bewindvoerder,</para>
+    <para>niet verschenen.</para>
+    <para>
+      <emphasis role="bold">1.	Procesverloop</emphasis>
+    </para>
+    <para>Voor het verloop van het geding in feitelijke instantie verwijst de Hoge Raad naar de beschikking in de zaak C/03/283624 / HA RK 20-214 van de rechtbank Limburg van 15 december 2020.</para>
+    <para>De beschermingsbewindvoerder heeft tegen de beschikking van de rechtbank beroep in cassatie ingesteld. Het cassatierekest is aan deze beschikking gehecht en maakt daarvan deel uit. </para>
+    <para>De bewindvoerder heeft geen verweerschrift ingediend.</para>
+    <para>De conclusie en de aanvullende conclusie van de Advocaat-Generaal R.H. de Bock strekken tot  ontvankelijkheid van het cassatieberoep, vernietiging van de bestreden beschikking en tot verwijzing. </para>
+    <para>De advocaat van de beschermingsbewindvoerder heeft schriftelijk op de nadere conclusie van de Advocaat-Generaal gereageerd.</para>
+  </parablock>
+  <section>
+    <title>
+      <nr>2</nr>Uitgangspunten en feiten</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <parablock>
+        <para>In cassatie kan van het volgende worden uitgegaan.</para>
+        <para>(i) Bij beschikking van 16 juli 2014 zijn de goederen die aan [de schuldenaar] (hierna: de schuldenaar) (zullen) toebehoren onder bewind gesteld. De huidige beschermingsbewindvoerder is bij beschikking van 24 februari 2016 als zodanig benoemd.</para>
+        <para>(ii) Bij vonnis van 20 november 2018 is de toepassing van de schuldsaneringsregeling uitgesproken ten aanzien van de schuldenaar, met benoeming van een rechter-commissaris en met aanstelling van de bewindvoerder. </para>
+        <para>(iii) In het aanvangsverslag van de bewindvoerder is bij ‘Bank- en/of spaarrekeningen’ het volgende opgenomen:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>“Beheerrekening ING (…) met een saldo van € 987,00 per datum uitspraak WSNP. Daags na de uitspraak volgt regulier betaling. Ik stel mij op standpunt dat saldo alsnog aan de boedelrekening wordt gestort.”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Onder het kopje ‘Verzoeken RC’ is opgenomen:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>“Graag uw akkoord om aanvangssaldo van € 987,00 geheel aan de boedelrekening te storten.”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(iv) De rechter-commissaris heeft zijn akkoord gegeven.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>In dit geding heeft de beschermingsbewindvoerder op de voet van art. 317 Fw aan de rechter-commissaris verzocht om alsnog te bepalen dat het beginsaldo niet aan de boedel hoeft te worden afgedragen, dan wel, subsidiair, de bewindvoerder op te dragen de betalingen van de vaste lasten te vernietigen en te bepalen dat een bedrag van € 544,03 niet aan de boedel hoeft te worden afgedragen, dan wel, meer subsidiair, te bepalen dat een bedrag gelijk aan de beslagvrije voet buiten de boedelafdracht valt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>In reactie op het hiervoor in 2.2 weergegeven verzoek is op 5 oktober 2020 aan de beschermingsbewindvoerder medegedeeld dat de rechter-commissaris de in 2018 genomen beslissing (zie hiervoor in 2.1 onder (iv)) handhaaft. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>De rechtbank heeft bij beschikking van 15 december 2020 het hoger beroep tegen de beslissing van 5 oktober 2020 afgewezen. Daartoe heeft de rechtbank onder meer als volgt overwogen:</para>
+      <para />
+      <parablock>
+        <para>“4.2 De beschikking van 5 oktober 2020 is de derde en inhoudelijk gelijkluidende beslissing die de rechter-commissaris in deze schuldsaneringsregeling heeft genomen over de vraag of het op 20 november 2018 op de beheerrekening aanwezige saldo naar de boedelrekening moet worden overgemaakt (…).</para>
+        <para>De eerste keer dat de rechter-commissaris deze beslissing heeft genomen is vermeld in het tweede verslag van de Bewindvoerder. Dit heeft de beschermingsbewindvoerder ontvangen en ook zo begrepen, maar hij is hiertegen niet in beroep gegaan. (…).</para>
+        <para>De tweede keer dat de rechter-commissaris deze beslissing bekend maakte aan de beschermingsbewindvoerder was tijdens het verhoor op 6 augustus 2019, ook daarna is er geen beroep ingesteld. (…)</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>De rechtbank verwerpt het standpunt dat de beschermingsbewindvoerder in dit geval met een beroep op artikel 317 Fw een nieuwe beschikking kon uitlokken omdat hij het met de eerdere beschikkingen van de rechter-commissaris over de zelfde kwestie nog steeds niet eens was. Artikel 317 Fw geeft de schuldenaar de gelegenheid bij de rechter-commissaris op te komen tegen een bepaalde handeling of nalaten van de wsnp-bewindvoerder. Dat is evenwel niet wat de beschermingsbewindvoerder in dit geval doet, hij komt – ruimschoots na het verstrijken van de beroepstermijn – uitdrukkelijk op tegen twee eerder genomen (gelijkluidende) beschikkingen (…), door de rechter-commissaris om een nieuwe beschikking te vragen waarin hij terugkomt op zijn eerdere besluiten. Aldus gebruikt hij dit artikel voor een ander doel dan waarvoor het geschreven is. Het bepaalde in artikel 315 lid 1 Fw zou immers een dode letter worden indien de korte beroepstermijn eenvoudig zou kunnen worden omzeild door de rechter-commissaris (op elk gewenst moment) om herziening van zijn eerdere beschikking te vragen. (…)”</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van de ontvankelijkheid van het beroep</title>
+    <para>	De hiervoor in 2.4 vermelde beschikking is gegeven ingevolge art. 315 lid 1 Fw en is derhalve een ingevolge de bepalingen van de derde titel van de Faillissementswet gegeven beslissing. Tegen een dergelijke beslissing staat op grond van art. 360 Fw geen hogere voorziening open, behalve in de gevallen waarin het tegendeel is bepaald, en behoudens de mogelijkheid van cassatie in het belang der wet. De Faillissementswet bevat niet een bepaling krachtens welke cassatieberoep mogelijk is tegen een beschikking als de onderhavige. De beschermingsbewindvoerder zou dus in zijn cassatieberoep niet-ontvankelijk dienen te worden verklaard, ware het niet dat in onderdeel 2 van het middel de klacht besloten ligt dat de rechtbank het toepassingsbereik van art. 317 Fw heeft miskend en daardoor die bepaling ten onrechte buiten toepassing heeft gelaten. Nu de beschermingsbewindvoerder aldus kennelijk een beroep doet op een doorbrekingsgrond, is hij in zoverre ontvankelijk in zijn cassatieberoep.<footnote-ref linkend="_23977d17-41b6-4753-a1f8-616ede530b30" /></para>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>4</nr>Beoordeling van het middel</title>
+    <para />
+    <paragroup>
+      <nr>4.1.1</nr>
+      <para>Onderdeel 2 van het middel klaagt onder meer dat de rechtbank ten onrechte heeft overwogen dat de beschermingsbewindvoerder, door op te komen tegen twee eerder genomen gelijkluidende beschikkingen van de rechter-commissaris, art. 317 Fw heeft gebruikt voor een ander doel dan waarvoor het geschreven is. Hierin ligt – zoals hiervoor in 3 overwogen – de klacht besloten dat de rechtbank het toepassingsbereik van art. 317 Fw heeft miskend en daardoor die bepaling ten onrechte buiten toepassing heeft gelaten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.2</nr>
+      <para>De klacht slaagt. De omstandigheid dat de rechter-commissaris al twee keer eerder een beslissing heeft genomen over de vraag of het op 20 november 2018 op de beheerrekening aanwezige saldo naar de boedelrekening moet worden overgemaakt, doet niet af aan de mogelijkheid om op de voet van art. 317 Fw de rechter-commissaris te verzoeken een nieuwe beschikking over deze vraag te geven. In dat verzoek kunnen de bezwaren tegen een bevestigend antwoord op die vraag, ook voor zover die al eerder aan de orde zijn gesteld, aan de rechter-commissaris worden voorgelegd.<footnote-ref linkend="_848ff5f4-ffc4-47cf-9d27-e35cc8f8327e" /> De rechtbank heeft het voorgaande miskend en heeft daarmee ten onrechte art. 317 Fw buiten toepassing gelaten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.3</nr>
+      <para>Het slagen van de klacht betekent dat het beroep op de doorbrekingsgrond slaagt en dat de rechtbank ten onrechte heeft afgezien van een inhoudelijke beoordeling van het hoger beroep. De bestreden beschikking zal worden vernietigd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.1</nr>
+      <para>Met het oog op de verdere behandeling na verwijzing verdient het navolgende opmerking.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.2</nr>
+      <para>Bij toepassing van de wettelijke schuldsaneringsregeling verliest de schuldenaar de bevoegdheid om over de tot de boedel behorende goederen te beschikken (art. 296 lid 1 Fw). De schuldenaar is verplicht om alle goederen die tot de boedel behoren op verzoek van de bewindvoerder aan hem ter beschikking te stellen (art. 296 lid 2 Fw). De boedel omvat alle goederen van de schuldenaar ten tijde van de uitspraak tot toepassing van de schuldsaneringsregeling, alsmede de goederen die hij tijdens de toepassing van die regeling verkrijgt (art. 295 lid 1 Fw, een en ander zoals nader uitgewerkt in art. 295 leden 2 tot en met 6 Fw). Teneinde de schuldenaar in staat te stellen tot het voldoen van de kosten van levensonderhoud en de vaste lasten, wordt van het inkomen en de periodieke uitkeringen die de schuldenaar verkrijgt, een zogenoemd ‘vrij te laten bedrag’ buiten de boedel gelaten (art. 295 leden 2 en 3 Fw). Indien de schuldenaar tijdens de toepassing van de schuldsaneringsregeling bovenmatige schulden doet of laat ontstaan, kan dat grond opleveren om de schuldsaneringsregeling te beëindigen zonder ‘schone lei’, dat wil zeggen zonder dat de resterende schulden niet-afdwingbaar worden (art. 350 lid 3, onder d, Fw in verbinding met art. 358 leden 1 en 2 Fw). Waar de financiële middelen van de schuldenaar bij aanvang van de schuldsaneringsregeling in beginsel volledig in de boedel vallen en de schuldenaar meestal pas enige dagen of weken nadien de beschikking krijgt over het eerste vrij te laten bedrag, kan hij de kosten van levensonderhoud en de vaste lasten in de tussenliggende periode bezwaarlijk anders voldoen dan door het aangaan van nieuwe schulden. Dat is onwenselijk, gelet op de mogelijkheid dat de schuldenaar daardoor uiteindelijk geen schone lei zal krijgen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.3</nr>
+      <para>Een vergelijkbaar probleem doet zich buiten de schuldsaneringsregeling voor indien op de bankrekening van een schuldenaar beslag is gelegd. De wetgever heeft hiervoor in art. 475a lid 5 Rv een regeling getroffen, die erop neerkomt dat van het saldo op de bankrekening een bedrag ter grootte van de toepasselijke beslagvrije voet buiten het beslag blijft. De regeling houdt met het oog op een eenvoudige uitvoering geen rekening met de tijdsspanne totdat de schuldenaar weer inkomen of een periodieke uitkering ontvangt.<footnote-ref linkend="_7ff3d4c8-cb6d-4a42-a729-e5fb5408e963" /> Uit de parlementaire stukken valt niet af te leiden waarom de wetgever voor de schuldsaneringsregeling niet ook in een dergelijke regeling heeft voorzien. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.4</nr>
+      <para>Gelet op de hiervoor in 4.2.2 geconstateerde onwenselijkheid dat de schuldenaar zich in de periode direct na toelating tot de schuldsaneringsregeling genoodzaakt ziet nieuwe schulden aan te gaan, moet ervan worden uitgegaan dat de bewindvoerder kan bepalen dat de schuldenaar een deel van de bij aanvang van de schuldsanering tot de boedel behorende financiële middelen niet hoeft af te dragen, voor zover dat noodzakelijk kan worden geacht om, zo lang de schuldenaar nog niet beschikt over het eerste vrij te laten bedrag, de kosten van levensonderhoud en vaste lasten te voldoen. Bij verschil van inzicht hierover kan de schuldenaar op de voet van art. 317 Fw verzoeken om een beslissing van de rechter-commissaris. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>De overige klachten van het middel behoeven geen behandeling.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>5</nr>Beslissing</title>
+    <para>De Hoge Raad:</para>
+    <para>- vernietigt de beschikking van de rechtbank Limburg van 15 december 2020;</para>
+    <para>- verwijst de zaak naar het gerechtshof ’s-Hertogenbosch ter verdere behandeling en beslissing.</para>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze beschikking is gegeven door de president G. de Groot als voorzitter, de vicepresident C.A. Streefkerk en de raadsheren, A.E.B. ter Heide, S.J. Schaafsma en F.R. Salomons, en in het openbaar uitgesproken door de raadsheer H.M. Wattendorff op <emphasis role="underline">12 november 2021</emphasis>.</para>
+    </parablock>
+  </section>
+  <footnote id="_23977d17-41b6-4753-a1f8-616ede530b30" label="1">
+    <para>Vgl. HR 9 juli 2010, ECLI:NL:HR:2010:BM3892, rov. 3.2.</para>
+  </footnote>
+  <footnote id="_848ff5f4-ffc4-47cf-9d27-e35cc8f8327e" label="2">
+    <para>Vgl. HR 17 april 2020, ECLI:NL:HR:2020:751, rov. 3.6.</para>
+  </footnote>
+  <footnote id="_7ff3d4c8-cb6d-4a42-a729-e5fb5408e963" label="3">
+    <para>Kamerstukken II 2018/19, 35 225, nr. 3, p. 13.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

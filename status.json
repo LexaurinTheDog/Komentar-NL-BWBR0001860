@@ -2040,5 +2040,62 @@
       "Historical transitional regimes not separately analysed."
     ],
     "at": "2026-10-21T00:08:45.892610+00:00"
+  },
+  "bounded_review_art_282_296": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "art-282",
+      "art-283",
+      "art-284",
+      "art-285",
+      "art-286",
+      "art-287",
+      "art-287a",
+      "art-287b",
+      "art-288",
+      "art-289",
+      "art-290",
+      "art-291",
+      "art-292",
+      "art-293",
+      "art-294",
+      "art-294a",
+      "art-294b",
+      "art-295",
+      "art-295a",
+      "art-296"
+    ],
+    "unresolved_blockers": [],
+    "findings": {
+      "art-282": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-283": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-284": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-285": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-286": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-287": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-287a": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-287b": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-288": "Verduidelijkt: vijfjaarstermijn ziet op onherroepelijkheid veroordeling; afbakening door artikel 358 lid 4. Huidige driejaarstoets en vervallen tienjaarsuitsluiting gecontroleerd.",
+      "art-289": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-290": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-291": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-292": "Verduidelijkt: bijzonder internationaal-bevoegdheidsverzet, concrete twintig- en acht-dagentermijnen; BY0966 rov. 3.5–3.6.5 volledig gecontroleerd.",
+      "art-293": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-294": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-294a": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-294b": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-295": "Uitzonderingen 21 nader onderscheiden van eigen inkomensregeling; partnerbescherming 22 en levensverzekering 22a uitgewerkt. HR 2021:1670 en 2023:53 dragen de onderscheiden regels.",
+      "art-295a": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
+      "art-296": "Formulering over beheer versus vervreemding verduidelijkt; HR 2021:1670 rov. 4.2.4 gecontroleerd."
+    },
+    "limitations": [
+      "Uitsluitend toegewezen twintig artikelen inhoudelijk beoordeeld; geen voltooiing gehele boek.",
+      "Selectieve rechtspraak: drie volledige reeds aangehaalde uitspraken opnieuw gelezen en officieel opgehaald; geen exhaustieve latere-rechtspraakaudit.",
+      "Externe overgangswetten en nadere registerregelgeving niet zelfstandig doorgelicht.",
+      "Geen externe professionele goedkeuring."
+    ],
+    "verified_at": "2026-10-21T00:10:50.405341+00:00",
+    "stage": "bounded_second_pass_complete"
   }
 }
