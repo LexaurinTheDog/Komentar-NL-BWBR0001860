@@ -51,5 +51,11 @@
     "ok": false,
     "remaining_unassigned_units": 59,
     "evidence": "sources/author-art-314-329-full-validation.json"
+  },
+  "bounded_second_pass": {
+    "complete": true,
+    "units_reviewed": 20,
+    "report": "review-result.json",
+    "whole_book_complete": false
   }
 }

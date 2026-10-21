@@ -1,0 +1,135 @@
+{
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-314",
+    "art-315",
+    "art-316",
+    "art-316a",
+    "art-317",
+    "art-318",
+    "art-319",
+    "art-320",
+    "art-321",
+    "art-322",
+    "art-323",
+    "art-324",
+    "art-325",
+    "art-326",
+    "art-327",
+    "art-328",
+    "art-328a",
+    "art-328b",
+    "art-328c",
+    "art-329"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit_id": "art-314",
+      "assessment": "Toezicht en de beperkte overeenkomstige toepassing van 65–66 gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-315",
+      "assessment": "Vijfdaags beroep, uitzonderingen en beide arresten op eigen overwegingen getoetst.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-316",
+      "assessment": "Twee taken, machtiging, artikel 72 en dode verwijzing naar 326 onderscheiden.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-316a",
+      "assessment": "Categorieën c/d/g/k en d/g gecontroleerd; AMvB-opening van lid 2 onder m toegevoegd.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-317",
+      "assessment": "Verzoekgerechtigden, bevelen en driedaagse beslissing gecontroleerd; HR 2023:53 correct begrensd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-318",
+      "assessment": "Eerste verslag, verificatieverslag, zes maanden en beperkte wijzigingsbevoegdheid gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-319",
+      "assessment": "Rechtbankbevoegdheid, horen en rekening aan opvolger gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-320",
+      "assessment": "Alle acht leden gelezen; ongedekte publicatiekosten onderscheiden van deskundigensalaris en spanning met 66 toegelicht.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-321",
+      "assessment": "Artikelen 85–86 en verhouding tot 315/360 gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-322",
+      "assessment": "Bekende schuldeisers, onverwijlde schriftelijkheid en ontwerpkennisgeving gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-323",
+      "assessment": "Onmiddellijke bewaring, ontvangstbewijs en uitzondering 296 lid 3 gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-324",
+      "assessment": "Alleen 94 leden 1–2, aangehechte uitzonderingsstaat en vervangende staat gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-325",
+      "assessment": "Openbare kosteloze inzage onderscheiden van afschrift en verslaginzage.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-326",
+      "assessment": "Vervallen plaats behouden zonder oude bevoegdheid te doen herleven.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-327",
+      "assessment": "Alle schakels 99,102–105b,107 afzonderlijk tegen de brontekst gelezen.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-328",
+      "assessment": "Exacte reeks schakels, substitutie 108 en pro-memorierente gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-328a",
+      "assessment": "Vijf leden, acht dagen, oproeping, inzage en pro-formadatum gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-328b",
+      "assessment": "Twee-dagengrens, bezwaar, buitenlandse verhindering gecontroleerd; verplicht gevolg lid 1 verduidelijkt.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-328c",
+      "assessment": "Inhaalbetaling uit resterende baten en beperkt verlies van voorrang gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-329",
+      "assessment": "Alle zes leden: eenmalige herkansing, behandelroutes en voorwaardelijke Staatscourantmelding gecontroleerd.",
+      "corrected": false
+    }
+  ],
+  "limitations": [
+    "Bounded review only; no whole-book completion.",
+    "Selective case law: full HR 2023:53 and HR 2021:1676 read; no exhaustive search for subsequent case law.",
+    "External implementing and transitional instruments not comprehensively reviewed.",
+    "No external professional approval."
+  ]
+}

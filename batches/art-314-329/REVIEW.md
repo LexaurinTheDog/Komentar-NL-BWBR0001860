@@ -1,5 +1,7 @@
-# Reviewstatus
+# Tweede lezing — artikelen 314–329
 
-Deze twintig artikelplaatsen zijn door de auteur tegen de actuele bron gelezen en technisch gecontroleerd. Dit is geen onafhankelijke tweede beoordeling. Die blijft voor deze auteursbatch open.
+Op 21 oktober 2026 zijn precies twintig toegewezen artikelplaatsen inhoudelijk tegen de officiële tekst en hun relevante interne verwijzingen gelezen. De twee bestaande volledige HR-uitspraken zijn opnieuw gelezen, met onderscheid tussen feiten, lagere overwegingen en eigen oordeel.
 
-Aandachtspunten voor de volgende lezer: de nieuwe categoriegebonden verwerking van artikel 316a; de begrensde beroepsmogelijkheid bij artikelen 315 en 317; de nog aanwezige verwijzing naar het vervallen artikel 326; de verschillende termijnen van verificatie; de bijzondere positie van pro-memorierente en later geverifieerde vorderingen. Externe uitvoerings- en overgangsregels zijn niet volledig zelfstandig onderzocht. De geautomatiseerde lengte- en tekstcontroles bewijzen geen juridische kwaliteit.
+Correcties: artikel 316a vermeldt nu de aanvullende AMvB-categorie; artikel 320 onderscheidt de voorwaarden voor publicatiekosten en deskundigensalaris en benoemt de afstemming met artikel 66; artikel 328b verduidelijkt het verplichte verificatiegevolg als aan lid 1 is voldaan. De overige zeventien toelichtingen zijn behouden na inhoudelijke controle.
+
+Exacte beoordeling per artikel: [review-result.json](review-result.json). Verse broncontrole: [preflight-result.json](preflight-result.json). Geen materiële blokkade binnen deze batch. Uitvoeringsregelingen en latere rechtspraak zijn niet uitputtend onderzocht. Dit is een afgebakende tweede lezing, geen voltooiing van het hele boek of externe professionele goedkeuring.

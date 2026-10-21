@@ -131,6 +131,76 @@
       "sha256": "51ef559220c00e2a608c328cf1254c0bfa4bf2620acd431a766d8c2694ac2202"
     },
     {
+      "path": "sources/review-art-314-329-checks.json",
+      "bytes": 184,
+      "sha256": "b7c00c0a49f60e2109c9a6cbf75b7c9763b3c36bb48de3a6b99d4131e4d16efe"
+    },
+    {
+      "path": "sources/review-art-314-329-coverage.json",
+      "bytes": 20430,
+      "sha256": "bc7de5c02395bfed2f218599e107635c4da170f36854f7c66d16a62fa3d1ddbd"
+    },
+    {
+      "path": "sources/review-art-314-329-current.html",
+      "bytes": 4132921,
+      "sha256": "3dc8b19d6f9cb035cde4cc2ad2e5fc08a4c803bb4a2564b4447478bc022f02d2"
+    },
+    {
+      "path": "sources/review-art-314-329-current.html.headers",
+      "bytes": 532,
+      "sha256": "09aedbe7870a53cb6f7d7de3bdf1c7f40d5862a26d0e3fcc2fe148e41ce501a9"
+    },
+    {
+      "path": "sources/review-art-314-329-fetch.json",
+      "bytes": 2833,
+      "sha256": "7b930c5914009326d400fa0eb8ea4c87a706fdd8f5df742a90e4f9d5504cec5f"
+    },
+    {
+      "path": "sources/review-art-314-329-information.html",
+      "bytes": 605817,
+      "sha256": "58fe0b0f3cb147bc666c46444d277eff946ff4b00e26c1696de191a3cc02f750"
+    },
+    {
+      "path": "sources/review-art-314-329-information.html.headers",
+      "bytes": 532,
+      "sha256": "970ecdc182e387127df4700dc7939bf07ced77302b21882667228d363377ac81"
+    },
+    {
+      "path": "sources/review-art-314-329-preflight-result.json",
+      "bytes": 1383,
+      "sha256": "683742a174649e5d37430fc89358bb3582ce34f98135e304f0898d6efdaf6fd4"
+    },
+    {
+      "path": "sources/review-art-314-329-prior-preflight.json",
+      "bytes": 129868,
+      "sha256": "c741bf7ba57c3882639554fee963236d9322f7280e5bc8b067255da38c0b0830"
+    },
+    {
+      "path": "sources/review-art-314-329-result.json",
+      "bytes": 4209,
+      "sha256": "d72f6d0b7779a0ef9d853e7545a56ee18d5b7e1dfe0142c6d9054cde624c58da"
+    },
+    {
+      "path": "sources/review-art-314-329-selected.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+    },
+    {
+      "path": "sources/review-art-314-329-selected.xml.headers",
+      "bytes": 261,
+      "sha256": "27c3c7be110983cd2094fad0dc5ef474f1a0b1546c6c1ff25c6bba812a1842ea"
+    },
+    {
+      "path": "sources/review-art-314-329-wti.xml",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67"
+    },
+    {
+      "path": "sources/review-art-314-329-wti.xml.headers",
+      "bytes": 261,
+      "sha256": "7ebaf8658e8e83cd56ec390540a760da5cfe7c2ef9e716df855941c453f3871e"
+    },
+    {
       "path": "sources/structural-editorial-notes.json",
       "bytes": 4588,
       "sha256": "d43e71828d082b957d7a5ee20ea07a5cffbd9451a5f1b61c922be322deacfd8a"

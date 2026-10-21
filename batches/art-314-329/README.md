@@ -6,6 +6,6 @@ Mechanische extractie en vergelijking met de geselecteerde officiële XML; de id
 
 Oorspronkelijk Nederlands commentaar © 2026 Vojtěch Říha, Apache-2.0. Officiële wet- en uitspraakteksten zijn afzonderlijke bronstukken, geen oorspronkelijk auteurscommentaar. Geen commerciële annotaties overgenomen. [Licentie](LICENSE).
 
-Selectief zijn twee volledige officiële uitspraken onderzocht: HR 2023:53 en HR 2021:1676. Geen exhaustieve rechtspraakdekking of afzonderlijke uitspraak voor elk technisch artikel. Uitvoeringsregelingen en externe overgangswetten zijn niet integraal afzonderlijk onderzocht. Concept; onafhankelijke tweede lezing volgt nog. Geen externe professionele goedkeuring; geen individueel juridisch advies.
+Selectief zijn twee volledige officiële uitspraken onderzocht: HR 2023:53 en HR 2021:1676. Geen exhaustieve rechtspraakdekking of afzonderlijke uitspraak voor elk technisch artikel. Uitvoeringsregelingen en externe overgangswetten zijn niet integraal afzonderlijk onderzocht. Concept; de afgebakende tweede lezing van deze twintig plaatsen is uitgevoerd op 21 oktober 2026. Geen externe professionele goedkeuring; geen individueel juridisch advies.
 
 [Bronnen](SOURCES.md), [reviewstatus](REVIEW.md), [dekking](coverage-evidence.json), [broncontrole](sources/author-art-314-329-preflight-result.json).

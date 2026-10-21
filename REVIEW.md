@@ -403,3 +403,8 @@ Op 21 oktober 2026 zijn precies twintig plaatsen afzonderlijk nagelezen tegen de
 [Verse bronresponses](sources/review-art-297-313-fetch.json) bewaren URL, tijdstip, HTTP-status en SHA-256. [Preflight](sources/review-art-297-313-preflight-result.json) bevestigt gelding vanaf 1 september 2026 tot heden, geen wijziging sinds intake, uitsluiting van historische toestanden en geen operationele bijlage. De aanhef en slottekst blijven behouden. [Onafhankelijke XML-inventaris](sources/review-art-297-313-coverage.json) bevestigt 639 unieke artikelplaatsen en exacte tekstovereenkomst; de batch bevat precies twintig. De twee bestaande [rechtspraakverwijzingen](sources/review-art-297-313-search-log.json) zijn tegen de volledige officiële arresten nagelezen; de partijstellingen en het vernietigde hofoordeel zijn niet als geldend oordeel overgenomen. Dit is selectieve controle en geen uitputtende rechtspraakdekking of externe professionele goedkeuring.
 
 De batch is opnieuw met build_repo.py gebouwd en slaagt voor de strikte validatie met 100% wettelijke tekstovereenkomst. Ook de volledige build en validator zijn uitgevoerd; resterende ontbrekende commentaren buiten deze opdracht verhinderen voltooiing van het boek. Geen minimumlengtecontrole wordt als bewijs van juridische kwaliteit gepresenteerd.
+
+
+## Afgebakende tweede lezing 314–329
+
+Twintig plaatsen gecontroleerd; drie toelichtingen verduidelijkt. [Verslag en exacte lijst](batches/art-314-329/REVIEW.md). Dit voltooit niet het hele boek.
