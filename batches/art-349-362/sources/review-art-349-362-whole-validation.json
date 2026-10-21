@@ -1,0 +1,12 @@
+{
+  "repo": "Komentar-NL-BWBR0001860",
+  "units": 639,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 929806,
+  "errors": [
+    "kr\u00e1tk\u00fd/chyb\u011bj\u00edc\u00ed koment\u00e1\u0159 u 19 jednotek: ['art-369(0<400)', 'art-370(0<400)', 'art-371(0<400)', 'art-372(0<400)', 'art-373(0<400)', 'art-374(0<400)', 'art-375(0<400)', 'art-376(0<400)']",
+    "necommitnut\u00e9 zm\u011bny v repu"
+  ],
+  "warnings": [],
+  "ok": false
+}
