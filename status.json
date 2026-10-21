@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-21T00:08:45.892610+00:00",
+  "updated_at_utc": "2026-10-21T00:15:46.137134+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -32,7 +32,7 @@
     "bounded_review_evidence": "sources/review-art-60a-72-fetch.json"
   },
   "total_units": 639,
-  "completed_units": 540,
+  "completed_units": 560,
   "commentary_characters": 568532,
   "complete_chapters": 27,
   "planned_chapters": 49,
@@ -2097,5 +2097,92 @@
     ],
     "verified_at": "2026-10-21T00:10:50.405341+00:00",
     "stage": "bounded_second_pass_complete"
+  },
+  "bounded_author_art_297_313": {
+    "kind": "bounded_author",
+    "assigned_ids": [
+      "art-297",
+      "art-298",
+      "art-299",
+      "art-299a",
+      "art-299b",
+      "art-300",
+      "art-301",
+      "art-302",
+      "art-303",
+      "art-304",
+      "art-305",
+      "art-306",
+      "art-307",
+      "art-308",
+      "art-309",
+      "art-309a",
+      "art-310",
+      "art-311",
+      "art-312",
+      "art-313"
+    ],
+    "total_units": 20,
+    "completed_units": 20,
+    "stage": "drafted_technical_validation",
+    "source_checks": "sources/author-art-297-313-preflight-result.json",
+    "case_law_sources": [
+      "ECLI:NL:HR:2020:322",
+      "ECLI:NL:GHAMS:2016:4304"
+    ],
+    "full_book_build": "Blocked by 79 unassigned missing commentaries beginning art-314; no unrelated prose filled. Full chapter 39 rendered from existing plus assigned commentary using shared builder format.",
+    "bounded_build": "20 units, one chapter, build_repo.py succeeded",
+    "relative_links_ok": true,
+    "limitations": [
+      "Selective case-law coverage.",
+      "Independent second pass remains outstanding.",
+      "Article 309a statutory cross-reference to repealed article 309 expressly flagged."
+    ],
+    "updated_at_utc": "2026-10-21T00:15:46.137134+00:00",
+    "scope": "assigned batch only",
+    "validation_result": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 30824,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
+  },
+  "bounded_review_art_297_313": {
+    "complete": true,
+    "reviewed_ids": [
+      "art-297",
+      "art-298",
+      "art-299",
+      "art-299a",
+      "art-299b",
+      "art-300",
+      "art-301",
+      "art-302",
+      "art-303",
+      "art-304",
+      "art-305",
+      "art-306",
+      "art-307",
+      "art-308",
+      "art-309",
+      "art-309a",
+      "art-310",
+      "art-311",
+      "art-312",
+      "art-313"
+    ],
+    "units_reviewed": 20,
+    "changed_ids": [
+      "art-299",
+      "art-299b",
+      "art-303",
+      "art-307",
+      "art-313"
+    ],
+    "evidence": "sources/review-art-297-313-result.json",
+    "whole_book_complete": false
   }
 }

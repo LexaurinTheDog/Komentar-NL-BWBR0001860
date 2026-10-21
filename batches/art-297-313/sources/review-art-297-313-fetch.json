@@ -1,0 +1,60 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001860",
+    "access_timestamp_utc": "2026-10-21T00:16:47.241788+00:00",
+    "http_status": 200,
+    "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+    "raw_path": "sources/review-art-297-313-current.html",
+    "sha256": "3dc8b19d6f9cb035cde4cc2ad2e5fc08a4c803bb4a2564b4447478bc022f02d2",
+    "bytes": 4132921,
+    "validity_statements": [
+      "Geldend van 01-09-2026 t/m heden.",
+      "Geldend van 01-09-2026 t/m heden."
+    ],
+    "accepted": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "access_timestamp_utc": "2026-10-21T00:16:47.242170+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "raw_path": "sources/review-art-297-313-selected.xml",
+    "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+    "bytes": 2557947,
+    "xml_root": "toestand",
+    "accepted": true
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+    "access_timestamp_utc": "2026-10-21T00:16:47.242337+00:00",
+    "http_status": 200,
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+    "raw_path": "sources/review-art-297-313-wti.xml",
+    "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+    "bytes": 5581608,
+    "xml_root": "wetstechnische-informatie",
+    "accepted": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:322",
+    "access_timestamp_utc": "2026-10-21T00:16:47.242521+00:00",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2020:322",
+    "raw_path": "sources/review-art-297-313-hr-2020-322.xml",
+    "sha256": "2539c64f0abb3c5e0261e51856724f7f513482020f8f2452978977e3fe123356",
+    "bytes": 15306,
+    "xml_root": "open-rechtspraak",
+    "accepted": true
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHAMS:2016:4304",
+    "access_timestamp_utc": "2026-10-21T00:16:47.242642+00:00",
+    "http_status": 200,
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:GHAMS:2016:4304",
+    "raw_path": "sources/review-art-297-313-ghams-2016-4304.xml",
+    "sha256": "2fd10a12718e985b09ccdb276bc2fdd4b800d613f1a0b581e306a30102d423a1",
+    "bytes": 17670,
+    "xml_root": "open-rechtspraak",
+    "accepted": true
+  }
+]

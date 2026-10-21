@@ -1,0 +1,5 @@
+{
+  "returncode": 1,
+  "stdout": "{\"repo\": \"Komentar-NL-BWBR0001860\", \"units\": 20, \"verbatim_ratio\": 1.0, \"commentary_chars\": 32163, \"errors\": [\"necommitnuté změny v repu\"], \"warnings\": [], \"ok\": false}\n",
+  "stderr": ""
+}

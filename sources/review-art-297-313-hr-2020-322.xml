@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2020:322</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2025-10-07T10:04:46</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-21</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19/05095</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2019:1324" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2019:1324, Gevolgd</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>INS-Updates.nl 2020-0070</rdf:li>
+          <rdf:li>RvdW 2020/300</rdf:li>
+          <rdf:li>NJ 2020/93</rdf:li>
+          <rdf:li>JOR 2020/157 met annotatie van Tekstra, A.J.</rdf:li>
+          <rdf:li>Prg. 2020/317</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:322">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2020:322</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-25T15:25:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2020:322 Hoge Raad , 21-02-2020 / 19/05095</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2020:322:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Cassatie in het belang der wet. Schuldsaneringsregeling, verrekening (art. 307 lid 1 Fw). Besluit tot toekenning van WAO-uitkering. Verrekening door uitkerende instantie. Moment waarop schuld van uitkerende instantie aan uitkeringsgerechtigde ontstaat.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2020:322:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para> HOGE RAAD DER NEDERLANDEN</para>
+  </parablock>
+  <parablock>
+    <para>CIVIELE KAMER</para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">Nummer</emphasis>	19/05095 (CW/2017/117)</para>
+    <para>
+      <emphasis role="bold">Datum   </emphasis>	21 februari 2020</para>
+  </parablock>
+  <parablock>
+    <para>ARREST</para>
+  </parablock>
+  <parablock>
+    <para>Op een vordering tot cassatie in het belang der wet, ingesteld door de</para>
+    <para>Procureur-Generaal bij de Hoge Raad der Nederlanden en gericht tegen</para>
+    <para>het arrest van het gerechtshof Arnhem-Leeuwarden van 4 oktober 2016,</para>
+    <para>zaaknummer 200.177.389. </para>
+  </parablock>
+  <para>
+    <emphasis role="bold">1.	Procesverloop</emphasis>
+  </para>
+  <para>Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar: </para>
+  <orderedlist numeration="loweralpha">
+    <listitem>
+      <para>het vonnis in de zaak 162127 van de rechtbank Overijssel van 10 juni 2015;</para>
+    </listitem>
+    <listitem>
+      <para>het arrest in de zaak 200.177.389 van het gerechtshof Arnhem-Leeuwarden van 4 oktober 2016.<footnote-ref linkend="_4231b301-9da8-407b-b1a9-55fb12c73df9" /></para>
+    </listitem>
+  </orderedlist>
+  <parablock>
+    <para>Tegen dit arrest heeft de Procureur-Generaal bij de Hoge Raad beroep in cassatie in het belang der wet ingesteld. </para>
+    <para>De vordering van de Procureur-Generaal strekt ertoe dat de Hoge Raad het bestreden arrest in het belang der wet zal vernietigen en zal verstaan dat de vernietiging geen nadeel zal toebrengen aan de rechten door betrokkenen verkregen.</para>
+  </parablock>
+  <section>
+    <title>
+      <nr>2</nr>Uitgangspunten en feiten</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het gaat in deze zaak om de vraag of de schuld die het Uitvoeringsinstituut werknemersverzekeringen (hierna: UWV) uit hoofde van de Wet op de arbeidsongeschiktheidsverzekering (WAO) heeft aan de uitkeringsgerechtigde ten aanzien van wie de schuldsaneringsregeling werkt, is ontstaan vóór de uitspraak tot de toepassing van de schuldsaneringsregeling. Dat is een eis die art. 307 lid 1 Fw stelt aan de mogelijkheid om de schuld te verrekenen met een vordering op de uitkeringsgerechtigde die is ontstaan vóór de uitspraak tot de toepassing van de schuldsaneringsregeling. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>In cassatie kan van het volgende worden uitgegaan.</para>
+        <para>(i) De uitkeringsgerechtigde ontvangt met ingang van 10 november 1992 een uitkering krachtens de Wet op de arbeidsongeschiktheidsverzekering (WAO) naar een mate van arbeidsongeschiktheid van 80 tot 100%. </para>
+        <para>(ii) Bij besluit van 6 januari 2009 heeft het UWV een bedrag van € 3.696,54 bruto van de uitkeringsgerechtigde teruggevorderd wegens ten onrechte ontvangen toeslag in de periode van 17 september 2007 tot en met 31 januari 2008. Bij besluit van 23 januari 2009 is de uitkeringsgerechtigde een boete opgelegd van € 120,--.</para>
+        <para>(iii) De uitkeringsgerechtigde wordt op zijn WAO-uitkering door het UWV gekort met            € 100,-- bruto per maand bij wege van verrekening met de openstaande schuld. </para>
+        <para>(iv) Bij vonnis van 16 april 2013 is de uitkeringsgerechtigde toegelaten tot de schuldsaneringsregeling, met benoeming van [de bewindvoerder] tot bewindvoerder (hierna: de bewindvoerder).</para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>2.3.1</nr>
+        <para>De bewindvoerder vordert in deze zaak, samengevat, (i) een verklaring voor recht dat het UWV zijn vordering op de uitkeringsgerechtigde niet mag verrekenen met de aan de uitkeringsgerechtigde maandelijks te betalen WAO-uitkeringen en (ii) stopzetting van die verrekening, met (iii) terugbetaling van het reeds ten onrechte door het UWV verrekende bedrag.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.3.2</nr>
+        <parablock>
+          <para>De rechtbank heeft de vorderingen van de bewindvoerder afgewezen. Het hof heeft het vonnis van de rechtbank bekrachtigd.<footnote-ref linkend="_754284f4-4bde-451f-83dd-c2699b01a79b" /> Hiertoe heeft het, samengevat, als volgt overwogen.</para>
+          <para>Tussen partijen is niet in geschil dat de vordering van het UWV op de uitkeringsgerechtigde is ontstaan voordat de schuldsaneringsregeling werd uitgesproken. (rov. 4.3) De schuld die het UWV heeft jegens de uitkeringsgerechtigde ontstaat niet periodiek (per dag of per maand). Een verzekerde heeft, op aanvraag, recht op toekenning van een arbeidsongeschiktheidsuitkering zodra hij 104 weken arbeidsongeschikt is geweest en met ingang van de dag waarop de verzekerde aan alle vereisten voor het recht op toekenning van de WAO-uitkering voldoet. Het recht op toekenning van een WAO-uitkering wordt vastgelegd in een beschikking van het UWV. Dit besluit, dat vatbaar is voor bezwaar en beroep, maakt de aanspraken van de verzekerde op betaling van de uitkering door het UWV rechtens afdwingbaar. Het UWV is vanaf de in het toekenningsbesluit opgenomen datum verplicht een WAO-uitkering te verstrekken. (rov. 4.5) De schuld die het UWV aan de uitkeringsgerechtigde heeft was derhalve al ontstaan vóór de uitspraak tot toepassing van de schuldsaneringsregeling, zodat aan de in art. 307 lid 1 Fw gestelde eis is voldaan. Het UWV heeft zich daarom met recht beroepen op verrekening van zijn vordering op de uitkeringsgerechtigde met zijn schuld aan deze ter zake van de maandelijkse uitkeringen krachtens de WAO. (rov. 4.6)</para>
+        </parablock>
+        <para />
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het middel</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>De Procureur-Generaal heeft gevorderd het arrest van het hof, waartegen geen gewoon rechtsmiddel is ingesteld, in het belang der wet te vernietigen. Het daartoe aangevoerde middel betoogt dat het oordeel van het hof getuigt van een onjuiste rechtsopvatting, omdat het miskent dat de schuld van het UWV aan de uitkeringsgerechtigde van rechtswege ontstaat op het moment dat aan de wettelijke vereisten voor een WAO-uitkering wordt voldaan en wel van dag tot dag. Art. 307 lid 1 Fw brengt, anders dan waarvan het hof is uitgegaan, daarom mee dat het UWV een vóór de uitspraak tot toepassing van de schuldsanering ontstane vordering op de uitkeringsgerechtigde niet kan verrekenen met de aan deze verschuldigde uitkering over de tijd vanaf die uitspraak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <parablock>
+        <para>Tot uitgangspunt dient dat het (materiële) recht op een arbeidsongeschiktheidsuitkering op grond van de WAO van rechtswege ontstaat zodra is voldaan aan de wettelijke voorwaarden daarvoor (art. 19 WAO en art. 35 WAO).<footnote-ref linkend="_0a37b310-e2f9-4267-8b0c-c82549469c5e" /> Door een besluit van het UWV tot vaststelling van de uitkering, wordt het materiële recht op een uitkering formeel vastgesteld. Aan een dergelijk besluit komt slechts de betekenis toe dat de inhoud van een reeds bestaand recht op uitkering, behoudens bezwaar en beroep, bindend wordt vastgesteld.<footnote-ref linkend="_38df6b53-bd80-48cd-9925-a4cd90dc5e47" /></para>
+        <para>Een van de wettelijke voorwaarden voor het ontstaan van een recht op een arbeidsongeschiktheidsuitkering op grond van de WAO is dat de verzekerde arbeidsongeschikt is in de zin van die wet (art. 18 WAO). Voor het bepalen van het bedrag van de arbeidsongeschiktheidsuitkering vormt het dagloon de maatstaf (art. 21 lid 1 WAO).<footnote-ref linkend="_5a5a5490-f46e-4dc8-8a5f-64b10d061a5d" /> De toekenning, herziening, intrekking en beëindiging van een uitkering gaan in op de (werk)dag met ingang waarvan aan de desbetreffende wettelijke voorwaarden is voldaan (art. 35 WAO, art. 42 lid 1 WAO, art. 43 lid 2 WAO en art. 49 WAO). De hoogte van de uitkering wordt per dag berekend (art. 21 lid 2 WAO). Gelet op een en ander moet worden aangenomen dat de schuld die het UWV heeft aan de uitkeringsgerechtigde ontstaat per (werk)dag waarop sprake is van arbeidsongeschiktheid.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>De schuld van het UWV ter zake van een arbeidsongeschiktheidsuitkering op grond van de WAO ontstaat, voor zover zij betrekking heeft op na de uitspraak tot toepassing van de schuldsaneringsregeling bestaande arbeidsongeschiktheid, dus pas na die uitspraak en wel telkens per (werk)dag. Het UWV kan deze schuld dan ook niet op de voet van art. 307 lid 1 Fw verrekenen met een vóór die uitspraak ontstane vordering op een uitkeringsgerechtigde ten aanzien van wie de schuldsaneringsregeling werkt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Uit hetgeen hiervoor in 3.2 en 3.3 is overwogen volgt dat het middel gegrond is.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>- vernietigt, in het belang der wet, het arrest van het gerechtshof Arnhem-Leeuwarden van 4 oktober 2016;</para>
+      <para>- verstaat dat deze vernietiging geen nadeel toebrengt aan de door partijen verkregen rechten.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gegeven door de vicepresident E.J. Numann als voorzitter en de raadsheren           T.H. Tanja-van den Broek, C.E. du Perron, C.H. Sieburgh en H.M. Wattendorff, en in het openbaar uitgesproken door de raadsheer C.E. du Perron op <emphasis role="underline">21 februari 2020</emphasis>.</para>
+    </parablock>
+  </section>
+  <footnote id="_4231b301-9da8-407b-b1a9-55fb12c73df9" label="1">
+    <para> ECLI:NL:GHARL:2016:7955.</para>
+  </footnote>
+  <footnote id="_754284f4-4bde-451f-83dd-c2699b01a79b" label="2">
+    <para> 	Hof Arnhem-Leeuwarden 4 oktober 2016, ECLI:NL:GHARL:2016:7955.</para>
+  </footnote>
+  <footnote id="_0a37b310-e2f9-4267-8b0c-c82549469c5e" label="3">
+    <para> 	Vgl. Kamerstukken II 1962/63, 7171, nr. 3, p. 42, p. 50.</para>
+  </footnote>
+  <footnote id="_38df6b53-bd80-48cd-9925-a4cd90dc5e47" label="4">
+    <para> 	Vgl. voor een uitkering op grond van de Werkloosheidswet HR 17 juni 2011, ECLI:NL:HR:2011:BQ0709, rov. 3.4.2 en op grond van Wet werk en arbeidsondersteuning jonggehandicapten CRvB 31 mei 2017, ECLI:NL:CRVB:2017:2038, rov. 4.5.</para>
+  </footnote>
+  <footnote id="_5a5a5490-f46e-4dc8-8a5f-64b10d061a5d" label="5">
+    <para> 	Zie ook Kamerstukken II 1962/63, 7171, nr. 3, p. 38, 50.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

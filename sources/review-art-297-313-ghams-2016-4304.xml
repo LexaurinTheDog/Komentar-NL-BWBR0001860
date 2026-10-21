@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:GHAMS:2016:4304</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2017-02-06T11:28:41</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2016-11-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Gerechtshof_Amsterdam" scheme="overheid.RechterlijkeMacht">Gerechtshof Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2016-11-01</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">200.148.632/01</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHAMS:2016:4304">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHAMS:2016:4304</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2017-02-06T11:27:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2017-02-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:GHAMS:2016:4304 Gerechtshof Amsterdam , 01-11-2016 / 200.148.632/01</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:GHAMS:2016:4304:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Vervolg van tussenarrest 1 maart 2016. Vorderingen tot ontbinding huurovereenkomst en ontruiming terecht toegewezen. Wanprestatie ter zake van betalingsverplichting. Betekenis van lopende schuldsanering en eventuele beëindiging met ‘schone lei’.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:GHAMS:2016:4304:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">GERECHTSHOF AMSTERDAM</bridgehead>
+    <para />
+    <parablock>
+      <para>afdeling civiel recht en belastingrecht, team I</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer 				: 200.148.632/01</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer rechtbank Amsterdam		: 1354653/CV EXPL 12-17870 </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">arrest van de meervoudige burgerlijke kamer van 1 november 2016</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>inzake</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [appellante]
+        </emphasis>, </para>
+      <para>wonend te [woonplaats] , appellante,</para>
+      <para>voor deze <emphasis role="bold">ORGANISATIE VOOR BEWINDVOERING EN INSOLVENTIE NEDERLAND (OBIN) B.V., in haar hoedanigheid van bewindvoerder van appellante</emphasis>,</para>
+      <para>advocaat: mr. L.F. Nijenhuis te Tiel,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">STICHTING STADGENOOT</emphasis>,</para>
+      <para>gevestigd te Amsterdam,</para>
+      <para>geïntimeerde,</para>
+      <para>advocaat: mr. S.J.M. Verhoeven te Amsterdam.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Het verdere verloop van het geding</title>
+    <para />
+    <parablock>
+      <para>Het hof heeft in deze zaak op 1 maart 2016 een tussenarrest uitgesproken. Voor het verloop van het geding tot die datum wordt verwezen naar dat tussenarrest.</para>
+      <para>Na dat tussenarrest hebben partijen - hierna wederom [appellante] en Stadgenoot te noemen - ieder een akte houdende uitlating na arrest ingediend, [appellante] met producties.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ten slotte is wederom arrest gevraagd.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>2</nr>Verder beoordeling</title>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het hof heeft in het hiervoor genoemde tussenarrest partijen in de gelegenheid gesteld zich erover uit te laten of het door [appellante] bij de rechtbank hangende het onderhavige hoger beroep ingediende verzoek tot toepassing van de wettelijke schuldsaneringsregeling is toegewezen en over wat zich heeft voorgedaan na het door de rechtbank uitgesproken moratorium, dat op 2 juni 2015 zou aflopen. Aan partijen is voorts verzocht daarbij te betrekken welke consequenties volgens hen verbonden zijn aan artikel 305 lid 2 Faillissementswet (Fw).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>
+        [appellante] heeft in haar akte meegedeeld en Stadgenoot heeft beaamd dat de rechtbank bij vonnis van 14 augustus 2015 de schuldsaneringsregeling op  [appellante] van toepassing heeft verklaard, met benoeming van Stichting CAV ( [X] ) te Amsterdam, tot bewindvoerder in de zin van die regeling. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>
+        [appellante] stelt zich op het standpunt dat artikel 305 lid 2 Fw meebrengt dat aan Stadgenoot geen vordering meer toekomt voor opzegging, ontbinding van de huurovereenkomst of ontruiming van de woning. Ontruiming dient op grond van genoemde wetsbepaling te worden opgeschort gelijk de huurovereenkomst voor de duur van de wettelijke saneringsregeling dient te worden verlengd. [appellante] beroept zich daarbij op een door haar overgelegde schriftelijke verklaring van haar (beschermings)bewindvoerder OBIN B.V. van 11 maart 2016 waaruit blijkt dat [appellante] heeft voldaan aan haar huurbetalingsverplichtingen vanaf augustus 2014 tot de datum waarop de schuldsaneringsregeling op haar van toepassing is verklaard en in de periode daarna. [appellante] concludeert in haar akte dat de vordering van Stadgenoot tot ontruiming moet worden afgewezen en subsidiair uitsluitend voorwaardelijk kan worden toegewezen, namelijk onder de opschortende voorwaarde dat (1) ontruiming eerst kan worden gevorderd na afloop van de duur van de schuldsanering, (2) als [appellante] na afloop van de schuldsanering de dat moment lopende huurverplichtingen jegens Stadgenoot niet nakomt en na in gebreke te zijn gesteld, in verzuim blijft. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Stadgenoot erkent in haar akte dat [appellante] haar lopende huurbetalingsverplichtingen correct nakomt, maar zij wijst op de zeer forse betalingsachterstand van [appellante] die, afgezien van de gerechtelijke en buitengerechtelijke kosten, meer dan € 10.000,= beloopt. Hoewel zij het vonnis van de kantonrechter tot ontruiming op grond van artikel 305 lid 2 Fw niet zal tenuitvoerleggen, is dit vonnis volgens Stadgenoot een welkome stok achter de deur voor het geval [appellante] opnieuw een achterstand in de betaling van de huur laat ontstaan. Stadgenoot voert aan dat er geen reden is om het vonnis van de kantonrechter te vernietigen, omdat de kantonrechter de ontbinding van de huurovereenkomst en de ontruiming terecht heeft toegewezen. Zij verzoekt [appellante] niet-ontvankelijk te verklaren in het hoger beroep, althans dat als ongegrond af te wijzen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>De (drie) grieven van [appellante] keren zich niet tegen de vaststelling in het bestreden vonnis dat zij een huurachterstand, berekend tot en met augustus 2013, van € 1.683,59 heeft doen ontstaan en tegen de veroordeling door de kantonrechter tot betaling van dit bedrag aan Stadgenoot, te vermeerderen met wettelijke rente en € 178,50 aan buitengerechtelijke kosten. Het bestreden vonnis dient reeds daarom in zoverre te worden bekrachtigd. Nu voormelde betalingsveroordeling is uitgesproken vóór het vonnis waarbij de schuldsanering van toepassing is verklaard, dient Stadgenoot deze vordering bij de bewindvoerder in de schuldsaneringsregeling ter verificatie in te dienen. Ditzelfde geldt voor de overige door Stadgenoot genoemde vorderingen tot betaling van achterstallige huur met kosten en rente uit hoofde van eerdere rechterlijke veroordelingen uit 2004, 2007, 2008 en 2010 en de vordering tot betaling van huur in de periode na het bestreden vonnis tot aan de datum van het vonnis tot toepasselijkverklaring van de wettelijke schuldsaneringsregeling voor zover [appellante] deze onbetaald heeft gelaten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>
+        [appellante] keert zich in haar grieven wel tegen de door de kantonrechter uitgesproken ontbinding van de huurovereenkomst tussen partijen met betrekking tot de door [appellante] van Stadgenoot gehuurde woning (aan de Jacob van Lennepstraat 13/H te Amsterdam) en de veroordeling van [appellante] om het gehuurde te ontruimen en aan Stadgenoot ter beschikking te stellen. De kantonrechter heeft in het bestreden vonnis geoordeeld dat de huurachterstand van [appellante] tot en met augustus 2013 van € 1.683,59, zelfs indien het zogenoemde watergeld, onderdeel van de servicekosten, waarvan [appellante] betoogt dat Stadgenoot haar daarvoor voor een te hoog bedrag heeft aangeslagen, niet wordt meegerekend, zodanig is dat de vordering tot ontbinding van de huurovereenkomst en ontruiming van het gehuurde toewijsbaar is. De eerdere in 2004, 2007, 2008 en 2010 uitgesproken vonnissen waarbij [appellante] is veroordeeld tot betaling aan Stadgenoot van achterstallige huur, heeft de kantonrechter daarbij buiten beschouwing gelaten aangezien het vaste rechtspraak is (het hof begrijpt: van de rechtbank Amsterdam) dat slechts rekening wordt gehouden met herhaalde toerekenbare tekortkomingen in de betaling van de huurpenningen indien die tekortkoming heeft geleid tot een vonnis dat van niet langer dan een jaar geleden dateert en de huurder in dat jaar weer een huurachterstand heeft laten ontstaan. [appellante] voert, samengevat, aan dat de kantonrechter onvoldoende gewicht heeft toegekend aan de omstandigheid dat de huurachterstand mede is ontstaan door bij [appellante] bestaande onduidelijkheid over de hoogte van het watergeld, dat pas uiteindelijk tijdens de procedure in eerste aanleg duidelijk geworden welk bedrag aan watergeld zij in het verleden zou hebben moeten betalen en, omdat dit meer was dan zij veronderstelde, zij in 2012 een te hoog bedrag op de huur heeft ingehouden, waardoor de huurachterstand is ontstaan en zij niet in staat is geweest die achterstand in te lopen. [appellante] heeft daarbij gewezen op haar persoonlijke omstandigheden. Zij is bijna 66 jaar oud, alleenstaand en zeer gehecht aan haar buurt en omgeving en is daarop aangewezen. Haar broer woont niet ver van haar vandaan en heeft min of meer de mantelzorg over haar op zich genomen. Zij is mindervalide en zeer slecht ter been. [appellante] had, ten slotte, een lage WAO-uitkering en heeft nu alleen een AOW-uitkering en geen aanvullend pensioen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Het hof is van oordeel dat de kantonrechter de vordering van Stadgenoot tot ontbinding van de huurovereenkomst en tot ontruiming van de woning terecht heeft toegewezen. Het hof passeert de stelling van [appellante] dat zij een huurachterstand als waarvan hier sprake is, heeft mogen laten ontstaan doordat voor haar lange tijd onduidelijk was of Stadgenoot het juiste bedrag aan watergeld doorberekende. [appellante] heeft bij conclusie van antwoord in eerste aanleg als eerste productie in het geding gebracht een brief van haar aan haar advocaat, waarin zij zelf ervan uitgaat aanspraak te kunnen maken op terugbetaling door Stadgenoot van € 239,= wegens over de periode 2008 tot en met 2012 te veel betaald watergeld. Dit bedrag is veel minder dan de huurachterstand die [appellante] in 2012 heeft laten ontstaan. De kantonrechter heeft overigens in zijn vonnis rekening gehouden met een lager bedrag aan watergeld per 1 januari 2011 en de huurachterstand, zoals hiervoor overwogen, vastgesteld op € 1.683,59 in de periode tot en met augustus 2013. Het gestelde teveel betaalde bedrag aan watergeld rechtvaardigde derhalve in het geheel niet de bedragen die [appellante] in de loop van 2012 op de huur heeft ingehouden en die tot voornoemde huurachterstand heeft geleid. Hierbij komt dat [appellante] de huur ook in het verleden herhaaldelijk niet volledig heeft betaald, hetgeen onder meer heeft geleid tot rechterlijke veroordelingen in 2004, 2007, 2008 en 2010 en na het vonnis in eerste aanleg de huurachterstand nog aanzienlijk is toegenomen. [appellante] is derhalve in het verleden herhaaldelijk en ernstig tekortgeschoten in de nakoming van haar betalingsverplichtingen uit de huurovereenkomst en zij geeft ook na het bestreden vonnis er geen blijk van haar betalingsverplichtingen in acht te nemen. Onder die omstandigheden kan niet worden gezegd dat de wanprestatie de ontbinding niet rechtvaardigt. De door [appellante] aangevoerde persoonlijke omstandigheden leggen naar het oordeel van het hof onvoldoende gewicht in de schaal om tot een ander oordeel te komen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.6</nr>
+      <para>Het voorgaande leidt tot de slotsom dat de grieven tevergeefs zijn voorgesteld. Het vonnis zal daarom worden bekrachtigd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.7</nr>
+      <para>Anders dan [appellante] heeft betoogd, leidt artikel 305 lid 2 Fw niet tot andere uitkomst. Het bepaalde in de tweede volzin van die bepaling leidt ertoe dat Stadgenoot het bestreden vonnis voor de duur van de schuldsaneringsregeling niet ten uitvoer mag leggen, mits [appellante] de lopende huurpenningen tijdig voldoet. Voor het geval [appellante] de schuldsaneringsregeling met succes doorloopt en deze wordt beëindigd met een ‘schone lei’ (artikel 358 Fw) zal daarvan overigens tevens het gevolg zijn dat Stadgenoot het ontruimingsvonnis ook dan niet ten uitvoer mag leggen, nu immers aan dat vonnis de vordering ter zake van huurachterstand, die dan niet meer afdwingbaar is, ten grondslag ligt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.8</nr>
+      <para>Als de in het ongelijk gestelde partij behoort [appellante] te worden verwezen in de proceskosten van het hoger beroep, alsmede in de kosten van het incident strekkende tot uitvoerbaarverklaring bij voorraad van het bestreden vonnis waarin het hof op 28 oktober 2014 uitspraak heeft gedaan.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het hof:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>bekrachtigt het vonnis waarvan beroep;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>veroordeelt [appellante] in de kosten van het geding in hoger beroep, in de hoofdzaak tot op heden aan de zijde van Stadgenoot begroot op € 704,= aan verschotten en € 948,=  voor salaris, en in het incident op € 632,= aan salaris.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door mrs. J.C.W. Rang, L.A.J. Dun en J.E. Molenaar en door de rolraadsheer in het openbaar uitgesproken op 1 november 2016.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

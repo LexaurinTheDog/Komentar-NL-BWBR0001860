@@ -1,0 +1,27 @@
+{
+  "method": "Existing citations independently reread in full, freshly retrieved official Rechtspraak XML, identical hashes to author snapshots. Existing HR local corpus snapshot read; no new case-law holdings imported.",
+  "queries": [
+    "ECLI:NL:HR:2020:322",
+    "ECLI:NL:GHAMS:2016:4304"
+  ],
+  "authority_checks": [
+    {
+      "ecli": "ECLI:NL:HR:2020:322",
+      "paragraphs": "3.2–3.4 and dictum; full facts/process read",
+      "holding": "WAO debt arises per relevant workday; old award does not allow offset of new daily entitlements; cassation in interest of law preserves acquired party rights.",
+      "supports": [
+        "art-307"
+      ]
+    },
+    {
+      "ecli": "ECLI:NL:GHAMS:2016:4304",
+      "paragraphs": "final 2.5–2.8 and dictum; full text read",
+      "holding": "Old dissolution/eviction judgment affirmed; execution barred during WSNP if current rent paid; later schone lei consequence tied to old arrears.",
+      "supports": [
+        "art-305"
+      ],
+      "numbering_warning": "Official text repeats 2.3 and 2.4; party assertions distinguished."
+    }
+  ],
+  "limits": "Selectieve rechtspraakcontrole van twee reeds aangehaalde volledige uitspraken; geen uitputtende actuele rechtspraakinventarisatie."
+}

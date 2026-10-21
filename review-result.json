@@ -1,57 +1,190 @@
 {
+  "kind": "review",
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "art-282",
-    "art-283",
-    "art-284",
-    "art-285",
-    "art-286",
-    "art-287",
-    "art-287a",
-    "art-287b",
-    "art-288",
-    "art-289",
-    "art-290",
-    "art-291",
-    "art-292",
-    "art-293",
-    "art-294",
-    "art-294a",
-    "art-294b",
-    "art-295",
-    "art-295a",
-    "art-296"
+    "art-297",
+    "art-298",
+    "art-299",
+    "art-299a",
+    "art-299b",
+    "art-300",
+    "art-301",
+    "art-302",
+    "art-303",
+    "art-304",
+    "art-305",
+    "art-306",
+    "art-307",
+    "art-308",
+    "art-309",
+    "art-309a",
+    "art-310",
+    "art-311",
+    "art-312",
+    "art-313"
   ],
   "unresolved_blockers": [],
-  "findings": {
-    "art-282": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-283": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-284": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-285": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-286": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-287": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-287a": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-287b": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-288": "Verduidelijkt: vijfjaarstermijn ziet op onherroepelijkheid veroordeling; afbakening door artikel 358 lid 4. Huidige driejaarstoets en vervallen tienjaarsuitsluiting gecontroleerd.",
-    "art-289": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-290": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-291": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-292": "Verduidelijkt: bijzonder internationaal-bevoegdheidsverzet, concrete twintig- en acht-dagentermijnen; BY0966 rov. 3.5–3.6.5 volledig gecontroleerd.",
-    "art-293": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-294": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-294a": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-294b": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-295": "Uitzonderingen 21 nader onderscheiden van eigen inkomensregeling; partnerbescherming 22 en levensverzekering 22a uitgewerkt. HR 2021:1670 en 2023:53 dragen de onderscheiden regels.",
-    "art-295a": "Aanvaard na vergelijking van volledige wettekst, toelichting, interne verwijzingen en fictief voorbeeld.",
-    "art-296": "Formulering over beheer versus vervreemding verduidelijkt; HR 2021:1670 rov. 4.2.4 gecontroleerd."
-  },
+  "findings": [
+    {
+      "id": "art-297",
+      "changed": false,
+      "finding": "Zelfstandige handelingsbevoegdheid, boedelvoorbehoud, drie toestemmingsgroepen en exclusieve vernietigingsgrond gecontroleerd.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel297"
+    },
+    {
+      "id": "art-298",
+      "changed": false,
+      "finding": "Vervallen slot; datum 1 januari 2008 bevestigd in officiële artikelmetadata; geen historische norm toegepast.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel298"
+    },
+    {
+      "id": "art-299",
+      "changed": true,
+      "finding": "Alle vijf categorieën en verificatie/executieverwijzing gecontroleerd; ondeugdelijk leveranciersvoorbeeld vervangen door teruggaaf na ontbinding en eventuele waardevergoeding.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel299"
+    },
+    {
+      "id": "art-299a",
+      "changed": false,
+      "finding": "Uitzondering studieschuld, uitzondering achterstallige schuld, aflosfase en rentevrijstelling afzonderlijk gecontroleerd.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel299a"
+    },
+    {
+      "id": "art-299b",
+      "changed": true,
+      "finding": "Alle vijf leden en wederzijdse termijnen gecontroleerd; extra verwijzingsbreuk naar vervallen artikel 326 nu uitgelegd, artikel 347 lid 2 behouden.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel299b"
+    },
+    {
+      "id": "art-300",
+      "changed": false,
+      "finding": "Borg/medeschuldenaar versus regres en voorkoming dubbele inning gecontroleerd.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel300"
+    },
+    {
+      "id": "art-301",
+      "changed": false,
+      "finding": "Fiscale inningsroute, schorsing executie, verval beslag, beperkte herleving en registertermijn onderscheiden.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel301"
+    },
+    {
+      "id": "art-302",
+      "changed": false,
+      "finding": "Van rechtswege ontslag beperkt tot relevante gijzeling; geen algemene invrijheidstelling geclaimd.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel302"
+    },
+    {
+      "id": "art-303",
+      "changed": true,
+      "finding": "Beide momenten renteherleving gecontroleerd; belangrijke samenhang met uitsluiting schone lei in artikel 358 lid 5 toegevoegd.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel303"
+    },
+    {
+      "id": "art-304",
+      "changed": false,
+      "finding": "Oude nutsachterstand, ontbinding en saneringsbeding onderscheiden; nieuwe termijnen blijven verschuldigd.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel304"
+    },
+    {
+      "id": "art-305",
+      "changed": false,
+      "finding": "Vier leden, huurtermijnen en vooruitbetaling gecontroleerd; volledige GHAMS-uitspraak bevestigt beperkte executie-uitleg, geen vernietiging oud vonnis.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel305"
+    },
+    {
+      "id": "art-306",
+      "changed": false,
+      "finding": "Nietigheid alleen voor bedoelde buitenboedelbetaling op saneringsvordering; onderscheid vernietigbaarheid behouden.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel306"
+    },
+    {
+      "id": "art-307",
+      "changed": true,
+      "finding": "Temporele eis en volledig HR-arrest gecontroleerd; uitleg artikel 53 leden 2 en 3 geconcretiseerd tot berekening en verbod beroep bewindvoerder op 6:136 BW.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel307"
+    },
+    {
+      "id": "art-308",
+      "changed": false,
+      "finding": "Niet-toerekening op oude schuld versus bepaling welke nieuwe schuld is voldaan correct onderscheiden.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel308"
+    },
+    {
+      "id": "art-309",
+      "changed": false,
+      "finding": "Vervallen per 1 januari 2008 bevestigd; geen oude hoofdregel ingevoegd.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel309"
+    },
+    {
+      "id": "art-309a",
+      "changed": false,
+      "finding": "Verwijzing naar vervallen 309 lid 1 bevestigd als tekstuele breuk; geen zelfstandige actuele vrijstelling afgeleid.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel309a"
+    },
+    {
+      "id": "art-310",
+      "changed": false,
+      "finding": "Rechterlijke betalingsroute, kennisgeving, buitenboedelstatus en afzonderlijke administratie getoetst per lid.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel310"
+    },
+    {
+      "id": "art-311",
+      "changed": false,
+      "finding": "Beschikking, periode en voorwaarden, toestemming normale handelingen en kwalificatie boedelschuld gecontroleerd.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel311"
+    },
+    {
+      "id": "art-312",
+      "changed": false,
+      "finding": "Faillissement alleen wegens buitenregelingvorderingen, einde/herleving van rechtswege en publicatie gecontroleerd.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel312"
+    },
+    {
+      "id": "art-313",
+      "changed": true,
+      "finding": "Exacte reeksen schakelbepaling gecontroleerd; duur, verlenging en uitzondering boedelschuldeisers afkoeling verduidelijkt.",
+      "source_path": "sources/review-art-297-313-selected.xml",
+      "official_path": "/TiteldeelIII/AfdelingTweede/Artikel313"
+    }
+  ],
   "limitations": [
-    "Uitsluitend toegewezen twintig artikelen inhoudelijk beoordeeld; geen voltooiing gehele boek.",
-    "Selectieve rechtspraak: drie volledige reeds aangehaalde uitspraken opnieuw gelezen en officieel opgehaald; geen exhaustieve latere-rechtspraakaudit.",
-    "Externe overgangswetten en nadere registerregelgeving niet zelfstandig doorgelicht.",
+    "Uitsluitend deze twintig artikelen nagelezen; hele boek onvoltooid.",
+    "Selectieve rechtspraakcontrole van twee reeds aangehaalde volledige uitspraken; geen uitputtende actuele rechtspraakinventarisatie.",
+    "Externe BW-, Wft-, studiefinancierings- en invorderingsregels niet afzonderlijk volledig geannoteerd; verwijzingen niet uitgebreid buiten geverifieerde wettekst.",
+    "Wettelijke verwijzingsbreuken in 299b en 309a zijn expliciet verklaard; officiële tekst niet aangepast.",
     "Geen externe professionele goedkeuring."
   ],
-  "verified_at": "2026-10-21T00:10:50.405341+00:00",
-  "stage": "bounded_second_pass_complete"
+  "changed_ids": [
+    "art-299",
+    "art-299b",
+    "art-303",
+    "art-307",
+    "art-313"
+  ],
+  "whole_book_complete": false,
+  "source_preflight": "sources/review-art-297-313-preflight-result.json",
+  "case_law_sources": [
+    "ECLI:NL:HR:2020:322",
+    "ECLI:NL:GHAMS:2016:4304"
+  ]
 }

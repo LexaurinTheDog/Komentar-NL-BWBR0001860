@@ -1,0 +1,5 @@
+{
+  "returncode": 1,
+  "stdout": "{\"repo\": \"Komentar-NL-BWBR0001860\", \"units\": 639, \"verbatim_ratio\": 1.0, \"commentary_chars\": 832820, \"errors\": [\"krátký/chybějící komentář u 79 jednotek: ['art-314(0<400)', 'art-315(0<400)', 'art-316(0<400)', 'art-316a(0<400)', 'art-317(0<400)', 'art-318(0<400)', 'art-319(0<400)', 'art-320(0<400)']\", \"necommitnuté změny v repu\"], \"warnings\": [], \"ok\": false}\n",
+  "stderr": ""
+}
