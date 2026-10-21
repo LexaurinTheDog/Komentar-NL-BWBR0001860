@@ -1,0 +1,15 @@
+{
+  "exit_code": 1,
+  "result": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 639,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 870944,
+    "errors": [
+      "krátký/chybějící komentář u 59 jednotek: ['art-330(0<400)', 'art-331(0<120)', 'art-332(0<400)', 'art-333(0<120)', 'art-333a(0<400)', 'art-334(0<120)', 'art-335(0<400)', 'art-336(0<120)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "stderr": ""
+}

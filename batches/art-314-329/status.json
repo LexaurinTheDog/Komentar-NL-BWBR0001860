@@ -30,7 +30,7 @@
     "ECLI:NL:HR:2023:53",
     "ECLI:NL:HR:2021:1676"
   ],
-  "updated_at_utc": "2026-10-21T00:25:22.161167+00:00",
+  "updated_at_utc": "2026-10-21T00:26:05.826308+00:00",
   "limitations": [
     "Independent second pass pending.",
     "Selective case-law research.",
@@ -38,5 +38,18 @@
   ],
   "whole_book_complete": false,
   "bounded_build": "build_repo.py succeeded; 20 units, 4 chapter files, chapter 43 only art-329",
-  "validation_result": "Pending post-commit strict validation."
+  "validation_result": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 38124,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "full_book_validation": {
+    "ok": false,
+    "remaining_unassigned_units": 59,
+    "evidence": "sources/author-art-314-329-full-validation.json"
+  }
 }

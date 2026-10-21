@@ -2,7 +2,7 @@
   "title": "Faillissementswet",
   "identifier": "BWBR0001860",
   "stage": "authoring_incomplete",
-  "updated_at_utc": "2026-10-21T00:25:22.161167+00:00",
+  "updated_at_utc": "2026-10-21T00:26:05.826308+00:00",
   "decisive_date": "2026-10-19",
   "source_version": "2026-09-01_0",
   "source_checks": {
@@ -29,7 +29,8 @@
     "unaccounted_legal_text_nodes": 0,
     "version_evidence": "sources/version-evidence.json",
     "bounded_review_reverified_at_utc": "2026-10-20T21:47:05.474183+00:00",
-    "bounded_review_evidence": "sources/review-art-60a-72-fetch.json"
+    "bounded_review_evidence": "sources/review-art-60a-72-fetch.json",
+    "latest_bounded_verification": "sources/author-art-314-329-preflight-result.json"
   },
   "total_units": 639,
   "completed_units": 580,
@@ -120,21 +121,18 @@
   ],
   "case_law_scope": "Fourteen selected full HR decisions across preserved authoring and review stages; five new decisions read in this bounded review. No exhaustive coverage or separate case for each technical unit.",
   "full_build": {
-    "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001860",
     "exit_code": 1,
     "stdout": "",
-    "stderr": "CHYBÍ komentář k 342 jednotkám, např.: ['art-212j', 'art-212k', 'art-212l', 'art-212m', 'art-212ma', 'art-212n', 'art-212o', 'art-212p', 'art-212q', 'art-212r']\n",
-    "ok": false,
-    "scope": "Full-book build after exact art-41–60 second reading; 342 missing unassigned commentaries remain outside the bounded task.",
-    "reason": "No empty commentary, omission or weakened shared builder introduced."
+    "stderr": "CHYBÍ komentář k 59 jednotkám, např.: ['art-330', 'art-331', 'art-332', 'art-333', 'art-333a', 'art-334', 'art-335', 'art-336', 'art-337', 'art-338']\n",
+    "whole_book_complete": false
   },
   "validation": {
     "repo": "Komentar-NL-BWBR0001860",
     "units": 639,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 345009,
+    "commentary_chars": 870944,
     "errors": [
-      "krátký/chybějící komentář u 342 jednotek: ['art-212j(0<400)', 'art-212k(0<400)', 'art-212l(0<400)', 'art-212m(0<120)', 'art-212ma(0<120)', 'art-212n(0<400)', 'art-212o(0<400)', 'art-212p(0<400)']"
+      "krátký/chybějící komentář u 59 jednotek: ['art-330(0<400)', 'art-331(0<120)', 'art-332(0<400)', 'art-333(0<120)', 'art-333a(0<400)', 'art-334(0<120)', 'art-335(0<400)', 'art-336(0<120)']"
     ],
     "warnings": [],
     "ok": false
@@ -2174,7 +2172,7 @@
       "ECLI:NL:HR:2023:53",
       "ECLI:NL:HR:2021:1676"
     ],
-    "updated_at_utc": "2026-10-21T00:25:22.161167+00:00",
+    "updated_at_utc": "2026-10-21T00:26:05.826308+00:00",
     "limitations": [
       "Independent second pass pending.",
       "Selective case-law research.",
@@ -2182,6 +2180,19 @@
     ],
     "whole_book_complete": false,
     "bounded_build": "build_repo.py succeeded; 20 units, 4 chapter files, chapter 43 only art-329",
-    "validation_result": "Pending post-commit strict validation."
+    "validation_result": {
+      "repo": "Komentar-NL-BWBR0001860",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 38124,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "full_book_validation": {
+      "ok": false,
+      "remaining_unassigned_units": 59,
+      "evidence": "sources/author-art-314-329-full-validation.json"
+    }
   }
 }
