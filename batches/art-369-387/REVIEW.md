@@ -1,5 +1,7 @@
-# Auteurscontrole
+# Tweede lezing — artikelen 369–387
 
-Alle negentien toegewezen artikelen zijn gelezen, inclusief leden en letteronderdelen. De toelichtingen zijn gecontroleerd op toepassingsgebied, tijdstippen, stemdrempels, samenloop van algemene en bijzondere bescherming en onderscheid tussen gewijzigde rechten en nieuwe verplichtingen. Twee volledige primaire arresten zijn gelezen en hun eigen oordelen zijn onderscheiden van partijstellingen en aangehaalde rechtbankredenering.
+Op 21 oktober 2026 zijn precies de negentien toegewezen artikelen inhoudelijk gelezen tegen vers opgehaald officieel XML. Beide aangehaalde HR-uitspraken zijn volledig herlezen. Interne verwijzingen zijn getoetst aan de bron, waaronder artikelen 147, 160, 165, 241a en 241c.
 
-Dit is een auteurscontrole, geen onafhankelijke tweede beoordeling. Technische controles bewijzen brondekking en letterlijke overeenstemming, geen juridische kwaliteit. Een nieuw proces moet de zelfstandige tweede inhoudelijke controle uitvoeren. Overgangswetgeving en internationale erkenningsvragen zijn niet uitputtend onderzocht.
+Bij artikel 371 zijn de verschillende toewijzingsregels voor eigen verzoek en meerderheidssteun verduidelijkt. Artikel 375 spreekt nu correct van een open informatieplicht. Artikel 378 vermeldt de betekenis van artikel 147 en suggereert niet langer dat lid 6 de kostenregeling van artikel 371 lid 10 toepasselijk verklaart. Artikel 384 onderscheidt noodzakelijke nieuwe financiering van onmiddellijk noodzakelijke transacties en noemt alle functionarissen van lid 2 onder h. Artikel 387 behandelt nu ook de bewijslast en het maximale maanduitstel volgens artikel 165.
+
+[Exacte beoordelingen](review-result.json), [broncontrole](preflight-result.json), [HTTP-resultaten en hashes](sources/review-art-369-387-fetch.json). Geen materiële blokkade binnen deze batch. Rechtspraak en externe regimes zijn selectief onderzocht. Dit verslag betreft deze negentien artikelen; het verklaart het gehele boek niet voltooid en vormt geen externe professionele goedkeuring.

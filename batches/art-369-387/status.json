@@ -1,9 +1,8 @@
 {
-  "scope": "Bounded author task articles 369\u2013387 only",
-  "stage": "drafted_technical_validation",
+  "stage": "reviewed_batch_technical_validation_pending",
   "total_units": 19,
   "completed_units": 19,
-  "completed_ids": [
+  "reviewed_ids": [
     "art-369",
     "art-370",
     "art-371",
@@ -24,47 +23,11 @@
     "art-386",
     "art-387"
   ],
-  "source_checks": {
-    "official_current_page_http": 200,
-    "selected_xml_http": 200,
-    "wti_http": 200,
-    "effective_version": "2026-09-01",
-    "verified_date": "2026-10-21",
-    "statutory_text_agreement": 1.0,
-    "coverage_evidence": "coverage-evidence.json",
-    "verification": "sources/verification.json"
-  },
-  "case_law_sources": [
-    "ECLI:NL:HR:2022:328",
-    "ECLI:NL:HR:2024:1533"
-  ],
-  "validation_result": {
-    "build": "successful",
-    "strict_batch_validation": {
-      "repo": "Komentar-NL-BWBR0001860",
-      "units": 19,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 38519,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "strict_whole_book_validation": {
-      "repo": "Komentar-NL-BWBR0001860",
-      "units": 639,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 968365,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "meaning": "Technical validation only; no whole-book authorship or independent review completion claim."
-  },
+  "whole_book_complete": false,
   "remaining_limitations": [
-    "Independent second pass pending.",
-    "Case-law research selective, not exhaustive.",
-    "No wider national judicial corpus was searched.",
-    "Referenced transitional and international provisions not exhaustively analysed."
-  ],
-  "whole_book_complete": false
+    "Only assigned nineteen commentaries reviewed; no whole-book completion claim.",
+    "Two cited full judgments read; selective authorities, no exhaustive subsequent-case survey or wider national corpus search.",
+    "External BW and EU references checked only insofar as reproduced in statutory source or judgments; external regimes not exhaustively analysed.",
+    "No external professional approval."
+  ]
 }

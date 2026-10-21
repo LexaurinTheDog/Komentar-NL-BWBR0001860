@@ -1,36 +1,32 @@
 {
-  "commented_units": 19,
-  "per_unit_characters": {
-    "art-369": 2238,
-    "art-370": 2216,
-    "art-371": 2457,
-    "art-372": 1817,
-    "art-373": 2008,
-    "art-374": 1931,
-    "art-375": 2135,
-    "art-376": 2246,
-    "art-377": 1699,
-    "art-378": 1971,
-    "art-379": 1732,
-    "art-380": 1942,
-    "art-381": 1855,
-    "art-382": 1758,
-    "art-383": 2063,
-    "art-384": 3007,
-    "art-385": 1716,
-    "art-386": 1708,
-    "art-387": 2060
-  },
-  "duplicate_complete_comments": false,
-  "placeholder_scan": [],
-  "content_checks": [
-    "All assigned statutory units read with paragraphs and lettered conditions.",
-    "Separate explanations and fictional examples; no generated common paragraph.",
-    "Older pension decision compared with current express protection.",
-    "Rights modification distinguished from compelled new credit."
+  "units": 19,
+  "commented_ids": [
+    "art-369",
+    "art-370",
+    "art-371",
+    "art-372",
+    "art-373",
+    "art-374",
+    "art-375",
+    "art-376",
+    "art-377",
+    "art-378",
+    "art-379",
+    "art-380",
+    "art-381",
+    "art-382",
+    "art-383",
+    "art-384",
+    "art-385",
+    "art-386",
+    "art-387"
   ],
-  "limitations": [
-    "Length and repeated-text checks do not establish legal quality.",
-    "Independent second pass pending."
-  ]
+  "statutory_text_agreement": 1.0,
+  "missing": [],
+  "duplicate_ids": [],
+  "duplicate_full_comments": false,
+  "links_checked": 24,
+  "broken_links": [],
+  "unassigned_commentary_unchanged": true,
+  "legal_quality": "Manual substantive second reading; not inferred from minimum lengths."
 }

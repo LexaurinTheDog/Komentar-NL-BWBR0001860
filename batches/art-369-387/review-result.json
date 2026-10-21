@@ -1,0 +1,129 @@
+{
+  "complete": true,
+  "units_reviewed": 19,
+  "reviewed_ids": [
+    "art-369",
+    "art-370",
+    "art-371",
+    "art-372",
+    "art-373",
+    "art-374",
+    "art-375",
+    "art-376",
+    "art-377",
+    "art-378",
+    "art-379",
+    "art-380",
+    "art-381",
+    "art-382",
+    "art-383",
+    "art-384",
+    "art-385",
+    "art-386",
+    "art-387"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit_id": "art-369",
+      "assessment": "Alle elf leden en uitzonderingen gelezen; HR 2022:328 volledig herlezen, oudere formulering en huidige pensioenuitzondering onderscheiden.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-370",
+      "assessment": "Vijf leden, artikel 160 en HR 2024:1533 gelezen; rechtenwijziging, regres, overgang, registratie en vennootschapsbesluiten correct begrensd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-371",
+      "assessment": "Vijftien leden gelezen; eigen verzoek en meerderheidssteun explicieter onderscheiden, behoud van lid 15 verduidelijkt.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-372",
+      "assessment": "Vier cumulatieve voorwaarden en beide verdere leden gecontroleerd; groepsgarantie niet verward met samenvoeging van vermogens.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-373",
+      "assessment": "Vier leden, 383 lid 7 en 384 lid 5 gecontroleerd; vrijwillige wijziging, toegestane opzegging en afkoelingsbescherming onderscheiden.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-374",
+      "assessment": "Drie leden en waardecriterium faillissement gelezen; kleinere concurrentenbescherming onderscheiden van algemene MKB-definitie.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-375",
+      "assessment": "Alle onderdelen van beide informatielijsten gecontroleerd; onjuiste term bovengrens vervangen door open functionele omvang.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-376",
+      "assessment": "Veertien leden gelezen, mede 241a leden 2–3 en 241c; termijnen, hoorplicht en pensioenuitzondering gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-377",
+      "assessment": "Drie leden gelezen; bestaande bevoegdheid en voldoende waarborg als afzonderlijke voorwaarden behouden.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-378",
+      "assessment": "Tien leden en artikel 147 gelezen; inhoud van 147 toegevoegd en onjuiste suggestie van toepasselijke kostenverwijzing geschrapt.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-379",
+      "assessment": "Beide leden gelezen; beveiligingsdoel, startvoorwaarde, ambtshalve bevoegdheid en internationale verwijzingen gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-380",
+      "assessment": "Vier leden en verwijzingen naar 371 gelezen; observator niet met aanbieder verward, meldplicht en intrekking correct.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-381",
+      "assessment": "Zeven leden gelezen; economische stemvervanging, klassegewijze stemming en tweederdebedragsmeerderheid gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-382",
+      "assessment": "Beide leden met a–c gelezen; zeven dagen, toegankelijkheid en griffiedepot onderscheiden.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-383",
+      "assessment": "Negen leden gelezen; steun van in-the-money-klasse, MKB-instemming, verplichte observator, termijnen en protestplicht gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-384",
+      "assessment": "Acht leden en alle afwijzingsgronden gelezen; onmiddellijke noodzakelijkheid transactie tegenover noodzakelijkheid financiering verduidelijkt; alle drie functionarissen onder h genoemd; HR 2024:1533 herlezen.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-385",
+      "assessment": "Beide zinnen gelezen; binding van tegenstemmers en formele rechthebbende bij vervangende stem correct.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-386",
+      "assessment": "Volledige bepaling gelezen; erkende vordering, geldsom en toegetreden borg onderscheiden van algemene binding.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-387",
+      "assessment": "Beide leden en artikel 165 gelezen; bewijslast van nakoming en maximaal maanduitstel bij ontbindingsvordering toegevoegd.",
+      "corrected": true
+    }
+  ],
+  "limitations": [
+    "Only assigned nineteen commentaries reviewed; no whole-book completion claim.",
+    "Two cited full judgments read; selective authorities, no exhaustive subsequent-case survey or wider national corpus search.",
+    "External BW and EU references checked only insofar as reproduced in statutory source or judgments; external regimes not exhaustively analysed.",
+    "No external professional approval."
+  ]
+}

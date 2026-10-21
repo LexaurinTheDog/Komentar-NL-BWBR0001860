@@ -1,0 +1,308 @@
+
+    
+    
+      HOGE RAAD DER NEDERLANDEN
+    
+    
+    
+      CIVIELE KAMER
+    
+    
+    
+    
+    
+      
+        Nummer	24/00300
+      
+        Datum	25 oktober 2024
+    
+    
+    
+    
+      ARREST
+    
+    
+    
+    
+      op een vordering tot cassatie in het belang der wet, ingesteld door de Procureur-Generaal bij de Hoge Raad der Nederlanden en gericht tegen het vonnis in de zaken C/10/652698 HO RK 23/83 en C/10/653286 HO RK 23/123 van de rechtbank Rotterdam van 9 maart 2023.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+
+    
+      1Procesverloop
+    
+      Voor het verloop van het geding in feitelijke instantie verwijst de Hoge Raad naar het vonnis in de zaken: C/10/652698 HO RK 23/83 en C/10/653286 HO RK 23/123 van de rechtbank Rotterdam van 9 maart 2023, schriftelijk uitgewerkt op 30 maart 2023. 
+      Tegen het vonnis van de rechtbank heeft de Procureur-Generaal bij de Hoge Raad beroep in cassatie ingesteld in het belang der wet. De vordering van de Procureur-Generaal strekt tot vernietiging in het belang der wet van het vonnis van de rechtbank, met bepaling dat de vernietiging geen nadeel toebrengt aan de door partijen verkregen rechten. 
+      De Procureur-Generaal heeft belanghebbenden en geïnteresseerden de mogelijkheid geboden tot het indienen van opmerkingen die van belang kunnen zijn voor een vordering tot cassatie in het belang der wet tegen het genoemde vonnis. De ingediende reacties worden genoemd in de vordering van de Procureur-Generaal onder 1.12 en zijn gepubliceerd op de website van Hoge Raad. Eén indiener heeft verzocht zijn reactie niet te publiceren en vertrouwelijk te behandelen. Deze reactie is niet gepubliceerd en partijen hebben geen afschrift van die reactie ontvangen. De Hoge Raad heeft deze reactie terzijde gelegd. 
+    
+    
+    
+  
+
+    
+      2Uitgangspunten en feiten
+    
+    
+      2.1
+      Deze cassatieprocedure in het belang der wet heeft betrekking op de Wet homologatie onderhands akkoord (hierna: WHOA). In het bijzonder is de vraag aan de orde of een financier door homologatie van een akkoord kan worden verplicht om eerder overeengekomen kredietruimte die ten tijde van de homologatie nog niet was benut, aan de schuldenaar ter beschikking te stellen onder voorwaarden die ten nadele van de financier afwijken van de bestaande financieringsovereenkomst.    
+      
+    
+    
+      2.2
+      
+        In cassatie kan van het volgende worden uitgegaan.
+        (i) Negen banken (hierna: de Secured Lenders) hebben gezamenlijk financiering verstrekt aan scheepsbouwer IHC Merwede Holding B.V. (hierna: IHC). De Secured Lenders hebben uit hoofde van een Senior Facilities Agreement (hierna: SFA) een totale committed facility van € 950 miljoen ter beschikking gesteld, onder meer bestaande uit een Revolving Facility. IHC had ten tijde van het hierna in 2.4 te noemen vonnis van de rechtbank een deel van dit krediet opgenomen. Onderdeel hiervan is de zogenoemde Amazon-lening van € 28 miljoen. De looptijd van de financiering uit hoofde van de SFA is tot 3 juni 2025. De Amazon-lening moest uiterlijk 4 januari 2023 zijn terugbetaald en IHC is in de nakoming van die verplichting tekortgeschoten.
+        (ii) IHC heeft op 2 februari 2023 namens zichzelf en de rechtspersonen die met haar een groep vormen, een (groeps)akkoord voorgelegd aan de Secured Lenders.
+        (iii) Dat akkoord houdt het volgende in. De Cut-Off Date is 31 januari 2023. Een dochtervennootschap van IHC wordt verkocht aan HAL Investments B.V. (hierna: HAL). Met een deel van de verkoopopbrengst wordt een deel van de uitstaande bedragen onder de Revolving Facility vervroegd afgelost, een ander deel (€ 15 miljoen) wordt gebruikt als cash collateral en het restant wordt gebruikt ter versterking van de liquiditeitspositie van IHC. De committed facility wordt teruggebracht van            € 950 miljoen naar € 503 miljoen, waarbij nieuwe faciliteiten beschikbaar worden gesteld, die overeenkomen met de voorheen bestaande faciliteiten maar ten dele zijn gesplitst. De looptijd van de financiering wordt niet aangepast, behalve die van de Amazon-lening. Aan de Secured Lenders worden (aanvullende) zekerheden verschaft, onder meer door de Staat der Nederlanden en HAL.
+        (iv) Voor de hiervoor onder (iii) genoemde aanpassingen is onder meer een wijziging van de SFA noodzakelijk, alsmede van de Intercreditor Agreement (hierna: IA). Wijziging van een groot deel van de SFA en de IA is mogelijk met instemming van een tweederdemeerderheid van de Secured Lenders. Voor de volgende wijzigingen is echter instemming van alle Secured Lenders noodzakelijk:
+        - de verkoop van de dochtervennootschap;
+        - de verlenging van de looptijd van de Amazon-lening;
+        - de wijziging van de contractuele rangorde bij gedeeltelijke voldoening en bij uitwinning van zekerheden (waterval).
+        Het gaat bij dat laatste onder meer om het invoegen van HAL als Top-Up Guarantee Provider.
+        (v) De Secured Lenders zijn voor de stemming over het akkoord voor hun onderscheiden rechten ingedeeld in zeven klassen. Zes van de Secured Lenders hebben voor het akkoord gestemd. Rabobank en een andere bank hebben tegen het akkoord gestemd. Eén bank heeft zich van stemming onthouden. Per saldo hebben alle klassen op de voet van art. 381 lid 6 Fw vóór het akkoord gestemd.
+      
+      
+    
+    
+      2.3
+      IHC heeft de rechtbank op de voet van art. 383 lid 1 Fw verzocht het akkoord te homologeren. Rabobank heeft verzocht het verzoek af te wijzen. Volgens Rabobank biedt de WHOA niet de mogelijkheid om schuldeisers bij een akkoord verplichtingen op te leggen.
+      
+    
+    
+      2.4
+      De rechtbank heeft het akkoord gehomologeerd en daartoe onder meer het volgende overwogen. 
+      
+      
+        “Kan voortzetting van financiering worden afgedwongen onder de WHOA?
+      
+      
+    
+    
+      4.4
+      Homologatie van het akkoord zal meebrengen dat de Secured Lenders ook in de toekomst financiering aan IHC zullen moeten blijven verstrekken. Na herstructurering zullen de bestaande (voornamelijk) bankgarantiefaciliteiten en de rekening-courantfaciliteiten immers worden voortgezet, waarbij de committed facility wordt teruggebracht van € 950 miljoen naar € 503 miljoen. Belangrijk onderwerp van debat tussen partijen is of via de WHOA een schuldeiser kan worden gedwongen het werkkapitaal van de onderneming te blijven financieren. Gezien het belang van dit onderwerp voor de verdere beoordeling zal de rechtbank deze vraag als eerste behandelen.
+      
+    
+    
+      4.5
+      Volgens Rabobank gaat het hier om het opleggen/aangaan van toekomstige vorderingsrechten en kan in dit kader een akkoord niet via de WHOA worden afgedwongen. Rabobank stelt voorts dat, als het al zou gaan om een bestaand recht, via de WHOA geen toekomstige verplichtingen aan schuldeisers kunnen worden opgelegd. Rabobank verwijst in dat kader naar het arrest van de Hoge Raad van 29 oktober 2004, NJ 2006/203, over beslag op kredietruimte.
+      
+    
+    
+      4.6
+      De rechtbank is van oordeel dat de WHOA in beginsel toelaat dat een akkoord ertoe leidt dat kredietverstrekkers worden verplicht op basis van (voorafgaand aan de herstructurering) bestaande kredietfaciliteiten in de toekomst het werkkapitaal te blijven financieren. Of dat in een concreet geval mogelijk is hangt ervan af (i) in hoeverre de verplichtingen waaronder die financiering plaatsvindt wezenlijk wijzigen en (ii) in hoeverre de in het kader van het akkoord beoogde (overige) wijzigingen van de kredietdocumentatie nog passen in de lijn van artikel 370 lid 1 Fw. Als wijziging niet kan via artikel 370 lid 1 Fw vervalt immers (bij afwijzing van een wijzigingsvoorstel door de wederpartij en (vervolgens) opzegging van de overeenkomst door de schuldenaar, zie artikel 373 Fw) in praktische zin de verplichting om in de toekomst financiering te blijven verstrekken.
+      
+    
+    
+      4.7
+      Ad (i). Op basis van de SFA zijn de Secured Lenders gehouden IHC krediet te verstrekken onder de beschikbare faciliteiten. Het akkoord wijzigt die verplichting (en het daar tegenover staande recht van IHC) als zodanig niet; het enige wat in dat opzicht wordt gewijzigd is dat de beschikbare limieten binnen die faciliteiten worden teruggebracht. Het gaat dus om (verlaging van) bestaande commitments. Die verlaging is mogelijk op grond van de bestaande overeenkomsten. Hoewel daaruit een toekomstige betalingsverplichting voortvloeit voor (en daarmee een nieuwe schuld ontstaat van IHC aan) de Secured Lenders, is die verplichting (en het daar tegenover staande recht van IHC) als zodanig een (op basis van de SFA) bestaande verplichting en niet een nieuwe, via het akkoord opgelegde, verplichting. Het akkoord maakt slechts mogelijk dat IHC van die financiering weer gebruik kan maken, omdat de bestaande tekortkoming [in de verplichting de Amazon-lening tijdig terug te betalen, toev. HR] (…) wordt opgeheven. Hieraan doet niet af dat de SFA en de IA worden gewijzigd. Die wijziging is immers niet van dien aard dat de voorwaarden waaronder de Secured Lenders in de toekomst financiering moeten verstrekken veranderen.         De bestaande verplichting van de Secured Lenders wordt met andere woorden niet gewijzigd, behalve dan dat deze wordt teruggebracht.
+      
+    
+    
+      4.8
+      De vergelijking met het arrest over beslag op kredietruimte gaat niet op. Daaruit vloeit (voor zover thans van belang) slechts voort dat de vordering van de cliënt op de bank in zoverre niet onvoorwaardelijk is, dat de verbintenis van de bank tot uitbetaling onder de kredietruimte pas ontstaat als de cliënt zijn wilsrecht terzake uitoefent. Daarmee is niets gezegd over de verplichting van de bank (jegens de cliënt) zodra de cliënt dat wilsrecht uitoefent.
+      
+    
+    
+      4.9
+      Ad (ii). Een andere, met het voorgaande samenhangende vraag is of de beoogde wijziging van de SFA en de IA mogelijk is via artikel 370 lid 1 Fw, of dat hiertoe de weg van artikel 373 Fw moet worden gevolgd (zoals Rabobank betoogt). Aan de orde is (...) een wijziging van de waterval en een verlenging van de looptijd van de Amazon-lening. Het betreft voor het welslagen van de herstructurering noodzakelijke wijzigingen. Door de verlenging van de looptijd van de Amazon-lening wordt immers de bestaande tekortkoming opgeheven (…), terwijl de wijziging van de waterval noodzakelijk is in verband met betalingen die plaatsvinden en bepaalde overige aanpassingen (waarover nader hierna). Onder verwijzing naar rechtbank Amsterdam 5 augustus 2021, ECLI:NL:RBAMS:2021:6519 is de rechtbank van oordeel dat gezien de beoogde flexibiliteit en het beoogde doel van de WHOA, alsmede de ratio van artikel 370 lid 1 Fw uitgegaan moet worden van een ruime opvatting van “wijziging van het (vorderings-)recht” voor zover het gaat om (de wijziging van) een al bestaand vorderingsrecht dat is vastgelegd in een overeenkomst.            Een andere opvatting zou (zie onder 4.6.) het beoogde herstructureringstraject zinledig maken. Vanwege de noodzaak tot wijziging van de SFA en de IA (verlenging looptijd en wijziging waterval) voor het welslagen van het akkoord en de samenhang van deze wijziging met de vordering tot betaling is naar het oordeel van de rechtbank sprake van wijzigingen van het vorderingsrecht.         De overige wijzigingen van de IA en de SFA laat de rechtbank buiten beschouwing omdat deze op grond van de contractuele bepalingen (ook) mogelijk zouden zijn met een twee-derde meerderheid van de financiers zodat de weg van homologatie van een akkoord hiervoor niet noodzakelijk is. Dat die wijzigingen alleen noodzakelijk zijn als het akkoord wordt gehomologeerd, zoals Rabobank naar voren heeft gebracht, maakt dat niet anders.
+      
+      
+        (…)
+      
+      
+    
+    
+      4.35
+      Rabobank heeft ook betoogd dat een wijziging van de rangorde tussen de schuldeisers niet kan worden afgedwongen via de WHOA. Daarbij heeft zij verwezen naar de uitspraak van de rechtbank Rotterdam van 15 december 2022, ECLI:NL:RBROT:2022:11016. De rechtbank verwerpt dat betoog. De wijziging van de rangorde betreft de wijziging van de waterval zoals vastgelegd in de [IA]. (…) Anders dan Rabobank heeft betoogd is een contractuele wijziging van de rangorde mogelijk onder de WHOA en kan dit op de voet van artikel 370 lid 1 Fw, zie onder 4.9. De vergelijking met de uitspraak van de rechtbank Rotterdam van 15 december 2022 gaat niet op. Daar ging het om een beoogde nieuwe financier die in het kader van het akkoord een eerste pandrecht wilde krijgen op vorderingen, waartoe noodzakelijk was dat de bestaande twee pandhouders een lager gerangschikt pandrecht zouden krijgen. Het ging daarbij dus om een goederenrechtelijke aanpassing van de rangorde, wat niet kan worden afgedwongen via de WHOA.”
+      
+    
+    
+      2.5
+      Tegen het vonnis van de rechtbank staat geen rechtsmiddel open (art. 369 lid 10 Fw).
+      
+      
+    
+  
+
+    
+      3Beoordeling van het middel
+    
+      3.1
+      Het cassatiemiddel betoogt dat de rechtbank in rov. 4.6-4.9 ten onrechte heeft geoordeeld, kort gezegd, dat de WHOA toestaat dat een financier door toepassing van art. 370 lid 1 Fw kan worden gedwongen om bij een financieringsovereenkomst toegezegde nieuwe financiering te verstrekken op gewijzigde voorwaarden, in dit geval bestaande uit een wijziging van relevante bepalingen en uitgangspunten van de financieringsovereenkomst, en dat hiervoor geen gebruik behoeft te worden gemaakt van art. 373 lid 1 Fw.
+      
+      
+        
+          De WHOA
+        
+      
+      
+    
+    
+      3.2
+      
+        De WHOA – afdeling IV.2 van de Faillissementswet – voorziet in de mogelijkheid van een dwangakkoord buiten faillissement. De regeling beoogt te bevorderen dat levensvatbare bedrijven die in financiële moeilijkheden verkeren hun schulden kunnen herstructureren, zonder dat een schuldeiser op onredelijke gronden kan dwarsliggen. 
+        		Een schuldenaar die in een toestand verkeert waarin het redelijkerwijs aannemelijk is dat hij met het betalen van zijn schulden niet zal kunnen voortgaan, kan zijn schuldeisers en zijn aandeelhouders, of een aantal van hen, een akkoord aanbieden dat voorziet in een wijziging van hun rechten (art. 370 lid 1 Fw). De schuldeisers en aandeelhouders stemmen over het aan hen aangeboden akkoord. Als zij zich niet in een vergelijkbare positie bevinden, worden zij ingedeeld in klassen en wordt per klasse gestemd (art. 374 Fw en art. 381 lid 5 Fw). Voor instemming door een klasse van schuldeisers is vereist dat schuldeisers die samen ten minste twee derden vertegenwoordigen van het totale bedrag aan vorderingen behorend tot de schuldeisers die binnen die klasse hun stem hebben uitgebracht, voor het akkoord stemmen (art. 381 lid 6 Fw). Voor instemming door een klasse van aandeelhouders geldt dat het vereiste van een tweederdemeerderheid betrekking heeft op het geplaatste kapitaal (art. 381 lid 7 Fw). Als ten minste één klasse van schuldeisers met het akkoord heeft ingestemd, kan de schuldenaar de rechtbank verzoeken om homologatie van het akkoord (art. 383 lid 1 Fw). Als de rechtbank het verzoek toewijst, is het akkoord verbindend voor de schuldenaar en voor alle stemgerechtigde schuldeisers en aandeelhouders (art. 385 Fw).
+      
+      
+    
+    
+      3.3
+      Uitgangspunt van de wettelijke regeling is dat een schuldeiser of aandeelhouder door een dwangakkoord niet slechter af is dan in geval van een faillissement van de schuldenaar: het no creditor worse off-beginsel. De rechtbank kan een verzoek tot homologatie afwijzen als een schuldeiser of aandeelhouder op basis van het akkoord slechter af is dan bij vereffening van het vermogen van de schuldenaar in faillissement (art. 384 lid 3 Fw). In lijn met het no creditor worse off-beginsel moet een schuldeiser die geen voorrang kan ontlenen aan een pand- of hypotheekrecht, op basis van het akkoord het recht hebben te kiezen voor een uitkering in geld ter hoogte van het bedrag dat aan hem in geval van een faillissement zou worden uitgekeerd: de zogenoemde cash out-optie (art. 384 lid 4, onder c, Fw). Bedrijfsmatige financiers met een voorrang die voortvloeit uit pand of hypotheek kunnen wel worden gedwongen voorlopig ‘aan boord te blijven’ (art. 384 lid 4, onder d, Fw). Voorts geldt de absolute priority rule, inhoudende, kort gezegd, dat bij de verdeling van de waarde die met het dwangakkoord wordt gerealiseerd, niet ten nadele van een klasse die niet heeft ingestemd met het akkoord, kan worden afgeweken van de rangorde bij verhaal op het vermogen van de schuldenaar volgens de wet of een contract, tenzij voor de afwijking een redelijke grond bestaat en de betrokken schuldeisers of aandeelhouders door de afwijking niet in hun belang worden geschaad (art. 384 lid 4, onder b, Fw).
+      
+    
+    
+      3.4
+      Art. 370 lid 1 Fw bepaalt dat een akkoord kan voorzien in een wijziging van de rechten van schuldeisers en aandeelhouders. In de memorie van toelichting staat hierover:
+      
+      
+        “Bij een «wijziging van de rechten van de schuldeisers en de aandeelhouders» gaat het om een wijziging van het recht van een schuldeiser of aandeelhouder om nakoming door de schuldenaar van de op hem rustende verplichtingen af te dwingen. Gedacht kan worden aan:
+        - een gehele of gedeeltelijke kwijtschelding van een openstaande vordering, waarbij de schuldenaar geheel of gedeeltelijk wordt verlost van zijn betalingsverplichting en het recht van de schuldeiser om jegens de schuldenaar (volledige) betaling te vorderen, komt te vervallen;
+        - een uitstel van betaling, waarbij de schuldenaar meer tijd krijgt om aan zijn betalingsverplichtingen te voldoen en het recht van de schuldeiser om betaling op het oorspronkelijk afgesproken moment af te dwingen, komt te vervallen, of 
+        - een «debt for equity swap», waarbij een gedeelte van een vordering van een schuldeiser wordt omgezet in een aandelenbelang en dus ook zeggenschap in de vennootschap, terwijl het aandelenbelang en de daaraan verbonden zeggenschap van de bestaande aandeelhouders verwateren.”
+      
+      
+    
+    
+      3.5
+      De WHOA bevat daarnaast een afzonderlijke regeling over het wijzigen van lopende overeenkomsten. Die regeling houdt, kort gezegd, in dat de schuldenaar aan de wederpartij een voorstel kan doen tot wijziging of beëindiging van een overeenkomst. Stemt de wederpartij niet in met het voorstel, dan kan de schuldenaar de overeenkomst tussentijds opzeggen, mits een akkoord is aangeboden dat door de rechtbank wordt gehomologeerd en de rechtbank daarbij toestemming geeft voor deze opzegging (art. 373 lid 1 Fw).                       De wederpartij heeft in dat geval recht op vergoeding van de schade die hij lijdt vanwege de beëindiging van de overeenkomst, zij het dat het akkoord kan voorzien in een wijziging van het recht op schadevergoeding (art. 373 lid 2 Fw). In de memorie van toelichting is art. 373 Fw onder meer als volgt toegelicht:
+      
+      
+        “Artikel 373 biedt (…) de mogelijkheid om ook lopende overeenkomsten te herstructureren. (…) Bij deze bepaling kan gedacht worden aan een huurovereenkomst die als een molensteen rond de nek van de onderneming hangt. De bepaling kan worden toegepast op alle type overeenkomsten, behalve op arbeidsovereenkomsten (artikel 369, vierde lid).”
+      
+      
+      
+        “Om tegemoet te komen aan de zorg die in de consultatie werd geuit (…) dat de schuldenaar op basis van de WHOA overeenkomsten te gemakkelijk eenzijdig zou kunnen beëindigen, zijn de bepalingen hierover aangescherpt. De rechter zal toestemming moeten geven voor de eenzijdige opzegging. Bovendien gelden als voorwaarden dat sprake is van een toestand van onvermijdelijke insolventie en dat het akkoord door de rechter wordt gehomologeerd. De wederpartij kan de rechter verzoeken de toestemming te weigeren (artikelen 373, 383, achtste lid, en 384, vijfde lid).”
+        	Art. 373 Fw biedt aldus geen grondslag om een wederpartij van de schuldenaar te dwingen een overeenkomst na te komen op gewijzigde voorwaarden.
+      
+      
+    
+    
+      3.6
+      
+        Over de financiering van het akkoord houdt de WHOA in dat het voorstel voor het akkoord informatie bevat over de nieuwe financiering die de schuldenaar aan wil gaan en de redenen waarom dit nodig is (art. 375 lid 1, onder i, 1°, Fw). De rechtbank wijst een verzoek tot homologatie van het akkoord af als redelijkerwijs aannemelijk is dat het aantrekken van nieuwe financiering niet noodzakelijk is voor de uitvoering van het akkoord of als de belangen van de gezamenlijke schuldeisers daardoor wezenlijk worden geschaad (art. 384 lid 2, onder f, 1°, Fw). 
+        		In de WHOA is geen gebruik gemaakt van de mogelijkheid die art. 17 lid 4 van de EU-Richtlijn betreffende herstructurering en insolventie biedt om te bepalen dat verstrekkers van nieuwe of tussentijdse financiering het recht hebben om met voorrang terugbetaald te worden in het kader van daaropvolgende insolventieprocedures ten opzichte van andere schuldenaren die anders bevoorrechte of gelijkwaardige vorderingen zouden hebben.
+      
+      
+    
+    
+      3.7
+      Voor de financiering die ten tijde van de totstandkoming van het akkoord reeds was verstrekt, geldt dat een dwangakkoord – binnen de grenzen van het no creditor worse off-beginsel en de cash out-optie (zie hiervoor in 3.3) – kan voorzien in wijziging van de rechten van de schuldeiser, bijvoorbeeld door verlaging van de schuld van de schuldenaar of wijziging van het tijdstip waarop de schuldenaar moet terugbetalen. De WHOA bevat geen instrumenten om financiers te dwingen nieuwe middelen ter beschikking te stellen. Wel kunnen, zoals hiervoor in 3.3 is vermeld, bedrijfsmatige financiers met een voorrang die voortvloeit uit pand of hypotheek, worden gedwongen voorlopig ‘aan boord te blijven’, doordat de cash out-optie aan deze schuldeisers niet hoeft te worden geboden. Op verzoek van een zodanige schuldeiser, behorende tot een klasse die niet met het akkoord heeft ingestemd, wijst de rechtbank een verzoek tot homologatie af als die schuldeiser op basis van het akkoord in het kader van een wijziging van zijn rechten, (certificaten van) aandelen aangeboden krijgt en daarnaast niet het recht heeft om te kiezen voor een uitkering in een andere vorm (art. 384 lid 4, onder d, Fw). In de toelichting op het amendement waarmee deze bepaling is geïntroduceerd, staat onder meer:
+      
+      
+        “De bepaling is zo aangepast dat voor financiers geldt dat als zij onder het akkoord aandelen aangeboden krijgen voor het gesecureerde deel van hun vordering en de klasse tegenstemt, de individuele financiers binnen die klasse altijd de keuze moeten krijgen om in plaats van aandelen te kiezen voor een andere vorm van een uitkering. (…) Qua vorm van de uitkering moet vooral gedacht worden aan een uitstel van betaling of het doorlopen van de lening. Uiteraard moet bij deze afspraak sprake zijn van marktconforme voorwaarden. Voor een gesecureerde vordering zal dit in de regel inhouden dat een rentevergoeding wordt toegekend en de vordering gedekt blijft door zekerheden.”
+      
+      
+      
+        Bij de behandeling van het wetsvoorstel in de Eerste Kamer heeft de minister voor Rechtsbescherming over deze beperking van de cash out-optie opgemerkt (voetnoot weggelaten):
+      
+      
+      
+        “Tijdens de behandeling van het wetsvoorstel in de Tweede Kamer is deze regeling door middel van een amendement aangepast. Doel daarbij was te voorkomen dat er een te groot beroep wordt gedaan op een «cash out-optie». Als er onvoldoende liquide middelen zijn of aangetrokken kunnen worden om de uitkering in contanten te financieren, kan een akkoord niet tot stand komen. Daarom vallen bedrijfsmatige financiers die bij faillissement doorgaans aanspraak kunnen maken op vrij grote contante bedragen, niet langer onder de bepaling die is opgenomen in artikel 384, vierde lid, onderdeel c. Voor deze categorie schuldeisers geldt nu artikel 384, vierde lid, onderdeel d. Hierin is bepaald dat het akkoord tegenstemmende bedrijfsmatige financiers uit een tegenstemmende klasse de mogelijkheid moet bieden om in plaats van aandelen te kiezen voor «een uitkering in een andere vorm». (…) Het kan dan bijvoorbeeld gaan om een aanpassing van de financieringsvoorwaarden zoals uitgestelde of verspreide betaling van de schuld, maar niet aandelen of certificaten van aandelen. De onderneming krijgt dan langer de tijd om een verstrekte lening terug te betalen.”
+      
+      
+    
+    
+      3.8
+      
+        De art. 370 lid 1, 373 leden 1 en 2, 384 lid 3 en lid 4, aanhef en onder d, Fw, bieden geen grondslag om door middel van een dwangakkoord aan financiers de verplichting op te leggen nieuw krediet te verschaffen of een bestaande krediettoezegging gestand te doen onder gewijzigde voorwaarden. In de parlementaire geschiedenis is geen aanknopingspunt te vinden dat de wetgever heeft gewild dat een zodanige verplichting aan financiers wordt opgelegd. Integendeel: uit de hiervoor in 3.4, 3.5 en 3.7 geciteerde passages uit de parlementaire geschiedenis blijkt dat de wetgever bij art. 370 lid 1 Fw slechts het oog heeft gehad op de mogelijkheid van een gedwongen aanpassing van bestaande rechten van schuldeisers en dat de mogelijkheid tot wijziging van overeenkomsten met het oog op daaruit in de toekomst voortvloeiende rechten is geregeld in art. 373 Fw. Het opleggen van een verplichting tot het verstrekken van een nieuwe financiering of tot het ter beschikking stellen van een eerder toegezegde financiering op gewijzigde voorwaarden, zou voorts op gespannen voet staan met het no creditor worse off-beginsel. Als een dwangakkoord zou kunnen inhouden dat een of meer schuldeisers financiering moeten verstrekken op voorwaarden waarmee zij niet instemmen, zou ook duidelijk moeten zijn op welke wijze die schuldeisers in de stemming over het akkoord moeten worden betrokken: al dan niet in een afzonderlijke klasse of met een aan de omvang van de extra verplichtingen gerelateerd stemrecht. Hierover houdt de WHOA echter niets in. De wetgever heeft dan ook het aanpassen van een overeenkomst niet tot onderdeel van een akkoord gemaakt, maar geregeld als een nevenvoorziening, die slechts speelt tussen de schuldenaar en zijn wederpartij (art. 373 Fw). 
+        		Tegen deze achtergrond is de omstandigheid dat met de WHOA een flexibel en effectief saneringsinstrument is beoogd, geen toereikende grond om aan te nemen dat met een dwangakkoord een financier kan worden gedwongen zijn verplichtingen tegenover de schuldenaar te verzwaren.
+      
+      
+      
+        
+          Het onderhavige akkoord
+        
+      
+      
+    
+    
+      3.9
+      Het akkoord dat de rechtbank heeft gehomologeerd, bevat drie wijzigingen van de SFA: (i) een beperking van het vereiste van instemming van alle Secured Lenders voor de verkoop van de dochtervennootschap aan HAL, (ii) de verlenging van de looptijd van de Amazon-lening, met de aflossing waarvan IHC in gebreke was en (iii) de wijziging ten gunste van HAL van de contractuele rangorde bij gedeeltelijke voldoening en bij uitwinning van zekerheden (de waterval). De rechtbank heeft vastgesteld (rov. 4.4, zie hiervoor in 2.4) dat homologatie van het akkoord zal meebrengen dat de Secured Lenders ook in de toekomst financiering aan IHC zullen moeten blijven verstrekken, zij het dat de committed facility wordt teruggebracht van € 950 miljoen naar € 503 miljoen. Die verplichting om financiering te blijven verstrekken, vloeit niet voort uit de bestaande financieringsovereenkomst; zonder het akkoord (inclusief de genoemde wijzigingen van de SFA) zou IHC verder geen beroep kunnen doen op de committed facility omdat IHC, door haar tekortschieten in de terugbetaling van de Amazon-lening, niet meer voldeed aan de voorwaarden van de SFA. De drie genoemde wijzigingen komen in samenhang beschouwd erop neer dat de Secured Lenders financiering moeten verstrekken tegen andere voorwaarden dan zij in de SFA waren overeengekomen. Dat is dus een wijziging van de verplichtingen van de financiers.
+      
+    
+    
+      3.10
+      Het middel klaagt gelet op het voorgaande terecht dat de rechtbank heeft blijk gegeven van een onjuiste rechtsopvatting door te oordelen (in rov. 4.9, zie hiervoor in 2.4) dat onder wijziging van de rechten van schuldeisers in de zin van art. 370 lid 1 Fw ook kan worden verstaan het wijzigen van een uit een financieringsovereenkomst voortvloeiende verplichting tot het verstrekken van financiering.
+      
+      
+        
+          Wijziging van de rangorde door homologatie van een akkoord  
+        
+      
+      
+    
+    
+      3.11
+      
+        Naar aanleiding van rov. 4.35 van de het vonnis van de rechtbank (zie hiervoor in 2.4) verdient nog het volgende opmerking. 
+        		Art. 370 lid 1 Fw laat ruimte voor het aanbieden van een akkoord dat de rangorde wijzigt die geldt voor de door het akkoord te binden schuldeisers bij een latere uitwinning van het vermogen van de schuldenaar. Een daartoe strekkend akkoord kan, als een schuldeiser zich beroept op de absolute priority rule van art. 384 lid 4, onder b, Fw, slechts gehomologeerd worden als die schuldeiser, kort gezegd, behoort tot een klasse die in de vereiste meerderheid vóór het akkoord heeft gestemd, of voor die afwijking een redelijke grond bestaat en de schuldeiser daardoor niet in zijn belang wordt geschaad. De omstandigheid dat de WHOA niet inhoudt dat verstrekkers van nieuwe of tussentijdse financiering het recht hebben om met voorrang terugbetaald te worden in het kader van daaropvolgende insolventieprocedures (zoals art. 17 lid 4 van de EU-Richtlijn betreffende herstructurering en insolventie mogelijk maakt, zie hiervoor in 3.6), doet daaraan niet af, omdat die (niet benutte mogelijkheid van) wettelijke voorrang moet worden onderscheiden van een verlaging van de positie in de rangorde via het akkoord, die voor de desbetreffende schuldeisers een wijziging van hun rechten is, als bedoeld in art. 370 lid 1 Fw.
+        		Anders dan de rechtbank in rov. 4.35 heeft overwogen, geldt een en ander niet alleen voor een wijziging van de contractuele rangorde – zoals in het onderhavige geval door wijziging van de IA – maar ook voor een aanpassing van de goederenrechtelijke rangorde tussen de schuldeisers, bijvoorbeeld door aan een nieuwe financier een zakelijk zekerheidsrecht te verschaffen in combinatie met het verlagen van de rang van de zakelijke zekerheidsrechten van bestaande schuldeisers. Ook dat is een wijziging van de rechten van de schuldeisers als bedoeld in art. 370 lid 1 Fw.
+        		De WHOA is niet van toepassing op financiëlezekerheidsovereenkomsten en verrekenbedingen in de zin van art. 7:51 BW (art. 369 lid 4, onder c, Fw). Zekerheidsrechten die daaruit voortvloeien kunnen dus niet worden gewijzigd door homologatie van een akkoord.
+      
+      
+      
+    
+  
+
+    
+      4Beslissing
+    
+      De Hoge Raad:
+      -	vernietigt, in het belang der wet, het vonnis van de rechtbank Rotterdam van 9 maart 2023;
+      - 	verstaat dat deze vernietiging geen nadeel toebrengt aan de door partijen verkregen rechten.
+    
+    
+    
+    
+    
+    
+      Deze beschikking is gegeven door de vicepresident M.J. Kroeze als voorzitter en de raadsheren T.H. Tanja-van den Broek, F.R. Salomons, G.C. Makkink en K. Teuben, en in het openbaar uitgesproken door de raadsheer A.E.B. ter Heide op 25 oktober 2024.
+    
+    
+    
+  
+
+     Rechtbank Rotterdam 9 maart 2023, ECLI:NL:RBROT:2023:2800.
+  
+
+    Kamerstukken II 2018/19, 35249, nr. 3, p. 34 (vgl. ook p. 9 en 11). 
+  
+
+    Kamerstukken II 2018/19, 35249, nr. 3, p. 44. 
+  
+
+     	Kamerstukken II 2018/19, 35249, nr. 3, p. 25.
+  
+
+     	Richtlijn (EU) 2019/1023 van het Europees Parlement en de Raad van 20 juni 2019 betreffende preventieve herstructureringsstelsels, betreffende kwijtschelding van schuld en beroepsverboden, en betreffende maatregelen ter verhoging van de efficiëntie van procedures inzake herstructurering, insolventie en kwijtschelding van schuld, en tot wijziging van Richtlijn (EU) 2017/1132 (Richtlijn betreffende herstructurering en insolventie), PbEU 2019, L 172/18.
+  
+
+     	Kamerstukken II 2021/22, 36040, nr. 3, p. 24 en 110.
+  
+
+     	Kamerstukken II 2019/20, 35249, nr. 24.
+  
+
+     	Kamerstukken I 2020/21, 35249, nr. C, p. 2. 
+  
+
+     Vgl. kamerstukken II 2018/19, 35249, nr. 3, p. 18. Vgl. ook de EU-Richtlijn betreffende herstructurering en insolventie, considerans punt 29. 
+  
+
+     Kamerstukken II, 2021/22, 36040, nr. 3, p. 80.
+  

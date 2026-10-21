@@ -1,135 +1,129 @@
 {
   "complete": true,
-  "units_reviewed": 20,
+  "units_reviewed": 19,
   "reviewed_ids": [
-    "art-349",
-    "art-349aa",
-    "art-349a",
-    "art-350",
-    "art-351",
-    "art-351a",
-    "art-352",
-    "art-353",
-    "art-354",
-    "art-354a",
-    "art-355",
-    "art-356",
-    "art-357",
-    "art-358",
-    "art-358a",
-    "art-359",
-    "art-359a",
-    "art-360",
-    "art-361",
-    "art-362"
+    "art-369",
+    "art-370",
+    "art-371",
+    "art-372",
+    "art-373",
+    "art-374",
+    "art-375",
+    "art-376",
+    "art-377",
+    "art-378",
+    "art-379",
+    "art-380",
+    "art-381",
+    "art-382",
+    "art-383",
+    "art-384",
+    "art-385",
+    "art-386",
+    "art-387"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "unit_id": "art-349",
-      "assessment": "Alle vijf leden, percentageverhouding, batige rangschikking, uitdelingsblokkade en verwijzingen gecontroleerd.",
+      "unit_id": "art-369",
+      "assessment": "Alle elf leden en uitzonderingen gelezen; HR 2022:328 volledig herlezen, oudere formulering en huidige pensioenuitzondering onderscheiden.",
       "corrected": false
     },
     {
-      "unit_id": "art-349aa",
-      "assessment": "Vier leden en 110 lid 3 nagelezen; tweedagentermijn, afzonderlijke indiening, curator-terminologie en kosten correct onderscheiden.",
+      "unit_id": "art-370",
+      "assessment": "Vijf leden, artikel 160 en HR 2024:1533 gelezen; rechtenwijziging, regres, overgang, registratie en vennootschapsbesluiten correct begrensd.",
       "corrected": false
     },
     {
-      "unit_id": "art-349a",
-      "assessment": "Drie leden en HR 2024:1913 volledig gelezen; lid 2-gronden expliciet toegevoegd, drieënhalfjaar- en vijfjaarsgrens onderscheiden.",
+      "unit_id": "art-371",
+      "assessment": "Vijftien leden gelezen; eigen verzoek en meerderheidssteun explicieter onderscheiden, behoud van lid 15 verduidelijkt.",
       "corrected": true
     },
     {
-      "unit_id": "art-350",
-      "assessment": "Alle gronden a–g, oproeping, onherroepelijkheid, ontbreken baten en overgang naar faillissement gecontroleerd.",
+      "unit_id": "art-372",
+      "assessment": "Vier cumulatieve voorwaarden en beide verdere leden gecontroleerd; groepsgarantie niet verward met samenvoeging van vermogens.",
       "corrected": false
     },
     {
-      "unit_id": "art-351",
-      "assessment": "Asymmetrisch beroepsrecht, termijnen, kennisgevingen en cassatie gecontroleerd.",
+      "unit_id": "art-373",
+      "assessment": "Vier leden, 383 lid 7 en 384 lid 5 gecontroleerd; vrijwillige wijziging, toegestane opzegging en afkoelingsbescherming onderscheiden.",
       "corrected": false
     },
     {
-      "unit_id": "art-351a",
-      "assessment": "Driemaandentermijn en verslag over voortraject tegen HR 2024:1913 rov. 3.6.4 gecontroleerd.",
+      "unit_id": "art-374",
+      "assessment": "Drie leden en waardecriterium faillissement gelezen; kleinere concurrentenbescherming onderscheiden van algemene MKB-definitie.",
       "corrected": false
     },
     {
-      "unit_id": "art-352",
-      "assessment": "Planningsdeadline, veertien–eenentwintig dagen en publicatie gecontroleerd.",
-      "corrected": false
-    },
-    {
-      "unit_id": "art-353",
-      "assessment": "Facultatieve en verplichte oproeping en spreekrecht schuldeisers onderscheiden.",
-      "corrected": false
-    },
-    {
-      "unit_id": "art-354",
-      "assessment": "Tekortkoming, toerekening en buitenbeschouwinglating afzonderlijk gecontroleerd.",
-      "corrected": false
-    },
-    {
-      "unit_id": "art-354a",
-      "assessment": "Jaar sinds uitspraak, ontbreken verificatiedag, verklaring, dubbele inhoudelijke toets en aanhouding gecontroleerd.",
-      "corrected": false
-    },
-    {
-      "unit_id": "art-355",
-      "assessment": "Kring beroepsgerechtigden en toepassing 351 leden 2–5 gecontroleerd.",
-      "corrected": false
-    },
-    {
-      "unit_id": "art-356",
-      "assessment": "Vier leden en 194 nagelezen; voorbeeld verduidelijkt tot een vordering van de boedel in plaats van dubbelzinnige boedelvordering.",
+      "unit_id": "art-375",
+      "assessment": "Alle onderdelen van beide informatielijsten gecontroleerd; onjuiste term bovengrens vervangen door open functionele omvang.",
       "corrected": true
     },
     {
-      "unit_id": "art-357",
-      "assessment": "Vervallen plaats behouden, geen historische norm als geldend gepresenteerd.",
+      "unit_id": "art-376",
+      "assessment": "Veertien leden gelezen, mede 241a leden 2–3 en 241c; termijnen, hoorplicht en pensioenuitzondering gecontroleerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-358",
-      "assessment": "Alle zes leden, specifieke boedelschulden, strafrechtelijke/civiele schade-uitzondering, woninghypotheek en overlijden gecontroleerd.",
+      "unit_id": "art-377",
+      "assessment": "Drie leden gelezen; bestaande bevoegdheid en voldoende waarborg als afzonderlijke voorwaarden behouden.",
       "corrected": false
     },
     {
-      "unit_id": "art-358a",
-      "assessment": "Alle vijf leden en HR 2023:455 volledig gelezen; verplichte aanhouding bij lopend 350-verzoek en mogelijkheid hoger beroep toegevoegd.",
+      "unit_id": "art-378",
+      "assessment": "Tien leden en artikel 147 gelezen; inhoud van 147 toegevoegd en onjuiste suggestie van toepasselijke kostenverwijzing geschrapt.",
       "corrected": true
     },
     {
-      "unit_id": "art-359",
-      "assessment": "Alle onderdelen a–e, 297 lid 3 en referentiedatum 43/45 nagelezen.",
+      "unit_id": "art-379",
+      "assessment": "Beide leden gelezen; beveiligingsdoel, startvoorwaarde, ambtshalve bevoegdheid en internationale verwijzingen gecontroleerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-359a",
-      "assessment": "203–205 volledig gelezen; buitenlandse verhaals-, overdrachts- en verrekeningsregels correct begrensd.",
+      "unit_id": "art-380",
+      "assessment": "Vier leden en verwijzingen naar 371 gelezen; observator niet met aanbieder verward, meldplicht en intrekking correct.",
       "corrected": false
     },
     {
-      "unit_id": "art-360",
-      "assessment": "Gesloten stelsel en HR 2023:53 volledig gelezen; partijstelling onderscheiden van HR-oordeel.",
+      "unit_id": "art-381",
+      "assessment": "Zeven leden gelezen; economische stemvervanging, klassegewijze stemming en tweederdebedragsmeerderheid gecontroleerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-361",
-      "assessment": "Limitatieve verzoeken, beide uitzonderingen, EU-verzoek en cassatiebijstand gecontroleerd.",
+      "unit_id": "art-382",
+      "assessment": "Beide leden met a–c gelezen; zeven dagen, toegankelijkheid en griffiedepot onderscheiden.",
       "corrected": false
     },
     {
-      "unit_id": "art-362",
-      "assessment": "Alle drie leden, beperkte termijnenuitzondering, WHOA-procesuitzondering en dwingende staatssteunweigering gecontroleerd.",
+      "unit_id": "art-383",
+      "assessment": "Negen leden gelezen; steun van in-the-money-klasse, MKB-instemming, verplichte observator, termijnen en protestplicht gecontroleerd.",
       "corrected": false
+    },
+    {
+      "unit_id": "art-384",
+      "assessment": "Acht leden en alle afwijzingsgronden gelezen; onmiddellijke noodzakelijkheid transactie tegenover noodzakelijkheid financiering verduidelijkt; alle drie functionarissen onder h genoemd; HR 2024:1533 herlezen.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-385",
+      "assessment": "Beide zinnen gelezen; binding van tegenstemmers en formele rechthebbende bij vervangende stem correct.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-386",
+      "assessment": "Volledige bepaling gelezen; erkende vordering, geldsom en toegetreden borg onderscheiden van algemene binding.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-387",
+      "assessment": "Beide leden en artikel 165 gelezen; bewijslast van nakoming en maximaal maanduitstel bij ontbindingsvordering toegevoegd.",
+      "corrected": true
     }
   ],
   "limitations": [
-    "Only assigned twenty units reviewed; no whole-book completion claim.",
-    "Three cited full judgments read; selective case law, no exhaustive subsequent-case survey.",
-    "External transitional statutes and international recognition not exhaustively reviewed.",
+    "Only assigned nineteen commentaries reviewed; no whole-book completion claim.",
+    "Two cited full judgments read; selective authorities, no exhaustive subsequent-case survey or wider national corpus search.",
+    "External BW and EU references checked only insofar as reproduced in statutory source or judgments; external regimes not exhaustively analysed.",
     "No external professional approval."
   ]
 }
