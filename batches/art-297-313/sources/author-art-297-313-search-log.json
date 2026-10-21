@@ -1,0 +1,14 @@
+{
+  "queries": [
+    "site.rechtspraak.nl \"307\" \"schuldsaneringsregeling\" \"Hoge Raad\"",
+    "site.rechtspraak.nl \"305\" \"schuldsaneringsregeling\" \"ontruiming\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+  "local_snapshot": "sources/author-art-297-313-hr-2020-322-local.md",
+  "verified_full_judgments": [
+    "ECLI:NL:HR:2020:322",
+    "ECLI:NL:GHAMS:2016:4304"
+  ],
+  "method": "Official full XML, rendered complete text read; local HR version compared. No Firecrawl needed for structured API.",
+  "limits": "Selective research; no separately verified case for other technical units; search hits and PHR conclusions not treated as holdings."
+}

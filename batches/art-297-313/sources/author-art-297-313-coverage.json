@@ -1,0 +1,62 @@
+{
+  "official_source": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "local_raw_evidence_path": "sources/author-art-297-313-selected.xml",
+    "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+  },
+  "expected_ids": [
+    "art-297",
+    "art-298",
+    "art-299",
+    "art-299a",
+    "art-299b",
+    "art-300",
+    "art-301",
+    "art-302",
+    "art-303",
+    "art-304",
+    "art-305",
+    "art-306",
+    "art-307",
+    "art-308",
+    "art-309",
+    "art-309a",
+    "art-310",
+    "art-311",
+    "art-312",
+    "art-313"
+  ],
+  "parsed_ids": [
+    "art-297",
+    "art-298",
+    "art-299",
+    "art-299a",
+    "art-299b",
+    "art-300",
+    "art-301",
+    "art-302",
+    "art-303",
+    "art-304",
+    "art-305",
+    "art-306",
+    "art-307",
+    "art-308",
+    "art-309",
+    "art-309a",
+    "art-310",
+    "art-311",
+    "art-312",
+    "art-313"
+  ],
+  "annex_disposition": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/author-art-297-313-selected.xml",
+      "method": "All selected XML element names checked; no bijlage element. Unnumbered opening/closing material retained in existing canonical source."
+    }
+  ],
+  "missing": [],
+  "duplicates": [],
+  "all_texts_exact": true,
+  "scope": "Assigned articles only; full title evidence remains coverage-evidence.json"
+}

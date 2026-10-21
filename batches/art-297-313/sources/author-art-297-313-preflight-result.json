@@ -1,0 +1,107 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "batch_authoring_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "verified_at": "2026-10-21T00:11:54.787914+00:00",
+  "version_evidence": {
+    "current_validity": [
+      "Geldend van 01-09-2026 t/m heden.",
+      "Geldend van 01-09-2026 t/m heden."
+    ],
+    "fresh_fetch": "sources/author-art-297-313-fetch.json",
+    "comparison": "Current HTML, selected XML and WTI hashes identical to preceding verified preflight; version-evidence.json latest effective change 2026-09-01, next dated change 2027-11-15. No change since intake.",
+    "selected_xml_sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+  },
+  "historical_versions_checked": [
+    {
+      "path": "sources/version-register.xml",
+      "sha256": "763e7ee5229eb9d24e14bfa85b9614ed1a757880954b662958b69fb77e64417f",
+      "effective_from": "2002-01-01",
+      "assigned_present_ids": [
+        "art-297",
+        "art-298",
+        "art-299",
+        "art-299a",
+        "art-299b",
+        "art-300",
+        "art-301",
+        "art-302",
+        "art-303",
+        "art-304",
+        "art-305",
+        "art-306",
+        "art-307",
+        "art-308",
+        "art-309",
+        "art-310",
+        "art-311",
+        "art-312",
+        "art-313"
+      ],
+      "disposition": "Historical text excluded, never concatenated with selected text."
+    },
+    {
+      "path": "sources/review-art-212z-213a-historical-2025.xml",
+      "sha256": "51ef559220c00e2a608c328cf1254c0bfa4bf2620acd431a766d8c2694ac2202",
+      "effective_from": "2025-11-19",
+      "assigned_present_ids": [
+        "art-297",
+        "art-298",
+        "art-299",
+        "art-299a",
+        "art-299b",
+        "art-300",
+        "art-301",
+        "art-302",
+        "art-303",
+        "art-304",
+        "art-305",
+        "art-306",
+        "art-307",
+        "art-308",
+        "art-309",
+        "art-309a",
+        "art-310",
+        "art-311",
+        "art-312",
+        "art-313"
+      ],
+      "disposition": "Historical text excluded, never concatenated with selected text."
+    }
+  ],
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/author-art-297-313-selected.xml",
+      "method": "All selected XML element names checked; no bijlage element. Unnumbered opening/closing material retained in existing canonical source."
+    }
+  ],
+  "unresolved_blockers": [],
+  "assigned_ids": [
+    "art-297",
+    "art-298",
+    "art-299",
+    "art-299a",
+    "art-299b",
+    "art-300",
+    "art-301",
+    "art-302",
+    "art-303",
+    "art-304",
+    "art-305",
+    "art-306",
+    "art-307",
+    "art-308",
+    "art-309",
+    "art-309a",
+    "art-310",
+    "art-311",
+    "art-312",
+    "art-313"
+  ],
+  "all_statutory_texts_exact": true,
+  "limitations": [
+    "Article 309a retains reference to repealed 309; preserved and expressly discussed. No reconstructed historical rule."
+  ]
+}
