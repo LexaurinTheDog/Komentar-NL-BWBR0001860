@@ -1,0 +1,14 @@
+{
+  "searched_at": "2026-10-21",
+  "queries": [
+    "site.rechtspraak.nl Hoge Raad WHOA 2022 328 pensioen 369",
+    "site.rechtspraak.nl Hoge Raad WHOA 2024 1533 384 financiering"
+  ],
+  "local_primary_corpus": "Existing WORK/sources snapshots and statutory cross-references inspected; targeted WHOA cases freshly retrieved from data.rechtspraak.nl. No broader national corpus located or searched.",
+  "full_text_read": [
+    "ECLI:NL:HR:2022:328",
+    "ECLI:NL:HR:2024:1533"
+  ],
+  "not_exhaustive": true,
+  "other_units": "No distinct verified authority selected; explanation based on statutory wording."
+}

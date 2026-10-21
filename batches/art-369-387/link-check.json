@@ -1,0 +1,13 @@
+{
+  "scope": "Assigned batch and output chapter 49",
+  "local_links_checked": 23,
+  "broken_links": [],
+  "commented_units": 19,
+  "exact_official_text_agreement": 1.0,
+  "whole_book_build": {
+    "units": 639,
+    "chapters": 49,
+    "successful": true
+  },
+  "independent_review": false
+}

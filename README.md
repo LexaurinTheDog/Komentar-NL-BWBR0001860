@@ -38,6 +38,3 @@ Op 20 oktober 2026 zijn exact de twintig toegewezen plaatsen `41, 42, 42a, 43, 4
 
 
 Tweede lezing van de twintig toegewezen plaatsen 60a–72 afgerond op 20 oktober 2026: negen toelichtingen aangescherpt, elf ongewijzigd aanvaard. [Verslag](REVIEW.md) en [exacte artikelbeoordelingen](sources/review-art-60a-72-result.json). Dit wijzigt niet de onvoltooide boekstatus: 342 toelichtingen ontbreken nog buiten deze batch.
-
-
-Auteurscheckpoint 21 oktober 2026: [artikelen 314–329](batches/art-314-329/INDEX.md), twintig plaatsen, concept met onafhankelijke tweede lezing nog open.

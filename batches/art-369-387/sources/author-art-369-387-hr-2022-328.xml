@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2022:328</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-19T10:13:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2022-02-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2022-02-25</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">21/03643</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#prejudicieleBeslissing">Prejudiciële beslissing</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2021:1152" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">Conclusie: ECLI:NL:PHR:2021:1152</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBAMS:2021:4475" psi:type="http://psi.rechtspraak.nl/prejudicieleVraag" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#prejudiciële beslissing">Prejudiciële beslissing op vraag van: ECLI:NL:RBAMS:2021:4475, Prejudiciële beslissing</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>AR-Updates.nl 2022-0241 met annotatie van L.C.J. Sprengers</rdf:li>
+          <rdf:li>NJB 2022/545</rdf:li>
+          <rdf:li>INS-Updates.nl 2022-0064 met annotatie van L.C.J. Sprengers</rdf:li>
+          <rdf:li>RvdW 2022/256</rdf:li>
+          <rdf:li>JAR 2022/86 met annotatie van mr. dr. J. van der Pijl</rdf:li>
+          <rdf:li>PJ 2022/28 met annotatie van B. Degelink</rdf:li>
+          <rdf:li>NJ 2022/150 met annotatie van F.M.J. Verstijlen</rdf:li>
+          <rdf:li>PR-Updates.nl PR-2022-0065 met annotatie van L.C.J. Sprengers</rdf:li>
+          <rdf:li>RI 2022/41</rdf:li>
+          <rdf:li>JOR 2022/163 met annotatie van Heumakers, S.B.A.</rdf:li>
+          <rdf:li>TvI 2022/17 met annotatie van P.R.W. Schaink</rdf:li>
+          <rdf:li>TvPP 2022, afl. 4, p. 150</rdf:li>
+          <rdf:li>VAAN-AR-Updates.nl 2022-0241</rdf:li>
+          <rdf:li>PR-Updates.nl 2022-0065</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2022:328">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2022:328</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2022-02-25T10:00:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2022-02-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2022:328 Hoge Raad , 25-02-2022 / 21/03643</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2022:328:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Prejudiciële vraag (art. 392 Rv). Wet homologatie onderhands akkoord (WHOA). Art. 369 lid 4 Fw. Is de WHOA van toepassing op vorderingen van bedrijfstakpensioenfondsen voor achterstallige pensioenpremies?</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2022:328:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para> HOGE RAAD DER NEDERLANDEN</para>
+  </parablock>
+  <parablock>
+    <para>CIVIELE KAMER</para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">Nummer</emphasis>	21/03643</para>
+    <para>
+      <emphasis role="bold">Datum   </emphasis>	25 februari 2022</para>
+  </parablock>
+  <parablock>
+    <para>PREJUDICIËLE BESLISSING</para>
+  </parablock>
+  <parablock>
+    <para>In de zaak van</para>
+  </parablock>
+  <parablock>
+    <para>
+      [verzoekster] B.V.,<?linebreak?>gevestigd te [vestigingsplaats], </para>
+    <para>VERZOEKSTER in eerste aanleg,</para>
+    <para>hierna: de vennootschap,</para>
+    <para>advocaat in de prejudiciële procedure: T.T. van Zanten,</para>
+  </parablock>
+  <parablock>
+    <para>tegen</para>
+  </parablock>
+  <parablock>
+    <para>STICHTING PENSIOENFONDS HORECA &amp; CATERING,<?linebreak?>kantoorhoudende te Zoetermeer, </para>
+    <para>VERWEERSTER in eerste aanleg,</para>
+    <para>hierna: het Pensioenfonds,</para>
+    <para>advocaat in de prejudiciële procedure: M.E. Bruning.</para>
+    <para>
+      <emphasis role="bold">1.	De prejudiciële procedure</emphasis>
+    </para>
+    <para>Bij tussenvonnis in de zaak C/13/704064/FT RK 21.587 van 23 augustus 2021 heeft de rechtbank Amsterdam op de voet van art. 392 Rv een prejudiciële vraag aan de Hoge Raad gesteld.</para>
+    <para>Beide partijen hebben schriftelijke opmerkingen als bedoeld in art. 393 lid 1 Rv ingediend, voor de vennootschap mede door A.M. Mennens.</para>
+    <para>De conclusie van de Advocaat-Generaal R.H. de Bock strekt tot beantwoording van de prejudiciële vraag als onder 8.10 in de conclusie vermeld.</para>
+    <para>De advocaten van partijen hebben schriftelijk op die conclusie gereageerd.</para>
+  </parablock>
+  <section>
+    <title>
+      <nr>2</nr>Uitgangspunten en feiten</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Deze uitspraak gaat over de vraag of vorderingen van een bedrijfstakpensioenfonds voor achterstallige pensioenpremies vallen binnen de reikwijdte van art. 369 lid 4 Fw. Daarin is bepaald dat de Wet homologatie onderhands akkoord (hierna: WHOA) niet van toepassing is op rechten van werknemers in dienst van de schuldenaar die voortvloeien uit arbeidsovereenkomsten (hierna ook: rechten van werknemers). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Bij de beantwoording van de prejudiciële vraag gaat de Hoge Raad uit van de volgende feiten:</para>
+        <para>(i) De vennootschap exploiteert een hotelbedrijf en verkeert in een toestand waarin het redelijkerwijs aannemelijk is dat zij met het betalen van haar schulden niet zal kunnen voortgaan.</para>
+        <para>(ii) De vennootschap is gehouden tot het afdragen van premies aan het Pensioenfonds ten behoeve van haar werknemers. Het Pensioenfonds is een bedrijfstakpensioenfonds in de zin van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 (hierna: Wet Bpf 2000).</para>
+        <para>(iii) De vennootschap heeft haar schuldeisers een akkoord aangeboden als bedoeld in art. 370 Fw. In het akkoord zijn de schuldeisers in vier klassen ingedeeld: (i) preferent, (ii) concurrent I, (iii) concurrent II, en (iv) achtergesteld, met een beoogd uitkeringspercentage van achtereenvolgens 17,7%, 8,85%, 20% en 0%.</para>
+        <para>(iv) De vordering van het Pensioenfonds voor achterstallige pensioenpremies is met de concurrente schuldeisers ingedeeld in klasse (ii). Alle klassen hebben met een voldoende meerderheid ingestemd met het akkoord. Het Pensioenfonds heeft tegen het akkoord gestemd.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>De vennootschap heeft een verzoek tot homologatie van het akkoord ingediend als bedoeld in art. 383 Fw.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Het Pensioenfonds heeft verweer gevoerd tegen het homologatieverzoek. Voor zover in cassatie van belang betoogt het Pensioenfonds dat de WHOA zich niet uitstrekt tot vorderingen voor pensioenpremies, gelet op de uitzondering van art. 369 lid 4 Fw (zie hiervoor in 2.1).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <parablock>
+        <para>De rechtbank<footnote-ref linkend="_b57e0c7a-0832-45c7-8cd9-003ebf222e35" /> heeft op de voet van art. 392 Rv de volgende prejudiciële vraag gesteld aan de Hoge Raad:</para>
+        <para>Is op grond van art. 369 lid 4 Fw het in afdeling 2 van titel IV van de Faillissementswet bepaalde (de WHOA) van toepassing op vorderingen van de bedrijfstakpensioenfondsen in de zin van de Wet Bpf 2000 betreffende achterstallige pensioenpremies?</para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>3</nr>Beantwoording van de prejudiciële vraag</title>
+    <bridgehead role="italic">         De prejudiciële vraag</bridgehead>
+    <para />
+    <paragroup>
+      <nr>3.1</nr>
+      <para>De prejudiciële vraag stelt aan de orde of vorderingen voor achterstallige premies van bedrijfstakpensioenfondsen in de zin van de Wet Bpf 2000 onder de reikwijdte van de WHOA vallen en betrokken kunnen worden in een onderhands akkoord als bedoeld in art. 370 lid 1 Fw (hierna ook: onderhands akkoord).</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Art. 369 lid 4 Fw</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>3.2.1</nr>
+        <para>Op 20 juni 2019 is de Herstructureringsrichtlijn vastgesteld.<footnote-ref linkend="_02425e07-7ec5-4caa-957b-c2954a41199b" /> De WHOA vormt grotendeels de implementatie van Titel II van die richtlijn over preventieve herstructureringsstelsels. De Herstructureringsrichtlijn laat in art. 1 lid 5, onder a, aan lidstaten de ruimte om te bepalen dat hun nationale preventieve herstructureringsstelsel niet van toepassing is op vorderingen van werknemers. Van die ruimte heeft de Nederlandse wetgever in de WHOA gebruikgemaakt.<footnote-ref linkend="_f913ac92-79ef-4941-b096-d541b6fcd8aa" /></para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.2</nr>
+        <para>De WHOA omvat de art. 369 tot en met 387 in afdeling 2 van titel IV van de Faillissementswet. Art. 369 lid 4 Fw bepaalt dat het in die afdeling bepaalde niet van toepassing is op rechten van werknemers in dienst van de schuldenaar die voortvloeien uit arbeidsovereenkomsten in de zin van art. 7:610 BW. Voor het antwoord op de vraag of vorderingen van bedrijfstakpensioenfondsen voor achterstallige pensioenpremies onder de reikwijdte van de WHOA vallen en dus in een onderhands akkoord betrokken kunnen worden, is van belang of deze vorderingen kunnen worden aangemerkt als rechten van werknemers in de zin van art. 369 lid 4 Fw. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.3</nr>
+        <para>In de memorie van toelichting bij art. 369 lid 4 Fw is vermeld dat uit deze bepaling volgt dat het onderhands akkoord geen wijzigingen kan aanbrengen in verplichtingen van de schuldenaar jegens zijn werknemers op basis van een arbeidsovereenkomst.<footnote-ref linkend="_18110b61-16fa-4d17-8ea2-edf6fa2512e1" /> Tevens is daarin opgemerkt dat een onderhands akkoord geen wijzigingen kan aanbrengen in de rechten van werknemers op basis van de arbeidsovereenkomst en titel 10 van Boek 7 BW, en dat de rechtspositie van werknemers niet kan worden gewijzigd door een onderhands akkoord en dus geborgd blijft.<footnote-ref linkend="_d28883da-2ed3-4728-81cb-e4df0c143863" /> Nu het akkoord geen wijzigingen kan aanbrengen in verplichtingen van de schuldenaar jegens zijn werknemers, worden werknemers niet aangemerkt als stemgerechtigde schuldeisers, aldus de memorie van toelichting.<footnote-ref linkend="_fdf880ed-90f6-4dd1-bfb2-007f27ee23ca" /> De WHOA biedt de schuldenaar in art. 373 Fw de mogelijkheid om in geval van homologatie van een door de schuldenaar aangeboden akkoord, met toestemming van de rechtbank overeenkomsten eenzijdig op te zeggen als de wederpartij niet instemt met een voorstel tot wijziging of beëindiging. Uit de wetsgeschiedenis blijkt dat dit niet geldt voor een arbeidsovereenkomst, omdat art. 369 lid 4 Fw daaraan in de weg staat.<footnote-ref linkend="_ef14301a-dfcd-4799-a7c4-d48c3f1bdbd5" /></para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.2.4</nr>
+        <para>Uit de hiervoor in 3.2.3 weergegeven passages uit de totstandkomingsgeschiedenis van art. 369 lid 4 Fw volgt dat met rechten van werknemers in art. 369 lid 4 Fw niet iets anders is bedoeld dan met verplichtingen van de schuldenaar jegens zijn werknemers. Voor de beantwoording van de prejudiciële vraag maakt het daarom geen verschil of de rechten van werknemers tot uitgangspunt worden genomen of de daarmee corresponderende verplichtingen van de schuldenaar jegens zijn werknemers.</para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Rechtsbetrekkingen rond pensioen</emphasis>
+          </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.1</nr>
+        <parablock>
+          <para>De minister van Sociale Zaken en Werkgelegenheid kan op de voet van art. 2 Wet Bpf 2000 deelneming in een bedrijfstakpensioenfonds verplicht stellen voor een of meer bepaalde groepen van personen die in een bepaalde bedrijfstak werkzaam zijn. Art. 2 lid 2, onder a, Pensioenwet (hierna: Pw) bepaalt dat de rechtsbetrekking die voortvloeit uit de dienstbetrekking tussen een werkgever en een werknemer met betrekking tot pensioen in geval van deelneming in een bedrijfstakpensioenfonds op basis van een verplichtstelling, met een pensioenovereenkomst wordt gelijkgesteld.</para>
+          <para>	Een pensioenovereenkomst is ingevolge art. 1 Pw hetgeen tussen een werkgever en een werknemer is overeengekomen betreffende pensioen. In de memorie van toelichting bij de Pensioenwet is opgemerkt dat het voor de rechten en plichten over en weer tussen werkgever en werknemer niet uitmaakt of zij het pensioen feitelijk zelf overeenkomen, dan wel dat de hen vertegenwoordigende organisaties dat doen.<footnote-ref linkend="_79291a82-e267-416b-aa0c-9ff8fe4a1c28" /> Uitgangspunt is dus dat ook bij deelneming in een bedrijfstakpensioenfonds op basis van een verplichtstelling een pensioenovereenkomst geldt tussen een werknemer en een werkgever. Pensioen is een arbeidsvoorwaarde en als zodanig maakt de pensioenovereenkomst deel uit van de arbeidsverhouding tussen de werknemer en de werkgever.<footnote-ref linkend="_124d842f-50cd-4770-8176-6e53a4e35bcc" /> Uit het voorgaande volgt dat de rechten en verplichtingen van de werknemer en de werkgever die over en weer voortvloeien uit de verplichte deelneming in een bedrijfstakpensioenfonds op grond van de Wet Bpf 2000, moeten worden aangemerkt als rechten en verplichtingen die voortvloeien uit een arbeidsovereenkomst.<footnote-ref linkend="_7c7c3e12-e98a-4476-9ea7-8df035582583" /></para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.2</nr>
+        <para>Rechten en verplichtingen die voortvloeien uit een arbeidsovereenkomst ter zake van pensioen hebben als bijzonderheid dat daarbij in de regel sprake is van een driehoeksverhouding tussen de werknemer, de werkgever en de pensioenuitvoerder (zoals een bedrijfstakpensioenfonds). De werkgever is uit hoofde van de met de pensioenovereenkomst gelijkgestelde rechtsbetrekking (zie hiervoor in 3.3.1) jegens de werknemer verplicht tot premiebetaling aan het bedrijfstakpensioenfonds. Het bedrijfstakpensioenfonds heeft daarnaast een eigen recht jegens de werkgever op betaling van de premie.<footnote-ref linkend="_53265173-fb15-4132-b00e-942a754c22e3" /> Dat de werkgever jegens de werknemer verplicht is tot premiebetaling betekent omgekeerd – zie ook hiervoor in 3.2.4 – dat de werknemer jegens de werkgever een recht heeft op premiebetaling aan het bedrijfstakpensioenfonds.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.3.3</nr>
+        <para>Het voorgaande vindt bevestiging in het voorstel voor de Implementatiewet richtlijn herstructurering en insolventie, dat op dit moment aanhangig is bij de Tweede Kamer.<footnote-ref linkend="_13307557-afb9-4547-a5a7-908b44ac8bdf" /> Het wetsvoorstel wijzigt art. 369 lid 4 Fw in die zin dat wordt verduidelijkt dat onder rechten van werknemers als bedoeld in die bepaling mede worden verstaan vorderingen van werknemers tot betaling door hun werkgever van premie aan een pensioenuitvoerder. In de memorie van toelichting is in verband met deze verduidelijking opgemerkt dat werknemers een zelfstandige vordering jegens hun werkgever hebben tot afdracht van pensioenpremie aan een pensioenuitvoerder en dat hier dus sprake is van rechten van werknemers die voortvloeien uit arbeidsovereenkomsten. Met deze verduidelijking staat vast dat vorderingen tot betaling van pensioenpremie niet kunnen worden gewijzigd in het kader van een onderhands akkoord en wordt verzekerd dat de pensioenopbouw van werknemers niet in gevaar komt als gevolg van een dergelijk akkoord, aldus de memorie van toelichting.<footnote-ref linkend="_8ceaedb2-7c6e-4fa6-825e-f779ca1fa724" /></para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Antwoord op de prejudiciële vraag</emphasis>
+          </para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Een vordering voor achterstallige premies van een bedrijfstakpensioenfonds jegens de werkgever correspondeert met het recht van de werknemer jegens de werkgever op betaling van die premies aan het bedrijfstakpensioenfonds. Dit laatste is een recht dat voortvloeit uit een arbeidsovereenkomst in de zin van art. 7:610 BW. Indien de vordering voor achterstallige premies van een bedrijfstakpensioenfonds zou kunnen worden betrokken in een onderhands akkoord op de voet van afdeling 2 van titel IV van de Faillissementswet, zou afbreuk worden gedaan aan het met die vordering corresponderende recht van de werknemer jegens de werkgever op premiebetaling aan het bedrijfstakpensioenfonds. Afbreuk aan dit recht zou de pensioenopbouw van werknemers in gevaar kunnen brengen. Dat het bedrijfstakpensioenfonds de pensioenverplichtingen jegens werknemers ook moet nakomen als de werkgever geen premies heeft afgedragen, neemt immers niet weg dat een bedrijfstakpensioenfonds wegens een te lage dekkingsgraad als gevolg van niet afgedragen pensioenpremies kan overgaan tot korting op de pensioenen of het achterwege laten van indexering van de pensioenen en dat op die wijze alsnog afbreuk zou worden gedaan aan opgebouwde rechten op bedrijfspensioen.<footnote-ref linkend="_006c6015-1639-4907-8a5b-f5c3c5c99b7d" /> Dat zou, gelet op hetgeen hiervoor in 3.2.1-3.3.2 is overwogen, niet stroken met de bedoeling van de wetgever. Daarop wijst ook hetgeen hiervoor in 3.3.3 is vermeld over het aanhangige voorstel voor de Implementatiewet richtlijn herstructurering en insolventie. Het hiervoor overwogene strookt daarentegen juist wel met art. 1 lid 6 van de Herstructureringsrichtlijn, dat strekt tot bescherming van pensioenaanspraken.<footnote-ref linkend="_ba3fe9cc-bca5-4259-9707-5aff18dc4e27" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>Op grond van het voorgaande moet worden aangenomen dat afdeling 2 van titel IV van de Faillissementswet niet van toepassing is op een vordering voor achterstallige premies van een bedrijfstakpensioenfonds, en dat die vordering niet kan worden betrokken in een onderhands akkoord als bedoeld in art. 370 lid 1 Fw.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6</nr>
+      <para>Opmerking verdient dat art. 369 lid 4 Fw meebrengt dat een door de rechter afgekondigde afkoelingsperiode als bedoeld in art. 376 Fw zich niet kan uitstrekken tot de rechten van werknemers.<footnote-ref linkend="_1ebef8ef-3387-48f7-9c7f-c26561c39179" /> Uit het hiervoor in 3.4 overwogene volgt dat de afkoelingsperiode zich daarom ook niet kan uitstrekken tot vorderingen van een bedrijfstakpensioenfonds voor pensioenpremies.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.7</nr>
+      <para>Gelet op de aard van de procedure zal de Hoge Raad geen kosten begroten.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing </title>
+    <para>	De Hoge Raad beantwoordt de prejudiciële vraag op de hiervoor in 3.5 weergegeven wijze.</para>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze beslissing is gegeven door de vicepresident M.J. Kroeze als voorzitter en de raadsheren T.H. Tanja-van den Broek, H.M. Wattendorff, F.J.P. Lock en F.R. Salomons, en in het openbaar uitgesproken door de raadsheer H.M. Wattendorff op <emphasis role="underline">25 februari 2022</emphasis>.</para>
+    </parablock>
+  </section>
+  <footnote id="_b57e0c7a-0832-45c7-8cd9-003ebf222e35" label="1">
+    <para>Rechtbank Amsterdam 23 augustus 2021, ECLI:NL:RBAMS:2021:4475.</para>
+  </footnote>
+  <footnote id="_02425e07-7ec5-4caa-957b-c2954a41199b" label="2">
+    <para> 	Richtlijn (EU) 2019/1023 van het Europees Parlement en de Raad van 20 juni 2019 betreffende preventieve herstructureringsstelsels, betreffende kwijtschelding van schuld en beroepsverboden, en betreffende maatregelen ter verhoging van de efficiëntie van procedures inzake herstructurering, insolventie en kwijtschelding van schuld, en tot wijziging van Richtlijn (EU) 2017/1132 (Richtlijn betreffende herstructurering en insolventie), PbEU 2019, L 172/18.</para>
+  </footnote>
+  <footnote id="_f913ac92-79ef-4941-b096-d541b6fcd8aa" label="3">
+    <para> 	Zie de conclusie van de Advocaat-Generaal onder 4.6-4.9 en de Kamerstukken II 2021/2022, 36040, nr. 3, p. 19.</para>
+  </footnote>
+  <footnote id="_18110b61-16fa-4d17-8ea2-edf6fa2512e1" label="4">
+    <para> 	Kamerstukken II 2018/19, 35249, nr. 3, p. 31.</para>
+  </footnote>
+  <footnote id="_d28883da-2ed3-4728-81cb-e4df0c143863" label="5">
+    <para> 	Kamerstukken II 2018/19, 35249, nr. 3, p. 9.</para>
+  </footnote>
+  <footnote id="_fdf880ed-90f6-4dd1-bfb2-007f27ee23ca" label="6">
+    <para> 	Kamerstukken II 2018/19, 35249, nr. 3, p. 12.</para>
+  </footnote>
+  <footnote id="_ef14301a-dfcd-4799-a7c4-d48c3f1bdbd5" label="7">
+    <para> 	Kamerstukken II 2018/19, 35249, nr. 3, p. 10.</para>
+  </footnote>
+  <footnote id="_79291a82-e267-416b-aa0c-9ff8fe4a1c28" label="8">
+    <para> 	Kamerstukken II 2005/06, 30413, nr. 3, p. 13.</para>
+  </footnote>
+  <footnote id="_124d842f-50cd-4770-8176-6e53a4e35bcc" label="9">
+    <para> 	Kamerstukken II 2005/06, 30413, nr. 3, p. 8.</para>
+  </footnote>
+  <footnote id="_7c7c3e12-e98a-4476-9ea7-8df035582583" label="10">
+    <para> 	Zie Kamerstukken II 2005/06, 30413, nr. 3, p. 12. Vgl. HR 14 oktober 2016, ECLI:NL:HR:2016:2375, rov. 3.5.</para>
+  </footnote>
+  <footnote id="_53265173-fb15-4132-b00e-942a754c22e3" label="11">
+    <para> 	HR 14 oktober 2016, ECLI:NL:HR:2016:2375, rov. 3.10.</para>
+  </footnote>
+  <footnote id="_13307557-afb9-4547-a5a7-908b44ac8bdf" label="12">
+    <para> 	Kamerstukken II 2021/22, 36040, nr. 2.</para>
+  </footnote>
+  <footnote id="_8ceaedb2-7c6e-4fa6-825e-f779ca1fa724" label="13">
+    <para> 	Kamerstukken II 2021/22, 36040, nr. 3, p. 59 en p. 79-80.</para>
+  </footnote>
+  <footnote id="_006c6015-1639-4907-8a5b-f5c3c5c99b7d" label="14">
+    <para> 	Vgl. HR 14 oktober 2016, ECLI:NL:HR:2016:2375, rov. 3.11.</para>
+  </footnote>
+  <footnote id="_ba3fe9cc-bca5-4259-9707-5aff18dc4e27" label="15">
+    <para> 	Vgl. Kamerstukken II 2021/22, 36040, nr. 3, p. 59 en p. 80.</para>
+  </footnote>
+  <footnote id="_1ebef8ef-3387-48f7-9c7f-c26561c39179" label="16">
+    <para> 	Kamerstukken II 2021/22, 36040, nr. 3, p. 102.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

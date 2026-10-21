@@ -1,0 +1,9 @@
+# Faillissementswet — artikelen 369–387
+
+Deze conceptbatch bevat negentien oorspronkelijke toelichtingen op alle toegewezen artikelen 369–387 over de WHOA. Dit is een afgebakende bijdrage aan een groter manuscript; geen verklaring dat het gehele boek voltooid of onafhankelijk beoordeeld is. Beslisdatum voor deze batch: 21 oktober 2026. De [officiële tekst](https://wetten.overheid.nl/BWBR0001860/2026-09-01) geldt vanaf 1 september 2026. De actuele route is opnieuw opgehaald en vermeldt geldigheid tot heden; het wijzigingsregister noemt als volgende gedateerde wijziging 15 november 2027.
+
+Alle negentien wetteksten zijn mechanisch met het geselecteerde officiële XML vergeleken. [Voorcontrole](preflight-result.json), [volledigheidsbewijs](coverage-evidence.json) en [bronverificatie](sources/verification.json) bevatten bronpaden, HTTP-resultaten, tijdstippen en hashes. De bestaande oorspronkelijke intake en het canonieke bronbestand blijven behouden. Geen historische toestanden zijn met de huidige tekst samengevoegd. Het volledige XML bevat geen bijlagen; aanhef en slottekst zijn in de bestaande parser behouden.
+
+De rechtspraak is selectief onderzocht. Twee volledige primaire arresten zijn gelezen; voor de overige technische vragen is geen afzonderlijk arrest als autoriteit opgevoerd. [Bronnen](SOURCES.md) en [controletoestand](REVIEW.md) vermelden grenzen. De voorbeelden zijn fictief. Onafhankelijke tweede inhoudelijke controle blijft nodig; geen externe professionele goedkeuring. Dit concept is geen individueel juridisch advies.
+
+Commentaar © 2026 Vojtěch Říha. Het oorspronkelijke commentaar valt onder [Apache-2.0](LICENSE). Officiële wettekst en uitspraken zijn afzonderlijk herkenbare bronmaterialen; commerciële annotaties zijn niet overgenomen.

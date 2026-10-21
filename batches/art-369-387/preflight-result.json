@@ -1,0 +1,41 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-21",
+  "batch_authoring_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "verified_at": "2026-10-21T00:44:14.130916+00:00",
+  "version_evidence": {
+    "current_redirect": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+    "current_validity_statement": "Geldend van 01-09-2026 t/m heden",
+    "effective_from": "2026-09-01",
+    "latest_effective_change": "2026-09-01",
+    "next_dated_change": "2027-11-15",
+    "selected_xml_hash_matches_previous_verification": true,
+    "changes_since_local_intake": "No newer effective version found; original intake preserved. Existing canonical and change map retained.",
+    "fetch": "sources/verification.json"
+  },
+  "historical_versions_checked": [
+    {
+      "path": "sources/version-register.xml",
+      "sha256": "763e7ee5229eb9d24e14bfa85b9614ed1a757880954b662958b69fb77e64417f",
+      "effective_from": "2002-01-01",
+      "disposition": "Historical version excluded. Selected text not concatenated with older versions."
+    },
+    {
+      "path": "sources/review-art-212z-213a-historical-2025.xml",
+      "sha256": "51ef559220c00e2a608c328cf1254c0bfa4bf2620acd431a766d8c2694ac2202",
+      "effective_from": "2025-11-19",
+      "disposition": "Historical version excluded. Selected text not concatenated with older versions."
+    }
+  ],
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/author-art-369-387-selected.xml",
+      "method": "Full official XML element census; no bijlage elements. Opening formula and closing text are present and preserved by existing parser."
+    }
+  ],
+  "unresolved_blockers": [],
+  "review_date": "2026-10-21",
+  "scope": "Bounded author batch art-369 through art-387; existing whole-book parser and historical source comparison inspected."
+}

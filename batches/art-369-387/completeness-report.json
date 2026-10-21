@@ -1,0 +1,64 @@
+{
+  "official_source": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "local_raw_evidence_path": "sources/author-art-369-387-selected.xml",
+    "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+  },
+  "scope": "Only assigned articles 369\u2013387; independent XML article-number enumeration, not copied parsed IDs.",
+  "expected_ids": [
+    "art-369",
+    "art-370",
+    "art-371",
+    "art-372",
+    "art-373",
+    "art-374",
+    "art-375",
+    "art-376",
+    "art-377",
+    "art-378",
+    "art-379",
+    "art-380",
+    "art-381",
+    "art-382",
+    "art-383",
+    "art-384",
+    "art-385",
+    "art-386",
+    "art-387"
+  ],
+  "parsed_ids": [
+    "art-369",
+    "art-370",
+    "art-371",
+    "art-372",
+    "art-373",
+    "art-374",
+    "art-375",
+    "art-376",
+    "art-377",
+    "art-378",
+    "art-379",
+    "art-380",
+    "art-381",
+    "art-382",
+    "art-383",
+    "art-384",
+    "art-385",
+    "art-386",
+    "art-387"
+  ],
+  "annex_disposition": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/author-art-369-387-selected.xml",
+      "method": "Full official XML element census; no bijlage elements. Opening formula and closing text are present and preserved by existing parser."
+    }
+  ],
+  "missing": [],
+  "extra": [],
+  "duplicates": [],
+  "statutory_text_agreement": 1.0,
+  "expected_count": 19,
+  "extracted_count": 19,
+  "exact_text_comparisons": 19
+}
