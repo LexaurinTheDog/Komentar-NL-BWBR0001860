@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-21",
+  "queries": [
+    "site.rechtspraak.nl Hoge Raad 317 bewindvoerder schuldsaneringsregeling",
+    "site.rechtspraak.nl 315 vijf dagen Hoge Raad bewindvoerder"
+  ],
+  "local_search": "rg -l 'artikel 317|art. 317|art. 315' /Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+  "verified_full_judgments": ["ECLI:NL:HR:2023:53", "ECLI:NL:HR:2021:1676"],
+  "method": "Search for discovery; full national corpus text and fresh official full XML read. Holdings drawn from court reasoning, not snippets or PHR conclusions.",
+  "limits": "Selective research concentrated on appeal and supervisory remedies. No separate sufficiently relevant fully verified authority selected for the other technical units. No claim that no other relevant cases exist. External salary regulations, implementing privacy measures and transitional instruments are not independently analysed in full.",
+  "extraction": "Direct official structured XML API used; no webpage extraction service needed."
+}

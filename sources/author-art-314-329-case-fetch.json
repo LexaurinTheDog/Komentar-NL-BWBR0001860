@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2023:53",
+    "access_timestamp_utc": "2026-10-21T00:20:29.411110+00:00",
+    "http_status": 200,
+    "sha256": "1633823e6ecf930e2632220e55b92664167e5fe39e2274209dd8832089701167",
+    "raw_path": "sources/author-art-314-329-case-2023-53.xml",
+    "accepted": true,
+    "full_judgment_elements": 1,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2023-53.md",
+    "local_sha256": "8256febd769ad6545f05985ac25941c69a16578b653655c42bd13238caecad66"
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2021:1676",
+    "access_timestamp_utc": "2026-10-21T00:20:29.553271+00:00",
+    "http_status": 200,
+    "sha256": "170081e9547f59cdfd065c3f554a19919bd9e06a4c3d593d739db9cdfe7c9107",
+    "raw_path": "sources/author-art-314-329-case-2021-1676.xml",
+    "accepted": true,
+    "full_judgment_elements": 1,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2021-1676.md",
+    "local_sha256": "0bdd288473e34c9a1ad317cb852328b6a57adc6f86f06019d2ff72ba7e2d1463"
+  }
+]

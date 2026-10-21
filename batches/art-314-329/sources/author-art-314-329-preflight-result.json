@@ -1,0 +1,62 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "batch_authoring_date": "2026-10-21",
+  "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "verified_at": "2026-10-21T00:20:29.254147+00:00",
+  "version_evidence": {
+    "fresh_fetch": "sources/author-art-314-329-fetch.json",
+    "current_statement": "Geldend van 01-09-2026 t/m heden.",
+    "latest_effective_change": "2026-09-01",
+    "next_dated_change": "2027-11-15",
+    "changes_since_intake": [],
+    "selected_xml_sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+  },
+  "historical_versions_checked": [
+    {
+      "path": "sources/version-register.xml",
+      "sha256": "763e7ee5229eb9d24e14bfa85b9614ed1a757880954b662958b69fb77e64417f",
+      "effective_from": "2002-01-01",
+      "disposition": "Historical version excluded; no concatenation."
+    },
+    {
+      "path": "sources/review-art-212z-213a-historical-2025.xml",
+      "sha256": "51ef559220c00e2a608c328cf1254c0bfa4bf2620acd431a766d8c2694ac2202",
+      "effective_from": "2025-11-19",
+      "disposition": "Historical version excluded; no concatenation."
+    }
+  ],
+  "annexes_checked": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/author-art-314-329-selected.xml",
+      "method": "All XML element names inspected; no bijlage. Existing opening/closing inventory preserved."
+    }
+  ],
+  "assigned_ids": [
+    "art-314",
+    "art-315",
+    "art-316",
+    "art-316a",
+    "art-317",
+    "art-318",
+    "art-319",
+    "art-320",
+    "art-321",
+    "art-322",
+    "art-323",
+    "art-324",
+    "art-325",
+    "art-326",
+    "art-327",
+    "art-328",
+    "art-328a",
+    "art-328b",
+    "art-328c",
+    "art-329"
+  ],
+  "all_statutory_texts_exact": true,
+  "global_expected_count": 639,
+  "global_parsed_count": 639,
+  "unresolved_blockers": []
+}

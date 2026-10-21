@@ -87,3 +87,6 @@ De 25 hieronder vermelde hoofdstukken bevatten 340 toegelichte plaatsen, van art
 [Artikelen 282–296, hoofdstuk 38](38-art-282-296-checkpoint-38.md).
 
 [Artikelen 282–296, hoofdstuk 39](39-art-282-296-checkpoint-39.md).
+
+
+Auteurscheckpoint 21 oktober 2026: [artikelen 314–329](batches/art-314-329/INDEX.md), twintig plaatsen, concept met onafhankelijke tweede lezing nog open.

@@ -1,0 +1,83 @@
+{
+  "official_source": {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "local_raw_evidence_path": "sources/author-art-314-329-selected.xml",
+    "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+  },
+  "scope": "Assigned official range art-314 through art-329 inclusive",
+  "expected_ids": [
+    "art-314",
+    "art-315",
+    "art-316",
+    "art-316a",
+    "art-317",
+    "art-318",
+    "art-319",
+    "art-320",
+    "art-321",
+    "art-322",
+    "art-323",
+    "art-324",
+    "art-325",
+    "art-326",
+    "art-327",
+    "art-328",
+    "art-328a",
+    "art-328b",
+    "art-328c",
+    "art-329"
+  ],
+  "parsed_ids": [
+    "art-314",
+    "art-315",
+    "art-316",
+    "art-316a",
+    "art-317",
+    "art-318",
+    "art-319",
+    "art-320",
+    "art-321",
+    "art-322",
+    "art-323",
+    "art-324",
+    "art-325",
+    "art-326",
+    "art-327",
+    "art-328",
+    "art-328a",
+    "art-328b",
+    "art-328c",
+    "art-329"
+  ],
+  "assigned_ids": [
+    "art-314",
+    "art-315",
+    "art-316",
+    "art-316a",
+    "art-317",
+    "art-318",
+    "art-319",
+    "art-320",
+    "art-321",
+    "art-322",
+    "art-323",
+    "art-324",
+    "art-325",
+    "art-326",
+    "art-327",
+    "art-328",
+    "art-328a",
+    "art-328b",
+    "art-328c",
+    "art-329"
+  ],
+  "annex_disposition": [
+    {
+      "status": "verified_absence",
+      "evidence_path": "sources/author-art-314-329-selected.xml",
+      "method": "All XML element names inspected; no bijlage. Existing opening/closing inventory preserved."
+    }
+  ],
+  "missing": [],
+  "duplicates": []
+}

@@ -1,0 +1,42 @@
+{
+  "kind": "bounded_author",
+  "assigned_ids": [
+    "art-314",
+    "art-315",
+    "art-316",
+    "art-316a",
+    "art-317",
+    "art-318",
+    "art-319",
+    "art-320",
+    "art-321",
+    "art-322",
+    "art-323",
+    "art-324",
+    "art-325",
+    "art-326",
+    "art-327",
+    "art-328",
+    "art-328a",
+    "art-328b",
+    "art-328c",
+    "art-329"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "stage": "drafted_technical_validation",
+  "source_checks": "sources/author-art-314-329-preflight-result.json",
+  "case_law_sources": [
+    "ECLI:NL:HR:2023:53",
+    "ECLI:NL:HR:2021:1676"
+  ],
+  "updated_at_utc": "2026-10-21T00:25:22.161167+00:00",
+  "limitations": [
+    "Independent second pass pending.",
+    "Selective case-law research.",
+    "External implementing and transitional instruments not fully separately reviewed."
+  ],
+  "whole_book_complete": false,
+  "bounded_build": "build_repo.py succeeded; 20 units, 4 chapter files, chapter 43 only art-329",
+  "validation_result": "Pending post-commit strict validation."
+}

@@ -1,0 +1,151 @@
+{
+  "sources": [
+    {
+      "path": "sources/author-art-314-329-case-2021-1676.headers",
+      "bytes": 497,
+      "sha256": "d9d17f3738be3c2e8beae5e07d8287bedf2d752665419db79c8c32f650b1677a"
+    },
+    {
+      "path": "sources/author-art-314-329-case-2021-1676.local.md",
+      "bytes": 9006,
+      "sha256": "0bdd288473e34c9a1ad317cb852328b6a57adc6f86f06019d2ff72ba7e2d1463"
+    },
+    {
+      "path": "sources/author-art-314-329-case-2021-1676.md",
+      "bytes": 1714,
+      "sha256": "5391448f0a891ac780278bafea487b68f73df2db70a3057aeee81b7b21509b28"
+    },
+    {
+      "path": "sources/author-art-314-329-case-2021-1676.txt",
+      "bytes": 8672,
+      "sha256": "e1b80319e4e42f949fb056ca4b6d3d450585c085e0225669a5866ee1f6aa6d2f"
+    },
+    {
+      "path": "sources/author-art-314-329-case-2021-1676.xml",
+      "bytes": 15359,
+      "sha256": "170081e9547f59cdfd065c3f554a19919bd9e06a4c3d593d739db9cdfe7c9107"
+    },
+    {
+      "path": "sources/author-art-314-329-case-2023-53.headers",
+      "bytes": 497,
+      "sha256": "39468149574fa4f21dc459e3b7ca59594795754b843e04ffb23a57b4582aa9fe"
+    },
+    {
+      "path": "sources/author-art-314-329-case-2023-53.local.md",
+      "bytes": 9511,
+      "sha256": "8256febd769ad6545f05985ac25941c69a16578b653655c42bd13238caecad66"
+    },
+    {
+      "path": "sources/author-art-314-329-case-2023-53.md",
+      "bytes": 1557,
+      "sha256": "2b9b8b9c65a4b1593c3e6be27a6c06c5f6acb4f4fd4682cf133324eea8f1fc56"
+    },
+    {
+      "path": "sources/author-art-314-329-case-2023-53.txt",
+      "bytes": 9621,
+      "sha256": "2f32bc0c9e7fd5f19489a2fbfe74509ef7bbd0d7039ee8d56b3c5ed8bb5cd409"
+    },
+    {
+      "path": "sources/author-art-314-329-case-2023-53.xml",
+      "bytes": 16380,
+      "sha256": "1633823e6ecf930e2632220e55b92664167e5fe39e2274209dd8832089701167"
+    },
+    {
+      "path": "sources/author-art-314-329-case-fetch.json",
+      "bytes": 1137,
+      "sha256": "373a0fcbca6a97bb772e7a657b967a15f095d5ec426ebb1aac3e28331ad300f2"
+    },
+    {
+      "path": "sources/author-art-314-329-coverage-evidence.json",
+      "bytes": 20711,
+      "sha256": "552603160f66c62baa4f4ccbd508c17d0e46cc78656d334f357a1017a601446c"
+    },
+    {
+      "path": "sources/author-art-314-329-current.html",
+      "bytes": 4132921,
+      "sha256": "3dc8b19d6f9cb035cde4cc2ad2e5fc08a4c803bb4a2564b4447478bc022f02d2"
+    },
+    {
+      "path": "sources/author-art-314-329-current.html.headers",
+      "bytes": 532,
+      "sha256": "09aee7193d2fd26c69fce1ed6edb76df092a16079112e700bccd5c91cdc4fb56"
+    },
+    {
+      "path": "sources/author-art-314-329-fetch.json",
+      "bytes": 2833,
+      "sha256": "134cec0473e2d8e607853409b7777937811ca183ca84f2978f7b8d921f93a623"
+    },
+    {
+      "path": "sources/author-art-314-329-information.html",
+      "bytes": 605817,
+      "sha256": "d739b571782a27bdf5024669fea14f2b309b35a0f4da5ccf5168535eb0e60bdf"
+    },
+    {
+      "path": "sources/author-art-314-329-information.html.headers",
+      "bytes": 532,
+      "sha256": "d16d222c83650f84cec2bb9f45c97e68a80caf7365851fce7bc3ddddf59dca71"
+    },
+    {
+      "path": "sources/author-art-314-329-preflight-result.json",
+      "bytes": 1849,
+      "sha256": "6ff9f3043c9bbf328740c107724f6bfea325ff89a6273050d1ee043e21b5d6c8"
+    },
+    {
+      "path": "sources/author-art-314-329-search-log.json",
+      "bytes": 994,
+      "sha256": "90e4059a62856745f90401d50cb02c5364da7121a8903772dce6a22224ad9e03"
+    },
+    {
+      "path": "sources/author-art-314-329-selected.xml",
+      "bytes": 2557947,
+      "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+    },
+    {
+      "path": "sources/author-art-314-329-selected.xml.headers",
+      "bytes": 261,
+      "sha256": "df26272f92a7a677589e39e87f9e269bd306463a45951050aa2a0e51455bdf2d"
+    },
+    {
+      "path": "sources/author-art-314-329-wti.xml",
+      "bytes": 5581608,
+      "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67"
+    },
+    {
+      "path": "sources/author-art-314-329-wti.xml.headers",
+      "bytes": 261,
+      "sha256": "7bea0abf25daeeacb9d33bd65ff11b2abfa14e809b7c51af7207a3904848780f"
+    },
+    {
+      "path": "sources/canonical.md",
+      "bytes": 522444,
+      "sha256": "023fd6a56471dfedbe4256742e690cd4a74af80068e558af50a8b8045e3086a5"
+    },
+    {
+      "path": "sources/non-article-text.json",
+      "bytes": 2213,
+      "sha256": "9a02de6f6de5dd7e5fd70812d039a2387fa580fb30a9598c1caea45005e338b9"
+    },
+    {
+      "path": "sources/review-art-212z-213a-historical-2025.xml",
+      "bytes": 2502926,
+      "sha256": "51ef559220c00e2a608c328cf1254c0bfa4bf2620acd431a766d8c2694ac2202"
+    },
+    {
+      "path": "sources/structural-editorial-notes.json",
+      "bytes": 4588,
+      "sha256": "d43e71828d082b957d7a5ee20ea07a5cffbd9451a5f1b61c922be322deacfd8a"
+    },
+    {
+      "path": "sources/verification.json",
+      "bytes": 176043,
+      "sha256": "17d8e3e05eb0f7817a13dceb8d22bbe15987d44d7f41f0a5e27e24dcb7f9f78f"
+    },
+    {
+      "path": "sources/version-register.xml",
+      "bytes": 1435239,
+      "sha256": "763e7ee5229eb9d24e14bfa85b9614ed1a757880954b662958b69fb77e64417f"
+    }
+  ],
+  "official_version": "2026-09-01_0",
+  "case_law": "Selective; see case cards and search log."
+}
