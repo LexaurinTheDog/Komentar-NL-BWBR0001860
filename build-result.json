@@ -1,9 +1,8 @@
 {
-  "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py /Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001860",
-  "exit_code": 1,
-  "stdout": "",
-  "stderr": "CHYBÍ komentář k 342 jednotkám, např.: ['art-212j', 'art-212k', 'art-212l', 'art-212m', 'art-212ma', 'art-212n', 'art-212o', 'art-212p', 'art-212q', 'art-212r']\n",
-  "ok": false,
-  "scope": "Full-book build after exact art-41–60 second reading; 342 missing unassigned commentaries remain outside the bounded task.",
-  "reason": "No empty commentary, omission or weakened shared builder introduced."
+  "ok": true,
+  "units": 639,
+  "chapters": 49,
+  "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
+  "actual_exit_code": 0,
+  "assembled_at_utc": "2026-10-21T00:54:48.285049+00:00"
 }
