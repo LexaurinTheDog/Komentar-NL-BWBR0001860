@@ -1,0 +1,53 @@
+{
+  "official_source": {
+    "url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+    "local_raw_evidence_path": "sources/review-art-270-281h-selected.xml",
+    "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
+  },
+  "expected_ids": [
+    "art-270",
+    "art-271",
+    "art-272",
+    "art-273",
+    "art-274",
+    "art-275",
+    "art-276",
+    "art-277",
+    "art-278",
+    "art-279",
+    "art-280",
+    "art-281",
+    "art-281a",
+    "art-281b",
+    "art-281c",
+    "art-281d",
+    "art-281e",
+    "art-281f",
+    "art-281g",
+    "art-281h"
+  ],
+  "parsed_ids": [
+    "art-270",
+    "art-271",
+    "art-272",
+    "art-273",
+    "art-274",
+    "art-275",
+    "art-276",
+    "art-277",
+    "art-278",
+    "art-279",
+    "art-280",
+    "art-281",
+    "art-281a",
+    "art-281b",
+    "art-281c",
+    "art-281d",
+    "art-281e",
+    "art-281f",
+    "art-281g",
+    "art-281h"
+  ],
+  "annex_disposition": "Verified absence: all XML tags and independent official HTML TOC checked, no operative annex. Full 639-unit inventory in parser-check.json. Repealed article270 retained.",
+  "scope": "Official contiguous range 270–281h; expected IDs independently obtained from official XML."
+}

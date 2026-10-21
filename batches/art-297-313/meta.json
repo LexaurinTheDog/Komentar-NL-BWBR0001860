@@ -1,0 +1,29 @@
+{
+  "cc": "nl",
+  "lang": "nl",
+  "repo": "Komentar-NL-BWBR0001860",
+  "repo_dir": "/Volumes/LaCie/open-commentary/nl/Komentar-NL-BWBR0001860/batches/art-297-313",
+  "title": "Commentaar op de Faillissementswet",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001860/sources/canonical.md",
+  "source_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "decisive_date": "2026-10-19",
+  "version_effective_from": "2026-09-01",
+  "source_verification_date": "2026-10-20",
+  "source_verification_evidence": "sources/verification.json",
+  "non_article_text_path": "sources/non-article-text.json",
+  "structural_editorial_notes_path": "sources/structural-editorial-notes.json",
+  "intro_file": "00-inleiding.md",
+  "intro_desc": "Stelsel, methode en bronverantwoording",
+  "labels": {
+    "text": "Wettekst",
+    "chapter": "Hoofdstuk",
+    "notes": "Redactionele aantekening"
+  },
+  "chapters": [
+    {
+      "n": 39,
+      "slug": "wet-39",
+      "title": "Titel III Schuldsaneringsregeling natuurlijke personen / Tweede afdeling De gevolgen van de toepassing van de schuldsaneringsregeling"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ok": false,
+  "reason": "39 missing commentary units outside assigned batch; full builder made no changes.",
+  "assigned_batch_build_ok": true,
+  "batch_validation": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 22447,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  }
+}

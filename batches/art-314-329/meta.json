@@ -1,0 +1,44 @@
+{
+  "cc": "nl",
+  "lang": "nl",
+  "repo": "Komentar-NL-BWBR0001860",
+  "repo_dir": "/Volumes/LaCie/open-commentary/nl/Komentar-NL-BWBR0001860/batches/art-314-329",
+  "title": "Commentaar op de Faillissementswet",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001860/sources/canonical.md",
+  "source_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "decisive_date": "2026-10-19",
+  "version_effective_from": "2026-09-01",
+  "source_verification_date": "2026-10-20",
+  "source_verification_evidence": "sources/verification.json",
+  "non_article_text_path": "sources/non-article-text.json",
+  "structural_editorial_notes_path": "sources/structural-editorial-notes.json",
+  "intro_file": "00-inleiding.md",
+  "intro_desc": "Stelsel, methode en bronverantwoording",
+  "labels": {
+    "text": "Wettekst",
+    "chapter": "Hoofdstuk",
+    "notes": "Redactionele aantekening"
+  },
+  "chapters": [
+    {
+      "n": 40,
+      "slug": "wet-40",
+      "title": "Titel III Schuldsaneringsregeling natuurlijke personen / Derde afdeling Het bestuur over de boedel"
+    },
+    {
+      "n": 41,
+      "slug": "wet-41",
+      "title": "Titel III Schuldsaneringsregeling natuurlijke personen / Vierde afdeling De voorzieningen na de uitspraak tot de toepassing van de schuldsaneringsregeling en de taak van de bewindvoerder"
+    },
+    {
+      "n": 42,
+      "slug": "wet-42",
+      "title": "Titel III Schuldsaneringsregeling natuurlijke personen / Vijfde afdeling Verificatie van vorderingen"
+    },
+    {
+      "n": 43,
+      "slug": "art-329-checkpoint",
+      "title": "Titel III Schuldsaneringsregeling natuurlijke personen / Zesde afdeling Het akkoord — alleen artikel 329"
+    }
+  ]
+}

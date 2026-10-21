@@ -1,0 +1,32 @@
+{
+  "assigned_units": 20,
+  "commented_units": 20,
+  "exact_ids": true,
+  "unique_commentaries": true,
+  "commentary_characters": 29073,
+  "lengths": {
+    "art-270": 562,
+    "art-271": 1321,
+    "art-272": 2738,
+    "art-273": 1376,
+    "art-274": 1384,
+    "art-275": 1280,
+    "art-276": 1231,
+    "art-277": 1315,
+    "art-278": 1346,
+    "art-279": 1404,
+    "art-280": 1381,
+    "art-281": 1710,
+    "art-281a": 1286,
+    "art-281b": 1331,
+    "art-281c": 1261,
+    "art-281d": 1399,
+    "art-281e": 1957,
+    "art-281f": 1808,
+    "art-281g": 1515,
+    "art-281h": 1468
+  },
+  "missing_internal_links": [],
+  "full_build": "Blocked before writes: 119 unassigned units lack commentary. Batch build successful.",
+  "whole_book_complete": false
+}

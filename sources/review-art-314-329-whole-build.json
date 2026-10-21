@@ -1,0 +1,5 @@
+{
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "CHYBÍ komentář k 59 jednotkám, např.: ['art-330', 'art-331', 'art-332', 'art-333', 'art-333a', 'art-334', 'art-335', 'art-336', 'art-337', 'art-338']\n"
+}

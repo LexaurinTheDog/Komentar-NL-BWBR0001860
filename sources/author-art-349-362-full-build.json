@@ -1,0 +1,14 @@
+{
+  "ok": false,
+  "reason": "19 missing commentary units outside assigned scope; full builder stopped before output mutation.",
+  "assigned_batch_build_ok": true,
+  "batch_validation": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 34209,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  }
+}

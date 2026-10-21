@@ -1,6 +1,6 @@
 # Bronnen en reproduceerbare controle
 
-Controle- en redactiedatum: 19 oktober 2026. De volledige reikwijdte blijft BWBR0001860; de inhoudelijke checkpoint is nog onvoltooid.
+Controle- en redactiedatum: 19 oktober 2026. De volledige reikwijdte is BWBR0001860; alle 639 artikelplaatsen zijn toegelicht. Oudere voortgangsnotities hieronder beschrijven uitsluitend hun toenmalige batchstatus.
 
 | Bewijs | Betekenis |
 |---|---|
@@ -115,3 +115,7 @@ Tweede lezing 270–281h: [bevindingen](sources/review-art-270-281h-result.json)
 
 
 Auteursbatch 282–296: twintig specifieke toelichtingen, inclusief vervallen artikel 295a. [Broncontrole](sources/author-art-282-296-preflight-result.json), [brondekking](sources/author-art-282-296-coverage.json), [selectieve rechtspraak](sources/author-art-282-296-search-log.json). Onafhankelijke tweede lezing nog niet uitgevoerd. Het hele boek is nog onvoltooid.
+
+## Finalisatie 21 oktober 2026
+
+[Verse broncontrole](sources/finalize-fetch.json), [samengebrachte reviewrecords](review-result.json), [oorspronkelijke ledger](batch-review-ledger.json). De historische batchverslagen zijn bewijsmateriaal van hun afgebakende controle, geen actuele telling van ontbrekende toelichtingen.

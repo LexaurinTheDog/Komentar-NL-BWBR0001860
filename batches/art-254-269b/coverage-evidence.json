@@ -1,7 +1,7 @@
 {
   "official_source": {
     "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
-    "local_raw_evidence_path": "sources/author-art-254-269b-selected.xml",
+    "local_raw_evidence_path": "sources/review-art-254-269b-selected.xml",
     "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb"
   },
   "expected_ids": [
@@ -48,35 +48,37 @@
     "art-269a",
     "art-269b"
   ],
-  "assigned_ids": [
-    "art-254",
-    "art-255",
-    "art-256",
-    "art-257",
-    "art-257a",
-    "art-258",
-    "art-259",
-    "art-260",
-    "art-261",
-    "art-262",
-    "art-263",
-    "art-264",
-    "art-265",
-    "art-266",
-    "art-267",
-    "art-268",
-    "art-268a",
-    "art-269",
-    "art-269a",
-    "art-269b"
+  "annex_disposition": [
+    {
+      "status": "verified_absence",
+      "method": "Full XML tag enumeration and official HTML TOC: no annex elements or annex entries. References to annexes in other instruments and case-file attachments are not annexes of this Act.",
+      "xml_annex_elements": 0,
+      "html_annex_toc_entries": 0,
+      "html_evidence_path": "sources/preflight-2026-10-20-current.html",
+      "html_sha256": "f40c31b70ff817fd03bd680e8eaf3370c70657bb05f054d1e8f648093d1c7d57",
+      "direct_wettekst_children": [
+        {
+          "tag": "titeldeel",
+          "official_path": "/TiteldeelI",
+          "articles": 419
+        },
+        {
+          "tag": "titeldeel",
+          "official_path": "/TiteldeelII",
+          "articles": 103
+        },
+        {
+          "tag": "titeldeel",
+          "official_path": "/TiteldeelIII",
+          "articles": 98
+        },
+        {
+          "tag": "afdeling",
+          "official_path": "/AfdelingTweede",
+          "articles": 19
+        }
+      ]
+    }
   ],
-  "expected_count": 20,
-  "parsed_count": 20,
-  "missing": [],
-  "extra": [],
-  "duplicates": [],
-  "annex_disposition": "No operative annex elements in full selected official XML. Opening, promulgation and closing text preserved separately in sources/non-article-text.json, not misnumbered as articles. Repealed slots retained, no repealed slot in this batch.",
-  "all_639_official_article_texts_exact": true,
-  "expected_derivation": "Official artikel/@label, independent of parsed JSONL kop/nr extraction.",
-  "scope": "Official contiguous range Artikel 254 through Artikel 269b, independently filtered from official labels, with complete full-act inventory retained in sources coverage."
+  "scope": "Independently enumerated official contiguous range 254–269b; full 639-ID inventory in parser-check.json."
 }

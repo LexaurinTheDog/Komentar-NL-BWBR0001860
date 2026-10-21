@@ -1,0 +1,44 @@
+{
+  "cc": "nl",
+  "lang": "nl",
+  "repo": "Komentar-NL-BWBR0001860",
+  "repo_dir": "/Volumes/LaCie/open-commentary/nl/Komentar-NL-BWBR0001860/checkpoints/art-270-281h",
+  "title": "Faillissementswet — beoordeeld checkpoint artikelen 270–281h",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/nl/Komentar-NL-BWBR0001860/sources/canonical.md",
+  "source_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+  "decisive_date": "2026-10-19",
+  "version_effective_from": "2026-09-01",
+  "source_verification_date": "2026-10-20",
+  "source_verification_evidence": "sources/verification.json",
+  "non_article_text_path": "sources/non-article-text.json",
+  "structural_editorial_notes_path": "sources/structural-editorial-notes.json",
+  "intro_file": "00-inleiding.md",
+  "intro_desc": "Stelsel, methode en bronverantwoording",
+  "labels": {
+    "text": "Wettekst",
+    "chapter": "Hoofdstuk",
+    "notes": "Redactionele aantekening"
+  },
+  "chapters": [
+    {
+      "n": 33,
+      "slug": "wet-33",
+      "title": "Titel II Van surseance van betaling / Tweede afdeling Van het akkoord"
+    },
+    {
+      "n": 34,
+      "slug": "wet-34",
+      "title": "Titel II Van surseance van betaling / Tweede afdeling Van het akkoord"
+    },
+    {
+      "n": 35,
+      "slug": "wet-35",
+      "title": "Titel II Van surseance van betaling / Tweede afdeling A Bijzondere bepalingen"
+    },
+    {
+      "n": 36,
+      "slug": "wet-36",
+      "title": "Titel II Van surseance van betaling / Tweede afdeling B Van de verlening van surseance van betaling aan een beleggingsonderneming en een financiële instelling die een verklaring van ondertoezichtstelling heeft of een andere instelling"
+    }
+  ]
+}

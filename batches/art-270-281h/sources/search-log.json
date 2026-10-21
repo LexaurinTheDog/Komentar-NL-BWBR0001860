@@ -1,0 +1,22 @@
+{
+  "queries": [
+    "site.rechtspraak.nl \"281e\" \"surseance\"",
+    "site.rechtspraak.nl \"272\" \"homologatie\" \"surseance\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr",
+  "full_text_read": [
+    "ECLI:NL:RBDHA:2024:18898",
+    "ECLI:NL:HR:2003:AI0369"
+  ],
+  "snapshots": [
+    {
+      "path": "sources/author-art-254-269b-rbdha-2024.xml",
+      "sha256": "f442ce30946ae2f173a8f0435f151edb78df89e0901f0805d6bbc175dddbe2f0"
+    },
+    {
+      "path": "sources/hr-2003-ai0369.md",
+      "sha256": "5cd93220e5a879e0d42c12c1eacb2727fd3209541affa3bfa6d5c82323bede95"
+    }
+  ],
+  "limitations": "Selective research. No additional verified authority cited for technical units. API HTML shells rejected; existing full official case evidence retained."
+}

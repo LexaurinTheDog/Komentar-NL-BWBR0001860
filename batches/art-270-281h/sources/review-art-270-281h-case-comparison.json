@@ -1,0 +1,19 @@
+[
+  {
+    "ecli": "ECLI:NL:HR:2003:AI0369",
+    "sha256": "7b0b39989f8d29f1d53a59501dbb1878730c15c293e90f7ed6594e0bb91cead8",
+    "full_text_read": true,
+    "full_text_chars": 22106,
+    "local_corpus_path": "/Volumes/LaCie/law-intake/eu/nl/rechtspraak/hr/ecli-nl-hr-2003-ai0369.md",
+    "local_snapshot": "sources/review-art-270-281h-hr-2003-local.md",
+    "local_sha256": "5cd93220e5a879e0d42c12c1eacb2727fd3209541affa3bfa6d5c82323bede95",
+    "unmatched_paragraph_prefixes": []
+  },
+  {
+    "ecli": "ECLI:NL:RBDHA:2024:18898",
+    "sha256": "f442ce30946ae2f173a8f0435f151edb78df89e0901f0805d6bbc175dddbe2f0",
+    "full_text_read": true,
+    "full_text_chars": 44159,
+    "identical_to_previous_read_snapshot": true
+  }
+]

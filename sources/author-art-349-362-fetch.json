@@ -1,0 +1,46 @@
+[
+  {
+    "url": "https://wetten.overheid.nl/BWBR0001860",
+    "final_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
+    "http_status": 200,
+    "access_timestamp_utc": "2026-10-21T00:36:16.824400+00:00",
+    "raw_path": "sources/author-art-349-362-current.html",
+    "sha256": "3dc8b19d6f9cb035cde4cc2ad2e5fc08a4c803bb4a2564b4447478bc022f02d2",
+    "bytes": 4132921
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "final_url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/2026-09-01_0/xml/BWBR0001860_2026-09-01_0.xml",
+    "http_status": 200,
+    "access_timestamp_utc": "2026-10-21T00:36:17.555109+00:00",
+    "raw_path": "sources/author-art-349-362-selected.xml",
+    "sha256": "2237d8f43929965cf70f8392d85befd477f4a80febfc3ec8f2d5e1ba53236beb",
+    "bytes": 2557947
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2024:1913",
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2024:1913",
+    "http_status": 200,
+    "access_timestamp_utc": "2026-10-21T00:36:17.766557+00:00",
+    "raw_path": "sources/author-art-349-362-hr-2024-1913.xml",
+    "sha256": "fdfb504e4ef0a86d07bce38e71d2ce1a7d89d8531f57390e7344ccc7f509b9ed",
+    "bytes": 56283
+  },
+  {
+    "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2023:455",
+    "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:HR:2023:455",
+    "http_status": 200,
+    "access_timestamp_utc": "2026-10-21T00:36:17.903393+00:00",
+    "raw_path": "sources/author-art-349-362-hr-2023-455.xml",
+    "sha256": "33a1525ca109d7f6c08a6b7fc736bba4da180f0d15266960de26a9c632b48f48",
+    "bytes": 19080
+  },
+  {
+    "url": "https://repository.officiele-overheidspublicaties.nl/bwb/BWBR0001860/BWBR0001860.WTI",
+    "http_status": 200,
+    "access_timestamp_utc": "2026-10-21T00:39:33.673346+00:00",
+    "raw_path": "sources/author-art-349-362-wti.xml",
+    "sha256": "bd013a1f3d58842209d3cd694a5b96eb7719b8889d3eaefcf560a87d28db7a67",
+    "bytes": 5581608
+  }
+]

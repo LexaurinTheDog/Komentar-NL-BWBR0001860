@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2023:455</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-06-19T10:14:01</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2023-03-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2023-03-24</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">22/03125</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatieInHetBelangDerWet">Cassatie in het belang der wet</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2022:977" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2022:977, Gevolgd</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:GHARL:2020:5445" psi:type="http://psi.rechtspraak.nl/cassatie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg">In cassatie op : ECLI:NL:GHARL:2020:5445</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2023/898</rdf:li>
+          <rdf:li>INS-Updates.nl 2023-0084</rdf:li>
+          <rdf:li>RvdW 2023/375</rdf:li>
+          <rdf:li>TvI 2023/31 met annotatie van B.J. Engberts</rdf:li>
+          <rdf:li>NJ 2024/171 met annotatie van F.M.J. Verstijlen</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2023:455">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2023:455</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2023-03-24T16:28:32</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2023-03-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2023:455 Hoge Raad , 24-03-2023 / 22/03125</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2023:455:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Cassatie in het belang der wet. WSNP. Benadeling van schuldeisers bekend geworden na onherroepelijk worden art. 354  Fw-vonnis, maar voor verbindend worden slotuitdelingslijst. Uitleg art. 358a Fw; kan in zodanig geval ontneming  schone lei worden verzocht?</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2023:455:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>CIVIELE KAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	22/03125</para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>	24 maart 2023</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>ARREST</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>op een vordering tot cassatie in het belang der wet, ingesteld door de Procureur-Generaal bij de Hoge Raad der Nederlanden en gericht tegen het arrest in de zaak 200.279.035 van het gerechtshof Arnhem-Leeuwarden van 13 juli 2020.</para>
+    </parablock>
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop</title>
+    <parablock>
+      <para>Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar:</para>
+      <para>a.  	het vonnis in de zaak C 08/16/669-671 R van de rechtbank Overijssel van 27 mei 2020; </para>
+      <para>b.	het arrest in de zaak 200.279.035 van het gerechtshof Arnhem-Leeuwarden van              13 juli 2020.</para>
+      <para>Tegen het arrest van het gerechtshof Arnhem-Leeuwarden heeft de Procureur-Generaal bij de Hoge Raad beroep in cassatie ingesteld in het belang der wet. </para>
+      <para>De vordering van de Procureur-Generaal strekt ertoe dat de Hoge Raad het bestreden arrest zal vernietigen in het belang der wet en zal verstaan dat de vernietiging geen nadeel zal toebrengen aan de door partijen verkregen rechten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Uitgangspunten en feiten</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <parablock>
+        <para>In cassatie kan van het volgende worden uitgegaan.</para>
+        <para>(i) Op 25 oktober 2016 is ten aanzien van [de schuldenaren] (hierna: de schuldenaren) de wettelijke schuldsaneringsregeling van toepassing verklaard.</para>
+        <para>(ii) Bij vonnissen van 5 november 2019 is vastgesteld dat de schuldenaren niet zijn tekortgeschoten in de nakoming van de uit hun schuldsaneringsregeling voortvloeiende verplichtingen en is aan hen de schone lei verleend (art. 354 Fw). Tegen deze vonnissen is geen rechtsmiddel aangewend.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>Bij brief van 13 februari 2020 heeft de bewindvoerder de rechtbank verzocht de schuldenaren de schone lei te ontnemen, op de grond dat de schuldenaren tijdens de looptijd van de schuldsaneringsregeling niet aan de bewindvoerder hebben gemeld dat zij een belastingteruggave hadden verkregen en met dit bedrag een reparatienota van hun auto hebben voldaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>De rechtbank heeft op de voet van art. 358a Fw bepaald dat art. 358 lid 1 Fw verder geen toepassing vindt. Zij heeft daartoe overwogen dat de schuldenaren tijdens de toepassing van de schuldsaneringsregeling bankafschriften hebben vervalst met de bedoeling de belastingteruggave buiten de schuldsaneringsboedel te houden, terwijl de teruggave in die boedel had moeten vloeien en daarin, gelet op de berekening van het vrij te laten bedrag, had moeten blijven. De rechtbank heeft in aanmerking genomen dat indien deze feiten tijdens de toepassing van de schuldsaneringsregeling bekend zouden zijn geworden, dat grond zou hebben opgeleverd voor een tussentijdse beëindiging op grond van art. 350 lid 3, onder e, Fw.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Het hof<footnote-ref linkend="_8378da5f-c61d-4bef-abdb-28567b84de93" /> heeft het vonnis van de rechtbank vernietigd en het verzoek van de bewindvoerder afgewezen. Daartoe heeft het hof als volgt overwogen:</para>
+      <para />
+      <parablock>
+        <para>“3.4 (…) Ingevolge artikel 358a lid 1 Fw kan de rechter op verzoek van iedere belanghebbende bepalen dat artikel 358 lid 1 Fw verder geen toepassing vindt indien na de beëindiging van de schuldsaneringsregeling, waardoor het rechtsgevolg als bedoeld in artikel 358 lid 1 Fw is ingetreden, is gebleken van zich voordien voorgedane feiten en omstandigheden die grond zouden hebben opgeleverd voor de beëindiging van de toepassing van die regeling op de voet van artikel 350 lid 3 onder e, Fw.</para>
+        <para>Op grond van artikel 356 lid 2 Fw is de toepassing van de schuldsaneringsregeling van rechtswege beëindigd, onder meer zodra de slotuitdelingslijst verbindend is geworden conform het bepaalde in artikel 349 lid 5 Fw juncto artikelen 180 en 183 Fw.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <parablock>
+        <para>In dit geval heeft de bewindvoerder ter zitting in hoger beroep verklaard dat de slotuitdelingslijst (nog) niet is opgemaakt.</para>
+        <para>Dit betekent naar het oordeel van het hof dat van een situatie als bedoeld in artikel 358a lid 1 Fw, te weten een beëindigde schuldsaneringsregeling, nog geen sprake is. Het door de bewindvoerder op basis van artikel 358a Fw ingediende verzoek is dus voortijdig gedaan zodat de door de rechtbank genomen beslissing tot ontneming van de schone lei aan [de schuldenaren] niet in stand kan blijven. (…)”</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het middel</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>De Procureur-Generaal heeft gevorderd het arrest van het hof, waartegen geen gewoon rechtsmiddel is ingesteld, in het belang der wet te vernietigen. Volgens het middel brengt een redelijke wetsuitleg mee dat in de situatie dat het vonnis bedoeld in art. 354 Fw in kracht van gewijsde is gegaan, een verzoek op de voet van art. 358a Fw ook kan worden gedaan voorafgaand aan het formele einde van de schuldsaneringsregeling. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Door de beëindiging van de toepassing van de schuldsaneringsregeling op grond van art. 356 lid 2 Fw is een vordering ten aanzien waarvan de schuldsaneringsregeling werkt, voor zover deze onvoldaan is gebleven, niet langer afdwingbaar, onverschillig of de schuldeiser al dan niet in de schuldsaneringsregeling is opgekomen en onverschillig of de vordering al dan niet is geverifieerd (de ‘schone lei’, art. 358 lid 1 Fw). De schone lei wordt echter niet verkregen als de rechter in het vonnis bedoeld in art. 354 Fw heeft vastgesteld dat de schuldenaar toerekenbaar is tekortgeschoten en daarbij niet op de voet van het tweede lid daarvan heeft bepaald dat de tekortkoming gezien haar bijzondere aard of geringe betekenis buiten beschouwing blijft (art. 358 lid 2 Fw). Zodra de uitspraak bedoeld in art. 354 Fw in kracht van gewijsde is gegaan maakt de bewindvoerder een slotuitdelingslijst op, behoudens indien de rechtbank de toepassing van de schuldsaneringsregeling heeft beëindigd op grond van art. 354a Fw (art. 356 lid 1 Fw). De toepassing van de schuldsaneringsregeling is van rechtswege beëindigd zodra de slotuitdelingslijst verbindend is geworden dan wel, indien de rechtbank de toepassing van de schuldsaneringsregeling heeft beëindigd op grond van art. 354a Fw, zodra de uitspraak tot beëindiging in kracht van gewijsde is gegaan (art. 356 lid 2 Fw).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Art. 358a Fw bepaalt dat indien na de beëindiging van de toepassing van de schuldsaneringsregeling waardoor het rechtsgevolg bedoeld in art. 358 lid 1 Fw is ingetreden, blijkt dat zich voordien feiten of omstandigheden hebben voorgedaan die grond zouden hebben opgeleverd voor de beëindiging van de toepassing van de schuldsaneringsregeling op de voet van art. 350 lid 3, onder e, Fw, de rechter op verzoek van iedere belanghebbende kan bepalen dat art. 358 lid 1 Fw verder geen toepassing vindt. De beëindigingsgrond van art. 350 lid 3, onder e, Fw houdt in dat de schuldenaar tracht zijn schuldeisers te benadelen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Het middel stelt de vraag aan de orde hoe moet worden omgegaan met een situatie waarin een poging tot benadeling van schuldeisers als bedoeld in art. 350 lid 3, onder e, Fw aan het licht komt in de periode tussen het verstrijken van de in art. 349a Fw bedoelde termijn van toepassing (‘looptijd’) van de schuldsaneringsregeling en het in art. 356 lid 2 Fw bedoelde van rechtswege eindigen van die regeling (het ‘materiële’, respectievelijk ‘formele’ einde). Die vraag dringt zich op omdat art. 358a Fw naar de letter slechts ziet op de periode na het formele einde van de schuldsaneringsregeling.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>De hiervoor in 3.4 bedoelde periode kan worden onderscheiden in twee deelperioden: (i) de periode tussen het materiële einde van de schuldsaneringsregeling en de uitspraak van de rechtbank op de voet van art. 354 Fw en (ii) de periode tussen die uitspraak en het formele einde van de schuldsaneringsregeling.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6</nr>
+      <para>In de hiervoor in 3.5 onder (i) bedoelde periode kan ofwel in het kader van de art. 354 Fw-beoordeling rekening worden gehouden met de betrokken feiten en omstandigheden, ofwel een verzoek tot tussentijdse beëindiging op de voet van art. 350 lid 3, onder e, Fw worden gedaan.<footnote-ref linkend="_78c9ec53-4c6b-49a2-b536-f67815070de8" /> Wordt tussentijdse beëindiging verzocht, dan zal de rechtbank, mede gelet op hetgeen hierna in 3.7 wordt overwogen, geen uitspraak op de voet van art. 354 Fw kunnen doen zolang niet onherroepelijk op het verzoek tot tussentijdse beëindiging is beslist. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.7</nr>
+      <parablock>
+        <para>Wat betreft de hiervoor in 3.5 onder (ii) bedoelde periode geldt het volgende. </para>
+        <para>Heeft de rechtbank eenmaal uitspraak op de voet van art. 354 Fw gedaan, dan kan geen tussentijdse beëindiging meer worden verzocht. Het past niet in het stelsel van de wet om de schuldsaneringsregeling alsnog tussentijds te beëindigen nadat de rechtbank in een uitspraak als bedoeld in art. 354 Fw heeft geoordeeld dat de schone lei kan worden verleend. Een uitspraak als bedoeld in art. 354 Fw leidt – zodra deze kracht van gewijsde heeft<emphasis role="italic"> – </emphasis>tot afwikkeling van de schuldsaneringsregeling op de voet van art. 356 lid 1 Fw. Indien er baten te verdelen zijn, vindt de verdeling plaats tussen preferente en concurrente schuldeisers in de verhouding 2:1 (art. 349 leden 2 en 3 Fw). Indien de schuldsaneringsregeling alsnog tussentijds zou worden beëindigd, zou de schuldenaar, indien er baten te verdelen zijn, in staat van faillissement komen te verkeren (art. 350 lid 5 Fw), met een verdeling volgens een andere rangorde tot gevolg. Een en ander zou afbreuk doen aan de belangen van concurrente schuldeisers, die met de uitspraak bedoeld in art. 354 Fw mochten rekenen op uitdeling overeenkomstig art. 349 leden 2 en 3 Fw. </para>
+        <para>	Een ruime uitleg van art. 358a Fw ligt dan meer voor de hand. Materieel is immers sprake van de situatie waarvoor die bepaling is geschreven en toepassing ervan leidt niet tot een andere wijze van afwikkeling; deze leidt slechts ertoe dat het rechtsgevolg van art. 358 lid 1 Fw (de schone lei) niet intreedt. Deze oplossing verdient daarom de voorkeur.</para>
+        <para>	Deze mogelijkheid van een verzoek op de voet van art. 358a Fw laat onverlet dat met een na de art. 354 Fw-uitspraak van de rechtbank gebleken poging tot benadeling van schuldeisers ook rekening kan worden gehouden in het kader van een eventueel hoger beroep van die uitspraak (zie art. 355 lid 1 Fw). </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.8</nr>
+      <para>Uit het bovenstaande volgt dat een verzoek als bedoeld in art. 358a lid 1 Fw ook kan worden gedaan in de periode nadat de rechtbank in een uitspraak als bedoeld in art. 354 Fw heeft geoordeeld dat een schone lei kan worden verleend en voordat, op de voet van art. 356 lid 2 Fw, de schuldsaneringsregeling formeel is geëindigd en dus voordat de schone lei van kracht is geworden. Toewijzing van zodanig verzoek brengt mee dat, als de toepassing van de schuldsaneringsregeling ook dan nog niet formeel is geëindigd, bedoeld rechtsgevolg niet zal intreden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.9</nr>
+      <para>Het voorgaande brengt mee dat het hof het verzoek van de bewindvoerder ten onrechte heeft afgewezen op de grond dat dit voortijdig is gedaan omdat van een beëindigde schuldsaneringsregeling nog geen sprake was. Het middel slaagt dus. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <parablock>
+      <para>De Hoge Raad:</para>
+      <para>-  vernietigt in het belang der wet het arrest van het gerechtshof Arnhem-Leeuwarden van 13 juli 2020;</para>
+      <para>-  verstaat dat deze beslissing geen nadeel toebrengt aan de door partijen verkregen rechten.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door de vicepresident M.J. Kroeze als voorzitter en de raadsheren T.H. Tanja-van den Broek, C.E. du Perron, A.E.B. ter Heide en G.C. Makkink, en in het openbaar uitgesproken door de raadsheer F.J.P. Lock op <emphasis role="underline">24 maart 2023</emphasis>.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <footnote id="_8378da5f-c61d-4bef-abdb-28567b84de93" label="1">
+    <para> 	Gerechtshof Arnhem-Leeuwarden 13 juli 2020, ECLI:NL:GHARL:2020:5445.</para>
+  </footnote>
+  <footnote id="_78c9ec53-4c6b-49a2-b536-f67815070de8" label="2">
+    <para> 	Vgl. HR 28 januari 2011, ECLI:NL:HR:2011:BO5760, rov. 3.2.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

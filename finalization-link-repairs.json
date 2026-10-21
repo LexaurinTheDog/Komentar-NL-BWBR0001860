@@ -1,0 +1,76 @@
+{
+  "changes": [
+    {
+      "file": "batches/art-297-313/00-inleiding.md",
+      "old_target": "sources/review-art-1-14b-result.json",
+      "new_target": "../../sources/review-art-1-14b-result.json"
+    },
+    {
+      "file": "batches/art-369-387/commentary/part-49.md",
+      "old_target": "cases/HR-2022-328.md",
+      "new_target": "../cases/HR-2022-328.md"
+    },
+    {
+      "file": "batches/art-369-387/commentary/part-49.md",
+      "old_target": "cases/HR-2024-1533.md",
+      "new_target": "../cases/HR-2024-1533.md"
+    },
+    {
+      "file": "batches/art-297-313/commentary/part-39.md",
+      "old_target": "sources/author-art-297-313-case-ghams.md",
+      "new_target": "../sources/author-art-297-313-case-ghams.md"
+    },
+    {
+      "file": "batches/art-297-313/commentary/part-39.md",
+      "old_target": "sources/author-art-297-313-case-hr.md",
+      "new_target": "../sources/author-art-297-313-case-hr.md"
+    },
+    {
+      "file": "batches/art-282-296/commentary/part-38.md",
+      "old_target": "sources/author-art-282-296-case-2012.md",
+      "new_target": "../sources/author-art-282-296-case-2012.md"
+    },
+    {
+      "file": "batches/art-282-296/commentary/part-38.md",
+      "old_target": "sources/author-art-282-296-case-2012.md",
+      "new_target": "../sources/author-art-282-296-case-2012.md"
+    },
+    {
+      "file": "batches/art-282-296/commentary/part-38.md",
+      "old_target": "sources/author-art-282-296-case-2021.md",
+      "new_target": "../sources/author-art-282-296-case-2021.md"
+    },
+    {
+      "file": "batches/art-282-296/commentary/part-38.md",
+      "old_target": "sources/author-art-282-296-case-2023.md",
+      "new_target": "../sources/author-art-282-296-case-2023.md"
+    },
+    {
+      "file": "batches/art-282-296/commentary/part-38.md",
+      "old_target": "sources/author-art-282-296-case-2021.md",
+      "new_target": "../sources/author-art-282-296-case-2021.md"
+    },
+    {
+      "file": "batches/art-241d-253/commentary/part-27.md",
+      "old_target": "sources/author-art-241d-253-case-2017.md",
+      "new_target": "../sources/author-art-241d-253-case-2017.md"
+    },
+    {
+      "file": "batches/art-241d-253/commentary/part-27.md",
+      "old_target": "sources/author-art-241d-253-case-2017.md",
+      "new_target": "../sources/author-art-241d-253-case-2017.md"
+    },
+    {
+      "file": "batches/art-241d-253/commentary/part-27.md",
+      "old_target": "sources/author-art-241d-253-case-2018.md",
+      "new_target": "../sources/author-art-241d-253-case-2018.md"
+    },
+    {
+      "file": "batches/art-241d-253/commentary/part-27.md",
+      "old_target": "sources/author-art-241d-253-case-2017.md",
+      "new_target": "../sources/author-art-241d-253-case-2017.md"
+    }
+  ],
+  "unresolved": [],
+  "scope": "Navigation adjustments in assembled output evidence only; current commentary source files untouched. Historical top-level markdown preserved byte-for-byte as .md.txt."
+}

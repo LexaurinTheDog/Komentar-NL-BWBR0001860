@@ -1,0 +1,165 @@
+=== art-270
+
+Artikel 270 is vervallen en bevat in de geselecteerde tekst geen geldende bevoegdheid, termijn of voorwaarde. De nummerplaats blijft behouden om verwijzingen naar oudere teksten herkenbaar te houden. De huidige overgang van stemming naar homologatie wordt geregeld door de artikelen 269b en 271; het ontbrekende nummer vormt geen aanvullende processtap. Fictief voorbeeld: een oude procesinstructie verwijst naar artikel 270. De behandelaar moet de destijds geldende versie achterhalen en mag die instructie niet zonder meer op een huidige homologatie toepassen.
+
+=== art-271
+
+De homologatiezitting is een afzonderlijk openbaar toetsingsmoment na de aanneming van het akkoord. De rechter-commissaris brengt schriftelijk rapport uit; bewindvoerders en iedere schuldeiser kunnen zowel vóór als tegen homologatie argumenten aanvoeren. Een tegenstem is dus geen voorwaarde om bij deze behandeling bezwaren te uiten. Door de verwijzing naar artikel 152 lid 2 kan ook de schuldenaar zijn belangen verdedigen. Het rapport vervangt de beslissing van de rechtbank niet: de materiële toets volgt uit artikel 272.
+
+Lid 2 geeft de rechtbank de mogelijkheid de behandeling te verplaatsen, maar verlangt dat zij de latere dag terstond vaststelt. Daarmee blijft de procedure na een aanhouding voorzien van een concreet vervolg. Dit moet worden onderscheiden van de eerste zittingsbepaling en de daarvoor geldende tijdsgrenzen van artikel 269b. Bij toepassing van de commissie van artikel 281e blijft iedere schuldeiser bij deze zitting spreekgerechtigd; bovendien kan elk commissielid optreden.
+
+Fictief voorbeeld: een leverancier stemde vóór omdat de financiering rond leek, maar ontdekt vóór de zitting dat de toegezegde storting is uitgebleven. Hij mag dit bij de rechtbank aanvoeren. De rechtbank beoordeelt vervolgens of voldoende waarborgen voor nakoming bestaan; zij telt niet eenvoudig de stemmen opnieuw.
+
+=== art-272
+
+Aanneming geeft geen aanspraak op automatische homologatie. Lid 1 verlangt een spoedige, gemotiveerde beschikking. Lid 2 bevat verplichte weigeringsgronden: boedelbaten die de bij het akkoord bedongen som te boven gaan, onvoldoende waarborg voor nakoming, een door bedrog, begunstiging of andere oneerlijke middelen tot stand gekomen akkoord en het ontbreken van de voorgeschreven storting of zekerheid voor loon en verschotten. Bij de derde grond is niet doorslaggevend wie aan het oneerlijke middel heeft meegewerkt. De formulering van de vierde grond is grammaticaal ongelukkig. De functionele lezing is dat weigering aan de orde is wanneer noch storting bij de bewindvoerders, noch voldoende zekerheid de betaling dekt. De alternatieven zijn dus storting of zekerheid, geen verplichting beide te combineren. Rb. Den Haag 13 november 2024, ECLI:NL:RBDHA:2024:18898, rov. 3.9, behandelt beschikbare middelen voor het salaris als reden waarom deze weigeringsgrond zich in die zaak niet voordoet; dat is geen algemene vrijstelling van de wettelijke kostenwaarborg.
+
+De vergelijking bij de eerste grond vraagt om een onderbouwde waardering van de beschikbare baten en de uitkering onder het akkoord. De tweede grond vraagt daarnaast om uitvoerbaarheid: een hoog aangeboden percentage helpt niet als de financiering onzeker is. Lid 3 laat ook andere, ambtshalve toe te passen weigeringsgronden toe. Dit is een beoordelingsbevoegdheid, geen verplichting iedere afwijking van een ideaal akkoord met weigering te beantwoorden. In Rb. Den Haag 13 november 2024, ECLI:NL:RBDHA:2024:18898, rov. 3.2–3.3, wordt de toets aan het surseanceregime onderscheiden van de WHOA-toets. De gekozen procedure bepaalt het toepasselijke kader; deze uitspraak geeft geen algemene vrijstelling van de gronden van lid 2.
+
+HR 26 augustus 2003, ECLI:NL:HR:2003:AI0369, rov. 3.3.2, benadrukt de zelfstandige beoordeling door de homologatierechter en diens motiveringsplicht. Rov. 3.9.3 betreft de ruime beoordelingsvrijheid en de beperkte toetsing daarvan in cassatie. Gewone regels van stelplicht en bewijslast beheersen die procedure niet op dezelfde wijze als een procedure op tegenspraak. Dat betreft de homologatie, niet zonder meer een latere ontbindingsvordering.
+
+Lid 4 verbindt aan weigering twee mogelijke vervolgen. De rechtbank kan meteen faillissement uitspreken. Doet zij dat niet, dan eindigt de surseance pas zodra de weigering onherroepelijk is; bewindvoerders publiceren die beëindiging volgens artikel 216. Lid 5 verlangt vóór faillietverklaring van de daar bedoelde Nederlandse verzekeringsmoedermaatschappij gelegenheid voor DNB om te worden gehoord. Lid 6 schakelt de artikelen 154–156 en 160 in, zodat ook rechtsmiddelen en de daar geregelde gevolgen moeten worden betrokken.
+
+Fictief voorbeeld: een akkoord biedt een uitkering uit een nog niet toegezegde lening. Zelfs bij ruime instemming moet de rechtbank onderzoeken of nakoming voldoende gewaarborgd is. Wordt homologatie geweigerd, dan mag de schuldenaar de weigering niet zonder meer gelijkstellen aan een direct geëindigde surseance wanneer geen faillissement is uitgesproken.
+
+=== art-273
+
+De verbindende kracht volgt de werkingssfeer van de surseance. Alle schuldeisers voor wie de surseance werkt worden door het gehomologeerde akkoord gebonden, ook wanneer zij tegenstemden of niet deelnamen. De collectieve werking zou verloren gaan als iedere tegenstemmer buiten de regeling bleef. Omgekeerd maakt homologatie een vordering waarvoor de surseance niet werkt niet alleen daardoor tot een akkoordsvordering. De beoordeling begint daarom bij de aard en positie van de vordering, mede in het licht van artikel 232 en een eventuele indiening of terugneming volgens artikel 257.
+
+Gebondenheid moet worden onderscheiden van een executoriale titel. Artikel 274 stelt daarvoor afzonderlijke voorwaarden, waaronder het niet betwist zijn door de schuldenaar. Evenmin zegt artikel 273 dat iedere verplichting van een derde door het akkoord verdwijnt; artikel 272 lid 6 verwijst daarvoor mede naar artikel 160. De precieze inhoud van de toegezegde prestatie volgt uit het akkoord zelf.
+
+Fictief voorbeeld: een concurrente leverancier stemt tegen een uitkering van dertig procent maar valt onder de surseance. Na homologatie kan hij zich niet uitsluitend vanwege zijn tegenstem op betaling van honderd procent beroepen. Voor een andere schuldeiser met een buiten de surseance vallende vordering moet eerst afzonderlijk worden vastgesteld of en waarom die positie is veranderd.
+
+=== art-274
+
+De bepaling voorkomt dat voor iedere onbetwiste akkoordsvordering opnieuw een veroordeling moet worden verkregen. De executoriale titel ontstaat uit de combinatie van de onherroepelijke homologatie en het proces-verbaal van artikel 269. Alleen het akkoord of alleen een nog aanvechtbare homologatiebeschikking volstaat hiervoor niet. Bovendien beperkt de wet deze titel tot vorderingen die de schuldenaar niet heeft betwist. Dat criterium mag niet worden vervangen door de vraag of de bewindvoerder de vordering op de lijst heeft geplaatst.
+
+De titel werkt tegen de schuldenaar en tegen personen die als borg tot het akkoord zijn toegetreden. Een buiten het akkoord gebleven garant wordt door deze bepaling niet automatisch in de titel betrokken. De uitvoerbare prestatie wordt bepaald door de akkoordafspraken, met hun vervaldata en voorwaarden; de oorspronkelijke nominale schuld kan niet zonder meer als direct opeisbaar bedrag worden geëxecuteerd. Bij gebrekkige nakoming staat daarnaast de ontbindingsroute van artikel 280 open.
+
+Fictief voorbeeld: een leverancier heeft een onbetwiste vordering en het akkoord verlangt betaling in twee termijnen. Na onherroepelijke homologatie en het uitblijven van de eerste termijn kan hij de gecombineerde stukken als titel gebruiken voor de opeisbare akkoordprestatie. Dat maakt de tweede, nog niet vervallen termijn niet vanzelf opeisbaar.
+
+=== art-275
+
+Een aangeboden akkoord mag niet door enkel tijdsverloop zijn procedurele basis verliezen terwijl de beslissing erover nog openstaat. Daarom blijft de surseance ondanks het verstrijken van haar oorspronkelijke duur bestaan zolang niet uiteindelijk over het aanbod is beslist. Het gaat om een wettelijke voortduring wegens een nog lopende akkoordprocedure. De bepaling maakt een louter voornemen om ooit een akkoord aan te bieden niet gelijk aan een reeds aangeboden akkoord.
+
+Deze bescherming tegen termijnverloop is geen algemene blokkade van andere beëindigingsgronden. Artikel 254 regelt juist het verval van het ontwerp wanneer beëindiging eerder onherroepelijk wordt dan homologatie. Voor het einde na succesvolle homologatie geldt artikel 276; bij mislukking gelden onder meer de artikelen 272 en 277. Bewindvoerders moeten dus de oorspronkelijke einddatum, het stadium van het akkoord en eventuele andere beëindigingsprocedures afzonderlijk blijven volgen.
+
+Fictief voorbeeld: de verleende termijn eindigt op vrijdag, terwijl tegen de homologatie nog een rechtsmiddel loopt. De enkele vrijdagdatum beëindigt de surseance dan niet. Een ondernemer kan daaruit echter niet afleiden dat hij ook beschermd blijft tegen een afzonderlijk, wettelijk gegrond verzoek tot beëindiging.
+
+=== art-276
+
+Het succesvolle einde van de akkoordprocedure sluit de surseance af zodra de homologatie kracht van gewijsde heeft. De datum van stemming, de dag van de homologatiezitting en de dag waarop de beschikking wordt uitgesproken zijn dus niet zonder meer de einddatum. Zolang nog een gewoon rechtsmiddel openstaat of aanhangig is, moet het onderscheid tussen een uitgesproken en een onherroepelijke homologatie in de administratie zichtbaar blijven. Artikel 275 voorkomt intussen dat de surseance enkel door het verstrijken van haar duur eindigt.
+
+Bewindvoerders moeten de beëindiging bekendmaken op de wijze van artikel 216. Die publicatie informeert derden over het gewijzigde procedureregime; de wettelijke beëindigingsgrond is het onherroepelijk worden van de homologatie. Het einde van de surseance betekent niet dat de akkoordprestaties al zijn verricht. Zij kunnen nog jaren doorlopen en bij niet-nakoming kan artikel 280 aan de orde komen.
+
+Fictief voorbeeld: een gehomologeerd akkoord voorziet in vier kwartaalbetalingen. Zodra de homologatie onherroepelijk is, eindigt de surseance ook al is nog geen kwartaalbetaling verschuldigd. De bewindvoerders kunnen het einde daarom niet uitstellen totdat de laatste termijn is betaald.
+
+=== art-277
+
+Verwerping van een akkoord leidt niet volgens dit artikel automatisch tot faillissement. De rechtbank kan de schuldenaar failliet verklaren. Voor een Nederlandse moedermaatschappij van een verzekeraar in de aangeduide categorie moet zij DNB eerst gelegenheid geven te worden gehoord. Het betreft een voorafgaande procedurele waarborg; het horen maakt DNB niet tot degene die over faillietverklaring beslist.
+
+Zonder faillietverklaring eindigt de surseance wanneer de verbeteringstermijn van artikel 269a ongebruikt is verstreken of verbetering van het proces-verbaal is geweigerd. Daarmee houdt de wet rekening met de mogelijkheid dat de verwerping op een kenbare fout in de stukken berust. Het moment van de negatieve stemming alleen is dan niet de einddatum. Bewindvoerders kondigen de beëindiging aan volgens artikel 216. Voor hoger beroep tegen het wél uitgesproken faillissement bevat artikel 278 een eigen regeling; voor de gevolgen voor een nieuw akkoord geldt artikel 281.
+
+Fictief voorbeeld: een akkoord wordt als verworpen genoteerd, maar de schuldenaar vraagt tijdig verbetering wegens een aantoonbare telfout. Als geen faillissement is uitgesproken, mag men het ongebruikt verstrijken van de oorspronkelijke acht dagen niet aannemen: er ligt juist een verbeteringsverzoek waarop nog moet worden beslist.
+
+=== art-278
+
+Dit rechtsmiddel sluit aan op faillietverklaring na verwerping van het akkoord. Lid 1 kent de schuldenaar acht dagen voor hoger beroep toe, gerekend na de dag waarop de verbeteringstermijn van artikel 269a ongebruikt is verstreken of verbetering is geweigerd. Het aanknopingspunt is daardoor niet zonder meer de uitspraakdatum van het faillissement. Een dossier moet zowel de faillietverklaring als het verloop van de verbeteringsmogelijkheid bevatten om de beroepstermijn betrouwbaar te berekenen.
+
+Lid 2 verlangt indiening van een verzoek bij de griffie van het bevoegde gerechtshof. De voorzitter bepaalt onmiddellijk het behandelmoment. Artikel 283 lid 1 verlangt ondertekening door een advocaat; de daar genoemde uitzondering voor verzoeken van bewindvoerders geeft de schuldenaar geen vrijstelling. Artikel 282 bevat de algemene rechtsmiddelenbeperking, waarop artikel 278 hier een uitdrukkelijke uitzondering maakt. Lid 3 legt de aankondiging in de Staatscourant bij de griffier en laat iedere schuldeiser bij de behandeling opkomen. Die deelneming kan later betekenis krijgen voor de cassatiebevoegdheid bij vernietiging van het faillissement volgens artikel 279.
+
+Fictief voorbeeld: de rechtbank weigert verbetering op dinsdag. De schuldenaar moet de wettelijke termijn vanuit dat besluit berekenen en kan niet wachten op een latere publicatie als vermeend nieuw beginpunt. Een schuldeiser die vernietiging wil bestrijden kan zich bij de aangekondigde behandeling melden; alleen een brief aan de bewindvoerder stelt geen hoger beroep in.
+
+=== art-279
+
+De bevoegdheid tot cassatie hangt af van de uitkomst in hoger beroep. Handhaaft het hof het faillissement, dan kan de schuldenaar opkomen. Vernietigt het hof het faillissement, dan kan iedere schuldeiser die in hoger beroep is opgekomen cassatie instellen. Een crediteur die uitsluitend bij de eerdere akkoordstemming aanwezig was, voldoet daarmee nog niet aan het vereiste van deelname in hoger beroep. Deze asymmetrie beschermt de partij die door de beslissing van het hof wordt getroffen binnen de hier geregelde procedure.
+
+Lid 2 verwijst voor termijn en wijze naar het hoger beroep, maar vervangt de openbare aankondiging door een exploot aan de wederpartij. Dat exploot moet binnen vier dagen na aantekening van het beroep worden uitgebracht. De korte beroepstermijn en de afzonderlijke betekeningshandeling verdienen dus ieder een eigen controle. De overeenkomstige regeling betekent in deze fase een cassatietermijn van acht dagen na de uitspraak van het hof. Het eerdere verbeteringsbesluit uit artikel 278 is geen nieuw beginpunt voor cassatie tegen die latere hofuitspraak. Artikel 283 lid 3 vereist steeds de medewerking van een advocaat bij de Hoge Raad; een gewone procesvertegenwoordiger volstaat daarvoor niet.
+
+Fictief voorbeeld: het hof vernietigt het faillissement. Een bij het hof verschenen schuldeiser wil cassatie instellen en laat het beroep tijdig aantekenen. Hij moet vervolgens ook het voorgeschreven exploot binnen vier dagen laten uitbrengen. Hij kan niet vertrouwen op een Staatscourantpublicatie ter vervanging daarvan.
+
+=== art-280
+
+Ontbinding ziet op een akkoord dat al is gehomologeerd maar niet wordt nagekomen. Lid 1 neemt de artikelen 165 en 166 over. Een schuldeiser jegens wie de schuldenaar in gebreke blijft kan ontbinding vorderen; de schuldenaar draagt het bewijs dat aan het akkoord is voldaan. De rechter kan ook ambtshalve nog ten hoogste één maand uitstel voor nakoming verlenen. De verwijzing naar artikel 166 bepaalt de wijze waarop de ontbindingsvordering wordt aangebracht en behandeld. Dit is dus een andere procedure dan bezwaar tegen de oorspronkelijke homologatie.
+
+Lid 2 koppelt aan uitgesproken ontbinding faillietverklaring in hetzelfde vonnis. Anders dan bij artikel 272 lid 4 of artikel 277 laat de tekst hier geen vrije keuze om na ontbinding uitsluitend de eerdere surseance te laten herleven. Lid 3 verlangt bij de aangeduide Nederlandse verzekeringsmoedermaatschappij eerst gelegenheid voor DNB om te worden gehoord. Ook het verbod van een nieuw akkoord in artikel 281 lid 1 moet bij de gevolgen worden betrokken.
+
+Fictief voorbeeld: de schuldenaar betaalt de tweede akkoordtermijn niet en kan geen betalingsbewijs tonen. De betrokken crediteur kan ontbinding vorderen. Een door de rechter toegestane korte hersteltermijn kan nog tot nakoming leiden, maar spreekt de rechter uiteindelijk ontbinding uit, dan volgt tevens faillissement; de oude surseance wordt niet eenvoudig hervat.
+
+=== art-281
+
+Lid 1 sluit een nieuw akkoord uit in een faillissement dat krachtens artikel 272, 277 of 280 is uitgesproken. Het betreft respectievelijk de situaties van geweigerde homologatie, niet-aanneming en ontbinding van het surseanceakkoord. De beperking is gekoppeld aan de wettelijke grondslag van dit faillissement. Zij mag niet zonder onderzoek worden uitgebreid tot ieder faillissement van iemand die ooit surseance heeft gehad. Evenmin kan men na de bedoelde omzetting vanzelf een nieuwe akkoordronde onder de faillissementsregels beginnen.
+
+Lid 2 heeft een andere functie: het verklaart de bepalingen van deze afdeling overeenkomstig toepasselijk op een akkoord op de voet van artikel 47 lid 1 van de in artikel 5 lid 3 genoemde verordening. De internationale verwijzing verlangt dat eerst wordt vastgesteld of werkelijk die verordeningsroute wordt gebruikt. Het is geen algemene machtiging om ieder buitenlands akkoord volgens Nederlands surseancerecht te behandelen. De toepasselijke bepalingen moeten vervolgens met inachtneming van die procedurele context worden gelezen.
+
+Fictief voorbeeld: na ontbinding volgens artikel 280 stelt de schuldenaar in het daarmee uitgesproken faillissement een tweede percentage voor als wettelijk akkoord. Lid 1 sluit die aanbieding uit. Het enkele verbeteren van de financiering heft dit wettelijke gevolg niet op.
+
+Praktische controle bij het einde van de akkoordprocedure: onderscheid aanneming, homologatie en onherroepelijkheid; leg de grondslag en datum van beëindiging vast; controleer bij verwerping de verbeteringsroute; bereken beroeps- en betekeningshandelingen apart; toets vóór een nieuwe akkoordpoging de grondslag van een eventueel uitgesproken faillissement.
+
+=== art-281a
+
+Bij zeer veel schuldeisers laat de wet een gegroepeerde staat toe in plaats van de individuele opgave van artikel 214. Meer dan 10.000 schuldeisers geeft rechtstreeks toegang tot de vereenvoudiging van lid 1. De staat vermeldt dan per naar de aard van de vorderingen onderscheiden groep het globale aantal en het globale totaalbedrag. Alleen één ongespecificeerd totaal volstaat niet: juist de verdeling over crediteurengroepen vervangt de ontbrekende individuele gegevens.
+
+Bij meer dan 5.000 maar niet meer dan 10.000 schuldeisers is toestemming van de rechtbank nodig op grond van lid 2. Bij precies 10.000 geldt dus deze toestemmingsroute; bij precies 5.000 biedt het artikel geen vereenvoudiging. De regeling betreft de bij het verzoek over te leggen staat en beslist niet zelfstandig over bestaan, rang of stemrecht van een vordering. Ook de voorzieningen van artikel 281b volgen er niet automatisch uit: zij vragen hun eigen rechterlijke beslissing op verzoek van bewindvoerders.
+
+Fictief voorbeeld: een onderneming heeft 7.200 crediteuren, verdeeld over obligatiehouders en handelscrediteuren. Zij kan toestemming vragen voor een staat met aantallen en bedragen per passende groep. Zij mag niet enkel vanwege het grote aantal namen weglaten voordat die toestemming is verkregen.
+
+=== art-281b
+
+De rechtbank kan bij meer dan 5.000 schuldeisers op verzoek van de bewindvoerders de voorzieningen van de artikelen 281c–281f treffen. De omvang moet blijken; een vage verwachting dat mogelijk duizenden personen zullen opkomen is geen vervanging voor een onderbouwde telling. Het artikel verleent een bevoegdheid en schrijft niet voor dat alle voorzieningen in iedere omvangrijke surseance moeten worden gebruikt. De bewindvoerders moeten het gevraagde middel verbinden met de concrete administratieve of besluitvormingslast.
+
+Lid 2 stelt wel een dwingende koppeling: de voorzieningen van de artikelen 281d en 281e mogen alleen gezamenlijk worden getroffen. Het vereenvoudigen van de vorderingenlijst staat daarmee niet los van vertegenwoordiging bij de besluitvorming. Voor de afwijkende oproeping van artikel 281c of de uitkeringspapieren van artikel 281f bestaat die uitdrukkelijke koppeling niet. Het onderscheid met artikel 281a is wezenlijk: een gegroepeerde beginstaat en latere procedurele voorzieningen zijn verschillende beslissingen.
+
+Fictief voorbeeld: bij 8.000 schuldeisers verzoeken bewindvoerders om alleen kleine vorderingen van de lijst weg te laten. De rechtbank kan dit niet als geïsoleerde voorziening van artikel 281d toestaan; zij moet de wettelijke koppeling met de commissie van artikel 281e in acht nemen.
+
+=== art-281c
+
+Voor de uitdrukkelijk genoemde oproepingen kan de rechtbank individuele brieven of schriftelijke kennisgevingen vervangen door aankondigingen in de Staatscourant of aangewezen nieuwsbladen. Het betreft de oproepingen van artikel 215 lid 2, artikel 256 lid 2 en artikel 264 lid 2. Deze opsomming geeft geen algemene vrijstelling van iedere individuele mededeling tijdens de surseance. Ook de toepassingsvoorwaarden en het verzoek van artikel 281b blijven nodig.
+
+De rechtbank bepaalt tevens de uiterste publicatiedatum en de op te nemen punten. Daarmee is de voorziening meer dan toestemming om ergens een advertentie te plaatsen. De inhoud moet aansluiten op de betrokken processtap; de oproeping voor een akkoordvergadering heeft andere noodzakelijke gegevens dan de eerste behandeling. Bewindvoerders moeten de beschikking en de daadwerkelijk verschenen aankondigingen bewaren, zodat tijdigheid en inhoud controleerbaar zijn.
+
+Fictief voorbeeld: de rechtbank wijst twee nieuwsbladen aan en verlangt vermelding van de indieningsdatum en de vergadering. Een aankondiging op uitsluitend de eigen website voldoet dan niet aan deze beschikking. De regeling ontneemt de schuldeisers hun materiële positie niet enkel omdat de communicatiewijze collectief is gemaakt.
+
+=== art-281d
+
+De rechtbank kan toestaan dat bepaalde soorten vorderingen of vorderingen beneden een vastgesteld bedrag niet op de lijst van artikel 259 worden geplaatst. Voor de bedraggrens geldt een maximum van € 450. De woorden 'beneden een bepaald bedrag' betekenen dat de grens zelf zorgvuldig moet worden toegepast: een vordering van precies het vastgestelde grensbedrag valt niet reeds daarom onder de uitzondering. Naast de bedragroute noemt de wet afzonderlijk de selectie naar soorten vorderingen; de rechterlijke beschikking moet duidelijk maken welke route en categorie zijn gekozen.
+
+Het betreft een verlichting van de lijstvorming, geen kwijtschelding van de weggelaten schulden. Uit dit artikel alleen volgt evenmin dat een crediteur nooit een uitkering onder het akkoord kan ontvangen. De gevolgen voor de stemming moeten worden gelezen met artikel 281e, dat krachtens artikel 281b lid 2 alleen gezamenlijk met deze voorziening kan worden toegepast. Zonder die gekoppelde beslissing mogen bewindvoerders niet op eigen initiatief kleine vorderingen uit de wettelijke lijst verwijderen.
+
+Fictief voorbeeld: de rechtbank stelt de bedraggrens op € 300. Een rekening van € 280 kan onder de omschreven voorziening vallen, terwijl een rekening van precies € 300 niet 'beneden' die grens ligt. Het administratief weglaten van de eerste rekening bewijst niet dat de schuldeiser niets meer te vorderen heeft.
+
+=== art-281e
+
+De commissie van vertegenwoordiging neemt bij omvangrijke surseances de stemming van de individuele crediteuren over. Zij telt ten minste negen leden en moet zo worden samengesteld dat de belangrijkste schuldeisersgroepen vertegenwoordigd kunnen worden geacht. Dat is een inhoudelijke samenstellingseis naast de numerieke ondergrens. Lid 2 kent alleen de commissieleden stemrecht toe bij de stemmingen van de artikelen 218 en 268; de regeling is dus niet beperkt tot de akkoordstemming.
+
+De twee beslisregels verschillen. Voor definitieve surseance blokkeert verzet van meer dan een vierde van de verschenen commissieleden de verlening. Voor aanneming van het akkoord is instemming van drie vierde van de verschenen leden vereist. Bij die eerste akkoordvergadering moet bovendien ten minste twee derde van alle leden aanwezig zijn. Wordt dat aanwezigheidsvereiste niet gehaald, dan volgt uitstel. De commissieleden worden voor de volgende vergadering schriftelijk door de bewindvoerders opgeroepen; een nieuwe oproeping van alle schuldeisers is niet nodig. In die volgende vergadering vervalt het aanwezigheidsquorum, niet de vereiste instemmingsverhouding.
+
+Lid 5 past ook de procesregels aan. Bij artikel 269 is de vervanging beperkt tot lid 1, eerste zin: daar betreft zij de inhoud van het proces-verbaal. Ook voor artikel 272 en de overeenkomstige toepassing van artikel 154 worden schuldeisers vervangen door commissieleden. Dit laatste raakt de kring van beroepsgerechtigden en moet worden onderscheiden van het ruimere spreekrecht op de homologatiezitting. Bij artikel 271 is de uitbreiding juist cumulatief: iedere schuldeiser én ieder commissielid kan bij de homologatiebehandeling optreden. De beperking van het stemrecht betekent dus geen volledige uitsluiting van individuele schuldeisers uit die openbare behandeling.
+
+Fictief voorbeeld: een commissie heeft twaalf leden. Op de eerste akkoordvergadering verschijnen er zeven. Ook wanneer zij alle zeven instemmen, ontbreekt de vereiste aanwezigheid van acht en moet worden uitgesteld. Op de volgende vergadering mag wel ongeacht het aantal aanwezigen worden gestemd, met behoud van de drie-vierdemeerderheid.
+
+=== art-281f
+
+Bij een voorzienbare reeks uitkeringen kan de rechtbank bij homologatie kiezen voor betaling via papieren aan toonder. Bij de eerste uitkering worden één of meer van die papieren verstrekt; latere uitkeringen kunnen vervolgens uitsluitend tegen aanbieding van het desbetreffende papier worden gevorderd. De voorziening voorkomt dat bij iedere vervolguitkering dezelfde individuele aanspraken opnieuw administratief moeten worden afgehandeld. Zij vergt een rechterlijke beslissing bij homologatie en wordt niet door de bewindvoerders eenzijdig ingevoerd.
+
+De regeling verandert vooral de wijze waarop een volgende betaling wordt gevraagd. Zij bepaalt niet zelfstandig de hoogte of de vervaldag van de akkoorduitkeringen. Het akkoord en de homologatiebeslissing moeten daarom in samenhang worden gelezen. Omdat het papier voor de latere betalingsvordering essentieel wordt, moeten uitgifte, identificatie van de betrokken uitkering en voorlichting over bewaring zorgvuldig worden geregeld. Het artikel bevat zelf geen uitgewerkte herstelprocedure voor verlies; men kan niet uit de eerdere inschrijving alleen afleiden dat aanbieding overbodig is.
+
+Fictief voorbeeld: een akkoord voorziet in drie jaarlijkse betalingen en de rechtbank gebruikt deze voorziening. Een schuldeiser ontvangt bij de eerste betaling de papieren voor de volgende rondes. Voor de tweede ronde kan hij niet zonder meer uitsluitend met een kopie van zijn oorspronkelijke factuur betaling verlangen.
+
+Praktische controle bij een massale surseance: onderbouw het aantal crediteuren; onderscheid de beginstaat van latere voorzieningen; leg publicatiemedia en deadlines vast; koppel de artikelen 281d en 281e; controleer commissiesamenstelling, aanwezigheid en stemverhouding afzonderlijk; documenteer eventueel uitgegeven uitkeringspapieren.
+
+=== art-281g
+
+De finaliteitsregels van afdeling 11A gelden overeenkomstig bij surseance van een instelling in de zin van artikel 212a onderdeel a. De bepaling beschermt het functioneren van de daar bedoelde betalings- en afwikkelingssystemen ook wanneer geen faillissement maar surseance wordt verleend. Het is geen algemene uitzondering voor alle betalingen van iedere financiële onderneming. Eerst moeten de instelling, het systeem en de concrete rechtshandeling binnen het begrippenkader van afdeling 11A worden gebracht.
+
+De vervangingen zorgen dat artikel 212b in het surseancestelsel kan werken: artikel 217 komt in de plaats van artikel 23, artikel 228 lid 2 van artikel 24, artikel 234 lid 1 van artikel 53 lid 1, artikel 235 lid 2 van artikel 54 lid 2 en artikel 241a van artikel 63a. Daardoor worden onder meer het aanvangsmoment van de effecten, de behandeling van rechtshandelingen en verrekening en de afkoelingsregeling op de juiste surseancebepalingen aangesloten. De overige voorwaarden van artikel 212b, zoals tijdstip, systeemregels en waar vereist onbekendheid met de insolventiemaatregel, verdwijnen niet door de overeenkomstige toepassing.
+
+Fictief voorbeeld: een deelnemende instelling krijgt surseance terwijl een systeemopdracht wordt verwerkt. De behandelaar moet het precieze moment van verlening en de systeemregels onderzoeken. Hij kan niet uitsluitend op basis van het woord 'surseance' concluderen dat de opdracht ongeldig is, maar evenmin iedere betaling buiten het systeem als beschermd aanmerken.
+
+=== art-281h
+
+Deze bepaling verbindt de surseance van de aangeduide beleggingsondernemingen en financiële instellingen aan afdeling 3.5.6 van de Wet op het financieel toezicht, met het opschrift Beleggerscompensatiestelsel en depositogarantiestelsel. Voor een beleggingsonderneming is de definitie van artikel 1:1 Wft bepalend; voor de tweede categorie verlangt de tekst een verklaring van ondertoezichtstelling als bedoeld in artikel 3:110 Wft. Dat een onderneming geld beheert of financiële diensten aanbiedt, bewijst dus nog niet dat zij onder een van deze categorieën valt.
+
+De verwijzing is een schakel naar een afzonderlijk financieelrechtelijk regime en bevat zelf geen volledige opsomming van de daaruit volgende verplichtingen. Die moeten bij een concrete toepassing in de geldende Wft worden vastgesteld. Artikel 281g heeft daarnaast een eigen onderwerp, namelijk finaliteit binnen systemen; toepasselijkheid van artikel 281h bewijst niet dat iedere transactie tevens onder die systeemregels valt. De juridische kwalificatie en eventuele toezichtverklaring behoren daarom als afzonderlijke stukken in het surseancedossier te worden vastgelegd.
+
+Fictief voorbeeld: een financieel adviesbedrijf beroept zich op deze regeling omdat het zich commercieel een beleggingshuis noemt. Eerst moet worden nagegaan of het een beleggingsonderneming in de wettelijke betekenis is of de vereiste verklaring bezit. De handelsnaam alleen activeert het verwezen regime niet. Deze toelichting geeft geen zelfstandige analyse van alle bepalingen van de Wft-afdeling.
