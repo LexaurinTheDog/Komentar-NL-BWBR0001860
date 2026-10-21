@@ -1,23 +1,20 @@
 {
+  "bounded": {
+    "repo": "Komentar-NL-BWBR0001860",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 35107,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
   "whole_book": {
     "repo": "Komentar-NL-BWBR0001860",
     "units": 639,
     "verbatim_ratio": 1.0,
     "commentary_chars": 800657,
     "errors": [
-      "krátký/chybějící komentář u 99 jednotek: ['art-297(0<400)', 'art-298(0<120)', 'art-299(0<400)', 'art-299a(0<400)', 'art-299b(0<400)', 'art-300(0<120)', 'art-301(0<400)', 'art-302(0<400)']",
-      "necommitnuté změny v repu"
-    ],
-    "warnings": [],
-    "ok": false
-  },
-  "bounded": {
-    "repo": "Komentar-NL-BWBR0001860",
-    "units": 20,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 35107,
-    "errors": [
-      "necommitnuté změny v repu"
+      "krátký/chybějící komentář u 99 jednotek: ['art-297(0<400)', 'art-298(0<120)', 'art-299(0<400)', 'art-299a(0<400)', 'art-299b(0<400)', 'art-300(0<120)', 'art-301(0<400)', 'art-302(0<400)']"
     ],
     "warnings": [],
     "ok": false
