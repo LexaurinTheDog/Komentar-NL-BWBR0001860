@@ -1,0 +1,33 @@
+{
+  "units": 20,
+  "commented_ids": [
+    "art-349",
+    "art-349aa",
+    "art-349a",
+    "art-350",
+    "art-351",
+    "art-351a",
+    "art-352",
+    "art-353",
+    "art-354",
+    "art-354a",
+    "art-355",
+    "art-356",
+    "art-357",
+    "art-358",
+    "art-358a",
+    "art-359",
+    "art-359a",
+    "art-360",
+    "art-361",
+    "art-362"
+  ],
+  "statutory_text_agreement": 1.0,
+  "missing": [],
+  "duplicate_ids": [],
+  "duplicate_full_comments": false,
+  "links_checked": 26,
+  "broken_links": [],
+  "unassigned_commentary_unchanged": true,
+  "legal_quality": "Manual review; not inferred from length checks."
+}

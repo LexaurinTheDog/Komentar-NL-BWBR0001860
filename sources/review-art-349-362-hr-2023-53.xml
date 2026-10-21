@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:HR:2023:53</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2026-08-25T10:24:06</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2023-01-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Hoge_Raad_der_Nederlanden" scheme="overheid.RechterlijkeMacht">Hoge Raad</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2023-01-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">22/03792</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#cassatie">Cassatie</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#civielRecht">Civiel recht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:PHR:2022:1096" psi:type="http://psi.rechtspraak.nl/conclusie" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#gevolgd">Conclusie: ECLI:NL:PHR:2022:1096, Gevolgd</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2023/335</rdf:li>
+          <rdf:li>NJ 2023/56</rdf:li>
+          <rdf:li>RvdW 2023/149</rdf:li>
+          <rdf:li>RI 2023/12</rdf:li>
+          <rdf:li>Burgerlijk procesrecht.nl BPR-2023-0002</rdf:li>
+          <rdf:li>BPR-Updates.nl 2023-0002</rdf:li>
+          <rdf:li>TvI 2023/30 met annotatie van B.J. Engberts</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2023:53">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2023:53</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2023-01-20T15:56:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2023-01-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:HR:2023:53 Hoge Raad , 20-01-2023 / 22/03792</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:HR:2023:53:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>WSNP. Art. 295 lid 2 en 3 Fw. Art. 315 Fw. Art. 317 Fw. Beschikking van rechter-commissaris dat kosten van budgetbeheer uit vrij te laten bedrag moeten worden voldaan. Staat hoger beroep open tegen beslissing op verzoek van schuldenaar om kosten van budgetbeheer toch in vrij te laten bedrag op te nemen? Beroep op HR 17 april 2020, ECLI:NL:HR:2020:751.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:HR:2023:53:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <parablock>
+      <para>HOGE RAAD DER NEDERLANDEN</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>CIVIELE KAMER</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Nummer</emphasis>	22/03792</para>
+      <para>
+        <emphasis role="bold">Datum</emphasis>	20 januari 2023</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>BESCHIKKING</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>In de zaak van</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verzoeker],</para>
+      <para>wonende te [woonplaats],</para>
+      <para>VERZOEKER tot cassatie,</para>
+      <para>hierna: [verzoeker],</para>
+      <para>advocaat: J. van Weerden,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [de bewindvoerder],</para>
+      <para>wonende te [woonplaats],</para>
+      <para>VERWEERDER in cassatie,</para>
+      <para>hierna: de bewindvoerder,</para>
+      <para>niet verschenen.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <nr>1</nr>Procesverloop in cassatie</title>
+    <parablock>
+      <para>Voor het verloop van het geding in feitelijke instanties verwijst de Hoge Raad naar: </para>
+      <para>a. de beslissing van de rechter-commissaris van de rechtbank Limburg van                             17 augustus 2022;</para>
+      <para>b. de beschikking in de zaak C/03/308525 / MA RK 22-221 van de rechtbank Limburg van 5 oktober 2022.</para>
+      <para>
+        [verzoeker] heeft tegen de beschikking van de rechtbank beroep in cassatie ingesteld.</para>
+      <para>De bewindvoerder heeft geen verweerschrift ingediend.</para>
+      <para>De conclusie van de Advocaat-Generaal G.R.B. van Peursem strekt tot verwerping van het cassatieberoep.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Uitgangspunten en feiten</title>
+    <paragroup>
+      <nr>2.1</nr>
+      <parablock>
+        <para>In cassatie kan van het volgende worden uitgegaan.</para>
+        <para>(i) Ten aanzien van [verzoeker] is op 30 juni 2020 de toepassing van de wettelijke schuldsaneringsregeling uitgesproken.</para>
+        <para>(ii) [verzoeker] maakt gebruik van budgetbeheer.</para>
+        <para>(iii) De rechter-commissaris heeft bij aanvang van de toepassing van de wettelijke schuldsaneringsregeling toestemming verleend om de aan het budgetbeheer verbonden kosten (toen € 52,50 per maand) op te nemen in het nominale gedeelte bij de berekening van het vrij te laten bedrag. </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Op 28 juli 2022 heeft de rechter-commissaris aan de bewindvoerder bericht dat is gebleken dat er voldoende mogelijkheden zijn om de kosten van het budgetbeheer uit het vrij te laten bedrag te voldoen en dat zij daarom van oordeel is dat deze kosten niet in het vrij te laten bedrag opgenomen mogen worden. <?linebreak?>[verzoeker] heeft vervolgens onder verwijzing naar art. 317 Fw de rechter-commissaris verzocht de kosten van het budgetbeheer toch in het vrij te laten bedrag op te nemen. De rechter-commissaris heeft dit verzoek op 17 augustus 2022 afgewezen. Zij heeft daartoe onder meer het volgende overwogen.</para>
+        <para>“Dit betreft een beslissing van de rechter-commissaris op grond van artikel 295 lid 3 Fw dus artikel 317 Fw is niet van toepassing. </para>
+        <para>Het VTLB wordt steeds opnieuw vastgesteld dus dat de correctie eerder wel was toegestaan doet aan de nieuwe beslissing niet af. </para>
+        <para>De beschikking op grond van artikel 295 lid 3 Fw kan bovendien ook met terugwerkende kracht worden gegeven. Van die mogelijkheid is in dit geval geen gebruik gemaakt.”</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <parablock>
+        <para>
+          [verzoeker] heeft tegen deze beslissing van de rechter-commissaris hoger beroep ingesteld. De rechtbank heeft [verzoeker] in zijn beroep niet-ontvankelijk verklaard. Zij heeft daartoe onder meer het volgende overwogen.</para>
+        <para>“4.2. Uitgangspunt in de schuldsaneringsregeling is dat het inkomen van de schuldenaar voor zover dat boven het vrij te laten bedrag uitkomt moet worden afgedragen aan de boedel. Het vrij te laten bedrag mag de schuldenaar behouden om in zijn levensbehoeften te voorzien. Vaststelling van het vrij te laten bedrag valt in twee delen uiteen. Het eerste deel wordt gevormd door de voor de schuldenaar geldende beslagvrije voet (artikel 295 lid 2 Fw). De hoogte daarvan volgt uit de wet zodat op dit punt geen sprake is van een beschikking van de rechter-commissaris waartegen hoger beroep open staat. [voetnoot rechtbank: HR 30 oktober 2009, ECLI:NL:HR:2009:BJ7537] Het tweede deel wordt gevormd door het extra, door de rechter-commissaris vastgestelde nominale bedrag (artikel 295 lid 3 Fw). Deze beslissing is wel een beschikking.
+</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Tegen beschikkingen van de rechter-commissaris staat gedurende vijf dagen hoger beroep open bij de rechtbank (artikel 315 lid 1 Fw) maar de beschikking van de rechter-commissaris ex artikel 295 lid 3 Fw is uitgezonderd van deze hoofdregel (artikel 315 lid 2 Fw). De schuldenaar staat in beginsel dus geen rechtsmiddel tegen de vaststelling van zijn vrij te laten bedrag tot zijn beschikking.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>In de rechtspraak is een nuancering aangebracht op bovengenoemde uitgangspunten waardoor er onder omstandigheden sprake is van een verruiming van de beroepsmogelijkheden in het kader van de vaststelling van het vrij te laten bedrag. Die verruiming heeft betrekking op de vaststelling van de beslagvrije voet. Hoewel de hoogte van de beslagvrije voet uit de wet volgt (en dus geen appellabele beslissing van de rechter-commissaris betreft), heeft de Hoge Raad geoordeeld dat een verzoek van de schuldenaar aan de rechter-commissaris om verhoging van de – in de berekening van het vrij te laten bedrag opgenomen – beslagvrije voet, moet worden beschouwd als een verzoek ex artikel 317 Fw zodat tegen een afwijzende beslissing in dat geval hoger beroep open staat. [voetnoot rechtbank: HR 30 oktober 2009, ECLI:NL:HR:2009:BJ7537].</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>De vraag die de rechtbank nu in de onderhavige procedure dient te beantwoorden is of het de schuldenaar vrij staat om de rechter-commissaris op de voet van artikel 317 Fw te verzoeken een nieuwe beschikking over de kosten van het budgetbeheer te nemen, waartegen alsdan hoger beroep open staat. De rechtbank beantwoordt die vraag ontkennend. Anders dan in de door [de advocaat van de schuldenaar] aangehaalde beschikking van de Hoge Raad [bedoeld is HR 17 april 2020, ECLI:NL:HR:2020:751, HR] is in het onderhavige geval geen sprake van een verplichte afdracht aan de boedel uit hoofde van een beslissing van de rechter-commissaris (die aldus leidt tot een verlaging van het vrij te laten bedrag) die maakt dat het vrij te laten bedrag onder de beslagvrije voet uitkomt. De kosten voor het inschakelen van budgetbeheer zijn een vrijwillige uitgave op basis van de eigen keuze van de schuldenaar. Nu geen sprake is van een beschikking van de rechter-commissaris omtrent een verplichte afdracht als gevolg waarvan het inkomen onder het wettelijk gegarandeerde minimum van de beslagvrije voet valt, kan van een verzoek ex artikel 317 Fw geen sprake zijn. De rechtbank is dan ook van oordeel dat het beroep sec gericht is tegen de beschikking van de rechter-commissaris waarbij de omvang van het vrij te laten bedrag is vastgesteld. Van een dergelijke beschikking staat op basis van artikel 315 lid 2 jo. 295 lid 3 Fw geen hoger beroep open. Appellant is dan ook niet ontvankelijk in het onderhavige hoger beroep.”</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>Beoordeling van het middel</title>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Het middel klaagt dat de rechtbank het toepassingsbereik van art. 317 Fw heeft miskend en [verzoeker] ten onrechte niet-ontvankelijk heeft verklaard in zijn beroep. Het stond [verzoeker] vrij de rechter-commissaris op de voet van art. 317 Fw te verzoeken een nieuwe beschikking over de kosten van het budgetbeheer te nemen, tegen welke beslissing hoger beroep openstond, aldus het middel.</para>
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Het inkomen en de periodieke uitkeringen die de schuldenaar verkrijgt, vallen deels van rechtswege buiten de boedel (art. 295 lid 2 Fw). Het gaat daarbij om een bedrag ter hoogte van de beslagvrije voet. <?linebreak?>De rechter-commissaris kan – op verzoek van de schuldenaar, de bewindvoerder dan wel ambtshalve – dit vrij te laten bedrag bij schriftelijke beschikking verhogen met een in die beschikking vast te stellen nominaal bedrag (art. 295 lid 3 Fw). Dit betreft een discretionaire bevoegdheid van de rechter-commissaris.<footnote-ref linkend="_847ecce3-2c0d-4ebe-817c-cceadc211ea1" /></para>
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <parablock>
+        <para>Ingevolge art. 315 lid 2 Fw staat tegen een overeenkomstig art. 295 lid 3 Fw genomen beschikking van de rechter-commissaris geen hoger beroep open. Daarbij maakt het geen verschil of de rechter-commissaris de beschikking ambtshalve of op verzoek heeft genomen.</para>
+        <para>Het staat de schuldenaar vrij om de rechter-commissaris te verzoeken een nieuwe beschikking over de verhoging van het vrij te laten bedrag te nemen. Ook de beslissing op een dergelijk verzoek is een beschikking zoals bedoeld in art. 295 lid 3 Fw, waartegen ingevolge art. 315 lid 2 Fw geen hoger beroep openstaat. Het beroep dat [verzoeker] in dit verband heeft gedaan op de uitspraak van de Hoge Raad van 17 april 2020<footnote-ref linkend="_6219fffa-861c-4a31-88f1-944f573edd73" /> gaat niet op. Die uitspraak heeft geen betrekking op een beslissing van de rechter-commissaris over de verhoging van het vrij te laten bedrag zoals bedoeld in art. 295 lid 3 Fw.  </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Uit hetgeen hiervoor is overwogen volgt dat de rechtbank [verzoeker] terecht niet-ontvankelijk heeft verklaard in zijn beroep tegen de beschikking van de rechter-commissaris van               17 augustus 2022. Het middel kan dus niet tot cassatie leiden.  </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>Beslissing</title>
+    <para>De Hoge Raad verwerpt het beroep. </para>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze beschikking is gegeven door de vicepresident M.J. Kroeze als voorzitter en de raadsheren T.H. Tanja-van den Broek, F.J.P. Lock, A.E.B. ter Heide en K. Teuben, en in het openbaar uitgesproken door de raadsheer F.J.P. Lock op <emphasis role="underline">20 januari 2023</emphasis>.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <footnote id="_847ecce3-2c0d-4ebe-817c-cceadc211ea1" label="1">
+    <para> HR 18 november 2011, ECLI:NL:HR:2011:BU4937, rov. 3.5.3.</para>
+  </footnote>
+  <footnote id="_6219fffa-861c-4a31-88f1-944f573edd73" label="2">
+    <para> HR 17 april 2020, ECLI:NL:HR:2020:751, rov. 3.6.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

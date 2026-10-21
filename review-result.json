@@ -2,134 +2,134 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "art-330",
-    "art-331",
-    "art-332",
-    "art-333",
-    "art-333a",
-    "art-334",
-    "art-335",
-    "art-336",
-    "art-337",
-    "art-338",
-    "art-339",
-    "art-340",
-    "art-341",
-    "art-342",
-    "art-343",
-    "art-344",
-    "art-345",
-    "art-346",
-    "art-347",
-    "art-348"
+    "art-349",
+    "art-349aa",
+    "art-349a",
+    "art-350",
+    "art-351",
+    "art-351a",
+    "art-352",
+    "art-353",
+    "art-354",
+    "art-354a",
+    "art-355",
+    "art-356",
+    "art-357",
+    "art-358",
+    "art-358a",
+    "art-359",
+    "art-359a",
+    "art-360",
+    "art-361",
+    "art-362"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "unit_id": "art-330",
-      "assessment": "Onderdelen a–c en volgorde van onherroepelijkheid tegen bron gecontroleerd; 312 lid 2 nagelezen.",
+      "unit_id": "art-349",
+      "assessment": "Alle vijf leden, percentageverhouding, batige rangschikking, uitdelingsblokkade en verwijzingen gecontroleerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-331",
-      "assessment": "Vervallen plaats behouden; geen historische norm als actueel recht gepresenteerd.",
+      "unit_id": "art-349aa",
+      "assessment": "Vier leden en 110 lid 3 nagelezen; tweedagentermijn, afzonderlijke indiening, curator-terminologie en kosten correct onderscheiden.",
       "corrected": false
     },
     {
-      "unit_id": "art-332",
-      "assessment": "Alle zes leden gelezen. Driekwart-hoofdentelling onderscheiden van bedragendrempel; bevoegdheid, termijn en beperkte strekking van artikel 149 toegevoegd. BG7996 rov. 3.5.2 en historische context bevestigd.",
+      "unit_id": "art-349a",
+      "assessment": "Drie leden en HR 2024:1913 volledig gelezen; lid 2-gronden expliciet toegevoegd, drieënhalfjaar- en vijfjaarsgrens onderscheiden.",
       "corrected": true
     },
     {
-      "unit_id": "art-333",
-      "assessment": "Vervallen plaats en verwijzing naar actuele stemregel gecontroleerd.",
+      "unit_id": "art-350",
+      "assessment": "Alle gronden a–g, oproeping, onherroepelijkheid, ontbreken baten en overgang naar faillissement gecontroleerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-333a",
-      "assessment": "Schakel naar artikel 47 lid 1 en artikel 5 lid 3 gecontroleerd; EU-context niet als zelfstandige nationale bevoegdheidsgrond voorgesteld.",
+      "unit_id": "art-351",
+      "assessment": "Asymmetrisch beroepsrecht, termijnen, kennisgevingen en cassatie gecontroleerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-334",
-      "assessment": "Vervallen plaats en verwijzing naar planning 335 gecontroleerd.",
+      "unit_id": "art-351a",
+      "assessment": "Driemaandentermijn en verslag over voortraject tegen HR 2024:1913 rov. 3.6.4 gecontroleerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-335",
-      "assessment": "Volgorde verzoek 149/homologatie, acht–veertien dagen, 151 en voortzetting gecontroleerd.",
+      "unit_id": "art-352",
+      "assessment": "Planningsdeadline, veertien–eenentwintig dagen en publicatie gecontroleerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-336",
-      "assessment": "Vervallen plaats en ontbreken actuele bevoegdheid gecontroleerd.",
+      "unit_id": "art-353",
+      "assessment": "Facultatieve en verplichte oproeping en spreekrecht schuldeisers onderscheiden.",
       "corrected": false
     },
     {
-      "unit_id": "art-337",
-      "assessment": "Openbaarheid, verslag, vertegenwoordiging en verdedigingsrecht gelezen; onderscheid met stemrecht en rechtsmiddelpositie gecontroleerd.",
+      "unit_id": "art-354",
+      "assessment": "Tekortkoming, toerekening en buitenbeschouwinglating afzonderlijk gecontroleerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-338",
-      "assessment": "Alle leden en 153 leden 2–3 gelezen. AD5362 rov. 3.2.2 bevestigd, historische driejaarstermijn correct begrensd.",
+      "unit_id": "art-354a",
+      "assessment": "Jaar sinds uitspraak, ontbreken verificatiedag, verklaring, dubbele inhoudelijke toets en aanhouding gecontroleerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-339",
-      "assessment": "154,155 lid 1,156 en beperkte verwijzing in lid 2 nagelezen; verschijnen als aanvullende toegangseis en kennisgeving gecontroleerd.",
+      "unit_id": "art-355",
+      "assessment": "Kring beroepsgerechtigden en toepassing 351 leden 2–5 gecontroleerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-340",
-      "assessment": "Alle vijf leden en 159,160,162–166 gelezen. Rekening, afgifte en zekerheid/reservering nader uitgelegd; geen ongeclausuleerde volle betaling van preferente schulden aangenomen.",
+      "unit_id": "art-356",
+      "assessment": "Vier leden en 194 nagelezen; voorbeeld verduidelijkt tot een vordering van de boedel in plaats van dubbelzinnige boedelvordering.",
       "corrected": true
     },
     {
-      "unit_id": "art-341",
-      "assessment": "Vervallen plaats; geen extra eindevoorwaarde aan 340 toegevoegd.",
+      "unit_id": "art-357",
+      "assessment": "Vervallen plaats behouden, geen historische norm als geldend gepresenteerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-342",
-      "assessment": "Vervallen plaats; huidige binding niet uit oude norm afgeleid.",
+      "unit_id": "art-358",
+      "assessment": "Alle zes leden, specifieke boedelschulden, strafrechtelijke/civiele schade-uitzondering, woninghypotheek en overlijden gecontroleerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-343",
-      "assessment": "Vervallen plaats; geen oude executieregel gereconstrueerd.",
+      "unit_id": "art-358a",
+      "assessment": "Alle vijf leden en HR 2023:455 volledig gelezen; verplichte aanhouding bij lopend 350-verzoek en mogelijkheid hoger beroep toegevoegd.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-359",
+      "assessment": "Alle onderdelen a–e, 297 lid 3 en referentiedatum 43/45 nagelezen.",
       "corrected": false
     },
     {
-      "unit_id": "art-344",
-      "assessment": "Vervallen plaats; ontbinding alleen via actuele 340/165–166 toegelicht.",
+      "unit_id": "art-359a",
+      "assessment": "203–205 volledig gelezen; buitenlandse verhaals-, overdrachts- en verrekeningsregels correct begrensd.",
       "corrected": false
     },
     {
-      "unit_id": "art-345",
-      "assessment": "Vervallen plaats; historische verwijzingen uitdrukkelijk tijdgebonden.",
+      "unit_id": "art-360",
+      "assessment": "Gesloten stelsel en HR 2023:53 volledig gelezen; partijstelling onderscheiden van HR-oordeel.",
       "corrected": false
     },
     {
-      "unit_id": "art-346",
-      "assessment": "Vervallen plaats; geen denkbeeldige vereffeningsbevoegdheid aangenomen.",
+      "unit_id": "art-361",
+      "assessment": "Limitatieve verzoeken, beide uitzonderingen, EU-verzoek en cassatiebijstand gecontroleerd.",
       "corrected": false
     },
     {
-      "unit_id": "art-347",
-      "assessment": "Alle drie leden gelezen; afwijkende verkoopvorm en beperkte verwijzing naar 176 lid 2 bevestigd.",
-      "corrected": false
-    },
-    {
-      "unit_id": "art-348",
-      "assessment": "Facultatieve vergadering, late verificatie, 328b,111–114 en schriftelijke oproep tien dagen vooraf gecontroleerd.",
+      "unit_id": "art-362",
+      "assessment": "Alle drie leden, beperkte termijnenuitzondering, WHOA-procesuitzondering en dwingende staatssteunweigering gecontroleerd.",
       "corrected": false
     }
   ],
   "limitations": [
-    "Bounded review only; no whole-book completion claim.",
-    "Selective case law: both cited full judgments read, no exhaustive subsequent case-law research.",
-    "EU Regulation and implementing/transitional instruments not comprehensively reviewed.",
-    "Independent process second pass; no external professional approval."
+    "Only assigned twenty units reviewed; no whole-book completion claim.",
+    "Three cited full judgments read; selective case law, no exhaustive subsequent-case survey.",
+    "External transitional statutes and international recognition not exhaustively reviewed.",
+    "No external professional approval."
   ]
 }

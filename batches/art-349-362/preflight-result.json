@@ -3,7 +3,7 @@
   "decisive_date": "2026-10-19",
   "batch_authoring_date": "2026-10-21",
   "official_url": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
-  "verified_at": "2026-10-21T00:36:16.824400+00:00",
+  "verified_at": "2026-10-21T00:42:08.044384+00:00",
   "version_evidence": {
     "current_redirect": "https://wetten.overheid.nl/BWBR0001860/2026-09-01",
     "current_validity_statement": "Geldend van 01-09-2026 t/m heden",
@@ -11,7 +11,8 @@
     "latest_effective_change": "2026-09-01",
     "next_dated_change": "2027-11-15",
     "selected_xml_hash_matches_previous_verification": true,
-    "changes_since_local_intake": "No newer effective version found; original intake preserved. Existing canonical and change map retained."
+    "changes_since_local_intake": "No newer effective version found; original intake preserved. Existing canonical and change map retained.",
+    "fetch": "sources/review-art-349-362-fetch.json"
   },
   "historical_versions_checked": [
     {
@@ -30,9 +31,10 @@
   "annexes_checked": [
     {
       "status": "verified_absence",
-      "evidence_path": "sources/author-art-349-362-selected.xml",
+      "evidence_path": "sources/review-art-349-362-selected.xml",
       "method": "Full official XML element census; no bijlage elements. Opening formula and closing text are present and preserved by existing parser."
     }
   ],
-  "unresolved_blockers": []
+  "unresolved_blockers": [],
+  "review_date": "2026-10-21"
 }

@@ -1,9 +1,8 @@
 {
-  "scope": "Bounded author batch art-349 through art-362, twenty assigned identifiers",
-  "stage": "drafted_technical_validation",
+  "stage": "reviewed_batch_technical_validation",
   "total_units": 20,
   "completed_units": 20,
-  "completed_ids": [
+  "reviewed_ids": [
     "art-349",
     "art-349aa",
     "art-349a",
@@ -25,35 +24,16 @@
     "art-361",
     "art-362"
   ],
-  "source_checks": {
-    "fresh_current_official_http": 200,
-    "fresh_selected_xml_http": 200,
-    "fresh_wti_http": 200,
-    "effective_version": "2026-09-01",
-    "exact_official_xml_comparisons": 20,
-    "statutory_text_agreement": 1.0,
-    "independently_derived_expected_ids": true,
-    "evidence": "sources/verification.json"
-  },
-  "case_law_sources": [
-    "ECLI:NL:HR:2024:1913",
-    "ECLI:NL:HR:2023:455",
-    "ECLI:NL:HR:2023:53"
-  ],
-  "remaining_limitations": [
-    "Independent second pass pending.",
-    "Selective case-law research.",
-    "Referenced transitional statutes not fully analysed.",
-    "Full book still lacks 19 comments outside this assignment; full build stops before modifying output."
-  ],
   "whole_book_complete": false,
-  "validation_result": {
-    "repo": "Komentar-NL-BWBR0001860",
-    "units": 20,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 34209,
-    "errors": [],
-    "warnings": [],
-    "ok": true
+  "remaining_limitations": [
+    "Only assigned twenty units reviewed; no whole-book completion claim.",
+    "Three cited full judgments read; selective case law, no exhaustive subsequent-case survey.",
+    "External transitional statutes and international recognition not exhaustively reviewed.",
+    "No external professional approval."
+  ],
+  "validation": {
+    "bounded_strict": "pending execution after commit",
+    "statutory_text_agreement": 1.0,
+    "whole_build": "blocked by 19 missing comments outside scope"
   }
 }

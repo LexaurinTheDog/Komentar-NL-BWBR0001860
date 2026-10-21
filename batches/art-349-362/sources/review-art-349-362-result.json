@@ -1,0 +1,135 @@
+{
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "art-349",
+    "art-349aa",
+    "art-349a",
+    "art-350",
+    "art-351",
+    "art-351a",
+    "art-352",
+    "art-353",
+    "art-354",
+    "art-354a",
+    "art-355",
+    "art-356",
+    "art-357",
+    "art-358",
+    "art-358a",
+    "art-359",
+    "art-359a",
+    "art-360",
+    "art-361",
+    "art-362"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "unit_id": "art-349",
+      "assessment": "Alle vijf leden, percentageverhouding, batige rangschikking, uitdelingsblokkade en verwijzingen gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-349aa",
+      "assessment": "Vier leden en 110 lid 3 nagelezen; tweedagentermijn, afzonderlijke indiening, curator-terminologie en kosten correct onderscheiden.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-349a",
+      "assessment": "Drie leden en HR 2024:1913 volledig gelezen; lid 2-gronden expliciet toegevoegd, drieënhalfjaar- en vijfjaarsgrens onderscheiden.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-350",
+      "assessment": "Alle gronden a–g, oproeping, onherroepelijkheid, ontbreken baten en overgang naar faillissement gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-351",
+      "assessment": "Asymmetrisch beroepsrecht, termijnen, kennisgevingen en cassatie gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-351a",
+      "assessment": "Driemaandentermijn en verslag over voortraject tegen HR 2024:1913 rov. 3.6.4 gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-352",
+      "assessment": "Planningsdeadline, veertien–eenentwintig dagen en publicatie gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-353",
+      "assessment": "Facultatieve en verplichte oproeping en spreekrecht schuldeisers onderscheiden.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-354",
+      "assessment": "Tekortkoming, toerekening en buitenbeschouwinglating afzonderlijk gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-354a",
+      "assessment": "Jaar sinds uitspraak, ontbreken verificatiedag, verklaring, dubbele inhoudelijke toets en aanhouding gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-355",
+      "assessment": "Kring beroepsgerechtigden en toepassing 351 leden 2–5 gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-356",
+      "assessment": "Vier leden en 194 nagelezen; voorbeeld verduidelijkt tot een vordering van de boedel in plaats van dubbelzinnige boedelvordering.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-357",
+      "assessment": "Vervallen plaats behouden, geen historische norm als geldend gepresenteerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-358",
+      "assessment": "Alle zes leden, specifieke boedelschulden, strafrechtelijke/civiele schade-uitzondering, woninghypotheek en overlijden gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-358a",
+      "assessment": "Alle vijf leden en HR 2023:455 volledig gelezen; verplichte aanhouding bij lopend 350-verzoek en mogelijkheid hoger beroep toegevoegd.",
+      "corrected": true
+    },
+    {
+      "unit_id": "art-359",
+      "assessment": "Alle onderdelen a–e, 297 lid 3 en referentiedatum 43/45 nagelezen.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-359a",
+      "assessment": "203–205 volledig gelezen; buitenlandse verhaals-, overdrachts- en verrekeningsregels correct begrensd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-360",
+      "assessment": "Gesloten stelsel en HR 2023:53 volledig gelezen; partijstelling onderscheiden van HR-oordeel.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-361",
+      "assessment": "Limitatieve verzoeken, beide uitzonderingen, EU-verzoek en cassatiebijstand gecontroleerd.",
+      "corrected": false
+    },
+    {
+      "unit_id": "art-362",
+      "assessment": "Alle drie leden, beperkte termijnenuitzondering, WHOA-procesuitzondering en dwingende staatssteunweigering gecontroleerd.",
+      "corrected": false
+    }
+  ],
+  "limitations": [
+    "Only assigned twenty units reviewed; no whole-book completion claim.",
+    "Three cited full judgments read; selective case law, no exhaustive subsequent-case survey.",
+    "External transitional statutes and international recognition not exhaustively reviewed.",
+    "No external professional approval."
+  ]
+}

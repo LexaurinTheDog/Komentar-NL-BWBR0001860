@@ -413,3 +413,8 @@ Twintig plaatsen gecontroleerd; drie toelichtingen verduidelijkt. [Verslag en ex
 ## Afgebakende tweede lezing 330–348
 
 Twintig plaatsen gecontroleerd; toelichtingen bij 332 en 340 verduidelijkt. [Verslag en exacte lijst](batches/art-330-348/REVIEW.md). Geen voltooiingsclaim voor het hele boek.
+
+
+## Afgebakende tweede lezing 349–362
+
+Twintig plaatsen gecontroleerd; toelichtingen bij 349a, 356 en 358a verduidelijkt. [Verslag](batches/art-349-362/REVIEW.md). Geen voltooiingsclaim voor het gehele boek.
