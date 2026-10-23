@@ -1,6 +1,6 @@
 # Commentaar op de Faillissementswet
 
-Redactioneel concept van de volledige Faillissementswet (BWBR0001860): **639 officiële artikelplaatsen in 49 leeshoofdstukken**, inclusief 57 vervallen plaatsen. Alle plaatsen hebben een oorspronkelijke Nederlandstalige toelichting. Dit lokale checkpoint assembleert de bestaande auteurs- en reviewbatches; het is geen externe professionele goedkeuring of publicatie.
+Redactioneel concept van de volledige Faillissementswet (BWBR0001860): **639 officiële artikelplaatsen in 49 leeshoofdstukken**, inclusief 57 vervallen plaatsen. Alle plaatsen hebben een oorspronkelijke Nederlandstalige toelichting. Dit lokale checkpoint assembleert de bestaande auteurs- en reviewbatches; het is geen externe professionele goedkeuring.
 
 De gekozen officiële toestand is **2026-09-01_0**, geldend vanaf **1 september 2026**. De oorspronkelijke beslissende auteursdatum is **19 oktober 2026**; latere batchcontroles zijn afzonderlijk gedateerd. Bij de finalisatie op 21 oktober 2026 verwees de actuele officiële route opnieuw naar deze versie en vermeldde de informatiepagina gelding tot heden. XML en wijzigingsregister zijn ongewijzigd ten opzichte van de eerdere verificatie. De toekomstige wijziging per 15 november 2027 en ongedateerde wijzigingen zijn uitgesloten. Zie [officiële tekst](https://wetten.overheid.nl/BWBR0001860/2026-09-01), [HTTP-captures en hashes](sources/finalize-fetch.json), [verificatiemanifest](sources/verification.json) en [preflight](preflight-result.json).
 
@@ -12,4 +12,4 @@ De [INDEX](INDEX.md) ontsluit alle hoofdstukken. De [inleiding](00-inleiding.md)
 
 Oorspronkelijk commentaar © 2026 Vojtěch Říha, beschikbaar onder [Apache-2.0](LICENSE). Officiële wettekst en uitspraken blijven herkenbaar aan hun eigen herkomst; de commentaarlicentie beoogt geen herlicentiëring van derdenmateriaal. De intakeaanduidingen CC0 voor BWB en Public Domain Mark voor uitspraken zijn herkomstmetadata, geen zelfstandige juridische licentiebeoordeling.
 
-Concepttekst, aangeboden zoals deze is, zonder garantie en zonder individueel juridisch advies. Geen externe professionele goedkeuring. Projectprofiel: [LexaurinTheDog](https://github.com/LexaurinTheDog). Geen publicatie, push of externe inzending verricht.
+Concepttekst, aangeboden zoals deze is, zonder garantie en zonder individueel juridisch advies. Geen externe professionele goedkeuring. Projectprofiel: [LexaurinTheDog](https://github.com/LexaurinTheDog).
